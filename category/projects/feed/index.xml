@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Projects Archives | Alex Taylor</title>
+	<title>Projects - Alex Taylor</title>
 	<atom:link href="http://ast.io/category/projects/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Video: Ecological Reparation &#038; Blockchain Food Imaginaries</title>
 		<link>http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/</link>
 					<comments>http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/#respond</comments>
@@ -34,10 +31,7 @@
 		<category><![CDATA[video]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5894</guid>
 
-					<description><![CDATA[<p>Under what technoscientific conditions might the scarcity of food be understood as contingent on heterogeneous actors?&#160;And how might the possibilities&#160;of food abundance be approached as a reparative project of valuing their manifold relations? Blockchain promises to be an infrastructure that presents both productive imaginaries and also challenges to such restorative and sustainable work (Seidler et [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/">Read More...<span class="screen-reader-text"> from Video: Ecological Reparation &#38; Blockchain Food Imaginaries</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/">Video: Ecological Reparation &amp; Blockchain Food Imaginaries</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Under what technoscientific conditions might the scarcity of food be understood as contingent on heterogeneous actors?&#160;And how might the possibilities&#160;of food abundance be approached as a reparative project of valuing their manifold relations? Blockchain promises to be an infrastructure that presents both productive imaginaries and also challenges to such restorative and sustainable work (Seidler et [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/">Read More...<span class="screen-reader-text"> from Video: Ecological Reparation &#38; Blockchain Food Imaginaries</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-11 col-md-12 mt-3">
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/1VPaU1SWjq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,14 +49,13 @@
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/">Video: Ecological Reparation &amp; Blockchain Food Imaginaries</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5894</post-id>	</item>
+			</item>
 		<item>
 		<title>Securing a bicycle saddle to a bike</title>
 		<link>http://ast.io/secure-bike-saddle/</link>
@@ -75,15 +68,12 @@
 		<category><![CDATA[security]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=864</guid>
 
-					<description><![CDATA[<p>Slightly off topic, but I thought it&#160;would be worth sharing my attempt at what might seam the trifling problem of securing a&#160;bike seat or saddle to a&#160;bike. As many cyclists will know, seats or saddles can be a real target for thieves — I’ve had at least two stolen. The trouble is good saddles can [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/secure-bike-saddle/">Read More...<span class="screen-reader-text"> from Securing a bicycle saddle to a bike</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/secure-bike-saddle/">Securing a bicycle saddle to a bike</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Slightly off topic, but I thought it&#160;would be worth sharing my attempt at what might seam the trifling problem of securing a&#160;bike seat or saddle to a&#160;bike. As many cyclists will know, seats or saddles can be a real target for thieves — I’ve had at least two stolen. The trouble is good saddles can [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/secure-bike-saddle/">Read More...<span class="screen-reader-text"> from Securing a bicycle saddle to a bike</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Slightly off topic, but I thought it&nbsp;would be worth sharing my attempt at what might seam the trifling problem of securing a&nbsp;bike seat or saddle to a&nbsp;bike.<span id="more-864"></span></p>
 <div class="row" style="float:left; padding:.1rem 1rem 1rem 0;text-align:left;">
 <div class="col-md-auto">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/bike-seat.jpg?resize=300%2C300&#038;ssl=1" alt="Brooks saddle" style="width:96%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/bike-seat-300x300.jpg" alt="Brooks saddle" style="width:96%">
 		</div>
 </div>
 </div>
@@ -95,17 +85,17 @@ A solution I’ve come up with&nbsp;is to use a combination of a generic securit
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3705.jpg?resize=300%2C300&#038;ssl=1" alt="bicycle-security bolt + screw" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3705-300x300.jpg" alt="bicycle-security bolt + screw" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3686.jpg?resize=300%2C300&#038;ssl=1" alt="bicycle-security bolt gauge" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3686-300x300.jpg" alt="bicycle-security bolt gauge" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3697.jpg?resize=300%2C300&#038;ssl=1" alt="bicycle-security bolt length" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3697-300x300.jpg" alt="bicycle-security bolt length" style="width:100%">
 		</div>
 </div>
 </div>
@@ -114,33 +104,36 @@ I went for the M8 (8mm thread width) by&nbsp;50mm long “<a href="http://www.se
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3709.jpg?resize=300%2C300&#038;ssl=1" alt="bolts" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3709-300x300.jpg" alt="bolts" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3682.jpg?resize=300%2C300&#038;ssl=1" alt="bicycle-security bolt and seat" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3682-300x300.jpg" alt="bicycle-security bolt and seat" style="width:100%">
 		</div>
 </div>
 </div>
 <p><br><br>
-What you get are 10 bolts (minimum order) and a small screw driver insert with a special fitting. The latter as the website explains “<a id="tippy_tip0_243_anchor"></a>”<br>
+What you get are 10 bolts (minimum order) and a small screw driver insert with a special fitting. The latter as the website explains “[tippy title=“fits into most conventional magnetic drivers.” showheader=“false”]<img loading="lazy" class="alignleft size-medium wp-image-880" src="http://ast.io/wp-content/uploads/2015/12/IMG_3708-300x123.jpg" alt="IMG_3708" width="300" height="123"></p>
+<p style="font-size: 80%;">Screw driver with replaceable fitting.<br>
+<a href="http://www.amazon.co.uk/Stanley-066358-Multi-Bit-Stubby-Screwdriver/dp/B003KQ5EFM/ref=pd_sim_60_4?ie=UTF8&amp;dpID=41G5TmJTtEL&amp;dpSrc=sims&amp;preST=_AC_UL160_SR160%2C160_&amp;refRID=0CWWQ5ZHSWKAHB09Z4Z2" target="_blank" rel="noopener noreferrer">This kind of thing.</a></p>
+<p>[/tippy]”<br>
 All I had to do is replace the original bolt that secures your saddle to the seat post, with the new security bolt.</p>
 <h3>Locking the seat and seat post to the bike frame</h3>
 <div class="row" style="margin-top:.1rem;">
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3728.jpg?resize=300%2C300&#038;ssl=1" alt="IMG_3728" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3728-300x300.jpg" alt="IMG_3728" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3747.jpg?resize=300%2C300&#038;ssl=1" alt="IMG_3747" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3747-300x300.jpg" alt="IMG_3747" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3736.jpg?resize=300%2C300&#038;ssl=1" alt="IMG_3736" style="width:100%" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3736-300x300.jpg" alt="IMG_3736" style="width:100%">
 		</div>
 </div>
 </div>
@@ -148,7 +141,7 @@ All I had to do is replace the original bolt that secures your saddle to the sea
 <div class="row" style="float:right; padding:.1rem 0 1rem 1rem;text-align:right;">
 <div class="col-md-auto">
 <div class="thumbnail">
-			<img src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3732.jpg?resize=300%2C300&#038;ssl=1" alt="original seat post nut" style="width:96%;" data-recalc-dims="1">
+			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3732-300x300.jpg" alt="original seat post nut" style="width:96%;">
 		</div>
 </div>
 </div>
@@ -160,18 +153,13 @@ The fitting is pretty straightforward. Use a standard <a href="https://en.wikipe
 Of course, nothing is failsafe, and this idea is vulnerable to thieves having the right fittings — I don’t think that’s likely, though, not until they read this post anyway.<br>
 Naturally, this idea won’t work with all seat and seat post fittings. It could work with different arrangements though, just make sure to get the right gauged nuts and bolts and that you’ve got enough room to tighten them with a screw diver or spanner.<br>
 If you’ve read this far and you think you need a M8 bolt or nut (and live close to East London) drop me a line. I’ll probably have spares of both.</p>
-<div class="tippy" data-title="fits into most conventional magnetic drivers." data-showheader="false" data-anchor="#tippy_tip0_243_anchor"><img loading="lazy" class="alignleft size-medium wp-image-880" src="https://i0.wp.com/ast.io/wp-content/uploads/2015/12/IMG_3708.jpg?resize=300%2C123&#038;ssl=1" alt="IMG_3708" width="300" height="123"  data-recalc-dims="1">
-<p style="font-size: 80%;">Screw driver with replaceable fitting.<br>
-<a href="http://www.amazon.co.uk/Stanley-066358-Multi-Bit-Stubby-Screwdriver/dp/B003KQ5EFM/ref=pd_sim_60_4?ie=UTF8&amp;dpID=41G5TmJTtEL&amp;dpSrc=sims&amp;preST=_AC_UL160_SR160%2C160_&amp;refRID=0CWWQ5ZHSWKAHB09Z4Z2" target="_blank" rel="noopener noreferrer">This kind of thing.</a></p>
-<p></p></div>
-<p>The post <a rel="nofollow" href="http://ast.io/secure-bike-saddle/">Securing a bicycle saddle to a bike</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/secure-bike-saddle/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">864</post-id>	</item>
+			</item>
 		<item>
 		<title>Published Data and life on the street</title>
 		<link>http://ast.io/published-data-life-street/</link>
@@ -184,22 +172,18 @@ If you’ve read this far and you think you need a M8 bolt or nut (and live clos
 		<category><![CDATA[Writing]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=524</guid>
 
-					<description><![CDATA[<p>We’ve published a short commentary on the Tenison Road project in the new Big Data &#38; Society journal.&#160;Download it here (open access). Taylor, A. S., Lindley, S., Regan, T., &#38; Sweeney, D. (2014). Data and life on the street. Big Data &#38; Society, 1(2). Abstract: What does the abundance of data and proliferation of data-making [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/published-data-life-street/">Read More...<span class="screen-reader-text"> from Published Data and life on the street</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/published-data-life-street/">Published Data and life on the street</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[We’ve published a short commentary on the Tenison Road project in the new Big Data &#38; Society journal.&#160;Download it here (open access). Taylor, A. S., Lindley, S., Regan, T., &#38; Sweeney, D. (2014). Data and life on the street. Big Data &#38; Society, 1(2). Abstract: What does the abundance of data and proliferation of data-making [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/published-data-life-street/">Read More...<span class="screen-reader-text"> from Published Data and life on the street</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>We’ve published a short commentary on the <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> project in the new <a href="http://bigdatasoc.blogspot.co.uk/" target="_blank" rel="noopener noreferrer">Big Data &amp; Society</a> journal.&nbsp;Download it <a href="http://bds.sagepub.com/content/1/2/2053951714539278.abstract" target="_blank" rel="noopener noreferrer">here</a> (open access).<br>
-<a href="http://bds.sagepub.com/content/1/2/2053951714539278.abstract"><img loading="lazy" class="alignnone  wp-image-525" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/07/data_and_life-300x300.png?resize=182%2C182" alt="data_and_life" width="182" height="182"  data-recalc-dims="1"></a><br>
+<a href="http://bds.sagepub.com/content/1/2/2053951714539278.abstract"><img loading="lazy" class="alignnone  wp-image-525" src="http://ast.io/wp-content/uploads/2014/07/data_and_life-300x300.png" alt="data_and_life" width="182" height="182"></a><br>
 Taylor, A. S., Lindley, S., Regan, T., &amp; Sweeney, D. (2014). <a href="http://bds.sagepub.com/content/1/2/2053951714539278.abstract" target="_blank" rel="noopener noreferrer">Data and life on the street</a>. <i>Big Data &amp; Society</i>, <i>1</i>(2).</p>
 <p id="p-2" style="color: #403838;"><em>Abstract</em>: What does the abundance of data and proliferation of data-making methods mean for the ordinary person, the person on the street? And, what could they come to mean? In this paper, we present an overview of a year-long project to examine just such questions and complicate, in some ways, what it is to ask them. The project is a collective exercise in which we – a mixture of social scientists, designers and makers – and those living and working on one street in Cambridge (UK), Tenison Road, are working to think through how data might be materialised and come to matter. The project aims to better understand the specificities and contingencies that arise when data is produced and used in place. Mid-way through the project, we use this commentary to give some background to the work and detail one or two of the troubles we have encountered in putting locally relevant data to work. We also touch on a methodological standpoint we are working our way into and through, one that we hope complicates the separations between subject and object in data-making and opens up possibilities for a generative refiguring of the manifold relations.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/published-data-life-street/">Published Data and life on the street</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/published-data-life-street/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">524</post-id>	</item>
+			</item>
 		<item>
 		<title>Talk at “Austerity Futures?”</title>
 		<link>http://ast.io/austerity-futures/</link>
@@ -212,22 +196,18 @@ Taylor, A. S., Lindley, S., Regan, T., &amp; Sweeney, D. (2014). <a href="http:/
 		<category><![CDATA[data]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=327</guid>
 
-					<description><![CDATA[<p>Abstract for upcoming talk at Austerity Futures? seminar 4. [Big] data futures, from the street. Stories about big data are everywhere. We’re being told how significant the impact of big data will be on our lives by all kinds of people in the know. And yet I’ve been grappling with what (big) data might really [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/austerity-futures/">Read More...<span class="screen-reader-text"> from Talk at “Austerity Futures?”</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/austerity-futures/">Talk at “Austerity Futures?”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Abstract for upcoming talk at Austerity Futures? seminar 4. [Big] data futures, from the street. Stories about big data are everywhere. We’re being told how significant the impact of big data will be on our lives by all kinds of people in the know. And yet I’ve been grappling with what (big) data might really [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/austerity-futures/">Read More...<span class="screen-reader-text"> from Talk at “Austerity Futures?”</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Abstract for upcoming talk at <a href="http://www.austerityfutures.org.uk/" target="_blank" rel="noopener noreferrer">Austerity Futures?</a> seminar 4.<br>
-<a href="http://tenisonroad.com/"><img loading="lazy" class="alignnone size-large wp-image-328" alt="houses long B&amp;W" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/10/houses-long-BW.jpg?resize=640%2C111" width="640" height="111"  data-recalc-dims="1"></a> [Big] data futures, from the street.<br>
+<a href="http://tenisonroad.com/"><img loading="lazy" class="alignnone size-large wp-image-328" alt="houses long B&amp;W" src="http://ast.io/wp-content/uploads/2013/10/houses-long-BW.jpg" width="1024" height="177"></a> [Big] data futures, from the street.<br>
 Stories about big data are everywhere. We’re being told how significant the impact of big data will be on our lives by all kinds of people in the know. And yet I’ve been grappling with what (big) data might really mean to people who aren’t fully signed up members of the digerati, those shapers, makers and moders of technological futures. I’ve pondered, in short, on two simple questions: how does data matter to ‘people on the street’, and how might they want it to matter. In this talk, I’ll reflect on a&nbsp;<a href="http://tenisonroad.com/">project</a>&nbsp;we’ve been building up at&nbsp;<a href="http://research.microsoft.com/en-us/labs/cambridge/">Microsoft Research</a>&nbsp;to begin working through these questions. I want to discuss our efforts to ground a technological imaginary in ordinary life or, to put it another way, to enable a productive re-imagining of ‘big data futures’—to coin a phrase—from ‘the street’. I’ll describe how we’ve taken this challenge quite literally. Just over three weeks ago we began working with one street in Cambridge,&nbsp;<a href="http://goo.gl/maps/O1ymV">Tenison Road</a>. For at least a year, we plan to think through what data means for the Tenison Road community and in some cases to enable ways for the community to intervene in the future imaginaries. Although this won’t be a talk or for that matter a project about austerity, I certainly think it is one in which austerity and its repercussions will come to matter. My aim, then, will be to reflect on how this is a project concerned with futures, futures that are heavily concentrated in the minds of the technological elite, but also some that are more pedestrian that might just offer alternative possibilities for what (big) data could mean and what we might do with it.<br>
 web:&nbsp;<a href="http://tenisonroad.com/">tenisonroad.com</a>&nbsp;| email:&nbsp;<a href="mailto:research@tenisonroad.com">research@tenisonroad.com</a>&nbsp;| twitter:&nbsp;<a href="twitter:@tenisonroad">@tenisonroad</a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/austerity-futures/">Talk at “Austerity Futures?”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/austerity-futures/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">327</post-id>	</item>
+			</item>
 		<item>
 		<title>Short note on Solove’s ‘Nothing to Hide’</title>
 		<link>http://ast.io/something-to-say/</link>
@@ -240,11 +220,8 @@ web:&nbsp;<a href="http://tenisonroad.com/">tenisonroad.com</a>&nbsp;| email:&nb
 		<category><![CDATA[data]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=285</guid>
 
-					<description><![CDATA[<p>Some early thoughts on data and privacy, thinking with Solove’s Nothing to Hide: Early on in his 2011 book, Nothing to Hide, Daniel Solove makes a provocative claim. He writes: “Legal and policy solutions focus too much on the problems under the Orwellian metaphor—those of surveillance—and aren’t adequately addressing the Kafkaesque problems—those of information processing” [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/something-to-say/">Read More...<span class="screen-reader-text"> from Short note on Solove’s ‘Nothing to Hide’</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/something-to-say/">Short note on Solove’s ‘Nothing to Hide’</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://i0.wp.com/ast.io/wp-content/uploads/2013/10/somethingtosay.gif"><img loading="lazy" class="alignleft size-full wp-image-290" alt="somethingtosay" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/10/somethingtosay.gif?resize=283%2C283" width="283" height="283"  data-recalc-dims="1"></a><br>
+					<description><![CDATA[Some early thoughts on data and privacy, thinking with Solove’s Nothing to Hide: Early on in his 2011 book, Nothing to Hide, Daniel Solove makes a provocative claim. He writes: “Legal and policy solutions focus too much on the problems under the Orwellian metaphor—those of surveillance—and aren’t adequately addressing the Kafkaesque problems—those of information processing” [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/something-to-say/">Read More...<span class="screen-reader-text"> from Short note on Solove’s ‘Nothing to Hide’</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://ast.io/wp-content/uploads/2013/10/somethingtosay.gif"><img loading="lazy" class="alignleft size-full wp-image-290" alt="somethingtosay" src="http://ast.io/wp-content/uploads/2013/10/somethingtosay.gif" width="283" height="283"></a><br>
 Some early thoughts on data and privacy, thinking with <a href="http://en.wikipedia.org/wiki/Daniel_J._Solove" target="_blank" rel="noopener noreferrer">Solove’s</a> <a href="http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300172331" target="_blank" rel="noopener noreferrer">Nothing to Hide</a>:<br>
 Early on in his 2011 book, <a href="http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300172331" target="_blank" rel="noopener noreferrer">Nothing to Hide</a>, <a href="http://en.wikipedia.org/wiki/Daniel_J._Solove" target="_blank" rel="noopener noreferrer">Daniel Solove</a> makes a provocative claim. He writes:<br>
 “Legal and policy solutions focus too much on the problems under the Orwellian metaphor—those of surveillance—and aren’t adequately addressing the Kafkaesque problems—those of information processing” p.26<br>
@@ -255,14 +232,13 @@ I don’t know what Solove’s sources are for suggesting “most people” don�
 Yet, without wanting to discount Solove’s argument, I want to propose a different way of thinking about this issue of information processing. Seen from the ground up, we might also start to ask what people themselves want to say through their data and using analytics. When Solove writes about “most people” I think we need to begin thinking about what this actual means and if there are ways of making claims like this actionable. So, a counter to the “<a href="http://en.wikipedia.org/wiki/Nothing_to_hide_argument" target="_blank" rel="noopener noreferrer">nothing to hide argument</a>” could be that most people—given the knowledge and tools—have “something to say”. That is they may want to have some say over how their information is distributed, aggregated, analysed and interpreted and, ultimately, how it is productively put to work. This certainly won’t solve the multiple problems surrounding privacy, but it may at least redistribute the power and, in the process, give people some new ways of expressing themselves.<br>
 Oh, and as it happens, this question of how to enable people to have some sort of say and control over what gets done with their information is one of the motivations for the <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">new project</a> we’re ramping up in my <a href="http://research.microsoft.com/en-us/groups/cml/" target="_blank" rel="noopener noreferrer">group</a> at Microsoft Research.<br>
 <span style="font-size: 12px; color: grey;">* A thank you to <a href="http://jessalingel.tumblr.com/">Jessa Lingel</a> for pointing me to the first quote above from Solove.</span></p>
-<p>The post <a rel="nofollow" href="http://ast.io/something-to-say/">Short note on Solove’s ‘Nothing to Hide’</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/something-to-say/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">285</post-id>	</item>
+			</item>
 		<item>
 		<title>Announcing Tenison Road launch</title>
 		<link>http://ast.io/tenison-road/</link>
@@ -280,19 +256,15 @@ Oh, and as it happens, this question of how to enable people to have some sort o
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=270</guid>
 
-					<description><![CDATA[<p>Finally posted some flyers to announce the launch of the big data project we’ll run for a year. We hope to work with the residents and proprietors on Tenison Road in Cambridge to better understand how big data matters and what people on the street want it to be. This is a project that is [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/tenison-road/">Read More...<span class="screen-reader-text"> from Announcing Tenison Road launch</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/tenison-road/">Announcing Tenison Road launch</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="wp-image-275 alignnone" alt src="https://i0.wp.com/ast.io/wp-content/uploads/2013/09/ten_rd_proj_letter.jpg?resize=585%2C585" width="585" height="585"  data-recalc-dims="1"></a><br>
+					<description><![CDATA[Finally posted some flyers to announce the launch of the big data project we’ll run for a year. We hope to work with the residents and proprietors on Tenison Road in Cambridge to better understand how big data matters and what people on the street want it to be. This is a project that is [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/tenison-road/">Read More...<span class="screen-reader-text"> from Announcing Tenison Road launch</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="wp-image-275 alignnone" alt src="http://ast.io/wp-content/uploads/2013/09/ten_rd_proj_letter.jpg" width="585" height="585"></a><br>
 Finally posted some flyers to announce the launch of the <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">big data project</a> we’ll run for a year. We hope to work with the residents and proprietors on <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> in Cambridge to better understand how big data matters and what people on the street want it to be. This is a project that is aiming to get at the interminglings of data and locality, and to intervene in the entanglements in productive ways. That’s the hope! … Fingers crossed.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/tenison-road/">Announcing Tenison Road launch</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/tenison-road/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">270</post-id>	</item>
+			</item>
 	</channel>
 </rss>

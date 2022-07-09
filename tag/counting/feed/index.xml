@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>counting Archives | Alex Taylor</title>
+	<title>counting - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/counting/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>‘Counting by other means’ 4S/EASST conference preview</title>
 		<link>http://ast.io/counting-means-4s-easst/</link>
 					<comments>http://ast.io/counting-means-4s-easst/#respond</comments>
@@ -35,10 +32,7 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=1440</guid>
 
-					<description><![CDATA[<p>A preview of our “Counting by other means” 4S/EASST conference track has been posted on the Society of Social Studies of Science Backchannels blog. I’m running the track with Sarah Kember and we’re&#160;excited to have these papers included: Session 1 The Slow Times of the Digital, Paul Dourish Digital Accessibility: Ageing and the Mattering Counts [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting-means-4s-easst/">Read More...<span class="screen-reader-text"> from ‘Counting by other means’ 4S/EASST conference preview</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/counting-means-4s-easst/">‘Counting by other means’ 4S/EASST conference preview</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[A preview of our “Counting by other means” 4S/EASST conference track has been posted on the Society of Social Studies of Science Backchannels blog. I’m running the track with Sarah Kember and we’re&#160;excited to have these papers included: Session 1 The Slow Times of the Digital, Paul Dourish Digital Accessibility: Ageing and the Mattering Counts [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting-means-4s-easst/">Read More...<span class="screen-reader-text"> from ‘Counting by other means’ 4S/EASST conference preview</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>A <a href="http://www.4sonline.org/blog/post/4s_preview_counting_by_other_means" target="_blank" rel="noopener noreferrer">preview</a> of our “Counting by other means” <a href="http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=4457" target="_blank" rel="noopener noreferrer">4S/EASST conference track</a> has been posted on the Society of Social Studies of Science <a href="http://www.4sonline.org/blog" target="_blank" rel="noopener noreferrer">Backchannels blog</a>. I’m running the track with Sarah Kember and we’re&nbsp;excited to have these papers included:<span id="more-1440"></span></p>
 <h2 style="padding-left: 30px; font-size: 1.2rem">Session 1</h2>
 <p style="padding-left: 30px; font-size: 0.8rem"><strong>The Slow Times of the Digital</strong>, Paul Dourish<br>
@@ -84,14 +78,13 @@ Nelson, D. (2013). Yes to Life= No to Mining’: Counting as Biotechnology in Li
 Kenney, M. (2015). Counting, accounting, and accountability: Helen Verran’s relational empiricism. Social Studies of Science, 45(5), 749–771.<br>
 Taylor, A. S., Fisher, J., Cook, B., Ishtiaq, S., &amp; Piterman, N. (2014) Modelling Biology – working through (in-)stabilities and frictions, Computational Culture 1(3).<br>
 Verran, H. (2001). Science and an African Logic. London: University of Chicago Press.</p></blockquote>
-<p>The post <a rel="nofollow" href="http://ast.io/counting-means-4s-easst/">‘Counting by other means’ 4S/EASST conference preview</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/counting-means-4s-easst/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1440</post-id>	</item>
+			</item>
 		<item>
 		<title>Reading “Yes to Life = No to Mining:”…</title>
 		<link>http://ast.io/yes-to-life/</link>
@@ -103,29 +96,24 @@ Verran, H. (2001). Science and an African Logic. London: University of Chicago P
 		<category><![CDATA[counting]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=950</guid>
 
-					<description><![CDATA[<p>This striking article from Diane Nelson—in SF Online’s special issue: Life (Un)ltd—has stuck with me over the last few weeks. Nelson, D. (2013). “Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala. The Scholar and Feminist Online, 11(3). Nelson&#160;weaves together a compelling if somewhat bleak story of mining in Guatemala [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/yes-to-life/">Read More...<span class="screen-reader-text"> from Reading “Yes to Life = No to Mining:”…</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/yes-to-life/">Reading “Yes to Life = No to Mining:”…</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[This striking article from Diane Nelson—in SF Online’s special issue: Life (Un)ltd—has stuck with me over the last few weeks. Nelson, D. (2013). “Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala. The Scholar and Feminist Online, 11(3). Nelson&#160;weaves together a compelling if somewhat bleak story of mining in Guatemala [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/yes-to-life/">Read More...<span class="screen-reader-text"> from Reading “Yes to Life = No to Mining:”…</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p><a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/"> This</a> striking article from Diane Nelson—in SF Online’s special issue: <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/" target="_blank" rel="noopener noreferrer">Life (Un)ltd</a>—has stuck with me over the last few weeks.</p>
 <blockquote><p>Nelson, D. (2013). <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/" target="_blank" rel="noopener noreferrer">“Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala</a>. The Scholar and Feminist Online, 11(3).</p></blockquote>
 <p>Nelson&nbsp;weaves together a compelling if somewhat bleak story of mining in Guatemala and the impact it is having on small villages and local people.<span id="more-950"></span> What she&nbsp;does especially well is show the complexities of the mining industry’s presence in the mountains of Guatemala and the many different issues at stake for the multiple actors (human and nonhuman). Without a doubt, she&nbsp;paints a vivid picture in support of the people labouring in the mines and affected my the huge physical presence of the mining industry, but at the same time she captures the uncertainties and occasional doubts the locals themselves have in mobilising a clear cut case against mining.</p>
 <blockquote style="font-size: 1.8rem; font-style: italic; line-height: 3rem; text-indent: -12px;"><p>“I explore struggles over differences in live-ability and response-ability.”</p></blockquote>
 <p>Relevant for me are&nbsp;Nelson’s thoughts on counting and accounting. She sheds light on the modes of counting—the&nbsp;repertoires&nbsp;and regimes—and what kinds of authority they afford. At the same time, she reveals the real tensions that arise in trying to use number to capture and (re)produce the worlds we make.</p>
 <blockquote style="text-indent: -6px;"><p>“How do you balance — without particularly accurate information — quetzales to cuerdas of land, wages to labor, hopes for progress, development, and the “will to improve,” to war’s devastation and the impossible existing relations of production?”</p></blockquote>
-<p>I’m reminded, in Nelson’s piece, of Helen Verran’s amazing book <a id="tippy_tip0_4244_anchor"></a>, and it relates closely with a few other works I’ve been reading on counting and number:</p>
+<p>I’m reminded, in Nelson’s piece, of Helen Verran’s amazing book [tippy title=“<em>Science and An African Logic</em>” showheader=“false”]Verran, H. (2001) <a href="http://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html" target="_blank" rel="noopener noreferrer">Science and An African Logic</a>. London: University of Chicago Press.[/tippy], and it relates closely with a few other works I’ve been reading on counting and number:</p>
 <blockquote><p>Beer, D. (2015). <a href="http://doi.org/10.1177/2053951715578951" target="_blank" rel="noopener noreferrer">Productive measures: Culture and measurement in the context of everyday neoliberalism</a>. Big Data &amp; Society, 2(1), 1–12.<br>
 Felski, R. (2002). <a href="http://doi.org/10.2307/4149213" target="_blank" rel="noopener noreferrer">Telling Time in Feminist Theory</a>. Tulsa Studies in Women’s Literature, 21(1), 21.<br>
 Skeggs, B. (2014). <a href="http://doi.org/10.1111/1468-4446.12072" target="_blank" rel="noopener noreferrer">Values beyond value? Is anything beyond the logic of capital?</a> The British Journal of Sociology, 65(1), 1–20.<br>
 Verran, H. (2013). <a href="http://natureculture.sakura.ne.jp/02-translational-movements/" target="_blank" rel="noopener noreferrer">Numbers performing nature in quantitative valuing</a>. NatureCulture, 2, 23–37.</p></blockquote>
-<div class="tippy" data-title="<em>Science and An African Logic</em>" data-showheader="false" data-anchor="#tippy_tip0_4244_anchor">Verran, H. (2001) <a href="http://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html" target="_blank" rel="noopener noreferrer">Science and An African Logic</a>. London: University of Chicago Press.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/yes-to-life/">Reading “Yes to Life = No to Mining:”…</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/yes-to-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">950</post-id>	</item>
+			</item>
 	</channel>
 </rss>

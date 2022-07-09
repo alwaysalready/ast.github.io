@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Participation Archives | Alex Taylor</title>
+	<title>Participation - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/participation/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Reading Material Participation</title>
 		<link>http://ast.io/material-participation/</link>
 					<comments>http://ast.io/material-participation/#respond</comments>
@@ -35,22 +32,16 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=690</guid>
 
-					<description><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book . The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/material-participation/">Read More...<span class="screen-reader-text"> from Reading Material Participation</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book <a id="tippy_tip0_7504_anchor"></a>.<span id="more-690"></span><br>
-<a href="http://www.palgrave.com/page/detail/material-participation-technology-the-environment-and-everyday-publics-noortje-marres/?isb=9780230232112"><img loading="lazy" class="alignnone" src="https://i0.wp.com/research.gold.ac.uk/7577/1/9780230232112.jpg?resize=253%2C395" alt width="253" height="395"  data-recalc-dims="1"></a><br>
-The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to see the Bullfrogs, physical charts and posters we’ve built as “participation technologies” (to use Noortje’s term) and reflect on how they have opened up a wider range of ways for people to engage in local and civic matters. Combined with Doreen Massey’s ideas on <a id="tippy_tip1_4083_anchor"></a>, we’re beginning to see the entanglements of participation and technology as a means of enacting place, and expanding the ways place is, as it were, performed. Place then comes to be something that can be actively figured through a diverse set of participation technologies.</p>
-<div class="tippy" data-title="Material participation" data-showheader="false" data-anchor="#tippy_tip0_7504_anchor">Marres, N. (2012). <em>Material participation: technology, the environment and everyday publics</em>. Palgrave Macmillan.</div>
-<div class="tippy" data-title="throwntogetherness and the fluidity of place" data-showheader="false" data-anchor="#tippy_tip1_4083_anchor">Doreen Massey. (2005). <em>For space</em>. Sage.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+					<description><![CDATA[I wanted to write a short note about Noortje Marres’ book [tippy title=“Material participation”&#160;showheader=“false”]Marres, N. (2012). Material participation: technology, the environment and everyday publics. Palgrave Macmillan.[/tippy]. The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/material-participation/">Read More...<span class="screen-reader-text"> from Reading Material Participation</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book [tippy title=“Material participation”&nbsp;showheader=“false”]Marres, N. (2012). <em>Material participation: technology, the environment and everyday publics</em>. Palgrave Macmillan.[/tippy].<span id="more-690"></span><br>
+<a href="http://www.palgrave.com/page/detail/material-participation-technology-the-environment-and-everyday-publics-noortje-marres/?isb=9780230232112"><img loading="lazy" class="alignnone" src="http://research.gold.ac.uk/7577/1/9780230232112.jpg" alt width="253" height="395"></a><br>
+The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to see the Bullfrogs, physical charts and posters we’ve built as “participation technologies” (to use Noortje’s term) and reflect on how they have opened up a wider range of ways for people to engage in local and civic matters. Combined with Doreen Massey’s ideas on [tippy title=“throwntogetherness and the fluidity of place”&nbsp;showheader=“false”]Doreen Massey. (2005). <em>For space</em>. Sage.[/tippy], we’re beginning to see the entanglements of participation and technology as a means of enacting place, and expanding the ways place is, as it were, performed. Place then comes to be something that can be actively figured through a diverse set of participation technologies.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/material-participation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">690</post-id>	</item>
+			</item>
 	</channel>
 </rss>

@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Vinciane Despret Archives | Alex Taylor</title>
+	<title>Vinciane Despret - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/vinciane-despret/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Article in Design Issues</title>
 		<link>http://ast.io/article-design-issues/</link>
 					<comments>http://ast.io/article-design-issues/#respond</comments>
@@ -37,13 +34,10 @@
 		<category><![CDATA[Vinciane Despret]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3357</guid>
 
-					<description><![CDATA[<p>What Lines, Rats, and Sheep Can Tell Us Design Issues, Summer 2017, Vol. 33, No. 3, pp. 25–36 ABSTRACT — In his 2015 Research Through Design provocation, Tim Ingold invites his audience to think with string, lines, and meshworks. In this article I use Ingold’s concepts to explore an orientation to design—one that threads through [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/article-design-issues/">Read More...<span class="screen-reader-text"> from Article in Design Issues</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/article-design-issues/">Article in Design Issues</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[What Lines, Rats, and Sheep Can Tell Us Design Issues, Summer 2017, Vol. 33, No. 3, pp. 25–36 ABSTRACT — In his 2015 Research Through Design provocation, Tim Ingold invites his audience to think with string, lines, and meshworks. In this article I use Ingold’s concepts to explore an orientation to design—one that threads through [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/article-design-issues/">Read More...<span class="screen-reader-text"> from Article in Design Issues</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="highlight"><a href="http://www.mitpressjournals.org/doi/abs/10.1162/DESI_a_00449" target="_blank" rel="noopener noreferrer">What Lines, Rats, and Sheep Can Tell Us</a></div>
 <p><em><a href="http://www.mitpressjournals.org/loi/desi" target="_blank" rel="noopener noreferrer">Design Issues</a></em>, Summer 2017, Vol. 33, No. <a href="http://www.mitpressjournals.org/toc/desi/33/3" target="_blank" rel="noopener noreferrer">3</a>, pp. 25–36<br>
-<a href="http://www.mitpressjournals.org/toc/desi/33/3"><img loading="lazy" src="https://i0.wp.com/www.mitpressjournals.org/na101/home/literatum/publisher/mit/journals/content/desi/2017/desi.2017.33.issue-3/desi.2017.33.issue-3/20170705/desi.2017.33.issue-3.largecover.jpg?resize=300%2C450&#038;ssl=1" width="300" height="450" alt="Cover art for Design Issues, 33 (3) 2017" class="alignnone size-full" data-recalc-dims="1"></a></p>
+<a href="http://www.mitpressjournals.org/toc/desi/33/3"><img loading="lazy" src="https://www.mitpressjournals.org/na101/home/literatum/publisher/mit/journals/content/desi/2017/desi.2017.33.issue-3/desi.2017.33.issue-3/20170705/desi.2017.33.issue-3.largecover.jpg" width="300" height="450" alt="Cover art for Design Issues, 33 (3) 2017" class="alignnone size-full"></a></p>
 <div class="call-out"><strong><a href="http://ast.io/download/3212/lines-rats-and-sheep-2017.pdf" target="_blank" rel="noopener noreferrer">ABSTRACT</a></strong> — In his 2015 Research Through Design provocation, Tim Ingold invites his audience to think with string, lines, and meshworks. In this article I use Ingold’s concepts to explore an orientation to design—one that threads through both Ingold’s ideas and Vinciane Despret’s vivid and moving accounts of human-animal relations. This is a “thinking and doing” through design that seeks to be expansive to the capacities of humans and non-humans in relation to one another.</div>
 <div class="left-of-call-out">I’m so pleased to finally have this article published in <a href="http://www.mitpressjournals.org/toc/desi/33/3" target="_blank" rel="noopener noreferrer">Design Issues</a>, and very grateful to <a href="http://www.abigaildurrant.com/" target="_blank" rel="noopener noreferrer">Abigail Durrant</a>, <a href="http://www.johnvines.eu/" target="_blank" rel="noopener noreferrer">John Vines</a>, <a href="http://www.digitaljewellery.com/jaynewallace/home.html" target="_blank" rel="noopener noreferrer">Jayne Wallace</a>, and <a href="http://www.designdictator.com/" target="_blank" rel="noopener noreferrer">Joyce Yee</a> for all their help with editing my text and the Special Issue: <a href="http://www.mitpressjournals.org/toc/desi/33/3" target="_blank" rel="noopener noreferrer"><em>Research Through Design: Twenty-First Century Makers and Materialities</em></a>.</div>
 <p></p>
@@ -52,13 +46,12 @@
 <div style="font-size:.8rem">For an early draft of the article see: <a class="download-link" title="Version draft" href="http://ast.io/download/3212/" rel="nofollow">
 	What lines, rats and sheep can tell us, Design Issues 2017</a></div>
 <p></p>
-<p>The post <a rel="nofollow" href="http://ast.io/article-design-issues/">Article in Design Issues</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/article-design-issues/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3357</post-id>	</item>
+			</item>
 	</channel>
 </rss>

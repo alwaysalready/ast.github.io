@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>dis/ability Archives | Alex Taylor</title>
+	<title>dis/ability - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/disability/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Panel talk: Prototyping AI ethics futures—Rights, access and refusal</title>
 		<link>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/</link>
 					<comments>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/#respond</comments>
@@ -37,10 +34,7 @@
 		<category><![CDATA[dis/ability]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5848</guid>
 
-					<description><![CDATA[<p>Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with Ada Lovelace Institute, The British Academy and The Arts and Humanities Research council. Join us this Wednesday 23th at 1pm BST for the@justainet panel on “Rights, Access and Refusal” with @crystaljjlee @alxndrt and @maramills. Response from @sarahchander and chaired by @anthroptimist and @_louhicky https://t.co/3UUdNNzOsf [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Read More...<span class="screen-reader-text"> from Panel talk: Prototyping AI ethics futures—Rights, access and refusal</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Panel talk: Prototyping AI ethics futures—Rights, access and refusal</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with Ada Lovelace Institute, The British Academy and The Arts and Humanities Research council. Join us this Wednesday 23th at 1pm BST for the@justainet panel on “Rights, Access and Refusal” with @crystaljjlee @alxndrt and @maramills. Response from @sarahchander and chaired by @anthroptimist and @_louhicky https://t.co/3UUdNNzOsf [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Read More...<span class="screen-reader-text"> from Panel talk: Prototyping AI ethics futures—Rights, access and refusal</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with <a href="https://www.adalovelaceinstitute.org/event/prototyping-ai-ethics-futures-rights-access-refusal/" rel="noopener" target="_blank">Ada Lovelace Institute</a>, <a href="https://www.thebritishacademy.ac.uk/" rel="noopener" target="_blank">The British Academy</a> and <a href="https://ahrc.ukri.org/" rel="noopener" target="_blank">The Arts and Humanities Research council</a>.</p>
 <div class="row">
 <div class="col-sm-9 col-md-8 mt-3">
@@ -51,14 +45,13 @@
 </div>
 </div>
 <p></script></p>
-</div></div><p>The post <a rel="nofollow" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Panel talk: Prototyping AI ethics futures—Rights, access and refusal</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></content:encoded>
+</div></div>]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5848</post-id>	</item>
+			</item>
 		<item>
 		<title>Platypus blog post</title>
 		<link>http://ast.io/platypus-post/</link>
@@ -73,10 +66,7 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3316</guid>
 
-					<description><![CDATA[<p>The Committee for the Anthropology of Science, Technology &#38; Computing (CASTAC) and Rebekah Culpit kindly gave me the opportunity to write a piece for Platypus (the CASTAC blog). Titled “Becoming More Capable”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/platypus-post/">Read More...<span class="screen-reader-text"> from Platypus blog post</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/platypus-post/">Platypus blog post</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[The Committee for the Anthropology of Science, Technology &#38; Computing (CASTAC) and Rebekah Culpit kindly gave me the opportunity to write a piece for Platypus (the CASTAC blog). Titled “Becoming More Capable”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/platypus-post/">Read More...<span class="screen-reader-text"> from Platypus blog post</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>The <a href="http://castac.org/" target="_blank" rel="noopener noreferrer">Committee for the Anthropology of Science, Technology &amp; Computing (CASTAC)</a> and Rebekah Culpit kindly gave me the opportunity to write a piece for <a href="http://blog.castac.org/" target="_blank" rel="noopener noreferrer">Platypus</a> (the CASTAC blog).<br>
 Titled “<a href="http://blog.castac.org/2017/04/becoming-more-capable/" target="_blank" rel="noopener noreferrer">Becoming More Capable</a>”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a generative (feminist inspired) position, that understands capability as collectively achieved, as a ‘becoming-with’. The Platypus post is <a href="http://blog.castac.org/2017/04/becoming-more-capable/" target="_blank" rel="noopener noreferrer">here</a>, or see a longer un-edited version below.</p>
 <div class="highlight" style="font-size: 325%;">“<i>We need to exercise the imagination in order to elbow away at the conditions of im/possibility.</i>”</div>
@@ -108,13 +98,12 @@ Haraway, Donna J. 2016. <i>Staying With the Trouble: Making Kin in the Chthuluce
 Moser, Ingunn. 2005. On becoming disabled and articulating alternatives. <i>Cultural Studies</i> 19(6): 667–700.<br>
 Moser, Ingunn and Law, John. 1999. <a href="http://doi.org/10.1111/j.1467-954X.1999.tb03489.x">Good passages, bad passages</a>. <i>The Sociological Review</i>, <i>47</i>(S1), 196–219.</div>
 </blockquote>
-<p>The post <a rel="nofollow" href="http://ast.io/platypus-post/">Platypus blog post</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/platypus-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3316</post-id>	</item>
+			</item>
 	</channel>
 </rss>

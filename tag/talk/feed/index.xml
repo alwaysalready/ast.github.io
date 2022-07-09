@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>talk Archives | Alex Taylor</title>
+	<title>talk - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/talk/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>“Remaking Digital Futures” — BDFI Panel</title>
 		<link>http://ast.io/remaking-digital-futures/</link>
 					<comments>http://ast.io/remaking-digital-futures/#respond</comments>
@@ -34,10 +31,7 @@
 		<category><![CDATA[talk]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5910</guid>
 
-					<description><![CDATA[<p>How will digital technology disrupt traditional patterns of innovation? Discuss and explore at our symposium on 19 Jan #DisruptInnovation #DriveTechnology Please register https://t.co/hjxx3RIii4 @Dsimeo @susanjhalford @JeremyS1 pic.twitter.com/2vCVoo0mmt — Bristol Digital Futures Institute (@DigiFutures) December 22, 2021 Next up Panel 1 for #digifutures22 “Remaking Digital Futures” pic.twitter.com/fysLukHG83 — Bristol Digital Futures Institute (@DigiFutures) January 19, 2022 [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/remaking-digital-futures/">Read More...<span class="screen-reader-text"> from “Remaking Digital Futures” — BDFI Panel</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/remaking-digital-futures/">“Remaking Digital Futures” — BDFI Panel</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[How will digital technology disrupt traditional patterns of innovation? Discuss and explore at our symposium on 19 Jan #DisruptInnovation #DriveTechnology Please register https://t.co/hjxx3RIii4 @Dsimeo @susanjhalford @JeremyS1 pic.twitter.com/2vCVoo0mmt — Bristol Digital Futures Institute (@DigiFutures) December 22, 2021 Next up Panel 1 for #digifutures22 “Remaking Digital Futures” pic.twitter.com/fysLukHG83 — Bristol Digital Futures Institute (@DigiFutures) January 19, 2022 [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/remaking-digital-futures/">Read More...<span class="screen-reader-text"> from “Remaking Digital Futures” — BDFI Panel</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-11 col-md-6 mt-3">
 <blockquote class="twitter-tweet">
@@ -56,14 +50,13 @@
 </div>
 </div>
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>The post <a rel="nofollow" href="http://ast.io/remaking-digital-futures/">“Remaking Digital Futures” — BDFI Panel</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/remaking-digital-futures/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5910</post-id>	</item>
+			</item>
 		<item>
 		<title>Talk: The Capacities of Interaction</title>
 		<link>http://ast.io/talk-the-capacities-of-interaction/</link>
@@ -76,21 +69,17 @@
 		<category><![CDATA[talk]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5852</guid>
 
-					<description><![CDATA[<p>The @cityuni_hcid seminar series has been rebooted, with seminars now being held on the last Thursday of the month via Zoom. This month @alxndrt will talk about designing assistive technologies in ‘The Capacities of Interaction’. Sign up here: https://t.co/UH28xXjnMh #design #HCI pic.twitter.com/JBn0YEkaIZ — Interaction Lab (@cinteractionlab) November 18, 2020 [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/talk-the-capacities-of-interaction/">Read More...<span class="screen-reader-text"> from Talk: The Capacities of Interaction</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/talk-the-capacities-of-interaction/">Talk: The Capacities of Interaction</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[The @cityuni_hcid seminar series has been rebooted, with seminars now being held on the last Thursday of the month via Zoom. This month @alxndrt will talk about designing assistive technologies in ‘The Capacities of Interaction’. Sign up here: https://t.co/UH28xXjnMh #design #HCI pic.twitter.com/JBn0YEkaIZ — Interaction Lab (@cinteractionlab) November 18, 2020 [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/talk-the-capacities-of-interaction/">Read More...<span class="screen-reader-text"> from Talk: The Capacities of Interaction</span></a></p>]]></description>
 										<content:encoded><![CDATA[<blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">The <a href="https://twitter.com/cityuni_hcid?ref_src=twsrc%5Etfw">@cityuni_hcid</a> seminar series has been rebooted, with seminars now being held on the last Thursday of the month via Zoom. This month <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> will talk about designing assistive technologies in ‘The Capacities of Interaction’. Sign up here: <a href="https://t.co/UH28xXjnMh">https://t.co/UH28xXjnMh</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://twitter.com/hashtag/HCI?src=hash&amp;ref_src=twsrc%5Etfw">#HCI</a> <a href="https://t.co/JBn0YEkaIZ">pic.twitter.com/JBn0YEkaIZ</a></p>
 <p>— Interaction Lab (@cinteractionlab) <a href="https://twitter.com/cinteractionlab/status/1329064215592783877?ref_src=twsrc%5Etfw">November 18, 2020</a></p></blockquote>
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>The post <a rel="nofollow" href="http://ast.io/talk-the-capacities-of-interaction/">Talk: The Capacities of Interaction</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/talk-the-capacities-of-interaction/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5852</post-id>	</item>
+			</item>
 	</channel>
 </rss>

@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Audio Archives | Alex Taylor</title>
+	<title>Audio - Alex Taylor</title>
 	<atom:link href="http://ast.io/category/audio/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>A changing academic life</title>
 		<link>http://ast.io/a-changing-academic-life/</link>
 					<comments>http://ast.io/a-changing-academic-life/#respond</comments>
@@ -35,11 +32,8 @@
 		<category><![CDATA[resistance]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4890</guid>
 
-					<description><![CDATA[<p> [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/a-changing-academic-life/">Read More...<span class="screen-reader-text"> from A changing academic life</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/a-changing-academic-life/">A changing academic life</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[[raw] So grateful to Geraldine Fitzpatrick for spending the time talking to me and giving me the chance to put words to my still ill-formed thoughts on living an academic life. Such a privilege to be part of her podcast series, Changing Academic Life. In talking to Geraldine, I’ve tried to be honest, finding space [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/a-changing-academic-life/">Read More...<span class="screen-reader-text"> from A changing academic life</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>[raw]</p>
 <div class="row">
 <div class="col-sm-11 col-md-6 mt-3">
 <p>
@@ -50,20 +44,21 @@ In talking to Geraldine, I’ve tried to be honest, finding space between my nai
 </p>
 </div>
 <div class="col-sm-11 col-md-8">
-<p>
-</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New podcast with <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> on research at the boundaries, moving from industry to academia, the labour of academia &amp; the power of the collective <a href="https://t.co/E6ppqPQux6">https://t.co/E6ppqPQux6</a></p>— ChangingAcademicLife (@ChangeAcadLife) <a href="https://twitter.com/ChangeAcadLife/status/1154060815651282944?ref_src=twsrc%5Etfw">July 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">New podcast with <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> on research at the boundaries, moving from industry to academia, the labour of academia &amp; the power of the collective <a href="https://t.co/E6ppqPQux6">https://t.co/E6ppqPQux6</a></p>
+<p>— ChangingAcademicLife (@ChangeAcadLife) <a href="https://twitter.com/ChangeAcadLife/status/1154060815651282944?ref_src=twsrc%5Etfw">July 24, 2019</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 </div>
 </div>
-
-<p>The post <a rel="nofollow" href="http://ast.io/a-changing-academic-life/">A changing academic life</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+<p>[/raw]</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/a-changing-academic-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4890</post-id>	</item>
+			</item>
 		<item>
 		<title>Interview with Nora Young on CBC Radio Spark Show</title>
 		<link>http://ast.io/interview-cbc-radio-spark/</link>
@@ -78,26 +73,21 @@ In talking to Geraldine, I’ve tried to be honest, finding space between my nai
 		<category><![CDATA[intelligence]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=1620</guid>
 
-					<description><![CDATA[<p>I was interviewed just over a week ago by Nora Young, for the great Spark programme, aired on CBC Radio One. In short, I try to give Nora a sense of how AI could open up some radically different possibilities if we were able to approach intelligence differently. I try to capture how we might [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/interview-cbc-radio-spark/">Read More...<span class="screen-reader-text"> from Interview with Nora Young on CBC Radio Spark Show</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/interview-cbc-radio-spark/">Interview with Nora Young on CBC Radio Spark Show</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>I was interviewed just over a week ago by <a id="tippy_tip0_6655_anchor"></a> <a href="https://en.wikipedia.org/wiki/Nora_Young" target="_blank" rel="noopener noreferrer">Nora Young</a>, for the great <a href="http://www.cbc.ca/radio/spark/about" target="_blank" rel="noopener noreferrer">Spark</a> programme, aired on CBC Radio One.<br>
+					<description><![CDATA[I was interviewed just over a week ago by [tippy title=“CBC’s” showheader=“false”]Canadian public broadcaster[/tippy] Nora Young, for the great Spark programme, aired on CBC Radio One. In short, I try to give Nora a sense of how AI could open up some radically different possibilities if we were able to approach intelligence differently. I try [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/interview-cbc-radio-spark/">Read More...<span class="screen-reader-text"> from Interview with Nora Young on CBC Radio Spark Show</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I was interviewed just over a week ago by [tippy title=“CBC’s” showheader=“false”]<a href="http://www.cbc.ca/" target="_blank" rel="noopener noreferrer">Canadian public broadcaster</a>[/tippy] <a href="https://en.wikipedia.org/wiki/Nora_Young" target="_blank" rel="noopener noreferrer">Nora Young</a>, for the great <a href="http://www.cbc.ca/radio/spark/about" target="_blank" rel="noopener noreferrer">Spark</a> programme, aired on CBC Radio One.<br>
 In short, I try to give Nora a sense of how AI could open up some radically different possibilities if we were able to approach intelligence differently. I try to capture how we might see intelligence not in restrictive human terms (as stable cognitive capacities in the head/mind), but as something always emergent, always enacted and tied to the many unfolding relations we find ourselves entangled in. I see this to be a generative orientation to AI, building on ideas from Donna Haraway, Isabelle Stengers, Vinciane Despret, Sarah Whatmore and many others grappling with the possibilities of us extending our capabilities, of being somehow more-than-human.<br>
 If you’re in Canada, the programme is broadcast this coming Sunday afternoon at 1:05 PM local time (in most parts of Canada) and again on Wednesday at 2:05 PM. Alternatively, my segment of the show is available <a href="http://www.cbc.ca/radio/spark/329-a-new-standard-for-intelligence-online-bartering-and-more-1.3782044/how-should-we-define-intelligence-1.3782055" target="_blank" rel="noopener noreferrer">here</a>, titled:</p>
 <div class="highlight" style="font-size:2.2rem;">
 <a href="http://www.cbc.ca/radio/spark/329-a-new-standard-for-intelligence-online-bartering-and-more-1.3782044/how-should-we-define-intelligence-1.3782055" target="_blank" rel="noopener noreferrer">How should we<br>define “intelligence”?</a>
 </div>
 <p>I want to give a special thanks to <a href="http://marcuscarter.com/" target="_blank" rel="noopener noreferrer">Marcus Carter</a> and the <a href="http://www.socialnui.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">University of Melbourne’s Social NUI Centre</a> for allowing me to share their amazing <a href="http://www.socialnui.unimelb.edu.au/research/zoos/" target="_blank" rel="noopener noreferrer">work with Orangutans</a>.</p>
-<div class="tippy" data-title="CBC's" data-showheader="false" data-anchor="#tippy_tip0_6655_anchor"><a href="http://www.cbc.ca/" target="_blank" rel="noopener noreferrer">Canadian public broadcaster</a></div>
-<p>The post <a rel="nofollow" href="http://ast.io/interview-cbc-radio-spark/">Interview with Nora Young on CBC Radio Spark Show</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/interview-cbc-radio-spark/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1620</post-id>	</item>
+			</item>
 		<item>
 		<title>IOT on Claude Lévi-Strauss</title>
 		<link>http://ast.io/levi-strauss/</link>
@@ -110,20 +100,16 @@ If you’re in Canada, the programme is broadcast this coming Sunday afternoon a
 		<category><![CDATA[Structuralism]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=309</guid>
 
-					<description><![CDATA[<p>BBC’s In Our Time does it again with a wonderful eulogy to Claude Lévi-Strauss. There are some nice insights into&#160;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me. (Photo ‘borrowed’ from In Our Time) [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/levi-strauss/">Read More...<span class="screen-reader-text"> from IOT on Claude Lévi-Strauss</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/levi-strauss/">IOT on Claude Lévi-Strauss</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[BBC’s In Our Time does it again with a wonderful eulogy to Claude Lévi-Strauss. There are some nice insights into&#160;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me. (Photo ‘borrowed’ from In Our Time) [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/levi-strauss/">Read More...<span class="screen-reader-text"> from IOT on Claude Lévi-Strauss</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p><span id="more-309"></span><br>
-<a href="http://www.bbc.co.uk/programmes/b01sjjxl"><img loading="lazy" class=" wp-image-310 alignright" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/10/Untitled.jpg?resize=324%2C324" alt="Levi-strauss" width="324" height="324"  data-recalc-dims="1"></a>BBC’s <a href="http://www.bbc.co.uk/programmes/b006qykl" target="_blank" rel="noopener noreferrer">In Our Time </a>does it again with a wonderful eulogy to <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">Claude Lévi-Strauss</a>. There are some nice insights into&nbsp;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me.<br>
+<a href="http://www.bbc.co.uk/programmes/b01sjjxl"><img loading="lazy" class=" wp-image-310 alignright" src="http://ast.io/wp-content/uploads/2013/10/Untitled.jpg" alt="Levi-strauss" width="324" height="324"></a>BBC’s <a href="http://www.bbc.co.uk/programmes/b006qykl" target="_blank" rel="noopener noreferrer">In Our Time </a>does it again with a wonderful eulogy to <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">Claude Lévi-Strauss</a>. There are some nice insights into&nbsp;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me.<br>
 <span style="font-size: smaller;">(Photo ‘borrowed’ from <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">In Our Time</a>)</span></p>
-<p>The post <a rel="nofollow" href="http://ast.io/levi-strauss/">IOT on Claude Lévi-Strauss</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/levi-strauss/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">309</post-id>	</item>
+			</item>
 	</channel>
 </rss>

@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>capability Archives | Alex Taylor</title>
+	<title>capability - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/capability/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Talk: The Capacities of Interaction</title>
 		<link>http://ast.io/talk-the-capacities-of-interaction/</link>
 					<comments>http://ast.io/talk-the-capacities-of-interaction/#respond</comments>
@@ -34,22 +31,18 @@
 		<category><![CDATA[talk]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5852</guid>
 
-					<description><![CDATA[<p>The @cityuni_hcid seminar series has been rebooted, with seminars now being held on the last Thursday of the month via Zoom. This month @alxndrt will talk about designing assistive technologies in ‘The Capacities of Interaction’. Sign up here: https://t.co/UH28xXjnMh #design #HCI pic.twitter.com/JBn0YEkaIZ — Interaction Lab (@cinteractionlab) November 18, 2020 [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/talk-the-capacities-of-interaction/">Read More...<span class="screen-reader-text"> from Talk: The Capacities of Interaction</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/talk-the-capacities-of-interaction/">Talk: The Capacities of Interaction</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[The @cityuni_hcid seminar series has been rebooted, with seminars now being held on the last Thursday of the month via Zoom. This month @alxndrt will talk about designing assistive technologies in ‘The Capacities of Interaction’. Sign up here: https://t.co/UH28xXjnMh #design #HCI pic.twitter.com/JBn0YEkaIZ — Interaction Lab (@cinteractionlab) November 18, 2020 [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/talk-the-capacities-of-interaction/">Read More...<span class="screen-reader-text"> from Talk: The Capacities of Interaction</span></a></p>]]></description>
 										<content:encoded><![CDATA[<blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">The <a href="https://twitter.com/cityuni_hcid?ref_src=twsrc%5Etfw">@cityuni_hcid</a> seminar series has been rebooted, with seminars now being held on the last Thursday of the month via Zoom. This month <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> will talk about designing assistive technologies in ‘The Capacities of Interaction’. Sign up here: <a href="https://t.co/UH28xXjnMh">https://t.co/UH28xXjnMh</a> <a href="https://twitter.com/hashtag/design?src=hash&amp;ref_src=twsrc%5Etfw">#design</a> <a href="https://twitter.com/hashtag/HCI?src=hash&amp;ref_src=twsrc%5Etfw">#HCI</a> <a href="https://t.co/JBn0YEkaIZ">pic.twitter.com/JBn0YEkaIZ</a></p>
 <p>— Interaction Lab (@cinteractionlab) <a href="https://twitter.com/cinteractionlab/status/1329064215592783877?ref_src=twsrc%5Etfw">November 18, 2020</a></p></blockquote>
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>The post <a rel="nofollow" href="http://ast.io/talk-the-capacities-of-interaction/">Talk: The Capacities of Interaction</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/talk-the-capacities-of-interaction/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5852</post-id>	</item>
+			</item>
 		<item>
 		<title>William Kentridge — “A drawing lesson”</title>
 		<link>http://ast.io/drawing-lesson/</link>
@@ -62,23 +55,19 @@
 		<category><![CDATA[capability]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3427</guid>
 
-					<description><![CDATA[<p>“… can we be better than who we are, can we be other than who we are?” I’ve been trying to think about capability for a little while and trying to make sense of how we become able. What I’ve wanted to get away from is an idea of ability that we feel defined or [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/drawing-lesson/">Read More...<span class="screen-reader-text"> from William Kentridge — “A drawing lesson”</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/drawing-lesson/">William Kentridge — “A drawing lesson”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[“… can we be better than who we are, can we be other than who we are?” I’ve been trying to think about capability for a little while and trying to make sense of how we become able. What I’ve wanted to get away from is an idea of ability that we feel defined or [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/drawing-lesson/">Read More...<span class="screen-reader-text"> from William Kentridge — “A drawing lesson”</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="call-out" style="margin-top:1%;margin-bottom:10%;font-size:2.5rem;font-weight:bold;font-style:italic;line-height:2.6rem">“… can we be better than who we are, can we be other than who we are?”</div>
 <div style="width:300px;margin-bottom:1rem">I’ve been trying to think about capability for a little while and trying to make sense of how we <em>become</em> able. What I’ve wanted to get away from is an idea of ability that we feel defined or limited by—the presumed limits of ability dictated, supposedly, by our bodily and mental capacities.</div>
 <p></p>
 <div style="width:300px;margin-bottom:1rem">Today I came across this lovely video of and by the artist William Kentridge. He expresses so much of what has engaged me in this subject matter, but with such eloquence and so vividly.</div>
 <p><iframe loading="lazy" src="https://www.youtube.com/embed/tyndlMIgbnU?rel=0&amp;controls=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p>The post <a rel="nofollow" href="http://ast.io/drawing-lesson/">William Kentridge — “A drawing lesson”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/drawing-lesson/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3427</post-id>	</item>
+			</item>
 		<item>
 		<title>Vienna art, design, and architecture biennale</title>
 		<link>http://ast.io/vienna-biennale/</link>
@@ -92,10 +81,7 @@
 		<category><![CDATA[design]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3344</guid>
 
-					<description><![CDATA[<p>Anab Jain very kindly asked me to contribute a short piece to the programme for the Vienna art, design, and architecture biennale. SAVE THE DATE 11June 6pm Opening VIENNA BIENNALE 2015: IDEAS FOR CHANGE https://t.co/TWZntdYWBX pic.twitter.com/061HYLrT6D — VIENNA BIENNALE (@VieBiennale) April 22, 2015 With the motto: “Robots. Work. Our Future” … the Biennale sets the [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/vienna-biennale/">Read More...<span class="screen-reader-text"> from Vienna art, design, and architecture biennale</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/vienna-biennale/">Vienna art, design, and architecture biennale</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Anab Jain very kindly asked me to contribute a short piece to the programme for the Vienna art, design, and architecture biennale. SAVE THE DATE 11June 6pm Opening VIENNA BIENNALE 2015: IDEAS FOR CHANGE https://t.co/TWZntdYWBX pic.twitter.com/061HYLrT6D — VIENNA BIENNALE (@VieBiennale) April 22, 2015 With the motto: “Robots. Work. Our Future” … the Biennale sets the [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/vienna-biennale/">Read More...<span class="screen-reader-text"> from Vienna art, design, and architecture biennale</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Anab Jain very kindly asked me to contribute a short piece to the programme for the <a href="http://www.viennabiennale.org/en/" target="_blank" rel="noopener noreferrer">Vienna art, design, and architecture biennale</a>.</p>
 <blockquote class="twitter-tweet" data-lang="en">
 <p lang="en" dir="ltr">SAVE THE DATE 11June 6pm Opening VIENNA BIENNALE 2015: IDEAS FOR CHANGE <a href="https://t.co/TWZntdYWBX">https://t.co/TWZntdYWBX</a> <a href="http://t.co/061HYLrT6D">pic.twitter.com/061HYLrT6D</a></p>
@@ -108,14 +94,13 @@
 In the second mode, we observe actors excel in their achievements. We allow ourselves to be surprised and delighted by exhibitions of capacity that exceed our expectations (and that contravene the first mode in so many ways). To find evidence of this mode, one need only turn to that vast repository of record and observation, YouTube, and witness the viewing numbers for titles like “species [x] and species [y] playing together”, “species [x] and species [y] unlikely friends”, and so on. As these titles suggest, capability is often recognised here as accomplished with others—with other objects, other actors, other critters.<br>
 Speculating on human capacities—on what humans might be capable of and how they might work in the future—I find myself asking, as the animal studies scholar Vinciane Despret does, which of these modes is ‘more interesting’ and which ‘makes more interesting’. Which of these modes invites us to speculate on new fabulations of actors of all kinds, of actors becoming-with each other, of becoming other-than-humanly-capable, of becoming more capable?<br>
 I am taken by the mode that views capability as collectively achieved and that invites those conditions that enlarge capacities through on-going interminglings. The future of work, through this mode, will be dictated not by the limits of being human, but by how we might best attune ourselves with others, how we might become more capable together.</p></blockquote>
-<p>The post <a rel="nofollow" href="http://ast.io/vienna-biennale/">Vienna art, design, and architecture biennale</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/vienna-biennale/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3344</post-id>	</item>
+			</item>
 		<item>
 		<title>Platypus blog post</title>
 		<link>http://ast.io/platypus-post/</link>
@@ -130,10 +115,7 @@ I am taken by the mode that views capability as collectively achieved and that i
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3316</guid>
 
-					<description><![CDATA[<p>The Committee for the Anthropology of Science, Technology &#38; Computing (CASTAC) and Rebekah Culpit kindly gave me the opportunity to write a piece for Platypus (the CASTAC blog). Titled “Becoming More Capable”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/platypus-post/">Read More...<span class="screen-reader-text"> from Platypus blog post</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/platypus-post/">Platypus blog post</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[The Committee for the Anthropology of Science, Technology &#38; Computing (CASTAC) and Rebekah Culpit kindly gave me the opportunity to write a piece for Platypus (the CASTAC blog). Titled “Becoming More Capable”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/platypus-post/">Read More...<span class="screen-reader-text"> from Platypus blog post</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>The <a href="http://castac.org/" target="_blank" rel="noopener noreferrer">Committee for the Anthropology of Science, Technology &amp; Computing (CASTAC)</a> and Rebekah Culpit kindly gave me the opportunity to write a piece for <a href="http://blog.castac.org/" target="_blank" rel="noopener noreferrer">Platypus</a> (the CASTAC blog).<br>
 Titled “<a href="http://blog.castac.org/2017/04/becoming-more-capable/" target="_blank" rel="noopener noreferrer">Becoming More Capable</a>”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a generative (feminist inspired) position, that understands capability as collectively achieved, as a ‘becoming-with’. The Platypus post is <a href="http://blog.castac.org/2017/04/becoming-more-capable/" target="_blank" rel="noopener noreferrer">here</a>, or see a longer un-edited version below.</p>
 <div class="highlight" style="font-size: 325%;">“<i>We need to exercise the imagination in order to elbow away at the conditions of im/possibility.</i>”</div>
@@ -165,14 +147,13 @@ Haraway, Donna J. 2016. <i>Staying With the Trouble: Making Kin in the Chthuluce
 Moser, Ingunn. 2005. On becoming disabled and articulating alternatives. <i>Cultural Studies</i> 19(6): 667–700.<br>
 Moser, Ingunn and Law, John. 1999. <a href="http://doi.org/10.1111/j.1467-954X.1999.tb03489.x">Good passages, bad passages</a>. <i>The Sociological Review</i>, <i>47</i>(S1), 196–219.</div>
 </blockquote>
-<p>The post <a rel="nofollow" href="http://ast.io/platypus-post/">Platypus blog post</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/platypus-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3316</post-id>	</item>
+			</item>
 		<item>
 		<title>“Being Capable” at UCL Knowledge Lab</title>
 		<link>http://ast.io/ucl-knowledge-lab-talk/</link>
@@ -186,21 +167,17 @@ Moser, Ingunn and Law, John. 1999. <a href="http://doi.org/10.1111/j.1467-954X.1
 		<category><![CDATA[feminist technoscience]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3168</guid>
 
-					<description><![CDATA[<p>Last Wednesday, tried again to capture my thoughts on capability and capacity, this time at the UCL Knowledge Lab (Institute of Education). The recording of the talk is available here. &#160; [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/ucl-knowledge-lab-talk/">Read More...<span class="screen-reader-text"> from “Being Capable” at UCL Knowledge Lab</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/ucl-knowledge-lab-talk/">“Being Capable” at UCL Knowledge Lab</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><img loading="lazy" class="alignright size-full wp-image-3169" src="https://i0.wp.com/ast.io/wp-content/uploads/2017/02/KL_talk_small.gif?resize=220%2C220&#038;ssl=1" alt="Being Capable - Knowledge Lab talk" width="220" height="220"  data-recalc-dims="1"><br>
+					<description><![CDATA[Last Wednesday, tried again to capture my thoughts on capability and capacity, this time at the UCL Knowledge Lab (Institute of Education). The recording of the talk is available here. &#160; [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/ucl-knowledge-lab-talk/">Read More...<span class="screen-reader-text"> from “Being Capable” at UCL Knowledge Lab</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignright size-full wp-image-3169" src="http://ast.io/wp-content/uploads/2017/02/KL_talk_small.gif" alt="Being Capable - Knowledge Lab talk" width="220" height="220"><br>
 <a href="http://www.ucl.ac.uk/ioe/news-events/events-pub/feb-2017/being-capable" target="_blank" rel="noopener noreferrer">Last Wednesday</a>, tried again to capture my thoughts on capability and capacity, this time at the <a href="https://www.ucl.ac.uk/ioe/departments-centres/centres/ucl-knowledge-lab" target="_blank" rel="noopener noreferrer">UCL Knowledge Lab</a> (<a href="https://www.ucl.ac.uk/ioe" target="_blank" rel="noopener noreferrer">Institute of Education</a>). The recording of the talk is available <a href="https://mediacentral.ucl.ac.uk/Player/5484" target="_blank" rel="noopener noreferrer">here</a>.<br>
 &nbsp;</p>
-<p>The post <a rel="nofollow" href="http://ast.io/ucl-knowledge-lab-talk/">“Being Capable” at UCL Knowledge Lab</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/ucl-knowledge-lab-talk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3168</post-id>	</item>
+			</item>
 		<item>
 		<title>Talk at RCA, Design Products</title>
 		<link>http://ast.io/what-are-we-capable-of/</link>
@@ -214,25 +191,21 @@ Moser, Ingunn and Law, John. 1999. <a href="http://doi.org/10.1111/j.1467-954X.1
 		<category><![CDATA[feminist technoscience]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3096</guid>
 
-					<description><![CDATA[<p>I had a very generous slot for presenting to some in Design Products at the RCA this week. &#160; In this talk, I want to suggest we have spent too much time working with the limits of capability—the limits of the perceptual apparatus, the limits of cognitive capacities, and the limits of how critters (whether [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/what-are-we-capable-of/">Read More...<span class="screen-reader-text"> from Talk at RCA, Design Products</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/what-are-we-capable-of/">Talk at RCA, Design Products</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I had a very generous slot for presenting to some in Design Products at the RCA this week. &#160; In this talk, I want to suggest we have spent too much time working with the limits of capability—the limits of the perceptual apparatus, the limits of cognitive capacities, and the limits of how critters (whether [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/what-are-we-capable-of/">Read More...<span class="screen-reader-text"> from Talk at RCA, Design Products</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>I had a very generous slot for presenting to some in <a href="https://www.rca.ac.uk/schools/school-of-design/design-products/" target="_blank" rel="noopener noreferrer">Design Products</a> at the RCA this week.</p>
 <blockquote>
-<div width="400" height="300"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2017/02/rca_dp_talk.gif?resize=400%2C300&#038;ssl=1" alt="Slides from RCA Design Products talk Feb 2017" width="400" height="300" class="size-full wp-image-3103" data-recalc-dims="1"></div>
+<div width="400" height="300"><img loading="lazy" src="http://ast.io/wp-content/uploads/2017/02/rca_dp_talk.gif" alt="Slides from RCA Design Products talk Feb 2017" width="400" height="300" class="size-full wp-image-3103"></div>
 <p>&nbsp;<br>
 In this talk, I want to suggest we have spent too much time working with the limits of capability—the limits of the perceptual apparatus, the limits of cognitive capacities, and the limits of how critters (whether human or nonhuman) interact and relate to one another. Drawing on a feminist technoscience and using examples from recent fieldwork, I’ll aim to show that, together, we make ourselves capable. That capability isn’t limited to some pre-given, individual state, but comes into being through (inter)action, through entangled relations between actors of all kinds. This, I’ll claim, gives us a very different way of thinking about our relations with technology and especially the promise of AI and machine learning. Rather than machines aiming to replicate human capability, I want to propose an expansive project that allows us the chance to imagine something ‘other-than’ finite capabilities, that sees capability as a ‘becoming-with’, and lays open the possibilities for much much more.</p></blockquote>
 <p>&nbsp;</p>
 <div style="font-size:0.9rem;">I’m hoping to fine-tune and do a little tidying of these ideas for <a href="http://www.ucl.ac.uk/ioe/news-events/events-pub/feb-2017/being-capable" target="_blank" rel="noopener noreferrer">this talk</a> at the <a href="http://www.dcs.bbk.ac.uk/lkl/cms/" target="_blank" rel="noopener noreferrer">Knowledge Lab</a> (Institute of Education) later this month.</div>
 <p>&nbsp;</p>
-<p>The post <a rel="nofollow" href="http://ast.io/what-are-we-capable-of/">Talk at RCA, Design Products</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/what-are-we-capable-of/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3096</post-id>	</item>
+			</item>
 	</channel>
 </rss>

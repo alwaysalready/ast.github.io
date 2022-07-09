@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Biology Archives | Alex Taylor</title>
+	<title>Biology - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/biology/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>EASST 2018 Presentation</title>
 		<link>http://ast.io/easst-2018-presentation/</link>
 					<comments>http://ast.io/easst-2018-presentation/#respond</comments>
@@ -36,10 +33,7 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4291</guid>
 
-					<description><![CDATA[<p>Abigail Durrant and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at EASST last week, in the fabulous Feminist Figures panel. Very excited to see @alxndrt and @abigail_durrant present today in #feministfigures you both rocked! Not my best pic of the day but I really wanted to show this slide with [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/easst-2018-presentation/">Read More...<span class="screen-reader-text"> from EASST 2018 Presentation</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/easst-2018-presentation/">EASST 2018 Presentation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Abigail Durrant and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at EASST last week, in the fabulous Feminist Figures panel. Very excited to see @alxndrt and @abigail_durrant present today in #feministfigures you both rocked! Not my best pic of the day but I really wanted to show this slide with [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/easst-2018-presentation/">Read More...<span class="screen-reader-text"> from EASST 2018 Presentation</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
 <div class="col-9 col-sm-9 col-md-5"><a href="https://twitter.com/abigail_durrant?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&amp;ref_url=https%3A%2F%2Ftwitter.com%2Fanotherwindle" rel="noopener noreferrer" target="_blank">Abigail Durrant</a> and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at <a href="https://easst.net/conferences/" rel="noopener noreferrer" target="_blank">EASST</a> last week, in the fabulous <a href="https://twitter.com/search?l=&amp;q=%23feministfigures%20since%3A2018-05-27%20until%3A2018-08-03&amp;src=typd&amp;lang=en-gb" rel="noopener noreferrer" target="_blank">Feminist Figures</a> panel.</div>
 <div class="small col-9 col-sm-9 col-md-7">
@@ -65,14 +59,13 @@ Hustak, C. and Myers, N., 2012. Involutionary momentum: Affective ecologies and 
 Keller, E.F., 2009. Making sense of life: Explaining biological development with models, metaphors, and machines. Harvard University Press.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/easst-2018-presentation/">EASST 2018 Presentation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/easst-2018-presentation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4291</post-id>	</item>
+			</item>
 		<item>
 		<title>2013 publications updated</title>
 		<link>http://ast.io/2013-publications/</link>
@@ -87,20 +80,16 @@ Keller, E.F., 2009. Making sense of life: Explaining biological development with
 		<category><![CDATA[HCI]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=41</guid>
 
-					<description><![CDATA[<p>Updated 2013 publications. &#160; [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/2013-publications/">Read More...<span class="screen-reader-text"> from 2013 publications updated</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/2013-publications/">2013 publications updated</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="http://ast.io/publications/alex-taylor-2013/"><img loading="lazy" class="alignnone size-medium wp-image-42" alt="2013" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/09/2013-300x300.png?resize=300%2C300" width="300" height="300"  data-recalc-dims="1"></a><br>
+					<description><![CDATA[Updated 2013 publications. &#160; [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/2013-publications/">Read More...<span class="screen-reader-text"> from 2013 publications updated</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://ast.io/publications/alex-taylor-2013/"><img loading="lazy" class="alignnone size-medium wp-image-42" alt="2013" src="http://ast.io/wp-content/uploads/2013/09/2013-300x300.png" width="300" height="300"></a><br>
 Updated <a href="http://ast.io/publications/alex-taylor-2013/">2013</a> publications.<br>
 &nbsp;</p>
-<p>The post <a rel="nofollow" href="http://ast.io/2013-publications/">2013 publications updated</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/2013-publications/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41</post-id>	</item>
+			</item>
 	</channel>
 </rss>

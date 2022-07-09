@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Conferences Archives | Alex Taylor</title>
+	<title>Conferences - Alex Taylor</title>
 	<atom:link href="http://ast.io/category/conferences/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</title>
 		<link>http://ast.io/workshop-cscw-global-labours/</link>
 					<comments>http://ast.io/workshop-cscw-global-labours/#respond</comments>
@@ -33,10 +30,7 @@
 		<category><![CDATA[cscw]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5878</guid>
 
-					<description><![CDATA[<p>Excited to announce #CSCW2021 workshop: “Global Labours of AI and Data Intensive Systems”.Will provide opportunities to discuss hidden labours behind AI + set the stage for critical modes of inquiry. Texts, pictorials, tik-tok vids, etc. due 15 Sep.See: https://t.co/EsVXAAGhPX pic.twitter.com/YJlrKHSF7A — Alex Taylor (@alxndrt) August 16, 2021 [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/workshop-cscw-global-labours/">Read More...<span class="screen-reader-text"> from Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/workshop-cscw-global-labours/">Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Excited to announce #CSCW2021 workshop: “Global Labours of AI and Data Intensive Systems”.Will provide opportunities to discuss hidden labours behind AI + set the stage for critical modes of inquiry. Texts, pictorials, tik-tok vids, etc. due 15 Sep.See: https://t.co/EsVXAAGhPX pic.twitter.com/YJlrKHSF7A — Alex Taylor (@alxndrt) August 16, 2021 [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/workshop-cscw-global-labours/">Read More...<span class="screen-reader-text"> from Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-1 col-md-3">
 </div>
@@ -48,14 +42,13 @@
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/workshop-cscw-global-labours/">Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/workshop-cscw-global-labours/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5878</post-id>	</item>
+			</item>
 		<item>
 		<title>CSCW 2021 conference paper</title>
 		<link>http://ast.io/cscw-2021-conference-paper/</link>
@@ -69,10 +62,7 @@
 		<category><![CDATA[cscw]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5841</guid>
 
-					<description><![CDATA[<p>A CSCW conference paper from this year. Abstract Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/cscw-2021-conference-paper/">Read More...<span class="screen-reader-text"> from CSCW 2021 conference paper</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/cscw-2021-conference-paper/">CSCW 2021 conference paper</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[A CSCW conference paper from this year. Abstract Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/cscw-2021-conference-paper/">Read More...<span class="screen-reader-text"> from CSCW 2021 conference paper</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-12 col-md-8 my-3">A CSCW conference paper from this year.</div>
 <div class="col-12 col-md-7 my-4 offset-md-1">
@@ -81,18 +71,17 @@
 <div class="small"><strong><em>Abstract</em></strong><br>
 Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is also achieved by people with VI through interacting with others, such as in collaboration with sighted guides. Drawing on the concept of interdependence, this research presents a systematic analysis of sighted guiding partnerships. Using interaction analysis as our primary mode of data analysis, we conducted an empirical, qualitative study with 4 couples, each made up of person with a vision impairment and their sighted guide. Our results show how pairs used interactional resources such as turn-taking and body movements to both co-constitute a common space for navigation, and repair moments of rupture to this space. This work is used to present an exemplary case of interdependence and draws out implications for designing AI-enabled AT that shifts the emphasis away from independent navigation, and towards the carefully coordinated actions between people navigating together.</div>
 <div class="small"><strong><em><a class="download-link" title href="http://ast.io/download/5821/" rel="nofollow">
-	Interdependence in Action, CSCW 2021	(354 downloads)
+	Interdependence in Action, CSCW 2021	(356 downloads)
 </a></em></strong></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/cscw-2021-conference-paper/">CSCW 2021 conference paper</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/cscw-2021-conference-paper/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5841</post-id>	</item>
+			</item>
 		<item>
 		<title>CHI 2021 conference papers</title>
 		<link>http://ast.io/chi21-papers/</link>
@@ -106,10 +95,7 @@ Prior work on AI-enabled assistive technology (AT) for people with visual impair
 		<category><![CDATA[conference]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5833</guid>
 
-					<description><![CDATA[<p>Two papers at the CHI conference this year. Abstract The relationships that constitute the global industrial food system tend towards two dominant values that are creating unsustainable social and environmental inequalities. The first is a human-centered perspective on food that privileges humans over all other species. The second is a view of food as a [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi21-papers/">Read More...<span class="screen-reader-text"> from CHI 2021 conference papers</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/chi21-papers/">CHI 2021 conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Two papers at the CHI conference this year. Abstract The relationships that constitute the global industrial food system tend towards two dominant values that are creating unsustainable social and environmental inequalities. The first is a human-centered perspective on food that privileges humans over all other species. The second is a view of food as a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi21-papers/">Read More...<span class="screen-reader-text"> from CHI 2021 conference papers</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-12 col-md-8 my-3">Two papers at the CHI conference this year.</div>
 <div class="col-12 col-md-7 my-4">
@@ -119,7 +105,7 @@ Prior work on AI-enabled assistive technology (AT) for people with visual impair
 The relationships that constitute the global industrial food system tend towards two dominant values that are creating unsustainable social and environmental inequalities. The first is a human-centered perspective on food that privileges humans over all other species. The second is a view of food as a commodity to be traded for maximum economic value, rewarding a small number of shareholders. We present work that explores the unique algorithmic affordances of blockchain to create new types of value exchange and governance in the food system. We describe a project that used roleplay with urban agricultural communities to co-design blockchain-based food futures and explore the conditions for creating a thriving multispecies food commons. We discuss how the project helped rethink algorithmic food justice by reconfiguring more-than-human values and reconfiguring food as more-than-human commons. We also discuss some of the challenges and tensions arising from these explorations.
 </div>
 <div class="small"><strong><em><a class="download-link" title href="http://ast.io/download/5818/" rel="nofollow">
-	Algorithmic Food Justice, CHI 2021	(279 downloads)
+	Algorithmic Food Justice, CHI 2021	(281 downloads)
 </a></em></strong></div>
 </div>
 <div class="col-12 col-md-7 my-4 offset-md-2">
@@ -129,18 +115,17 @@ The relationships that constitute the global industrial food system tend towards
 AI technologies are often used to aid people in performing discrete tasks with well-defined goals (e.g., recognising faces in images). Emerging technologies that provide continuous, real-time information enable more open-ended AI experiences. In partnership with a blind child, we explore the challenges and opportunities of designing human-AI interaction for a system intended to support social sensemaking. Adopting a research-through-design perspective, we reflect upon working with the uncertain capabilities of AI systems in the design of this experience. We contribute: (i) a concrete example of an open-ended AI system that enabled a blind child to extend his own capabilities; (ii) an illustration of the delta between imagined and actual use, highlighting how capabilities derive from the human-AI interaction and not the AI system alone; and (iii) a discussion of design choices to craft an ongoing human-AI interaction that addresses the challenge of uncertain outputs of AI systems.
 </div>
 <div class="small"><strong><em><a class="download-link" title href="http://ast.io/download/5824/" rel="nofollow">
-	Social Sensemaking with AI, CHI 2021	(190 downloads)
+	Social Sensemaking with AI, CHI 2021	(192 downloads)
 </a></em></strong></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/chi21-papers/">CHI 2021 conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/chi21-papers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5833</post-id>	</item>
+			</item>
 		<item>
 		<title>Conference papers</title>
 		<link>http://ast.io/conference-papers-2020/</link>
@@ -155,10 +140,7 @@ AI technologies are often used to aid people in performing discrete tasks with w
 		<category><![CDATA[cscw]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5761</guid>
 
-					<description><![CDATA[<p>I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors. Abstract Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/conference-papers-2020/">Read More...<span class="screen-reader-text"> from Conference papers</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/conference-papers-2020/">Conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors. Abstract Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/conference-papers-2020/">Read More...<span class="screen-reader-text"> from Conference papers</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-12 col-md-8 my-3">I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors.</div>
 <div class="col-12 col-md-7 my-4">
@@ -167,7 +149,7 @@ AI technologies are often used to aid people in performing discrete tasks with w
 <div class="small"><strong><em>Abstract</em></strong><br>
 Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements such task-completion approaches by attending to the care work of access-the continual affective and emotional adjustments that people make by noticing and attending to one another. We explore how this work impacts encounters among people with and without vision impairments who complete tasks together. We find that bound up in attempts to get things done are concerns for one another and how well people are doing together. Reading this work through emerging disability studies and feminist STS scholarship, we account for two important forms of work that give rise to access: (1) mundane attunements and (2) non-innocent authorizations. Together these processes work as sensitizing concepts to help HCI scholars account for the ways that intelligent ATs both produce access while sometimes subverting people with disabilities.</div>
 <div class="small"><strong><em><a class="download-link" title="Version published" href="http://ast.io/download/5689/" rel="nofollow">
-	The care work of access, CHI 2020	(565 downloads)
+	The care work of access, CHI 2020	(567 downloads)
 </a></em></strong></div>
 </div>
 <div class="col-12 col-md-7 my-4 offset-md-2">
@@ -176,18 +158,17 @@ Current approaches to AI and Assistive Technology (AT) often foreground task com
 <div class="small"><strong>Abstract</strong><br>
 For individuals with mental illness, social media platforms are considered spaces for sharing and connection. However, not all expressions of mental illness are treated equally on these platforms. Different aggregates of human and technical control are used to report and ban content, accounts, and communities. Through two years of digital ethnography, including online observation and interviews, with people with eating disorders, we examine the experience of content moderation. We use a constructivist grounded theory approach to analysis that shows how practices of moderation across different platforms have particular consequences for members of marginalized groups, who are pressured to conform and compelled to resist. Above all, we argue that platform moderation is enmeshed with wider processes of conformity to specific versions of mental illness. Practices of moderation reassert certain bodies and experiences as ‘normal’ and valued, while rejecting others. At the same time, navigating and resisting these normative pressures further inscribes the marginal status of certain individuals. We discuss changes to the ways that platforms handle content related to eating disorders by drawing on the concept of multiplicity to inform design.</div>
 <div class="small"><strong><em><a class="download-link" title="Version published" href="http://ast.io/download/5716/" rel="nofollow">
-	Conformity of eating disorders, CSCW 2020	(529 downloads)
+	Conformity of eating disorders, CSCW 2020	(531 downloads)
 </a></em></strong></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/conference-papers-2020/">Conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/conference-papers-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5761</post-id>	</item>
+			</item>
 		<item>
 		<title>CHI Workshop</title>
 		<link>http://ast.io/chi19-workshop-paper/</link>
@@ -199,11 +180,8 @@ For individuals with mental illness, social media platforms are considered space
 		<category><![CDATA[Writing]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4804</guid>
 
-					<description><![CDATA[<p> [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi19-workshop-paper/">Read More...<span class="screen-reader-text"> from CHI Workshop</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/chi19-workshop-paper/">CHI Workshop</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[[raw] Very happy to have participated in the CHI ’19 conference workshop: Exploring the Intersection of Philosophy and HCI Ann Light and I wrote a short piece for the workshop: The Name of the Title is Hope ABSTRACT: This short piece, far too short for the space it demands, spins together a lively and unwieldy [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi19-workshop-paper/">Read More...<span class="screen-reader-text"> from CHI Workshop</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>[raw]</p>
 <div class="row">
 <div class="col-sm-9">
 <div>
@@ -223,7 +201,7 @@ For individuals with mental illness, social media platforms are considered space
 </div>
 </div>
 <div class="col-sm-12">
-<img src="https://i0.wp.com/ast.io/wp-content/uploads/2019/05/Multispecies-multiscalar-relations.png?w=640&#038;ssl=1" alt="Figure from paper: Figure 1: Multispecies, multiscalar relations." data-recalc-dims="1">
+<img src="http://ast.io/wp-content/uploads/2019/05/Multispecies-multiscalar-relations.png" alt="Figure from paper: Figure 1: Multispecies, multiscalar relations.">
 </div>
 <div class="col-sm-8 col-lg-6 mt-3">
 <div class="small">
@@ -234,15 +212,14 @@ For individuals with mental illness, social media platforms are considered space
 </div>
 </div>
 </div>
-
-</div></div><p>The post <a rel="nofollow" href="http://ast.io/chi19-workshop-paper/">CHI Workshop</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></content:encoded>
+<p>[/raw]</p>
+</div></div>]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/chi19-workshop-paper/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4804</post-id>	</item>
+			</item>
 		<item>
 		<title>EASST 2018 Presentation</title>
 		<link>http://ast.io/easst-2018-presentation/</link>
@@ -257,10 +234,7 @@ For individuals with mental illness, social media platforms are considered space
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4291</guid>
 
-					<description><![CDATA[<p>Abigail Durrant and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at EASST last week, in the fabulous Feminist Figures panel. Very excited to see @alxndrt and @abigail_durrant present today in #feministfigures you both rocked! Not my best pic of the day but I really wanted to show this slide with [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/easst-2018-presentation/">Read More...<span class="screen-reader-text"> from EASST 2018 Presentation</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/easst-2018-presentation/">EASST 2018 Presentation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Abigail Durrant and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at EASST last week, in the fabulous Feminist Figures panel. Very excited to see @alxndrt and @abigail_durrant present today in #feministfigures you both rocked! Not my best pic of the day but I really wanted to show this slide with [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/easst-2018-presentation/">Read More...<span class="screen-reader-text"> from EASST 2018 Presentation</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
 <div class="col-9 col-sm-9 col-md-5"><a href="https://twitter.com/abigail_durrant?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&amp;ref_url=https%3A%2F%2Ftwitter.com%2Fanotherwindle" rel="noopener noreferrer" target="_blank">Abigail Durrant</a> and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at <a href="https://easst.net/conferences/" rel="noopener noreferrer" target="_blank">EASST</a> last week, in the fabulous <a href="https://twitter.com/search?l=&amp;q=%23feministfigures%20since%3A2018-05-27%20until%3A2018-08-03&amp;src=typd&amp;lang=en-gb" rel="noopener noreferrer" target="_blank">Feminist Figures</a> panel.</div>
 <div class="small col-9 col-sm-9 col-md-7">
@@ -286,14 +260,13 @@ Hustak, C. and Myers, N., 2012. Involutionary momentum: Affective ecologies and 
 Keller, E.F., 2009. Making sense of life: Explaining biological development with models, metaphors, and machines. Harvard University Press.
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/easst-2018-presentation/">EASST 2018 Presentation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/easst-2018-presentation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4291</post-id>	</item>
+			</item>
 		<item>
 		<title>Papers presented at CHI ’18</title>
 		<link>http://ast.io/papers-chi-2018/</link>
@@ -308,32 +281,26 @@ Keller, E.F., 2009. Making sense of life: Explaining biological development with
 		<category><![CDATA[HCI]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4104</guid>
 
-					<description><![CDATA[<p>Delighted to see the two great papers I contributed to being presented at CHI 2018 in Montreal. Award winning paper talk about chatbots and race. — RW pic.twitter.com/C4rClKRzf1 — ACM CHI Conference (@sig_chi) April 24, 2018 Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) Lets Talk about Race: Identity, Chatbots, and AI. In Proceedings CHI [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/papers-chi-2018/">Read More...<span class="screen-reader-text"> from Papers presented at CHI ’18</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/papers-chi-2018/">Papers presented at CHI ’18</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Delighted to see the two great papers I contributed to being presented at CHI 2018 in Montreal. Award winning paper talk about chatbots and race. — RW pic.twitter.com/C4rClKRzf1 — ACM CHI Conference (@sig_chi) April 24, 2018 Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) Lets Talk about Race: Identity, Chatbots, and AI. In Proceedings CHI [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/papers-chi-2018/">Read More...<span class="screen-reader-text"> from Papers presented at CHI ’18</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Delighted to see the two great papers I contributed to being presented at CHI 2018 in Montreal.</p>
 <blockquote class="twitter-tweet" data-lang="en">
 <p lang="en" dir="ltr">Award winning paper talk about chatbots and race. — RW <a href="https://t.co/C4rClKRzf1">pic.twitter.com/C4rClKRzf1</a></p>
 <p>— ACM CHI Conference (@sig_chi) <a href="https://twitter.com/sig_chi/status/988875868914290688?ref_src=twsrc%5Etfw">April 24, 2018</a></p></blockquote>
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p style="margin:1rem 30% 0 0">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip0_6244_anchor"></a></p>
-<p><span class="entry-meta"><a href="http://ast.io/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1275 downloads)</span>
+<p style="margin:1rem 30% 0 0">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. [tippy title=“Abstract” showtitle=“false”]<strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?[/tippy]</p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1277 downloads)</span>
 </p><blockquote class="twitter-tweet" data-lang="en">
 <p lang="en" dir="ltr">Anja <a href="https://twitter.com/anja_thieme?ref_src=twsrc%5Etfw">@anja_thieme</a> doing a fab job presenting all the months of time and thought we’ve put into an expansive idea of capability <a href="https://twitter.com/hashtag/chi2018?src=hash&amp;ref_src=twsrc%5Etfw">#chi2018</a> <a href="https://twitter.com/MSFTResearch?ref_src=twsrc%5Etfw">@MSFTResearch</a> <a href="https://twitter.com/MSFTResearchCam?ref_src=twsrc%5Etfw">@MSFTResearchCam</a> <a href="https://t.co/fZ5SdpGFh5">pic.twitter.com/fZ5SdpGFh5</a></p>
 <p>— Alex Taylor (@alxndrt) <a href="https://twitter.com/alxndrt/status/988857696085528576?ref_src=twsrc%5Etfw">April 24, 2018</a></p></blockquote>
-<p style="margin:1rem 30% 0 0">Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip1_4738_anchor"></a></p>
-<p><span class="entry-meta"><a href="http://ast.io/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (873 downloads)</span></p>
-<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip0_6244_anchor"><strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?</div>
-<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip1_4738_anchor"><strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/papers-chi-2018/">Papers presented at CHI ’18</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+<p style="margin:1rem 30% 0 0">Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. [tippy title=“Abstract” showtitle=“false”]<strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.[/tippy]</p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (875 downloads)</span></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/papers-chi-2018/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4104</post-id>	</item>
+			</item>
 		<item>
 		<title>CHI 2018 papers.</title>
 		<link>http://ast.io/chi-2018-papers/</link>
@@ -349,29 +316,23 @@ Keller, E.F., 2009. Making sense of life: Explaining biological development with
 		<category><![CDATA[intelligence]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3871</guid>
 
-					<description><![CDATA[<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) “I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts. In Proceedings CHI ’18. ACM Press. ( downloads) Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) Lets Talk about Race: Identity, Chatbots, and AI. [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi-2018-papers/">Read More...<span class="screen-reader-text"> from CHI 2018 papers.</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/chi-2018-papers/">CHI 2018 papers.</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) “I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts. In Proceedings CHI ’18. ACM Press. [tippy title=“Abstract” showtitle=“false”]Abstract — This research takes an orientation to visual impairment (VI) that does not regard it [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi-2018-papers/">Read More...<span class="screen-reader-text"> from CHI 2018 papers.</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="call-out">
-<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip2_7205_anchor"></a></p>
-<p><span class="entry-meta"><a href="http://ast.io/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (873 downloads)</span></p>
-<p style="margin-top:6rem">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip3_9433_anchor"></a></p>
-<p><span class="entry-meta"><a href="http://ast.io/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1275 downloads)</span></p></div>
+<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. [tippy title=“Abstract” showtitle=“false”]<strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.[/tippy]</p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (875 downloads)</span></p>
+<p style="margin-top:6rem">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. [tippy title=“Abstract” showtitle=“false”]<strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?[/tippy]</p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1277 downloads)</span></p></div>
 <div class="left-of-call-out">
 <p>Very happy to have contributed to two papers being presented at the upcoming <a href="https://chi2018.acm.org/" rel="noopener noreferrer" target="_blank">CHI conference</a> this year. One reports on work with the blind and vision impaired a few of us have been involved in different ways (see <a href="http://ast.io/research/#capability" rel="noopener">here</a>). Broadly, we’ve used the piece to reflect on the relations between vision impairment and artificial intelligence, and set out directions for a possible design space.</p>
 <p style="margin:3rem 0 2rem 0;">The second paper picks up on a new theme for me, but one closely related to past reflections and design work around <a href="http://ast.io/research/#intelauto">machine intelligence</a>. With the fantastic <a href="http://arischlesinger.com/" rel="noopener noreferrer" target="_blank">Ari Schlesinger</a> (GA Tech) leading the research, we examine the challenges faced in handling race talk (and racism) in human-bot interactions. Taking both Tai AI and the blacklist as starting points, we take seriously the computational underpinnings of chat bots and conversational agents, to underscore the role they have in sustaining troubling racial categories and the conditions they make possible for more just and equitable ways forward.</p>
 </div>
-<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip2_7205_anchor"><strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.</div>
-<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip3_9433_anchor"><strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?</div>
-<p>The post <a rel="nofollow" href="http://ast.io/chi-2018-papers/">CHI 2018 papers.</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/chi-2018-papers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3871</post-id>	</item>
+			</item>
 		<item>
 		<title>Paper presented at Assets</title>
 		<link>http://ast.io/assets-2017/</link>
@@ -386,24 +347,20 @@ Keller, E.F., 2009. Making sense of life: Explaining biological development with
 		<category><![CDATA[blind and vision impaired]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3805</guid>
 
-					<description><![CDATA[<p>I’m very happy to have been a part of the work leading up to a paper presented at Assets 2017, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired. Cecily Morrison, Edward Cutrell, [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/assets-2017/">Read More...<span class="screen-reader-text"> from Paper presented at Assets</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/assets-2017/">Paper presented at Assets</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I’m very happy to have been a part of the work leading up to a paper presented at Assets 2017, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired. Cecily Morrison, Edward Cutrell, [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/assets-2017/">Read More...<span class="screen-reader-text"> from Paper presented at Assets</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>I’m very happy to have been a part of the work leading up to a paper presented at <a href="https://assets17.sigaccess.org/" rel="noopener noreferrer" target="_blank">Assets 2017</a>, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired.</p>
 <blockquote class="small"><p>Cecily Morrison, Edward Cutrell, Anupama Dhareshwar, Kevin Doherty, Anja Thieme, and Alex Taylor. 2017. <strong>Imagining Artificial Intelligence Applications with People with Visual Disabilities using Tactile Ideation</strong>. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (<em>ASSETS ’17</em>). ACM, New York, NY, USA, 81–90. <a href="https://doi.org/10.1145/3132525.3132530" rel="noopener noreferrer" target="_blank">DOI</a>.</p></blockquote>
 <p><span id="more-3805"></span></p>
 <blockquote><p><strong>ABSTRACT</strong><br>
 There has been a surge in artificial intelligence (AI) technologies co-opted by or designed for people with visual disabilities. Researchers and engineers have pushed technical boundaries in areas such as computer vision, natural language processing, location inference, and wearable computing. But what do people with visual disabilities imagine as their own technological future? To explore this question, we developed and carried out tactile ideation workshops with participants in the UK and India. Our participants generated a large and diverse set of ideas, most focusing on ways to meet needs related to social interaction. In some cases, this was a matter of recognizing people. In other cases, they wanted to be able to participate in social situations without foregrounding their disability. It was striking that this finding was consistent across UK and India despite substantial cultural and infrastructural differences. In this paper, we describe a new technique for working with people with visual disabilities to imagine new technologies that are tuned to their needs and aspirations. Based on our experience with these workshops, we provide a set of social dimensions to consider in the design of new AI technologies: social participation, social navigation, social maintenance, and social independence. We offer these social dimensions as a starting point to forefront users’ social needs and desires as a more deliberate consideration for assistive technology design.</p></blockquote>
 <p>Download a copy of the paper <a href="http://ast.io/download/3684/" rel="noopener noreferrer" target="_blank">here</a>.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/assets-2017/">Paper presented at Assets</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/assets-2017/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3805</post-id>	</item>
+			</item>
 		<item>
 		<title>Paper at 4S 2017</title>
 		<link>http://ast.io/4s-acceptance-2017/</link>
@@ -418,25 +375,20 @@ There has been a surge in artificial intelligence (AI) technologies co-opted by 
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3288</guid>
 
-					<description><![CDATA[<p>I’m thrilled to have our paper submission accepted to the . Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston. A care for beingmore (cap-)able Cynthia Bennett and Alex Taylor In this paper, we begin with Ingunn Moser’s and Maria Puig de la [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/4s-acceptance-2017/">Read More...<span class="screen-reader-text"> from Paper at 4S 2017</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/4s-acceptance-2017/">Paper at 4S 2017</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>I’m thrilled to have our paper submission accepted to the <a id="tippy_tip4_1889_anchor"></a>. Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston.</p>
+					<description><![CDATA[I’m thrilled to have our paper submission accepted to the [tippy title=“4S 2017 annual meeting” showheader=“false”]4S is the Society for the Social Studies of Science. The annual meeting details are here.[/tippy]. Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston. A care for [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/4s-acceptance-2017/">Read More...<span class="screen-reader-text"> from Paper at 4S 2017</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I’m thrilled to have our paper submission accepted to the [tippy title=“4S 2017 annual meeting”  showheader=“false”]4S is the <a href="http://www.4sonline.org/" target="_blank" rel="noopener noreferrer">Society for the Social Studies of Science</a>. The annual meeting details are <a href="http://www.4sonline.org/meeting" target="_blank" rel="noopener noreferrer">here</a>.[/tippy]. Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston.</p>
 <div class="highlight" style="font-size:325%">A care for being<br>more (cap-)able</div>
 <p><em>Cynthia Bennett and Alex Taylor</em></p>
 <blockquote><p>In this paper, we begin with Ingunn Moser’s and Maria Puig de la Bellacasa’s generative notions of care and use them to expand how we understand capability. Drawing on fieldwork with blind and vision impaired people, we turn our attention to a materially enacted, unfolding ‘sense-ability’. This is a sensing that puts (cap)ability and care together, that understands ‘seeing-in-the-world’ as a practical affair that is, at once, knowing, effecting and affecting with others (humans or otherwise). Thus, we show not only that care can contest an ‘instrumentalism’ in forms of knowing and doing—by ‘re-affecting objectified worlds’ (Puig de la Bellacasa, 2011: 98)—but also give a greater clarity to how care can be, in practice, entangled in practice. This sense-ability seeks to be active, enlivening how we become capable; it is figured to be worked with, not finite and dictated by assumed bodily limits, but open to becoming-with and becoming-more. Borrowing from Vinciane Despret, this sense-ability is “to gain a body that does more things, that feels other events, and that is more and more able…” (2004: 120).</p></blockquote>
 <blockquote style="font-size:smaller"><p>Despret, V. (2004). <a href="http://journals.sagepub.com/doi/abs/10.1177/1357034X04042938" target="_blank" rel="noopener noreferrer">The Body We Care For: Figures of Anthropo-zoo-genesis</a>. <em>Body &amp; Society</em>, 10(2–3), 111–134.<br>
 Moser, I. (2011). <a href="http://journals.sagepub.com/doi/abs/10.1177/0162243910396349" target="_blank" rel="noopener noreferrer">Dementia and the Limits to Life</a>. ST&amp;HV, 36(5), 704–722.<br>
 Puig de la Bellacasa, M. (2011). <a href="http://journals.sagepub.com/doi/abs/10.1177/0306312710380301" target="_blank" rel="noopener noreferrer">Matters of Care in Technoscience. Social Studies of Science</a>, 41(1), 85–106.</p></blockquote>
-<div class="tippy" data-title="4S 2017 annual meeting" data-showheader="false" data-anchor="#tippy_tip4_1889_anchor">4S is the <a href="http://www.4sonline.org/" target="_blank" rel="noopener noreferrer">Society for the Social Studies of Science</a>. The annual meeting details are <a href="http://www.4sonline.org/meeting" target="_blank" rel="noopener noreferrer">here</a>.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/4s-acceptance-2017/">Paper at 4S 2017</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/4s-acceptance-2017/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3288</post-id>	</item>
+			</item>
 	</channel>
 </rss>

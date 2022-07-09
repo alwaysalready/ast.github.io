@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>data Archives | Alex Taylor</title>
+	<title>data - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/data/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Data Bodies, Social Objects: S1 Art Space Sheffield</title>
 		<link>http://ast.io/data-bodies-social-objects/</link>
 					<comments>http://ast.io/data-bodies-social-objects/#respond</comments>
@@ -34,18 +31,15 @@
 		<category><![CDATA[data]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5581</guid>
 
-					<description><![CDATA[<p>So grateful to Ilona Sagar for inviting me to join her at Park Hill’s S1 Artspace, in Sheffield. Laura Vaughan and I had the opportunity to respond to her thought provoking film Deep Structure, in a conversation title “Data Bodies, Social Objects”. Fantastic talk from our ‘Data Bodies, Social Objects’ panel on Wednesday AND a [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-bodies-social-objects/">Read More...<span class="screen-reader-text"> from Data Bodies, Social Objects: S1 Art Space Sheffield</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/data-bodies-social-objects/">Data Bodies, Social Objects: S1 Art Space Sheffield</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[So grateful to Ilona Sagar for inviting me to join her at Park Hill’s S1 Artspace, in Sheffield. Laura Vaughan[foot]Laura Vaughan’s blog post sets the scene for our conversation.[/foot] and I had the opportunity to respond to her thought provoking film Deep Structure, in a conversation title “Data Bodies, Social Objects”. Fantastic talk from our [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-bodies-social-objects/">Read More...<span class="screen-reader-text"> from Data Bodies, Social Objects: S1 Art Space Sheffield</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-11 col-md-10 mt-2">
-<a href="https://www.s1artspace.org/programme/ilona-sagar-deep-structure/"><img class="wp-image-5585 size-full" src="https://i0.wp.com/ast.io/wp-content/uploads/2019/12/f07bbc1e-8583-44a6-8584-378e52c8bcc7.gif?resize=640%2C360&#038;ssl=1" alt="Short clip - Ilona Sagar's film Deep Structure" width="640" height="360"  data-recalc-dims="1"></a>
+<a href="https://www.s1artspace.org/programme/ilona-sagar-deep-structure/"><img class="wp-image-5585 size-full" src="http://ast.io/wp-content/uploads/2019/12/f07bbc1e-8583-44a6-8584-378e52c8bcc7.gif" alt="Short clip - Ilona Sagar's film Deep Structure" width="800" height="450"></a>
 </div>
 </div>
 <div class="row">
 <div class="col-sm-11 col-md-4 mt-5">
-So grateful to <a href="https://www.ilonasagar.com/" target="_blank" rel="noopener noreferrer">Ilona Sagar</a> for inviting me to join her at Park Hill’s <a href="https://www.s1artspace.org/" target="_blank" rel="noopener noreferrer">S1 Artspace</a>, in Sheffield. <a href="https://twitter.com/urban_formation" target="_blank" rel="noopener noreferrer">Laura Vaughan</a><a id="tippy_tip0_8049_anchor"></a> and I had the opportunity to respond to her thought provoking film <a href="https://www.s1artspace.org/programme/ilona-sagar-deep-structure/" target="_blank" rel="noopener noreferrer">Deep Structure</a>, in a conversation title “Data Bodies, Social Objects”.</div>
+So grateful to <a href="https://www.ilonasagar.com/" target="_blank" rel="noopener noreferrer">Ilona Sagar</a> for inviting me to join her at Park Hill’s <a href="https://www.s1artspace.org/" target="_blank" rel="noopener noreferrer">S1 Artspace</a>, in Sheffield. <a href="https://twitter.com/urban_formation" target="_blank" rel="noopener noreferrer">Laura Vaughan</a>[foot]Laura Vaughan’s <a href="https://urbanformation.wordpress.com/2019/11/20/park-hill-and-the-architecture-of-community/" rel="noopener noreferrer" target="_blank">blog post</a> sets the scene for our conversation.[/foot] and I had the opportunity to respond to her thought provoking film <a href="https://www.s1artspace.org/programme/ilona-sagar-deep-structure/" target="_blank" rel="noopener noreferrer">Deep Structure</a>, in a conversation title “Data Bodies, Social Objects”.</div>
 <div class="col-sm-11 col-md-6 mt-4">
 <blockquote class="twitter-tweet">
 <p dir="ltr" lang="en">Fantastic talk from our ‘Data Bodies, Social Objects’ panel on Wednesday AND a fantastic turn out! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44f.png" alt="👏" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f44f.png" alt="👏" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
@@ -55,15 +49,13 @@ So grateful to <a href="https://www.ilonasagar.com/" target="_blank" rel="noopen
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p></div>
 </div>
-<div class="tippy" data-title="1" data-href="http://ast.io/data-bodies-social-objects/#foot_text_5581_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_5581_1" data-showheader data-anchor="#tippy_tip0_8049_anchor">Laura Vaughan’s <a href="https://urbanformation.wordpress.com/2019/11/20/park-hill-and-the-architecture-of-community/" rel="noopener noreferrer" target="_blank">blog post</a> sets the scene for our conversation.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/data-bodies-social-objects/">Data Bodies, Social Objects: S1 Art Space Sheffield</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/data-bodies-social-objects/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5581</post-id>	</item>
+			</item>
 		<item>
 		<title>Cycling on up</title>
 		<link>http://ast.io/cycling-on-up/</link>
@@ -77,10 +69,7 @@ So grateful to <a href="https://www.ilonasagar.com/" target="_blank" rel="noopen
 		<category><![CDATA[slavery]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4297</guid>
 
-					<description><![CDATA[<p>I’ve been continuing with my experimentations and thoughts on cycling, and in particular extending my reflections on my first ‘Boris Bike’ journey recorded in 2014 (see this chapter). There’ll hopefully be more to come in the coming months that tie together the space-times I traversed&#160;with other records and different accounts. A video captured using the [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/cycling-on-up/">Read More...<span class="screen-reader-text"> from Cycling on up</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/cycling-on-up/">Cycling on up</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I’ve been continuing with my experimentations and thoughts on cycling, and in particular extending my reflections on my first ‘Boris Bike’ journey recorded in 2014 (see this chapter). There’ll hopefully be more to come in the coming months that tie together the space-times I traversed&#160;with other records and different accounts. A video captured using the [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/cycling-on-up/">Read More...<span class="screen-reader-text"> from Cycling on up</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 2rem;">
 <div class="col-9 col-sm-9 col-md-5">I’ve been continuing with my experimentations and thoughts on cycling, and in particular extending my reflections on my first ‘Boris Bike’ journey recorded in 2014 (see this <a href="http://ast.io/download/1702/?version=proof" target="_blank" rel="noopener noreferrer">chapter</a>). There’ll hopefully be more to come in the coming months that tie together the space-times I traversed&nbsp;with other records and different accounts.</div>
 <div class="small col-9 col-sm-9 col-md-7">
@@ -91,46 +80,45 @@ So grateful to <a href="https://www.ilonasagar.com/" target="_blank" rel="noopen
 </div>
 <p><span id="more-4297"></span></p>
 <div class="row" style="margin-bottom: 2rem;">
-<div class="small col-9 col-sm-9 col-md-5"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/My-entry-on-airtable.png?ssl=1"><img loading="lazy" class="aligncenter wp-image-4305 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/My-entry-on-airtable.png?resize=640%2C447&#038;ssl=1" alt width="640" height="447"  data-recalc-dims="1"></a>Table of bike journeys on 3 Oct 2014. My journey from <a href="https://goo.gl/maps/DYfqjF5yv1m" target="_blank" rel="noopener noreferrer">Aberfeldy Street</a> to <a href="https://goo.gl/maps/dN8rK1Q7s172" target="_blank" rel="noopener noreferrer">Bow</a> is highlighted.</div>
+<div class="small col-9 col-sm-9 col-md-5"><a href="http://ast.io/wp-content/uploads/2018/08/My-entry-on-airtable.png"><img loading="lazy" class="aligncenter wp-image-4305 size-large" src="http://ast.io/wp-content/uploads/2018/08/My-entry-on-airtable-1024x715.png" alt width="640" height="447"></a>Table of bike journeys on 3 Oct 2014. My journey from <a href="https://goo.gl/maps/DYfqjF5yv1m" target="_blank" rel="noopener noreferrer">Aberfeldy Street</a> to <a href="https://goo.gl/maps/dN8rK1Q7s172" target="_blank" rel="noopener noreferrer">Bow</a> is highlighted.</div>
 <div class="small col-9 col-sm-9 col-md-7"></div>
 </div>
 <div class="row" style="margin-bottom: 2rem;">
 <div class="small col-9 col-sm-9 col-md-5"></div>
-<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/2014-rentals-per-day/" rel="attachment wp-att-4304"><img loading="lazy" class="aligncenter wp-image-4304 size-large" style="margin-top: 3rem;" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/2014-Rentals-per-day.png?resize=640%2C237&#038;ssl=1" alt="My entry in table of bike data" width="640" height="237"  data-recalc-dims="1"></a>Graph of bike hires per day in 2014. Oct 3, the day of my journey is highlighted in green.</div>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/2014-rentals-per-day/" rel="attachment wp-att-4304"><img loading="lazy" class="aligncenter wp-image-4304 size-large" style="margin-top: 3rem;" src="http://ast.io/wp-content/uploads/2018/08/2014-Rentals-per-day-1024x379.png" alt="My entry in table of bike data" width="640" height="237"></a>Graph of bike hires per day in 2014. Oct 3, the day of my journey is highlighted in green.</div>
 </div>
 <div class="row" style="margin-bottom: 2rem;">
 <div class="small col-9 col-sm-9 col-md-5"></div>
-<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/journey-duration-for-3-oct-2014/" rel="attachment wp-att-4316"><img loading="lazy" class="aligncenter wp-image-4316 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Journey-duration-for-3-Oct-2014.png?resize=640%2C150&#038;ssl=1" alt width="640" height="150"  data-recalc-dims="1"></a><br>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/journey-duration-for-3-oct-2014/" rel="attachment wp-att-4316"><img loading="lazy" class="aligncenter wp-image-4316 size-large" src="http://ast.io/wp-content/uploads/2018/08/Journey-duration-for-3-Oct-2014-1024x240.png" alt width="640" height="150"></a><br>
 Graph of number of rides against duration on 3 Oct. My journey was 45, highlighted in green.</div>
 </div>
 <div class="row" style="margin-bottom: 4rem;">
 <div class="small col-9 col-sm-9 col-md-5"></div>
-<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/hrv/" rel="attachment wp-att-4317"><img loading="lazy" class="aligncenter wp-image-4317 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/HRV.jpg?resize=640%2C149&#038;ssl=1" alt width="640" height="149"  data-recalc-dims="1"></a><br>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/hrv/" rel="attachment wp-att-4317"><img loading="lazy" class="aligncenter wp-image-4317 size-large" src="http://ast.io/wp-content/uploads/2018/08/HRV-1024x238.jpg" alt width="640" height="149"></a><br>
 My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank" rel="noopener noreferrer">heart rate variability</a> (HRV) over the course of the bike ride.</div>
 </div>
 <div class="row" style="margin-bottom: 2rem;">
-<div class="small col-9 col-sm-9 col-md-5"><a href="http://ast.io/cycling-on-up/census/" rel="attachment wp-att-4322"><img loading="lazy" style="margin-botom:1rem;" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Census.jpg?resize=640%2C353&#038;ssl=1" alt width="640" height="353" class="aligncenter size-large wp-image-4322" data-recalc-dims="1"></a>
+<div class="small col-9 col-sm-9 col-md-5"><a href="http://ast.io/cycling-on-up/census/" rel="attachment wp-att-4322"><img loading="lazy" style="margin-botom:1rem;" src="http://ast.io/wp-content/uploads/2018/08/Census-1024x564.jpg" alt width="640" height="353" class="aligncenter size-large wp-image-4322"></a>
 <p style="margin-top:1rem">1851 Census record of Plaistow households, including household of Elizabeth Frances Ireland.</p>
 </div>
-<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/elizabeth-ireland-in-census/" rel="attachment wp-att-4325"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Elizabeth-Ireland-in-Census.jpg?resize=640%2C360&#038;ssl=1" alt width="640" height="360" class="aligncenter size-large wp-image-4325" data-recalc-dims="1"></a>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/elizabeth-ireland-in-census/" rel="attachment wp-att-4325"><img loading="lazy" src="http://ast.io/wp-content/uploads/2018/08/Elizabeth-Ireland-in-Census-1024x576.jpg" alt width="640" height="360" class="aligncenter size-large wp-image-4325"></a>
 <p style="margin-top:1rem">Highlight of Elizabeth Frances Ireland in 1851 Census record of Plaistow households.</p>
 </div>
 </div>
 <div class="row" style="margin-bottom: 2rem;">
 <div class="small col-9 col-sm-9 col-md-5"></div>
 <div class="small col-9 col-sm-9 col-md-7">
-<a href="http://ast.io/cycling-on-up/prospect-house-plaistow/" rel="attachment wp-att-4326"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Prospect-House-Plaistow.jpg?resize=640%2C334&#038;ssl=1" alt width="640" height="334" class="aligncenter size-large wp-image-4326" data-recalc-dims="1"></a>
+<a href="http://ast.io/cycling-on-up/prospect-house-plaistow/" rel="attachment wp-att-4326"><img loading="lazy" src="http://ast.io/wp-content/uploads/2018/08/Prospect-House-Plaistow-1024x535.jpg" alt width="640" height="334" class="aligncenter size-large wp-image-4326"></a>
 <p style="margin-top:1rem">Estimated location of Prospect Fram, where Elizabeth Frances Ireland’s home is recorded in the 1851 Census — intersecting with my cycle route.</p>
 </div>
 </div>
 <div class="row mb-5">
 <div class="small col-9 col-sm-9 col-md-5">
-<a href="http://ast.io/cycling-on-up/claimants-with-frances-ireland-on-airtable/" rel="attachment wp-att-4328"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Claimants-with-Frances-Ireland-on-airtable.png?resize=640%2C883&#038;ssl=1" alt width="640" height="883" class="aligncenter size-large wp-image-4328" data-recalc-dims="1"></a>
+<a href="http://ast.io/cycling-on-up/claimants-with-frances-ireland-on-airtable/" rel="attachment wp-att-4328"><img loading="lazy" src="http://ast.io/wp-content/uploads/2018/08/Claimants-with-Frances-Ireland-on-airtable-742x1024.png" alt width="640" height="883" class="aligncenter size-large wp-image-4328"></a>
 <p>One Elizabeth Frances Ireland, beneficiary claimant to the <a href="https://www.ucl.ac.uk/lbs/claim/view/14634" rel="noopener noreferrer" target="_blank">Woodstock Plantation</a>, St Ann, Jamaica, awarded compensation for enslaved people (see Legacies of <a href="https://www.ucl.ac.uk/lbs/person/view/2146631150" rel="noopener noreferrer" target="_blank">British Slave-ownership archive</a>).</p>
 </div>
 <div class="small col-9 col-sm-9 col-md-7"></div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/cycling-on-up/">Cycling on up</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/cycling-on-up/feed/</wfw:commentRss>
@@ -147,7 +135,7 @@ My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank
 <enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
 <enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
 
-		<post-id xmlns="com-wordpress:feed-additions:1">4297</post-id>	</item>
+			</item>
 		<item>
 		<title>Newcastle APL Talk</title>
 		<link>http://ast.io/newcastle-apl-talk/</link>
@@ -163,10 +151,7 @@ My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank
 		<category><![CDATA[slavery]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4235</guid>
 
-					<description><![CDATA[<p>Talking to the good people at Newcastle’s School of Architecture, Planning &#38; Landscape (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations. Living Fruitfully in/with the conditions of (im-) possibilty ABSTRACT In this talk, I want to revisit a piece I wrote in 2016. [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/newcastle-apl-talk/">Read More...<span class="screen-reader-text"> from Newcastle APL Talk</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/newcastle-apl-talk/">Newcastle APL Talk</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Talking to the good people at Newcastle’s School of Architecture, Planning &#38; Landscape (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations. Living Fruitfully in/with the conditions of (im-) possibilty ABSTRACT In this talk, I want to revisit a piece I wrote in 2016. [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/newcastle-apl-talk/">Read More...<span class="screen-reader-text"> from Newcastle APL Talk</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
 <div class="col-9 col-sm-9 col-md-5">Talking to the good people at Newcastle’s <a href="https://www.ncl.ac.uk/apl/" rel="noopener noreferrer" target="_blank">School of Architecture, Planning &amp; Landscape</a> (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations.<br>
 <p class="highlight"><a href="https://www.ncl.ac.uk/apl/events/seminars/#d.en.740154" rel="noopener noreferrer" target="_blank">Living Fruitfully in/with the conditions of (im-) possibilty</a></p>
@@ -177,14 +162,13 @@ My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank
 <p>Reflecting on this work, I’ve felt a dissatisfaction with my efforts to throw together mixtures of data at all scales, with the attempts at thickening and enlivening the relations. It all felt too flat, too lacking in vitality. So, at the risk of appearing self indulgent, this talk will present some early ideas for a different story woven in and through the thicket of relations. Struggling to weave myself into London’s legacy with slavery and the violent erasures of bodies and agency (Hartman 2008), I’ll be trying to place myself at a much more fragile and tenuous juncture of space-time, but at the same time still seeking to work fruitfully in/with the conditions of (im-)possibility.</p>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/newcastle-apl-talk/">Newcastle APL Talk</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/newcastle-apl-talk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4235</post-id>	</item>
+			</item>
 		<item>
 		<title>Experiments in collective counting</title>
 		<link>http://ast.io/collective-counting/</link>
@@ -198,29 +182,24 @@ My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank
 		<category><![CDATA[data]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4176</guid>
 
-					<description><![CDATA[<p>I’m really happy to have a short piece by me and Clara Crivellaro included in the publication “Self-Service”, a collection of contributions responding to . Kirsty Hendry and Ilona Sagar produced the publication which was exhibited alongside their film screening at the Glasgow International Festival. In “Experiments in collective counting”, Clara and I write about [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/collective-counting/">Read More...<span class="screen-reader-text"> from Experiments in collective counting</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/collective-counting/">Experiments in collective counting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I’m really happy to have a short piece by me and Clara Crivellaro included in the publication “Self-Service”, a collection of contributions responding to [tippy title=“The Peckham Experiment” showtitle=“false”]The Peckham Experiment was a social experiment targeting health. The Pioneer Health Foundation, the legacy to the experiment, describes it as “an investigation into the nature of [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/collective-counting/">Read More...<span class="screen-reader-text"> from Experiments in collective counting</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
-<div class="col-9 col-sm-6 col-md-5"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-1.jpg?ssl=1"><img loading="lazy" class="aligncenter wp-image-4190 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-1.jpg?resize=640%2C977&#038;ssl=1" alt="Photo of contributions to self-service publication." width="640" height="977"  data-recalc-dims="1"></a></div>
+<div class="col-9 col-sm-6 col-md-5"><a href="http://ast.io/wp-content/uploads/2018/06/self-service-1.jpg"><img loading="lazy" class="aligncenter wp-image-4190 size-large" src="http://ast.io/wp-content/uploads/2018/06/self-service-1-671x1024.jpg" alt="Photo of contributions to self-service publication." width="640" height="977"></a></div>
 <div class="col-xs-6 col-sm-6 col-md-7"></div>
 </div>
-<p>I’m really happy to have a short piece by me and <a href="https://openlab.ncl.ac.uk/people/b2052334" rel="noopener noreferrer" target="_blank">Clara Crivellaro</a> included in the publication “Self-Service”, a collection of contributions responding to <a id="tippy_tip1_8592_anchor"></a>. <a href="https://www.rca.ac.uk/students/kirsty-hendry/" target="_blank" rel="noopener noreferrer">Kirsty Hendry</a> and <a href="https://www.ilonasagar.com/" target="_blank" rel="noopener noreferrer">Ilona Sagar</a> produced the publication which was exhibited alongside their <a href="http://glasgowinternational.org/events/kirsty-hendry-ilona-sagar-2/" target="_blank" rel="noopener noreferrer">film screening</a> at the <a href="http://glasgowinternational.org/events/kirsty-hendry-ilona-sagar/" target="_blank" rel="noopener noreferrer">Glasgow International Festival</a>.</p>
+<p>I’m really happy to have a short piece by me and <a href="https://openlab.ncl.ac.uk/people/b2052334" rel="noopener noreferrer" target="_blank">Clara Crivellaro</a> included in the publication “Self-Service”, a collection of contributions responding to [tippy title=“<em>The Peckham Experiment</em>” showtitle=“false”]<strong>The Peckham Experiment</strong> was a social experiment targeting health. The Pioneer Health Foundation, the legacy to the experiment, describes it as “an investigation into the nature of health.” From 1926 to 1950 it was based in Peckham, south London at the Pioneer Health Centre. For more information visit the Pioneer Health Foundation <a href="http://thephf.org/peckhamexperiment" target="_blank" rel="noopener noreferrer"> website</a>.[/tippy]. <a href="https://www.rca.ac.uk/students/kirsty-hendry/" target="_blank" rel="noopener noreferrer">Kirsty Hendry</a> and <a href="https://www.ilonasagar.com/" target="_blank" rel="noopener noreferrer">Ilona Sagar</a> produced the publication which was exhibited alongside their <a href="http://glasgowinternational.org/events/kirsty-hendry-ilona-sagar-2/" target="_blank" rel="noopener noreferrer">film screening</a> at the <a href="http://glasgowinternational.org/events/kirsty-hendry-ilona-sagar/" target="_blank" rel="noopener noreferrer">Glasgow International Festival</a>.</p>
 <div class="row" style="margin: 1rem 0 1rem 0;">
-<div class="col-10 col-sm-5 col-md-5"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-2.jpg?ssl=1"><img loading="lazy" class="wp-image-4174 size-large alignnone" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-2.jpg?resize=640%2C889&#038;ssl=1" alt="Photo of Experiments in collective counting, from the self-service publication." width="640" height="889"  data-recalc-dims="1"></a></div>
-<div class="col-10 col-sm-7 col-md-7"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-3.jpg?ssl=1"><img loading="lazy" class="aligncenter wp-image-4175" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-3.jpg?resize=640%2C454&#038;ssl=1" alt="Credits, from Experiments in collective counting." width="640" height="454"  data-recalc-dims="1"></a></div>
+<div class="col-10 col-sm-5 col-md-5"><a href="http://ast.io/wp-content/uploads/2018/06/self-service-2.jpg"><img loading="lazy" class="wp-image-4174 size-large alignnone" src="http://ast.io/wp-content/uploads/2018/06/self-service-2-737x1024.jpg" alt="Photo of Experiments in collective counting, from the self-service publication." width="640" height="889"></a></div>
+<div class="col-10 col-sm-7 col-md-7"><a href="http://ast.io/wp-content/uploads/2018/06/self-service-3.jpg"><img loading="lazy" class="aligncenter wp-image-4175" src="http://ast.io/wp-content/uploads/2018/06/self-service-3-1024x727.jpg" alt="Credits, from Experiments in collective counting." width="640" height="454"></a></div>
 </div>
 <p>In “Experiments in collective counting”, Clara and I write about the (ac)counting practices on an estate in South East London and our efforts to intervene in a resolutely singular logic of community and value.</p>
-<div class="tippy" data-title="<em>The Peckham Experiment</em>" data-showtitle="false" data-anchor="#tippy_tip1_8592_anchor"><strong>The Peckham Experiment</strong> was a social experiment targeting health. The Pioneer Health Foundation, the legacy to the experiment, describes it as “an investigation into the nature of health.” From 1926 to 1950 it was based in Peckham, south London at the Pioneer Health Centre. For more information visit the Pioneer Health Foundation <a href="http://thephf.org/peckhamexperiment" target="_blank" rel="noopener noreferrer"> website</a>.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/collective-counting/">Experiments in collective counting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/collective-counting/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4176</post-id>	</item>
+			</item>
 		<item>
 		<title>Do data publics work?</title>
 		<link>http://ast.io/data-publics-work/</link>
@@ -235,18 +214,15 @@ My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank
 		<category><![CDATA[publics]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3272</guid>
 
-					<description><![CDATA[<p>Are we thinking well with #DataPublics? Asks @alxndrt at the start of the final day pic.twitter.com/3URa3FMa96 — Data Publics (@datapublics) April 2, 2017 I presented at the Data Publics conference last weekend, at Lancaster University. Got lots of helpful feedback to some early thoughts on publics (thinking with some of my old favourites, Despret, Haraway, [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-publics-work/">Read More...<span class="screen-reader-text"> from Do data publics work?</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/data-publics-work/">Do data publics work?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Are we thinking well with #DataPublics? Asks @alxndrt at the start of the final day pic.twitter.com/3URa3FMa96 — Data Publics (@datapublics) April 2, 2017 I presented at the Data Publics conference last weekend, at Lancaster University. Got lots of helpful feedback to some early thoughts on publics (thinking with some of my old favourites, Despret, Haraway, [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-publics-work/">Read More...<span class="screen-reader-text"> from Do data publics work?</span></a></p>]]></description>
 										<content:encoded><![CDATA[<blockquote class="twitter-tweet" data-lang="en">
 <p lang="en" dir="ltr">Are we thinking well with <a href="https://twitter.com/hashtag/DataPublics?src=hash">#DataPublics</a>? Asks <a href="https://twitter.com/alxndrt">@alxndrt</a> at the start of the final day <a href="https://t.co/3URa3FMa96">pic.twitter.com/3URa3FMa96</a></p>
 <p>— Data Publics (@datapublics) <a href="https://twitter.com/datapublics/status/848449978519494657">April 2, 2017</a></p></blockquote>
 <p> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><br>
 I presented at the <a href="http://datapublics.net/" target="_blank" rel="noopener noreferrer">Data Publics conference</a> last weekend, at Lancaster University. Got lots of helpful feedback to some early thoughts on publics (thinking with some of my old favourites, Despret, Haraway, Marres, Stengers, etc.).<br>
-Provoked by Vinciane Despret’s “W for Work”, in “What would animals say if we asked the right questions?”,<a id="tippy_tip2_9353_anchor"></a> my starting point was the question:</p>
+Provoked by Vinciane Despret’s “W for Work”, in “What would animals say if we asked the right questions?”,[foot]Vinciane Despret (2016). <a href="https://muse.jhu.edu/chapter/1785628" target="_blank" rel="noopener noreferrer">W is for Work</a>. In “<em><a href="https://www.upress.umn.edu/book-division/books/what-would-animals-say-if-we-asked-the-right" target="_blank" rel="noopener noreferrer">What Would Animals Say If We Asked the Right Questions</a></em>”. University of Minnesota Press: 177–184.[/foot] my starting point was the question:</p>
 <div class="highlight" style="font-size:300%">Are we thinking well<br>with data publics?</div>
-<p><span id="more-3272"></span>As Despret asks of animals and their work, my provocation was to ask not just whether “data publics” offer us something (whether they are useful), but whether we work well with them, whether they ‘make <em>more</em> interesting’ and give us the ‘chance’ to think differently.<a id="tippy_tip3_6706_anchor"></a></p>
+<p><span id="more-3272"></span>As Despret asks of animals and their work, my provocation was to ask not just whether “data publics” offer us something (whether they are useful), but whether we work well with them, whether they ‘make <em>more</em> interesting’ and give us the ‘chance’ to think differently.[foot]Despret writes about this in a book chapter, <em>Sheep do have opinions</em>. Vinciane Despret (2006) “Sheep do have opinions.” <em>Making Things Public Atmospheres of Democracy</em>: 360–370.[/foot]</p>
 <blockquote class="twitter-tweet" data-lang="en">
 <p lang="en" dir="ltr">What would animals say if we asked the right Qs? Can Despret’s provocation work for <a href="https://twitter.com/hashtag/DataPublics?src=hash">#DataPublics</a> ? <a href="https://t.co/LOukw901Fi">pic.twitter.com/LOukw901Fi</a></p>
 <p>— Liz McFall (@allartmarkets) <a href="https://twitter.com/allartmarkets/status/848451804518068224">April 2, 2017</a></p></blockquote>
@@ -256,16 +232,13 @@ My three propositions were:</p>
 <strong>Proposition #2</strong>: “Versions not visions”<br>
 <strong>Proposition #3</strong>: “Keep Compost”</p></blockquote>
 <p>A big thank you to <a href="https://openlab.ncl.ac.uk/people/b2052334" target="_blank" rel="noopener noreferrer">Clara Crivellaro</a>, Joe Deville, Dan Richards and Seb Weise for a fabulous event. See the Data Publics site for more or search the twitter hashtag <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23datapublics" target="_blank" rel="noopener noreferrer">#datapublics</a>.</p>
-<div class="tippy" data-title="1" data-href="http://ast.io/data-publics-work/#foot_text_3272_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_3272_1" data-showheader data-anchor="#tippy_tip2_9353_anchor">Vinciane Despret (2016). <a href="https://muse.jhu.edu/chapter/1785628" target="_blank" rel="noopener noreferrer">W is for Work</a>. In “<em><a href="https://www.upress.umn.edu/book-division/books/what-would-animals-say-if-we-asked-the-right" target="_blank" rel="noopener noreferrer">What Would Animals Say If We Asked the Right Questions</a></em>”. University of Minnesota Press: 177–184.</div>
-<div class="tippy" data-title="2" data-href="http://ast.io/data-publics-work/#foot_text_3272_2" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_3272_2" data-showheader data-anchor="#tippy_tip3_6706_anchor">Despret writes about this in a book chapter, <em>Sheep do have opinions</em>. Vinciane Despret (2006) “Sheep do have opinions.” <em>Making Things Public Atmospheres of Democracy</em>: 360–370.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/data-publics-work/">Do data publics work?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/data-publics-work/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3272</post-id>	</item>
+			</item>
 		<item>
 		<title>Surfacing Small Worlds through Data-In-Place</title>
 		<link>http://ast.io/surfacing-small-worlds/</link>
@@ -280,25 +253,21 @@ My three propositions were:</p>
 		<category><![CDATA[data]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3075</guid>
 
-					<description><![CDATA[<p>Very happy to have another publication from the monumental Tenison Road project, this time in the Journal of Computer-Supported Cooperative Work (CSCW). Lindley, S.E., Thieme, A., Taylor, A.S. et al. (2017). Surfacing Small Worlds through Data-In-Place. Computer Supported Cooperative Work. &#160; Abstract We present findings from a five-week deployment of voting technologies in a city [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/surfacing-small-worlds/">Read More...<span class="screen-reader-text"> from Surfacing Small Worlds through Data-In-Place</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/surfacing-small-worlds/">Surfacing Small Worlds through Data-In-Place</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Very happy to have another publication from the monumental Tenison Road project, this time in the Journal of Computer-Supported Cooperative Work (CSCW). Lindley, S.E., Thieme, A., Taylor, A.S. et al. (2017). Surfacing Small Worlds through Data-In-Place. Computer Supported Cooperative Work. [smartslider3 slider=11] &#160; Abstract We present findings from a five-week deployment of voting technologies in [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/surfacing-small-worlds/">Read More...<span class="screen-reader-text"> from Surfacing Small Worlds through Data-In-Place</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Very happy to have another publication from the monumental <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> project, this time in the Journal of Computer-Supported Cooperative Work (CSCW).</p>
 <blockquote><p>Lindley, S.E., Thieme, A., Taylor, A.S. et al. (2017). <a href="http://ast.io/download/3078/surfacing-small-worlds-2017" target="_blank" rel="noopener noreferrer">Surfacing Small Worlds through Data-In-Place</a>. <a href="http://dx.doi.org/10.1007/s10606-017-9263-3" target="_blank" rel="noopener noreferrer"><em>Computer Supported Cooperative Work</em></a>.</p></blockquote>
-<div class="clearfix"></div>
+<div class="clearfix">[smartslider3 slider=11]</div>
 <p>&nbsp;<br>
 <strong>Abstract</strong></p>
 <blockquote><p>We present findings from a five-week deployment of voting technologies in a city neighbourhood. Drawing on Marres’ (2012) work on material participation and Massey’s (2005) conceptualisation of space as dynamic, we designed the deployment such that the technologies (which were situated in residents’ homes, on the street, and available online) would work in concert, cutting across the neighbourhood to make visible, juxtapose and draw together the different ‘small worlds’ within it. We demonstrate how the material infrastructure of the voting devices set in motion particular processes and interpretations of participation, putting data in place in a way that had ramifications for the recognition of heterogeneity. We conclude that redistributing participation means not only opening up access, so that everyone can participate, or even providing a multitude of voting channels, so that people can participate in different ways. Rather, it means making visible multiplicity, challenging notions of similarity, and showing how difference may be productive.</p></blockquote>
 <p>See more on the CSCW site <a href="http://dx.doi.org/10.1007/s10606-017-9263-3" target="_blank" rel="noopener noreferrer">here</a>. See an early draft <a href="http://ast.io/download/3078/surfacing-small-worlds-2017" target="_blank" rel="noopener noreferrer">here</a>.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/surfacing-small-worlds/">Surfacing Small Worlds through Data-In-Place</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/surfacing-small-worlds/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3075</post-id>	</item>
+			</item>
 		<item>
 		<title>Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</title>
 		<link>http://ast.io/data-biosensing-worldly-stories/</link>
@@ -312,25 +281,20 @@ My three propositions were:</p>
 		<category><![CDATA[London]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=1114</guid>
 
-					<description><![CDATA[<p>Delighted to have a chapter published in Dawn Nafus’ new book, Quantified&#160;(MIT Press). &#160; Abstract This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-biosensing-worldly-stories/">Read More...<span class="screen-reader-text"> from Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/data-biosensing-worldly-stories/">Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Delighted to have a chapter published in Dawn Nafus’ new book, Quantified&#160;(MIT Press). &#160; Abstract This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-biosensing-worldly-stories/">Read More...<span class="screen-reader-text"> from Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Delighted to have a chapter published in Dawn Nafus’ new book, <a href="https://mitpress.mit.edu/books/quantified" target="_blank" rel="noopener noreferrer">Quantified</a>&nbsp;(MIT Press).<span id="more-1114"></span><br>
-<a href="http://ast.io/m/1115.pdf"><img loading="lazy" class="wp-image-1116 size-full aligncenter" src="https://i0.wp.com/ast.io/wp-content/uploads/2016/05/Data-and-biosensing.png?resize=640%2C480" alt="Data and biosensing" width="640" height="480"  data-recalc-dims="1"></a><br>
+<a href="http://ast.io/m/1115.pdf"><img loading="lazy" class="wp-image-1116 size-full aligncenter" src="http://ast.io/wp-content/uploads/2016/05/Data-and-biosensing.png" alt="Data and biosensing" width="640" height="480"></a><br>
 &nbsp;</p>
 <blockquote><p><em>Abstract</em><br>
-This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities of other worlds are imagined. Mixtures of data at all scales are thrown together, playing with and testing out a thickening and enlivening of relations, new edges, and making room for difference—for different assemblies of bodies, space and time. Relations are brought into being that might just resist the “agencies of homogenization” (<a id="tippy_tip4_2717_anchor"></a>) and that mess about in the unevenness and plurality that makes London vibrant.</p></blockquote>
+This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities of other worlds are imagined. Mixtures of data at all scales are thrown together, playing with and testing out a thickening and enlivening of relations, new edges, and making room for difference—for different assemblies of bodies, space and time. Relations are brought into being that might just resist the “agencies of homogenization” ([tippy title=“Scott 1998” showheader=“false”]Scott, J. C. (1998).&nbsp;<i>Seeing like a state: How certain schemes to improve the human condition have failed</i>. Yale University Press.[/tippy]) and that mess about in the unevenness and plurality that makes London vibrant.</p></blockquote>
 <p>I’ve uploaded a pre-published draft&nbsp;<a href="http://ast.io/m/1115.pdf" target="_blank" rel="noopener noreferrer">here</a>.</p>
-<div class="tippy" data-title="Scott 1998" data-showheader="false" data-anchor="#tippy_tip4_2717_anchor">Scott, J. C. (1998).&nbsp;<i>Seeing like a state: How certain schemes to improve the human condition have failed</i>. Yale University Press.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/data-biosensing-worldly-stories/">Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/data-biosensing-worldly-stories/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1114</post-id>	</item>
+			</item>
 		<item>
 		<title>Reading Material Participation</title>
 		<link>http://ast.io/material-participation/</link>
@@ -344,23 +308,17 @@ This chapter tells a story of promise, one about London’s bike rental data and
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=690</guid>
 
-					<description><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book . The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/material-participation/">Read More...<span class="screen-reader-text"> from Reading Material Participation</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book <a id="tippy_tip5_8092_anchor"></a>.<span id="more-690"></span><br>
-<a href="http://www.palgrave.com/page/detail/material-participation-technology-the-environment-and-everyday-publics-noortje-marres/?isb=9780230232112"><img loading="lazy" class="alignnone" src="https://i0.wp.com/research.gold.ac.uk/7577/1/9780230232112.jpg?resize=253%2C395" alt width="253" height="395"  data-recalc-dims="1"></a><br>
-The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to see the Bullfrogs, physical charts and posters we’ve built as “participation technologies” (to use Noortje’s term) and reflect on how they have opened up a wider range of ways for people to engage in local and civic matters. Combined with Doreen Massey’s ideas on <a id="tippy_tip6_629_anchor"></a>, we’re beginning to see the entanglements of participation and technology as a means of enacting place, and expanding the ways place is, as it were, performed. Place then comes to be something that can be actively figured through a diverse set of participation technologies.</p>
-<div class="tippy" data-title="Material participation" data-showheader="false" data-anchor="#tippy_tip5_8092_anchor">Marres, N. (2012). <em>Material participation: technology, the environment and everyday publics</em>. Palgrave Macmillan.</div>
-<div class="tippy" data-title="throwntogetherness and the fluidity of place" data-showheader="false" data-anchor="#tippy_tip6_629_anchor">Doreen Massey. (2005). <em>For space</em>. Sage.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+					<description><![CDATA[I wanted to write a short note about Noortje Marres’ book [tippy title=“Material participation”&#160;showheader=“false”]Marres, N. (2012). Material participation: technology, the environment and everyday publics. Palgrave Macmillan.[/tippy]. The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/material-participation/">Read More...<span class="screen-reader-text"> from Reading Material Participation</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book [tippy title=“Material participation”&nbsp;showheader=“false”]Marres, N. (2012). <em>Material participation: technology, the environment and everyday publics</em>. Palgrave Macmillan.[/tippy].<span id="more-690"></span><br>
+<a href="http://www.palgrave.com/page/detail/material-participation-technology-the-environment-and-everyday-publics-noortje-marres/?isb=9780230232112"><img loading="lazy" class="alignnone" src="http://research.gold.ac.uk/7577/1/9780230232112.jpg" alt width="253" height="395"></a><br>
+The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to see the Bullfrogs, physical charts and posters we’ve built as “participation technologies” (to use Noortje’s term) and reflect on how they have opened up a wider range of ways for people to engage in local and civic matters. Combined with Doreen Massey’s ideas on [tippy title=“throwntogetherness and the fluidity of place”&nbsp;showheader=“false”]Doreen Massey. (2005). <em>For space</em>. Sage.[/tippy], we’re beginning to see the entanglements of participation and technology as a means of enacting place, and expanding the ways place is, as it were, performed. Place then comes to be something that can be actively figured through a diverse set of participation technologies.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/material-participation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">690</post-id>	</item>
+			</item>
 		<item>
 		<title>Presenting “Data in place”</title>
 		<link>http://ast.io/data-place/</link>
@@ -374,22 +332,18 @@ The book has been incredibly useful for a few of us in thinking through the Teni
 		<category><![CDATA[HCI]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=657</guid>
 
-					<description><![CDATA[<p>We’re presenting a paper at CHI this year on Tenison Road. Alex S. Taylor, Siân Lindley, Tim Regan, David Sweeney, Vasilis Vlachokyriakos, Lillie Grainger, Jessa Lingel (2015), Data-in-Place: Thinking through the Relations Between Data and Community, CHI 2015. Here’s the abstract: We present findings from a year-long engagement with a street and its community. The [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-place/">Read More...<span class="screen-reader-text"> from Presenting “Data in place”</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/data-place/">Presenting “Data in place”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[We’re presenting a paper at CHI this year on Tenison Road. Alex S. Taylor, Siân Lindley, Tim Regan, David Sweeney, Vasilis Vlachokyriakos, Lillie Grainger, Jessa Lingel (2015), Data-in-Place: Thinking through the Relations Between Data and Community, CHI 2015. Here’s the abstract: We present findings from a year-long engagement with a street and its community. The [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-place/">Read More...<span class="screen-reader-text"> from Presenting “Data in place”</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>We’re presenting a paper at <a href="http://chi2015.acm.org/" target="_blank" rel="noopener noreferrer">CHI</a> this year on <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a>.<br>
 Alex S. Taylor, Siân Lindley, Tim Regan, David Sweeney, Vasilis Vlachokyriakos, Lillie Grainger, Jessa Lingel (2015), <a href="http://ast.io/wp-content/uploads/2015/02/data-in-place-2015.pdf" target="_blank" rel="noopener noreferrer">Data-in-Place: Thinking through the Relations Between Data and Community</a>, <a href="http://chi2015.acm.org/" target="_blank" rel="noopener noreferrer"><em>CHI 2015</em></a>.<br>
 Here’s the abstract:</p>
 <blockquote><p>We present findings from a year-long engagement with a street and its community. The work explores how the production and use of data is bound up with place, both in terms of physical and social geography. We detail three strands of the project. First, we consider how residents have sought to curate existing data about the street in the form of an archive with physical and digital components. Second, we report endeavours to capture data about the street’s environment, especially of vehicle traffic. Third, we draw on the possibilities afforded by technologies for polling opinion. We reflect on how these engagements have: materialised distinctive relations between the community and their data; surfaced flows and contours of data, and spatial, temporal and social boundaries; and enacted a multiplicity of ‘small worlds’. We consider how such a conceptualisation of <em>data-in-place</em> is relevant to the design of technology.</p></blockquote>
-<p>The post <a rel="nofollow" href="http://ast.io/data-place/">Presenting “Data in place”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/data-place/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">657</post-id>	</item>
+			</item>
 		<item>
 		<title>on “Leakiness and creepiness in app space”</title>
 		<link>http://ast.io/leakiness-creepiness-app-space/</link>
@@ -403,31 +357,25 @@ Here’s the abstract:</p>
 		<category><![CDATA[HCI]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=431</guid>
 
-					<description><![CDATA[<p>I&#160;recently had an email exchange with&#160;Irina Shklovski&#160;in which she kindly sent me&#160;the paper she presented&#160;at&#160;the CHI conference this year. It’s a great paper, with some carefully thought through insights into the data we produce and (often inadvertently) share when using smart phones.&#160; Irina Shklovski, Scott D. Mainwaring, Halla Hrund Skúladóttir, and Höskuldur Borgthorsson. 2014. Leakiness [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/leakiness-creepiness-app-space/">Read More...<span class="screen-reader-text"> from on “Leakiness and creepiness in app space”</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/leakiness-creepiness-app-space/">on “Leakiness and creepiness in app space”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I&#160;recently had an email exchange with&#160;Irina Shklovski&#160;in which she kindly sent me&#160;the paper she presented&#160;at&#160;the CHI conference this year. It’s a great paper, with some carefully thought through insights into the data we produce and (often inadvertently) share when using smart phones.&#160; Irina Shklovski, Scott D. Mainwaring, Halla Hrund Skúladóttir, and Höskuldur Borgthorsson. 2014. Leakiness [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/leakiness-creepiness-app-space/">Read More...<span class="screen-reader-text"> from on “Leakiness and creepiness in app space”</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>I&nbsp;recently had an email exchange with&nbsp;<span style="color: #000000;"><a href="http://www.itu.dk/people/irsh/" target="_blank" rel="noopener noreferrer">Irina Shklovski</a>&nbsp;in which she kindly sent me&nbsp;the paper she presented&nbsp;at&nbsp;the <a href="http://chi2014.acm.org/" target="_blank" rel="noopener noreferrer">CHI conference</a> this year. It’s a great paper, with some carefully thought through insights into the data we produce and (often inadvertently) share when using smart phones.&nbsp;</span></p>
 <blockquote><p><span style="color: #000000;">Irina Shklovski, Scott D. Mainwaring, Halla Hrund Skúladóttir, and Höskuldur Borgthorsson. 2014. <a href="http://dl.acm.org/citation.cfm?id=2556288.2557421&amp;coll=DL&amp;dl=GUIDE&amp;CFID=366422751&amp;CFTOKEN=10483891" target="_blank" rel="noopener noreferrer">Leakiness and creepiness in app space: perceptions of privacy and mobile app use</a>. In&nbsp;</span><em style="color: #000000;">Proceedings of the 32nd annual ACM conference on Human factors in computing systems</em><span style="color: #000000;">&nbsp;(CHI ’14). ACM, New York, NY, USA, 2347–2356.&nbsp;</span></p></blockquote>
 <p>The paper got me thinking about some broader (and long-standing) issues I’ve been working through myself related to the researcher’s agential (and <span style="color: #000000;">often inadvertent)</span>&nbsp;role in empirical research. What follows&nbsp;are some slightly amended comments I’ve shared with Irina.<span id="more-431"></span><br>
-<a href="http://dl.acm.org/citation.cfm?id=2556288.2557421&amp;coll=DL&amp;dl=GUIDE&amp;CFID=366422751&amp;CFTOKEN=10483891"><img loading="lazy" class="aligncenter wp-image-435 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/06/Leakiness-1024x824-1403785070.png?resize=640%2C603" alt="Leakiness and creepiness in app space" width="640" height="603"  data-recalc-dims="1"></a><br>
+<a href="http://dl.acm.org/citation.cfm?id=2556288.2557421&amp;coll=DL&amp;dl=GUIDE&amp;CFID=366422751&amp;CFTOKEN=10483891"><img loading="lazy" class="aligncenter wp-image-435 size-large" src="http://ast.io/wp-content/uploads/2014/06/Leakiness-1024x824-1403785070.png" alt="Leakiness and creepiness in app space" width="1024" height="964"></a><br>
 Something that&nbsp;strikes me is that the paper presents&nbsp;a set of examples (dare I say data) about how people make sense of worlds from, if you will, outside of them. I wonder to what extent this is different to how we actually use our mobile devices (how we <em>enact</em> these worlds)? So to what extent are the reflections on talk about privacy, creepiness, leekages, helplessness, etc. insights into how we&nbsp;rationalise what we&nbsp;do as opposed to insights into <em>what</em> we do? I’m not saying this (I hope) to make that well-worn argument about people&nbsp;not doing what they&nbsp;say we do. Nor do I say it to lessen the value of the interviews and survey results&nbsp;presented. I think it’s important though to draw attention to the kind of materials being examined&nbsp;and&nbsp;what can be sensibly said about them.<br>
 Here’s one take on the paper, just to try to illustrate this point a bit. The theorising from Altman and Nissenbaum suggest the&nbsp;presumption of some discrete (and somewhat stable) ideas of interior, exterior, private, public, space, etc. etc. Yes, there may be a fluidity to how things move between these categories (and they may change over time), but nevertheless, the implication is there are for all intents and purposes a set of stable, applicable categories. My suggestion isn’t that this is a strong claim, but it does feel like it’s more or less the working assumption in the paper.<br>
-In&nbsp;being careful about the kinds of empirical materials being used, I think there’s a different way to think about this. I wonder whether performativity might be a useful concept to work with? Might we say that these things&nbsp;the researchers&nbsp;and the informants collectively spoke about, e.g. selves, data, devices, third parties, privacy etc. are being drawn together to enact just these categories? What we might be seeing here is not an indication of how data falls into (or threads across) these categories, but how we enact them when we talk about our mobile devices and how we make sense of data in those self same terms. (This is one of the ideas&nbsp;I take from Nelson Goodman’s “<a href="http://books.google.co.uk/books/about/Ways_of_Worldmaking.html?id=Y5aMV3EE6WcC" target="_blank" rel="noopener noreferrer"><em>Ways of Worldmaking</em></a>” (1978).<a id="tippy_tip7_1792_anchor"></a>&nbsp;I love his remark: “The uniformity of nature we marvel at or the unreliability we protest belongs to a world of our own making.” p.10).<br>
+In&nbsp;being careful about the kinds of empirical materials being used, I think there’s a different way to think about this. I wonder whether performativity might be a useful concept to work with? Might we say that these things&nbsp;the researchers&nbsp;and the informants collectively spoke about, e.g. selves, data, devices, third parties, privacy etc. are being drawn together to enact just these categories? What we might be seeing here is not an indication of how data falls into (or threads across) these categories, but how we enact them when we talk about our mobile devices and how we make sense of data in those self same terms. (This is one of the ideas&nbsp;I take from Nelson Goodman’s “<a href="http://books.google.co.uk/books/about/Ways_of_Worldmaking.html?id=Y5aMV3EE6WcC" target="_blank" rel="noopener noreferrer"><em>Ways of Worldmaking</em></a>” (1978).[foot]<span style="color: #222222;">Goodman, N. (1978).&nbsp;</span><i style="color: #222222;">Ways of worldmaking</i><span style="color: #222222;">. Hackett Publishing.[/foot]</span>&nbsp;I love his remark: “The uniformity of nature we marvel at or the unreliability we protest belongs to a world of our own making.” p.10).<br>
 Take this statement, for example:</p>
 <blockquote><p>“This is completely ridiculous, I would not invite people into my closet, this is way out of line. No I don’t find it appropriate to give up personal information in exchange for this game and that they don’t need more approval than they apparently do.”</p></blockquote>
-<p>What are the circumstances (discursive and material) that would allow a conversation to unfold in this way and for things like smart phones to be talked about like closets? Moreover, how is it that data on these devices should be understood as personal and in some fashion belonging to the person speaking? I don’t see any of these things to be given. Rather, I want to ask in what way the assemblage of interview, people, devices, data, etc. allow for this kind of talk and enactment of categories like personal, information, right vs. wrong, etc. (I take this argument directly from Helen Verran’s wonderful book, “<a href="http://books.google.co.uk/books?id=Pruf2NEVuGMC" target="_blank" rel="noopener noreferrer">Science and an African Logic</a>”.<span style="color: #000000;"><a id="tippy_tip8_1355_anchor"></a></span><br>
+<p>What are the circumstances (discursive and material) that would allow a conversation to unfold in this way and for things like smart phones to be talked about like closets? Moreover, how is it that data on these devices should be understood as personal and in some fashion belonging to the person speaking? I don’t see any of these things to be given. Rather, I want to ask in what way the assemblage of interview, people, devices, data, etc. allow for this kind of talk and enactment of categories like personal, information, right vs. wrong, etc. (I take this argument directly from Helen Verran’s wonderful book, “<a href="http://books.google.co.uk/books?id=Pruf2NEVuGMC" target="_blank" rel="noopener noreferrer">Science and an African Logic</a>”.<span style="color: #000000;">[foot]<span style="color: #222222;">Verran, H. (2001).&nbsp;</span><i style="color: #222222;">Science and an African logic</i><span style="color: #222222;">. University of Chicago Press.</span>[/foot]</span><br>
 This might seem like an unnecessary theorising, but I think it comes back to the question of the kind of empirical materials presented in the paper and what can be said&nbsp;about them. From the&nbsp;results, I don’t know whether one&nbsp;can really say people have stable ideas of values tied to what’s personal and what’s creepy when it comes to infringements on the personal. I <em>do</em> think what can be usefully asked is ‘How is it that this assemblage of actors/agents allows us to talk about things like private, public, creepiness, leekages, helplessness, etc.?’<br>
 Where this becomes concrete, I think, is when we then ask how might things be different? So in what other ways might we talk about these things and what are the possibilities of using matter (or design)&nbsp;to intervene? For instance, how might the data being collected be refigured (discursively and materially) as not personal? What would it take in the design of these systems (and their interfaces) for people to talk about the data being collected as not about them in any intimate way, but about some ‘impersonal’ aggregation of data from a network of nodes? For me this offers&nbsp;the beginnings for thinking differently about data and what it might enable.</p>
-<div class="tippy" data-title="1" data-href="http://ast.io/leakiness-creepiness-app-space/#foot_text_431_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_431_1" data-showheader data-anchor="#tippy_tip7_1792_anchor"><span style="color: #222222;">Goodman, N. (1978).&nbsp;</span><i style="color: #222222;">Ways of worldmaking</i><span style="color: #222222;">. Hackett Publishing.</span></div>
-<div class="tippy" data-title="2" data-href="http://ast.io/leakiness-creepiness-app-space/#foot_text_431_2" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_431_2" data-showheader data-anchor="#tippy_tip8_1355_anchor"><span style="color: #222222;">Verran, H. (2001).&nbsp;</span><i style="color: #222222;">Science and an African logic</i><span style="color: #222222;">. University of Chicago Press.</span></div>
-<p>The post <a rel="nofollow" href="http://ast.io/leakiness-creepiness-app-space/">on “Leakiness and creepiness in app space”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/leakiness-creepiness-app-space/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">431</post-id>	</item>
+			</item>
 	</channel>
 </rss>

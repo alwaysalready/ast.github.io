@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Structuralism Archives | Alex Taylor</title>
+	<title>Structuralism - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/structuralism/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>IOT on Claude Lévi-Strauss</title>
 		<link>http://ast.io/levi-strauss/</link>
 					<comments>http://ast.io/levi-strauss/#respond</comments>
@@ -34,21 +31,17 @@
 		<category><![CDATA[Structuralism]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=309</guid>
 
-					<description><![CDATA[<p>BBC’s In Our Time does it again with a wonderful eulogy to Claude Lévi-Strauss. There are some nice insights into&#160;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me. (Photo ‘borrowed’ from In Our Time) [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/levi-strauss/">Read More...<span class="screen-reader-text"> from IOT on Claude Lévi-Strauss</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/levi-strauss/">IOT on Claude Lévi-Strauss</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[BBC’s In Our Time does it again with a wonderful eulogy to Claude Lévi-Strauss. There are some nice insights into&#160;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me. (Photo ‘borrowed’ from In Our Time) [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/levi-strauss/">Read More...<span class="screen-reader-text"> from IOT on Claude Lévi-Strauss</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p><span id="more-309"></span><br>
-<a href="http://www.bbc.co.uk/programmes/b01sjjxl"><img loading="lazy" class=" wp-image-310 alignright" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/10/Untitled.jpg?resize=324%2C324" alt="Levi-strauss" width="324" height="324"  data-recalc-dims="1"></a>BBC’s <a href="http://www.bbc.co.uk/programmes/b006qykl" target="_blank" rel="noopener noreferrer">In Our Time </a>does it again with a wonderful eulogy to <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">Claude Lévi-Strauss</a>. There are some nice insights into&nbsp;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me.<br>
+<a href="http://www.bbc.co.uk/programmes/b01sjjxl"><img loading="lazy" class=" wp-image-310 alignright" src="http://ast.io/wp-content/uploads/2013/10/Untitled.jpg" alt="Levi-strauss" width="324" height="324"></a>BBC’s <a href="http://www.bbc.co.uk/programmes/b006qykl" target="_blank" rel="noopener noreferrer">In Our Time </a>does it again with a wonderful eulogy to <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">Claude Lévi-Strauss</a>. There are some nice insights into&nbsp;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me.<br>
 <span style="font-size: smaller;">(Photo ‘borrowed’ from <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">In Our Time</a>)</span></p>
-<p>The post <a rel="nofollow" href="http://ast.io/levi-strauss/">IOT on Claude Lévi-Strauss</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/levi-strauss/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">309</post-id>	</item>
+			</item>
 		<item>
 		<title>On always already</title>
 		<link>http://ast.io/always-already/</link>
@@ -62,20 +55,16 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=2</guid>
 
-					<description><![CDATA[<p>The&#160;phrase&#160;“always already” is, in the main, attributed to the&#160;poststructuralist&#160;philosopher Jaques Derrida. It has, however, come to be a trope for the new&#160;materialists&#160;and it is in this usage that I modestly take it on. Specifically, my guiding sources are from the feminist&#160;technoscience&#160;scholars&#160;Donna Haraway&#160;and&#160;Karen Barad,&#160;both of whom make heavy use of the phrase to trouble the binaries [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/always-already/">Read More...<span class="screen-reader-text"> from On always already</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/always-already/">On always already</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://i0.wp.com/ast.io/wp-content/uploads/2013/08/Alwaysalready.gif"><img loading="lazy" class="alignnone size-medium wp-image-3" alt="Alwaysalready" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/08/Alwaysalready-300x224.gif?resize=300%2C224" width="300" height="224"  data-recalc-dims="1"></a><br>
+					<description><![CDATA[The&#160;phrase&#160;“always already” is, in the main, attributed to the&#160;poststructuralist&#160;philosopher Jaques Derrida. It has, however, come to be a trope for the new&#160;materialists&#160;and it is in this usage that I modestly take it on. Specifically, my guiding sources are from the feminist&#160;technoscience&#160;scholars&#160;Donna Haraway&#160;and&#160;Karen Barad,&#160;both of whom make heavy use of the phrase to trouble the binaries [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/always-already/">Read More...<span class="screen-reader-text"> from On always already</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://ast.io/wp-content/uploads/2013/08/Alwaysalready.gif"><img loading="lazy" class="alignnone size-medium wp-image-3" alt="Alwaysalready" src="http://ast.io/wp-content/uploads/2013/08/Alwaysalready-300x224.gif" width="300" height="224"></a><br>
 The&nbsp;phrase&nbsp;“always already” is, in the main, attributed to the&nbsp;<a title="Post-structuralism" href="http://en.wikipedia.org/wiki/Post-structuralism" target="_blank" rel="wikipedia noopener noreferrer">poststructuralist</a>&nbsp;philosopher <a href="http://en.wikipedia.org/wiki/Jacques_Derrida" target="_blank" rel="noopener noreferrer">Jaques Derrida</a>. It has, however, come to be a trope for the new&nbsp;materialists&nbsp;and it is in this usage that I modestly take it on. Specifically, my guiding sources are from the feminist&nbsp;<a title="Technoscience" href="http://en.wikipedia.org/wiki/Technoscience" target="_blank" rel="wikipedia noopener noreferrer">technoscience</a>&nbsp;scholars&nbsp;<a href="http://en.wikipedia.org/wiki/Donna_Haraway" target="_blank" rel="noopener noreferrer">Donna Haraway</a>&nbsp;and&nbsp;<a href="http://en.wikipedia.org/wiki/Karen_Barad" target="_blank" rel="noopener noreferrer">Karen Barad</a>,&nbsp;both of whom make heavy use of the phrase to trouble the binaries abound in science and technology&nbsp;(subject-object, mind-matter, inside-outside, past-present, etc.).<br>
 For some back ground reading see&nbsp;<a href="http://www.tandfonline.com/doi/abs/10.1080/08038740.2011.620575#.Umg3TJEYjHM" target="_blank" rel="noopener noreferrer"><em>The New Materialist “Always Already”: On an A‑Human Humanities</em></a>.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/always-already/">On always already</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/always-already/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4784</post-id>	</item>
+			</item>
 	</channel>
 </rss>

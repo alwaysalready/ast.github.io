@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Care Archives | Alex Taylor</title>
+	<title>Care - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/care/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</title>
 		<link>http://ast.io/counting-accounting-and-accountability/</link>
 					<comments>http://ast.io/counting-accounting-and-accountability/#respond</comments>
@@ -35,29 +32,23 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=787</guid>
 
-					<description><![CDATA[<p>Just read Martha Kenney’s “Counting, accounting, and accountability: Helen Verran’s relational empiricism”. The article is currently available through the Social Studies of Science OnlineFirst service. Intentionally or not, it sits nicely with other articles brought together to examine . Kenney, M. (2015). Counting, accounting, and accountability: Helen Verran’s relational empiricism. Social Studies of Science, 1–23. [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting-accounting-and-accountability/">Read More...<span class="screen-reader-text"> from Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/counting-accounting-and-accountability/">Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Just read Martha Kenney’s “Counting, accounting, and accountability: Helen Verran’s relational empiricism”. The article is currently available through the Social Studies of Science OnlineFirst service. Intentionally or not, it sits nicely with other articles brought together to examine [tippy title=“care” showheader=“false”]See, for example, Martin, A., Myers, N., &#38; Viseu, A. (2015). The politics of care [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting-accounting-and-accountability/">Read More...<span class="screen-reader-text"> from Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Just read Martha Kenney’s “<a href="http://doi.org/10.1177/0306312715607413" target="_blank" rel="noopener noreferrer">Counting, accounting, and accountability: Helen Verran’s relational empiricism</a>”.<br>
-The article is currently available through the <a href="http://sss.sagepub.com/" target="_blank" rel="noopener noreferrer">Social Studies of Science</a> <a href="http://sss.sagepub.com/content/early/recent" target="_blank" rel="noopener noreferrer">OnlineFirst</a> service. Intentionally or not, it sits nicely with other articles brought together to examine <a id="tippy_tip0_6298_anchor"></a>.</p>
+The article is currently available through the <a href="http://sss.sagepub.com/" target="_blank" rel="noopener noreferrer">Social Studies of Science</a> <a href="http://sss.sagepub.com/content/early/recent" target="_blank" rel="noopener noreferrer">OnlineFirst</a> service. Intentionally or not, it sits nicely with other articles brought together to examine [tippy title=“<em>care</em>” showheader=“false”]See, for example, Martin, A., Myers, N., &amp; Viseu, A. (2015). <a href="http://doi.org/10.1177/0306312715602073" target="_blank" rel="noopener noreferrer">The politics of care in technoscience</a>. Social Studies of Science, 1–17.[/tippy].</p>
 <blockquote><p><a style="font-size: 145%;" href="http://doi.org/10.1177/0306312715607413" target="_blank" rel="noopener noreferrer">Kenney, M. (2015). Counting, accounting, and accountability: Helen Verran’s relational empiricism. Social Studies of Science, 1–23.</a></p></blockquote>
 <p>Kenney’s article is very much a homage to <a href="https://en.wikipedia.org/wiki/Helen_Verran" target="_blank" rel="noopener noreferrer">Helen Verran</a> and her wonderful book <a href="http://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html" target="_blank" rel="noopener noreferrer">Science and an African Logic</a>. She pays special attention to Verran’s efforts at <em>decomposition</em> and frames these through a lens of accountability. Care is given by Kenny to differentiate this kind of accounting from that of “contemporary neo-liberal bureaucracies” that run the risk of strengthening “the academic culture that privileges critique and revelation over other, more subtle and creative, approaches.” <span id="more-787"></span>(p. 8)<br>
 What I particularly like about Kenney’s reading of <em>Science and an African Logic</em> is the emphasis she places on Verran’s ‘generative critique’ and, in these same terms, the way we might come to understand the empirical/ethnographic account.</p>
 <blockquote><p>“Verran […] helps us see ethnographic writing conventions as generative, not of true representations (tracings of real relations) but of promising fictions, echoing Strathern’s definition of ethnography as an ‘effort to create a world parallel to the perceived world’” (p. 10).</p></blockquote>
 <p>For me, this is such a helpful way to think about the accounts we produce as field researchers. It gets us past questions about factual or realist representation. It reminds me of something I heard the singer PJ Harvey say on Radio 4 a while back. Talking about Harold Pinter’s poetry and ‘the poetry’ of Kubrick’s films, she evocatively describes what she sees in them:</p>
-<blockquote style="font-size: 205%; font-style: italic"><a id="tippy_tip1_8338_anchor"></a></blockquote>
+<blockquote style="font-size: 205%; font-style: italic"><p>[tippy title=“&nbsp;‘There is so much space where the truth can enter.’&nbsp;”&nbsp;showheader=“false”]I dashed to make a written note of this, but have since found the interview online, <a href="https://www.youtube.com/watch?v=QsJ4X3TlTsM" target="_blank" rel="noopener noreferrer">here</a> — time = 9:21.[/tippy]</p></blockquote>
 <p>As with Pinter and Kubrick, then, I appreciate Kenney reminding us that ethnographic accounts such as Verran’s must be written/read as “an alternative way of figuring and paying attention to differences that may enable different forms of response and participation.” (p. 11)</p>
-<div class="tippy" data-title="<em>care</em>" data-showheader="false" data-anchor="#tippy_tip0_6298_anchor">See, for example, Martin, A., Myers, N., &amp; Viseu, A. (2015). <a href="http://doi.org/10.1177/0306312715602073" target="_blank" rel="noopener noreferrer">The politics of care in technoscience</a>. Social Studies of Science, 1–17.</div>
-<div class="tippy" data-title="'There is so much space where the truth can enter.'" data-showheader="false" data-anchor="#tippy_tip1_8338_anchor">I dashed to make a written note of this, but have since found the interview online, <a href="https://www.youtube.com/watch?v=QsJ4X3TlTsM" target="_blank" rel="noopener noreferrer">here</a> — time = 9:21.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/counting-accounting-and-accountability/">Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/counting-accounting-and-accountability/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">787</post-id>	</item>
+			</item>
 		<item>
 		<title>Reading ‘Nothing comes without its world’: thinking with care</title>
 		<link>http://ast.io/without-its-world/</link>
@@ -72,29 +63,21 @@ What I particularly like about Kenney’s reading of <em>Science and an African 
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=675</guid>
 
-					<description><![CDATA[<p>Reading María Puig de la Bellacasa’s article on feminist&#160;notions of care. Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. The Sociological Review, 60(2), 197–216. Puig de la Bellacasa writes evocatively on Donna Haraway’s work&#160;and draws it&#160;into an idea of care. I especially like how she figures care as a [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/without-its-world/">Read More...<span class="screen-reader-text"> from Reading ‘Nothing comes without its world’: thinking with care</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/without-its-world/">Reading ‘Nothing comes without its world’: thinking with care</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Reading María Puig de la Bellacasa’s article on feminist&#160;notions of care. Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. The Sociological Review, 60(2), 197–216. Puig de la Bellacasa writes evocatively on Donna Haraway’s work&#160;and draws it&#160;into an idea of care. I especially like how she figures care as a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/without-its-world/">Read More...<span class="screen-reader-text"> from Reading ‘Nothing comes without its world’: thinking with care</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Reading María Puig de la Bellacasa’s article on feminist&nbsp;notions of care.<span id="more-675"></span><br>
-<img loading="lazy" class=" size-medium wp-image-685 aligncenter" src="https://i0.wp.com/ast.io/wp-content/uploads/2015/02/without-its-world-300x300.png?resize=300%2C300" alt="without-its-world" width="300" height="300"  data-recalc-dims="1"></p>
+<img loading="lazy" class=" size-medium wp-image-685 aligncenter" src="http://ast.io/wp-content/uploads/2015/02/without-its-world-300x300.png" alt="without-its-world" width="300" height="300"></p>
 <blockquote><p>Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. <em>The Sociological Review</em>, 60(2), 197–216.</p></blockquote>
 <p>Puig de la Bellacasa writes evocatively on Donna Haraway’s work&nbsp;and draws it&nbsp;into an idea of care. I especially like how she figures care as a way of bringing things into productive relations with one another, not narrowing in on oppositional differences, but seeking a generative relationality.</p>
-<blockquote><a id="tippy_tip2_9894_anchor"></a></blockquote>
-<p>One thing that’s noteworthy is the absence of Annemarie Mol in this text, with her <a id="tippy_tip3_3133_anchor"></a> in science and technology scholarship. I wonder if this has to do with her only just&nbsp;veiled criticisms of some in feminist technoscience through&nbsp;her remarks on ‘new materialism’:</p>
-<blockquote><a id="tippy_tip4_8771_anchor"></a></blockquote>
-<p>Whatever the case, Puig de la Bellacasa “speculative reading” of Haraway and her thickening of <em>care</em> provides a helpful basis for thinking <a id="tippy_tip5_3204_anchor"></a> about what we know and how we know it.</p>
-<div class="tippy" data-title="Caring and relating thus share conceptual and ontological resonance. In worlds made of heterogeneous interdependent forms and processes of life and matter, to care about something, or for somebody, is inevitably to create relation. In this way care holds the peculiar significance of being a ‘non normative obligation’ (Puig de la Bellacasa, 2010): it is concomitant to life – not something forced upon living beings by a moral order; yet it obliges in that for life to be liveable it needs being fostered." data-showheader="false" data-anchor="#tippy_tip2_9894_anchor">p. 198, Puig la Bellacasa (2012)</div>
-<div class="tippy" data-title="central contribution on the topic of care" data-showheader="false" data-anchor="#tippy_tip3_3133_anchor">See Mol, A. 2008. <em>The Logic of Care: Health and the Problem of Patient Choice</em>. New York: Routledge.</div>
-<div class="tippy" data-title="As the new materialism forgets these relational engagements and affordances it has no ￼way of talking about what matter ‘itself’ does, other than naively echoing natural science textbooks and journal articles – minus the materials and methods sections. Decades of work in STS is being disdainfully discarded. In the process most of the questions that ‘relational materialism’ was trying to raise are being sidelined, too." data-showheader="false" data-anchor="#tippy_tip4_8771_anchor">… pp. 380–381, Mol, A. Mind your plate! The ontonorms of Dutch dieting. <em>Social Studies of Science</em> 43, 3 (2013), 379–396.</div>
-<div class="tippy" data-title="diffractively" data-showheader="false" data-anchor="#tippy_tip5_3204_anchor">That is, productively or generatively.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/without-its-world/">Reading ‘Nothing comes without its world’: thinking with care</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+<blockquote><p>[tippy title=“Caring and relating thus share conceptual and ontological resonance. In worlds made of heterogeneous interdependent forms and processes of life and matter, to care about something, or for somebody, is inevitably to create relation. In this way care holds the peculiar significance of being a ‘non normative obligation’ (Puig de la Bellacasa, 2010): it is concomitant to life – not something forced upon living beings by a moral order; yet it obliges in that for life to be liveable it needs being fostered.” showheader=“false”]p. 198, Puig la Bellacasa (2012)[/tippy]</p></blockquote>
+<p>One thing that’s noteworthy is the absence of Annemarie Mol in this text, with her [tippy title=“central contribution on the topic of care”&nbsp;showheader=“false”]See Mol, A. 2008. <em>The Logic of Care: Health and the Problem of Patient Choice</em>. New York: Routledge.[/tippy] in science and technology scholarship. I wonder if this has to do with her only just&nbsp;veiled criticisms of some in feminist technoscience through&nbsp;her remarks on ‘new materialism’:</p>
+<blockquote><p>[tippy title=“As the new materialism forgets these relational engagements and affordances it has no ￼way of talking about what matter ‘itself’ does, other than naively echoing natural science textbooks and journal articles – minus the materials and methods sections. Decades of work in STS is being disdainfully discarded. In the process most of the questions that ‘relational materialism’ was trying to raise are being sidelined, too.” showheader=“false”]… pp. 380–381, Mol, A. Mind your plate! The ontonorms of Dutch dieting. <em>Social Studies of Science</em> 43, 3 (2013), 379–396.[/tippy]</p></blockquote>
+<p>Whatever the case, Puig de la Bellacasa “speculative reading” of Haraway and her thickening of <em>care</em> provides a helpful basis for thinking [tippy title=“diffractively” showheader=“false”]That is, productively or generatively.[/tippy] about what we know and how we know it.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/without-its-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">675</post-id>	</item>
+			</item>
 	</channel>
 </rss>

@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>News Archives | Alex Taylor</title>
+	<title>News - Alex Taylor</title>
 	<atom:link href="http://ast.io/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>“Remaking Digital Futures” — BDFI Panel</title>
 		<link>http://ast.io/remaking-digital-futures/</link>
 					<comments>http://ast.io/remaking-digital-futures/#respond</comments>
@@ -34,10 +31,7 @@
 		<category><![CDATA[talk]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5910</guid>
 
-					<description><![CDATA[<p>How will digital technology disrupt traditional patterns of innovation? Discuss and explore at our symposium on 19 Jan #DisruptInnovation #DriveTechnology Please register https://t.co/hjxx3RIii4 @Dsimeo @susanjhalford @JeremyS1 pic.twitter.com/2vCVoo0mmt — Bristol Digital Futures Institute (@DigiFutures) December 22, 2021 Next up Panel 1 for #digifutures22 “Remaking Digital Futures” pic.twitter.com/fysLukHG83 — Bristol Digital Futures Institute (@DigiFutures) January 19, 2022 [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/remaking-digital-futures/">Read More...<span class="screen-reader-text"> from “Remaking Digital Futures” — BDFI Panel</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/remaking-digital-futures/">“Remaking Digital Futures” — BDFI Panel</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[How will digital technology disrupt traditional patterns of innovation? Discuss and explore at our symposium on 19 Jan #DisruptInnovation #DriveTechnology Please register https://t.co/hjxx3RIii4 @Dsimeo @susanjhalford @JeremyS1 pic.twitter.com/2vCVoo0mmt — Bristol Digital Futures Institute (@DigiFutures) December 22, 2021 Next up Panel 1 for #digifutures22 “Remaking Digital Futures” pic.twitter.com/fysLukHG83 — Bristol Digital Futures Institute (@DigiFutures) January 19, 2022 [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/remaking-digital-futures/">Read More...<span class="screen-reader-text"> from “Remaking Digital Futures” — BDFI Panel</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-11 col-md-6 mt-3">
 <blockquote class="twitter-tweet">
@@ -56,14 +50,13 @@
 </div>
 </div>
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<p>The post <a rel="nofollow" href="http://ast.io/remaking-digital-futures/">“Remaking Digital Futures” — BDFI Panel</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/remaking-digital-futures/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5910</post-id>	</item>
+			</item>
 		<item>
 		<title>Panel talk: Prototyping AI ethics futures—Rights, access and refusal</title>
 		<link>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/</link>
@@ -79,10 +72,7 @@
 		<category><![CDATA[dis/ability]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5848</guid>
 
-					<description><![CDATA[<p>Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with Ada Lovelace Institute, The British Academy and The Arts and Humanities Research council. Join us this Wednesday 23th at 1pm BST for the@justainet panel on “Rights, Access and Refusal” with @crystaljjlee @alxndrt and @maramills. Response from @sarahchander and chaired by @anthroptimist and @_louhicky https://t.co/3UUdNNzOsf [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Read More...<span class="screen-reader-text"> from Panel talk: Prototyping AI ethics futures—Rights, access and refusal</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Panel talk: Prototyping AI ethics futures—Rights, access and refusal</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with Ada Lovelace Institute, The British Academy and The Arts and Humanities Research council. Join us this Wednesday 23th at 1pm BST for the@justainet panel on “Rights, Access and Refusal” with @crystaljjlee @alxndrt and @maramills. Response from @sarahchander and chaired by @anthroptimist and @_louhicky https://t.co/3UUdNNzOsf [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Read More...<span class="screen-reader-text"> from Panel talk: Prototyping AI ethics futures—Rights, access and refusal</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with <a href="https://www.adalovelaceinstitute.org/event/prototyping-ai-ethics-futures-rights-access-refusal/" rel="noopener" target="_blank">Ada Lovelace Institute</a>, <a href="https://www.thebritishacademy.ac.uk/" rel="noopener" target="_blank">The British Academy</a> and <a href="https://ahrc.ukri.org/" rel="noopener" target="_blank">The Arts and Humanities Research council</a>.</p>
 <div class="row">
 <div class="col-sm-9 col-md-8 mt-3">
@@ -93,14 +83,13 @@
 </div>
 </div>
 <p></script></p>
-</div></div><p>The post <a rel="nofollow" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Panel talk: Prototyping AI ethics futures—Rights, access and refusal</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></content:encoded>
+</div></div>]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5848</post-id>	</item>
+			</item>
 		<item>
 		<title>Talk: Critical Perspectives on AI Ethics</title>
 		<link>http://ast.io/talk-critical-perspectives-on-ai-ethics/</link>
@@ -111,10 +100,7 @@
 				<category><![CDATA[News]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5857</guid>
 
-					<description><![CDATA[<p>Join us next week for an exciting 2‑day conference on Critical Perspective on AI Ethics! 20+ panelists from multiple fields, a poster session, and a stellar speaker line-up: @ShannonVallor @BakitaKK @alxndrt @benzevgreen @UoE_EFI Register here: https://t.co/eJV7nkCqlC — AIES Edinburgh (@aies_edinburgh) October 15, 2020 Brushing up on one of my favourite topics, Clever Hans the horse [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/talk-critical-perspectives-on-ai-ethics/">Read More...<span class="screen-reader-text"> from Talk: Critical Perspectives on AI Ethics</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/talk-critical-perspectives-on-ai-ethics/">Talk: Critical Perspectives on AI Ethics</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Join us next week for an exciting 2‑day conference on Critical Perspective on AI Ethics! 20+ panelists from multiple fields, a poster session, and a stellar speaker line-up: @ShannonVallor @BakitaKK @alxndrt @benzevgreen @UoE_EFI Register here: https://t.co/eJV7nkCqlC — AIES Edinburgh (@aies_edinburgh) October 15, 2020 Brushing up on one of my favourite topics, Clever Hans the horse [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/talk-critical-perspectives-on-ai-ethics/">Read More...<span class="screen-reader-text"> from Talk: Critical Perspectives on AI Ethics</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-8 col-md-6 mt-3">
 <blockquote class="twitter-tweet">
@@ -130,14 +116,13 @@
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p></div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/talk-critical-perspectives-on-ai-ethics/">Talk: Critical Perspectives on AI Ethics</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/talk-critical-perspectives-on-ai-ethics/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5857</post-id>	</item>
+			</item>
 		<item>
 		<title>Covid article in Interactions</title>
 		<link>http://ast.io/life-less-normal/</link>
@@ -149,25 +134,21 @@
 		<category><![CDATA[writing]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5783</guid>
 
-					<description><![CDATA[<p>Happy to have this piece in the ACM Interactions magazine, and part of the special issue Design in the Pandemic. Life Less Normal [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/life-less-normal/">Read More...<span class="screen-reader-text"> from Covid article in Interactions</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/life-less-normal/">Covid article in Interactions</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Happy to have this piece in the ACM Interactions magazine, and part of the special issue Design in the Pandemic. Life Less Normal [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/life-less-normal/">Read More...<span class="screen-reader-text"> from Covid article in Interactions</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="col-12 col-md-8 my-3">Happy to have this piece in the <a href="https://interactions.acm.org/" rel="noopener noreferrer" target="_blank">ACM Interactions</a> magazine, and part of the special issue <em><a href="https://interactions.acm.org/archive/toc/july-august-2020" rel="noopener noreferrer" target="_blank">Design in the Pandemic</a></em>.</div>
 <div class="highlight strong">Life Less Normal</div>
-<p><a href="ast.io/download/5781/Taylor-life-less-normal-2020.pdf"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2020/07/life-less-normal.png?resize=304%2C345&#038;ssl=1" alt width="304" height="345" class="aligncenter size-full wp-image-5784" srcset="https://i0.wp.com/ast.io/wp-content/uploads/2020/07/life-less-normal.png?w=304&amp;ssl=1 304w, https://i0.wp.com/ast.io/wp-content/uploads/2020/07/life-less-normal.png?resize=264%2C300&amp;ssl=1 264w" sizes="(max-width: 304px) 100vw, 304px" data-recalc-dims="1"></a></p>
+<p><a href="ast.io/download/5781/Taylor-life-less-normal-2020.pdf"><img loading="lazy" src="http://ast.io/wp-content/uploads/2020/07/life-less-normal.png" alt width="304" height="345" class="aligncenter size-full wp-image-5784" srcset="http://ast.io/wp-content/uploads/2020/07/life-less-normal.png 304w, http://ast.io/wp-content/uploads/2020/07/life-less-normal-264x300.png 264w" sizes="(max-width: 304px) 100vw, 304px"></a></p>
 <div class="col-12 col-md-7 my-4">
 <p class="wpmref"><span class="wpmauthors">Alex Taylor</span> <span class="wpmyear">(2020)</span> <span class="wpmtitle">Life Less Normal</span>, <span class="wpmoutlet">Interactions</span> <span class="wpmvolume">27</span><span class="wpmissue">(4)</span>, <span class="wpmpages">p. 79–82</span>, <span class="wpmpublisher">New York, NY, USA: Association for Computing Machinery</span>, <span class="wpmurl"><a target="_blank" href="http://ast.io/download/5781/Taylor-life-less-normal-2020.pdf"><span class="wpmurlpdf">pdf</span></a></span>, <span class="wpmurl"><a target="_blank" href="https://doi.org/10.1145/3406296"><span class="wpmurldoi:10.1145/3406296">doi:10.1145/3406296</span></a></span><br clear="all"></p>
 
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/life-less-normal/">Covid article in Interactions</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/life-less-normal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5783</post-id>	</item>
+			</item>
 		<item>
 		<title>PhD Scholarships at City</title>
 		<link>http://ast.io/phd-scholarships-2020/</link>
@@ -181,22 +162,18 @@
 		<category><![CDATA[studentship]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5668</guid>
 
-					<description><![CDATA[<p>We’d love to haveapplications from prospective students wanting to join the Centre for Human-Computer Interaction Design (HCID). The deadline is 20th May 2020. For details and application process, see here. Topically, I’m very open to suggestions. I’d love to see proposals taking critical and perhaps materialist orientations to technoscience. Feminist, intersectional thinking would also be [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/phd-scholarships-2020/">Read More...<span class="screen-reader-text"> from PhD Scholarships at City</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/phd-scholarships-2020/">PhD Scholarships at City</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[We’d love to haveapplications from prospective students wanting to join the Centre for Human-Computer Interaction Design (HCID). The deadline is 20th May 2020. For details and application process, see here. Topically, I’m very open to suggestions. I’d love to see proposals taking critical and perhaps materialist orientations to technoscience. Feminist, intersectional thinking would also be [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/phd-scholarships-2020/">Read More...<span class="screen-reader-text"> from PhD Scholarships at City</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="highlight-inv-text">We’d love to have<br>applications from prospective students wanting to join the <a href="https://www.city.ac.uk/mathematics-computer-science-engineering/research/centre-for-human-computer-interaction-design" target="_blank" rel="noopener noreferrer">Centre for Human-Computer Interaction Design</a> (HCID).</div>
 <p>The deadline is 20th May 2020. For details and application process, see <a href="https://www.city.ac.uk/study/fees-and-funding/scholarships-and-bursaries/school-of-mathematics-computer-science-and-engineering-doctoral-studentships/_nocache" target="_blank" rel="noopener noreferrer">here</a>.</p>
 <p>Topically, I’m very open to suggestions. I’d love to see proposals taking critical and perhaps materialist orientations to technoscience. Feminist, intersectional thinking would also be high on my wish list.</p>
 <p>Whatever the persuasion, if you have friends, students, colleagues, etc. interested in doing something exciting, please put them in touch.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/phd-scholarships-2020/">PhD Scholarships at City</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/phd-scholarships-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5668</post-id>	</item>
+			</item>
 		<item>
 		<title>Bauhaus Futures Book Chapter</title>
 		<link>http://ast.io/bauhaus-futures/</link>
@@ -209,12 +186,9 @@
 		<category><![CDATA[feminism]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5538</guid>
 
-					<description><![CDATA[<p>&#160; This chapter examines the processes of scaling made visible within the words and work of the Weimer Bauhaus and, particularly, Anni Albers’ careful accounts of weaving. We explore whether threading a feminist precarity into her writing helps illuminate new ways of examining tensions between what we scale up and what we scale down. Reading [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/bauhaus-futures/">Read More...<span class="screen-reader-text"> from Bauhaus Futures Book Chapter</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/bauhaus-futures/">Bauhaus Futures Book Chapter</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[&#160; This chapter examines the processes of scaling made visible within the words and work of the Weimer Bauhaus and, particularly, Anni Albers’ careful accounts of weaving. We explore whether threading a feminist precarity into her writing helps illuminate new ways of examining tensions between what we scale up and what we scale down. Reading [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/bauhaus-futures/">Read More...<span class="screen-reader-text"> from Bauhaus Futures Book Chapter</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
-<div class="col-sm-11 col-md-10 mt-3"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg?ssl=1"><img loading="lazy" class="alignnone wp-image-5566 size-medium" src="https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg?resize=225%2C300&#038;ssl=1" alt="Bauhaus Futures Book Cover" width="225" height="300" srcset="https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg?w=1920&amp;ssl=1 1920w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1"></a>&nbsp;<a href="https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg?ssl=1"><img loading="lazy" class="alignnone wp-image-5567 size-medium" src="https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg?resize=225%2C300&#038;ssl=1" alt="Photo of Anni Albers from chapter" width="225" height="300" srcset="https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg?w=1920&amp;ssl=1 1920w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1"></a></div>
+<div class="col-sm-11 col-md-10 mt-3"><a href="http://ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg"><img loading="lazy" class="alignnone wp-image-5566 size-medium" src="http://ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover-225x300.jpeg" alt="Bauhaus Futures Book Cover" width="225" height="300" srcset="http://ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover-225x300.jpeg 225w, http://ast.io/wp-content/uploads/2019/10/Bauhaus-Futures-Cover-768x1024.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px"></a>&nbsp;<a href="http://ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg"><img loading="lazy" class="alignnone wp-image-5567 size-medium" src="http://ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers-225x300.jpeg" alt="Photo of Anni Albers from chapter" width="225" height="300" srcset="http://ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers-225x300.jpeg 225w, http://ast.io/wp-content/uploads/2019/10/Photo-of-Anni-Albers-768x1024.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px"></a></div>
 </div>
 <div class="row">
 <div class="col-sm-11 col-md-6 mt-3">
@@ -237,14 +211,13 @@ The weave as a lively involution of scale, affect, and feminist precarity</p>
 
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/bauhaus-futures/">Bauhaus Futures Book Chapter</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/bauhaus-futures/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5538</post-id>	</item>
+			</item>
 		<item>
 		<title>A changing academic life</title>
 		<link>http://ast.io/a-changing-academic-life/</link>
@@ -258,11 +231,8 @@ The weave as a lively involution of scale, affect, and feminist precarity</p>
 		<category><![CDATA[resistance]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4890</guid>
 
-					<description><![CDATA[<p> [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/a-changing-academic-life/">Read More...<span class="screen-reader-text"> from A changing academic life</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/a-changing-academic-life/">A changing academic life</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[[raw] So grateful to Geraldine Fitzpatrick for spending the time talking to me and giving me the chance to put words to my still ill-formed thoughts on living an academic life. Such a privilege to be part of her podcast series, Changing Academic Life. In talking to Geraldine, I’ve tried to be honest, finding space [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/a-changing-academic-life/">Read More...<span class="screen-reader-text"> from A changing academic life</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p>[raw]</p>
 <div class="row">
 <div class="col-sm-11 col-md-6 mt-3">
 <p>
@@ -273,20 +243,21 @@ In talking to Geraldine, I’ve tried to be honest, finding space between my nai
 </p>
 </div>
 <div class="col-sm-11 col-md-8">
-<p>
-</p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">New podcast with <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> on research at the boundaries, moving from industry to academia, the labour of academia &amp; the power of the collective <a href="https://t.co/E6ppqPQux6">https://t.co/E6ppqPQux6</a></p>— ChangingAcademicLife (@ChangeAcadLife) <a href="https://twitter.com/ChangeAcadLife/status/1154060815651282944?ref_src=twsrc%5Etfw">July 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">New podcast with <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> on research at the boundaries, moving from industry to academia, the labour of academia &amp; the power of the collective <a href="https://t.co/E6ppqPQux6">https://t.co/E6ppqPQux6</a></p>
+<p>— ChangingAcademicLife (@ChangeAcadLife) <a href="https://twitter.com/ChangeAcadLife/status/1154060815651282944?ref_src=twsrc%5Etfw">July 24, 2019</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 </div>
 </div>
-
-<p>The post <a rel="nofollow" href="http://ast.io/a-changing-academic-life/">A changing academic life</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+<p>[/raw]</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/a-changing-academic-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4890</post-id>	</item>
+			</item>
 		<item>
 		<title>Are you Research Excellent?</title>
 		<link>http://ast.io/are-you-research-excellent/</link>
@@ -300,33 +271,28 @@ In talking to Geraldine, I’ve tried to be honest, finding space between my nai
 		<category><![CDATA[Sociology]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=4761</guid>
 
-					<description><![CDATA[<p>The UK’s national Research Excellence Framework (REF) assessment is looming. The formal deadline is in 2021, but many will be already feeling the pressures in their institutions and departments to be making sense of their work in terms of REF’s metrics and procedures. I’ve found myself entangled in this world of REF recently and wanting [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/are-you-research-excellent/">Read More...<span class="screen-reader-text"> from Are you Research Excellent?</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/are-you-research-excellent/">Are you Research Excellent?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[The UK’s national Research Excellence Framework (REF) assessment is looming.[foot]I post this sensitive to the troubles and complications that come with enacting academic life using these systems of accounting. I’m grateful to Effie Le Moignan for reminding me of the troubles.[/foot] The formal deadline is in 2021, but many will be already feeling the pressures [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/are-you-research-excellent/">Read More...<span class="screen-reader-text"> from Are you Research Excellent?</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-md-9">
-The UK’s national <a href="https://www.ref.ac.uk/2014/" target="_blank" rel="noopener noreferrer">Research Excellence Framework (REF)</a> assessment is looming.<a id="tippy_tip0_4704_anchor"></a> The formal deadline is in 2021, but many will be already feeling the pressures in their institutions and departments to be making sense of their work in terms of REF’s metrics and procedures.<br>
+The UK’s national <a href="https://www.ref.ac.uk/2014/" target="_blank" rel="noopener noreferrer">Research Excellence Framework (REF)</a> assessment is looming.[foot]I post this sensitive to the troubles and complications that come with enacting academic life using these systems of accounting. I’m grateful to Effie Le Moignan for <a href="https://twitter.com/Effie_lm/status/1114168866450608129" rel="noopener noreferrer" target="_blank">reminding me</a> of the troubles.[/foot] The formal deadline is in 2021, but many will be already feeling the pressures in their institutions and departments to be making sense of their work in terms of REF’s metrics and procedures.<br>
 I’ve found myself entangled in this world of REF recently and wanting to be able to make comparisons between institutions and their “<a href="https://www.ref.ac.uk/about/units-of-assessment/" target="_blank" rel="noopener noreferrer">Units of Assessment</a>” (REFs classification of research disciplines and fields).<br>
 Using this publicly available <a href="https://results.ref.ac.uk/(S(mo1uvhe3m0brbdoom52x00nr))/DownloadResults" target="_blank" rel="noopener noreferrer">data</a>, I’ve built a little tool to see how an institution’s unit of assessment did in the last assessment (circa 2014) and view this against other UoA results.
 </div>
 </div>
-<p><a href="http://ast.io/ref-2014-uoa23/"><img loading="lazy" class="aligncenter wp-image-4762 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2019/04/soc-ref.gif?resize=640%2C337&#038;ssl=1" alt="screen grab of REF comparison tool" width="640" height="337"  data-recalc-dims="1"></a></p>
+<p><a href="http://ast.io/ref-2014-uoa23/"><img loading="lazy" class="aligncenter wp-image-4762 size-large" src="http://ast.io/wp-content/uploads/2019/04/soc-ref-1024x539.gif" alt="screen grab of REF comparison tool" width="640" height="337"></a></p>
 <div class="row">
 <div class="col-md-9">
 For now, I’m just visualising data from two units of assessment, <a href="http://ast.io/ref-2014-uoa23/">Sociology</a> and <a href="http://ast.io/ref-2014-uoa11/">Computer Sciences and Informatics</a>.<br>
 You can compare your own institution’s Sociology or Computer Science scores against others’ in terms of Outputs, Impact and Environment (the REF assessment profiles).
 </div>
 </div>
-<div class="tippy" data-title="1" data-href="http://ast.io/are-you-research-excellent/#foot_text_4761_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_4761_1" data-showheader data-anchor="#tippy_tip0_4704_anchor">I post this sensitive to the troubles and complications that come with enacting academic life using these systems of accounting. I’m grateful to Effie Le Moignan for <a href="https://twitter.com/Effie_lm/status/1114168866450608129" rel="noopener noreferrer" target="_blank">reminding me</a> of the troubles.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/are-you-research-excellent/">Are you Research Excellent?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/are-you-research-excellent/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">4761</post-id>	</item>
+			</item>
 		<item>
 		<title>From the Picket Line</title>
 		<link>http://ast.io/the-picket-line/</link>
@@ -339,12 +305,9 @@ You can compare your own institution’s Sociology or Computer Science scores ag
 		<category><![CDATA[ucustrikes]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3997</guid>
 
-					<description><![CDATA[<p>For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly detailing the developments and explaining how this is about for a walk of life that just doesn’t [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/the-picket-line/">Read More...<span class="screen-reader-text"> from From the Picket Line</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/the-picket-line/">From the Picket Line</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly [tippy title=“helpful reads” showheader=“false”]For example, from Jason Hickel, David Kernohan, via Medium, etc. Karen Gregory has put [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/the-picket-line/">Read More...<span class="screen-reader-text"> from From the Picket Line</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="call-out">
-<div>For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly <a id="tippy_tip1_3498_anchor"></a> detailing the developments and explaining how this is about <a id="tippy_tip2_3172_anchor"></a> for a walk of life that just doesn’t have to be subject to the warped values of the Neo-liberal project.</div>
+<div>For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly [tippy title=“helpful reads” showheader=“false”]For example, from <a href="https://www.jasonhickel.org/blog/2018/3/15/this-isnt-just-about-pensions-anymore-theres-a-revolution-afoot" rel="noopener noreferrer" target="_blank">Jason Hickel</a>, <a href="https://wonkhe.com/blogs/a-beginners-guide-to-the-uss-dispute/" rel="noopener noreferrer" target="_blank">David Kernohan</a>, via <a href="https://medium.com/@ukacademic/why-i-dont-want-to-go-on-strike-e4a18bed6438" rel="noopener noreferrer" target="_blank">Medium</a>, etc. <a href="https://twitter.com/claudiakincaid" rel="noopener noreferrer" target="_blank">Karen Gregory</a> has put together a list of <a href="https://karengregoryphd.wordpress.com/ucu-strike-readings/" rel="noopener noreferrer" target="_blank">UCU Strike Readings</a>. Lucy Robinson’s <a href="https://proflrobinson.com/2018/03/15/my-strike-scrapbook-by-lucy-robinson-aged-48-1-3-yrs/" rel="noopener noreferrer" target="_blank">strike scrapbook</a> also deserves a special mention.[/tippy] detailing the developments and explaining how this is about [tippy title=“much more than pensions” showheader=“false”]See by <a href="http://www.notesfrombelow.org/article/six-points-eve-ucu-strike" rel="noopener noreferrer" target="_blank">Six points on the eve of the UCU strike</a> Jamie Woodcock[/tippy] for a walk of life that just doesn’t have to be subject to the warped values of the Neo-liberal project.</div>
 <p></p>
 <div>Personally, what I’ve found inspirational is the coverage from the picket line and the industry of others. Naturally, there have been the marches, the banners, and the teach-ins. But, with such generative care and warmth, what has brought special cheer to me have been the many outstanding examples of creative impulse: of <a href="https://twitter.com/_JPhelps/status/975137991709593600" rel="noopener noreferrer" target="_blank">craft</a> (like that recorded by <a href="https://twitter.com/_JPhelps" rel="noopener noreferrer" target="_blank">Jacob Phelps</a> below), of design (from <a href="https://twitter.com/may_katja/status/975101915121049600" rel="noopener noreferrer" target="_blank">Katja May</a>, <a href="https://twitter.com/katjungnickel" rel="noopener noreferrer" target="_blank">Kat Jungnickel</a>, etc. at Goldsmiths), and of <a href="https://twitter.com/AcademicDiary/status/973881115172892672" rel="noopener noreferrer" target="_blank">poetry</a> (no less from the fabulous <a href="https://twitter.com/MichaelRosenYes/status/975290654556291078" rel="noopener noreferrer" target="_blank">Michael Rosen</a>).</div>
 <p></p></div>
@@ -434,24 +397,20 @@ You can compare your own institution’s Sociology or Computer Science scores ag
 <p lang="und" dir="ltr"><a href="https://t.co/kHG1g6TMXy">pic.twitter.com/kHG1g6TMXy</a></p>
 <p>— Goldsmiths UCU (@GoldsmithsUCU) <a href="https://twitter.com/GoldsmithsUCU/status/974598449890054144?ref_src=twsrc%5Etfw">March 16, 2018</a></p></blockquote>
 <p></p></div>
-<a id="tippy_tip3_3636_anchor"></a><br>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="tippy" data-title="helpful reads" data-showheader="false" data-anchor="#tippy_tip1_3498_anchor">For example, from <a href="https://www.jasonhickel.org/blog/2018/3/15/this-isnt-just-about-pensions-anymore-theres-a-revolution-afoot" rel="noopener noreferrer" target="_blank">Jason Hickel</a>, <a href="https://wonkhe.com/blogs/a-beginners-guide-to-the-uss-dispute/" rel="noopener noreferrer" target="_blank">David Kernohan</a>, via <a href="https://medium.com/@ukacademic/why-i-dont-want-to-go-on-strike-e4a18bed6438" rel="noopener noreferrer" target="_blank">Medium</a>, etc. <a href="https://twitter.com/claudiakincaid" rel="noopener noreferrer" target="_blank">Karen Gregory</a> has put together a list of <a href="https://karengregoryphd.wordpress.com/ucu-strike-readings/" rel="noopener noreferrer" target="_blank">UCU Strike Readings</a>. Lucy Robinson’s <a href="https://proflrobinson.com/2018/03/15/my-strike-scrapbook-by-lucy-robinson-aged-48-1-3-yrs/" rel="noopener noreferrer" target="_blank">strike scrapbook</a> also deserves a special mention.</div>
-<div class="tippy" data-title="much more than pensions" data-showheader="false" data-anchor="#tippy_tip2_3172_anchor">See by <a href="http://www.notesfrombelow.org/article/six-points-eve-ucu-strike" rel="noopener noreferrer" target="_blank">Six points on the eve of the UCU strike</a> Jamie Woodcock</div>
-<div class="tippy" data-title="c" data-showheader="false" data-width="”450″" data-height="”200″" data-anchor="#tippy_tip3_3636_anchor">
+<p>[tippy title=“c” showheader=“false” width=”450″ height=”200″]</p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en">
 <p lang="en" dir="ltr">Your badges are awesome! Check out the ones we made <a href="https://twitter.com/UoK_UCU?ref_src=twsrc%5Etfw">@UoK_UCU</a> for <a href="https://twitter.com/hashtag/USSstrike?src=hash&amp;ref_src=twsrc%5Etfw">#USSstrike</a> <a href="https://t.co/90o96sZZAT">pic.twitter.com/90o96sZZAT</a></p>
 <p>— Katja May (@may_katja) <a href="https://twitter.com/may_katja/status/975101915121049600?ref_src=twsrc%5Etfw">March 17, 2018</a></p></blockquote>
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
-</p></div>
-<p>The post <a rel="nofollow" href="http://ast.io/the-picket-line/">From the Picket Line</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+[/tippy]<br>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/the-picket-line/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3997</post-id>	</item>
+			</item>
 		<item>
 		<title>PhD studentships at City</title>
 		<link>http://ast.io/phd-studentships-city/</link>
@@ -465,10 +424,7 @@ You can compare your own institution’s Sociology or Computer Science scores ag
 		<category><![CDATA[studentship]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3954</guid>
 
-					<description><![CDATA[<p>Just trying to promote as widely as possible: My School has just announced ten PhD studentships. I’d love to have strong applications from prospective students wanting to join the Centre for Human-Centered Design (HCID). There’s a list of research topics here. The deadline is 25th April 2018. For the full advert, see here. Personally, I’m [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/phd-studentships-city/">Read More...<span class="screen-reader-text"> from PhD studentships at City</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/phd-studentships-city/">PhD studentships at City</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Just trying to promote as widely as possible: My School has just announced ten PhD studentships. I’d love to have strong applications from prospective students wanting to join the Centre for Human-Centered Design (HCID). There’s a list of research topics here. The deadline is 25th April 2018. For the full advert, see here. Personally, I’m [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/phd-studentships-city/">Read More...<span class="screen-reader-text"> from PhD studentships at City</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Just trying to promote as widely as possible:</p>
 <div class="highlight-inv">
 <div class="highlight-inv-text">My <a href="https://www.city.ac.uk/mathematics-computer-science-engineering" target="_blank" rel="noopener noreferrer">School</a> has just announced <a href="http://www.jobs.ac.uk/job/BHM197/ten-doctoral-studentships/" target="_blank" rel="noopener noreferrer">ten PhD studentships</a>. I’d love to have strong applications from prospective students wanting to join the <a href="https://www.city.ac.uk/mathematics-computer-science-engineering/research/centre-for-human-computer-interaction-design" target="_blank" rel="noopener noreferrer">Centre for Human-Centered Design</a> (HCID).</div>
@@ -476,13 +432,12 @@ You can compare your own institution’s Sociology or Computer Science scores ag
 <p>There’s a list of research topics <a href="https://www.city.ac.uk/mathematics-computer-science-engineering/research/centre-for-human-computer-interaction-design/phd-topics" target="_blank" rel="noopener noreferrer">here</a>. The deadline is 25th April 2018. For the full advert, see <a href="http://www.jobs.ac.uk/job/BHM197/ten-doctoral-studentships/" target="_blank" rel="noopener noreferrer">here</a>.</p>
 <p>Personally, I’m very open to suggestions on topic. It would be thrilling to see proposals for critical and perhaps materialist orientations to technoscience. Oh, and feminist, intersectional thinking would be high on my wish list.</p>
 <p>Whatever the persuasion, if you have friends, students, colleagues, etc. interested in doing something exciting, please put them in touch.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/phd-studentships-city/">PhD studentships at City</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/phd-studentships-city/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3954</post-id>	</item>
+			</item>
 	</channel>
 </rss>

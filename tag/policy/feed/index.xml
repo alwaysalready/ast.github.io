@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Policy Archives | Alex Taylor</title>
+	<title>Policy - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/policy/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Reading “Not just neoliberalism…”</title>
 		<link>http://ast.io/not-just-neoliberalism/</link>
 					<comments>http://ast.io/not-just-neoliberalism/#respond</comments>
@@ -34,22 +31,18 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=535</guid>
 
-					<description><![CDATA[<p>Berman, E. P. (2014). Not Just Neoliberalism: Economization in US Science and Technology Policy. Science, Technology &#38; Human Values, 39(3), 397–431. The title of this paper says it all really. It’s good though to have a cogent argument about the relations between ideology, policy and the changes in how science is being done. I for [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/not-just-neoliberalism/">Read More...<span class="screen-reader-text"> from Reading “Not just neoliberalism…”</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/not-just-neoliberalism/">Reading “Not just neoliberalism…”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Berman, E. P. (2014). Not Just Neoliberalism: Economization in US Science and Technology Policy. Science, Technology &#38; Human Values, 39(3), 397–431. The title of this paper says it all really. It’s good though to have a cogent argument about the relations between ideology, policy and the changes in how science is being done. I for [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/not-just-neoliberalism/">Read More...<span class="screen-reader-text"> from Reading “Not just neoliberalism…”</span></a></p>]]></description>
 										<content:encoded><![CDATA[<blockquote><p>Berman, E. P. (2014). <a href="http://sth.sagepub.com/content/39/3/397.abstract" target="_blank" rel="noopener noreferrer">Not Just Neoliberalism</a>: Economization in US Science and Technology Policy. <em>Science, Technology &amp; Human Values</em>, 39(3), 397–431.</p></blockquote>
-<p><a href="http://sth.sagepub.com/content/39/3/397.abstract"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/09/not-just-neo-300x300.png?resize=300%2C300" alt="not-just-neo" width="300" height="300" class="alignleft size-medium wp-image-543" data-recalc-dims="1"></a><br>
+<p><a href="http://sth.sagepub.com/content/39/3/397.abstract"><img loading="lazy" src="http://ast.io/wp-content/uploads/2014/09/not-just-neo-300x300.png" alt="not-just-neo" width="300" height="300" class="alignleft size-medium wp-image-543"></a><br>
 The title of this paper says it all really. It’s good though to have a cogent argument about the relations between ideology, policy and the changes in how science is being done. I for one very easily slip into an accusatory refrain when talking about and usually criticising what I’ve seen to be the neoliberal (non)interventionist and policy direction in education and science. <a href="http://epberman.com/" target="_blank" rel="noopener noreferrer">Elizabeth Berman</a> presents a much more measured position and convinces me that it’s better understood as an economization, as she calls it, where the broader shift is towards prioritising scientific research and innovation vis-a-vis the economy and specifically seeing them as economic inputs. This recognises the tensions and complications and the competing interests that have run through the changing status of the sciences (in the US, but similarly, I think, in the UK).<br>
 Something I think Berman leaves open is the relationship between science and innovation. She makes it clear that science and innovation become inexorably linked when science is seen in economic terms. I want, though, to better understand the nexus. Indeed, but conflating science and technology (“S&amp;T” as Berman refers to it), I think there are further complications here that need unraveling, ones pointing to the entanglements of science and technology, and where progress or innovation sits between (or around) them. Can we talk of technology without innovation? If S&amp;T are two-parts of a unit, how can we disentangle innovation?</p>
-<p>The post <a rel="nofollow" href="http://ast.io/not-just-neoliberalism/">Reading “Not just neoliberalism…”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/not-just-neoliberalism/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">535</post-id>	</item>
+			</item>
 		<item>
 		<title>#datapolicy</title>
 		<link>http://ast.io/data-policy/</link>
@@ -63,19 +56,15 @@ Something I think Berman leaves open is the relationship between science and inn
 		<category><![CDATA[Policy]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=384</guid>
 
-					<description><![CDATA[<p>After a tremendous about of work with Lara Houston, I’m delighted to have finally gone live with our data policy site: data-policy.info. It attempts to detail, in various formats and cuts, the discussions at the day of dialogues on data, policy and civic life, held at Microsoft Research Cambridge. More than this though, we want [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-policy/">Read More...<span class="screen-reader-text"> from #datapolicy</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/data-policy/">#datapolicy</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[After a tremendous about of work with Lara Houston, I’m delighted to have finally gone live with our data policy site: data-policy.info. It attempts to detail, in various formats and cuts, the discussions at the day of dialogues on data, policy and civic life, held at Microsoft Research Cambridge. More than this though, we want [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-policy/">Read More...<span class="screen-reader-text"> from #datapolicy</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>After a tremendous about of work with <a href="http://www.lancaster.ac.uk/sociology/profiles/lara-houston" target="_blank" rel="noopener noreferrer">Lara Houston</a>, I’m delighted to have finally gone live with our data policy site: <a href="http://data-policy.info/category/topics/" target="_blank" rel="noopener noreferrer">data-policy.info</a>. It attempts to detail, in various formats and cuts, the discussions at the <a href="http://ast.io/dialogues-data-policy-civic-life/">day of dialogues</a> on data, policy and civic life, held at Microsoft Research Cambridge. More than this though, we want the site to promote further discussion and expand the ways we might think of the relations between data, social/civic life, and policy. For me, the inspiration here has been the work a few of us have been doing with <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> in cambridge and a community’s efforts to make sense of and use its data. I’d like to think something small and local could make a difference in these big discussions</p>
-<p>The post <a rel="nofollow" href="http://ast.io/data-policy/">#datapolicy</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/data-policy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">384</post-id>	</item>
+			</item>
 		<item>
 		<title>Dialogues on data, policy and civic life</title>
 		<link>http://ast.io/dialogues-data-policy-civic-life/</link>
@@ -89,16 +78,13 @@ Something I think Berman leaves open is the relationship between science and inn
 		<category><![CDATA[Policy]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=363</guid>
 
-					<description><![CDATA[<p>Next Tuesday a few of us at Microsoft Research are hosting a day-long dialogue to discuss the interminglings of data and social/civic life. We’re bringing together a mix of social theorists, commentators and policy advisers with the hope of drawing out possibilities for doing policy making (as well as technology design) differently. Our preamble for [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/dialogues-data-policy-civic-life/">Read More...<span class="screen-reader-text"> from Dialogues on data, policy and civic life</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/dialogues-data-policy-civic-life/">Dialogues on data, policy and civic life</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><a href="https://i0.wp.com/ast.io/wp-content/uploads/2014/03/direction_BW.png"><img loading="lazy" class="alignnone  wp-image-366" alt="direction_BW" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/03/direction_BW-1024x1024.png?resize=640%2C640" width="640" height="640"  data-recalc-dims="1"></a><br>
+					<description><![CDATA[Next Tuesday a few of us at Microsoft Research are hosting a day-long dialogue to discuss the interminglings of data and social/civic life. We’re bringing together a mix of social theorists, commentators and policy advisers with the hope of drawing out possibilities for doing policy making (as well as technology design) differently. Our preamble for [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/dialogues-data-policy-civic-life/">Read More...<span class="screen-reader-text"> from Dialogues on data, policy and civic life</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://ast.io/wp-content/uploads/2014/03/direction_BW.png"><img loading="lazy" class="alignnone  wp-image-366" alt="direction_BW" src="http://ast.io/wp-content/uploads/2014/03/direction_BW-1024x1024.png" width="655" height="655"></a><br>
 Next Tuesday a few of us at Microsoft Research are hosting a day-long dialogue to discuss the interminglings of data and social/civic life. We’re bringing together a mix of social theorists, commentators and policy advisers with the hope of drawing out possibilities for doing policy making (as well as technology design) differently. Our preamble for the event follows (a printable PDF can be downloaded <a href="http://ast.io/wp-content/uploads/2014/03/Data_policy_preamble.pdf">here</a>):<span id="more-363"></span></p>
 <h3>Dialogues on data, policy and civic life</h3>
 <p>The graphs below present two fairly typical examples of visualisations charting some kind of data over time. In this case, they are the data a few of us at Microsoft Research in Cambridge have begun to collect of vehicle and bicycle journeys outside our office building. They show the volume of journeys along Tenison Road, recorded over twenty-four hours. The first indicates the density of the traffic and the second presents the direction of that traffic.<br>
-<a href="https://i0.wp.com/ast.io/wp-content/uploads/2014/03/density_BW-short.png"><img loading="lazy" class="alignnone  wp-image-375" alt="density_BW short" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/03/density_BW-short-1024x151.png?resize=640%2C95" width="640" height="95"  data-recalc-dims="1"></a><br>
-<a style="line-height: 1.5em;" href="https://i0.wp.com/ast.io/wp-content/uploads/2014/03/direction_BW_short.png"><img loading="lazy" class="alignnone  wp-image-373" alt="direction_BW_short" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/03/direction_BW_short.png?resize=640%2C137" width="640" height="137"  data-recalc-dims="1"></a><br>
+<a href="http://ast.io/wp-content/uploads/2014/03/density_BW-short.png"><img loading="lazy" class="alignnone  wp-image-375" alt="density_BW short" src="http://ast.io/wp-content/uploads/2014/03/density_BW-short-1024x151.png" width="717" height="106"></a><br>
+<a style="line-height: 1.5em;" href="http://ast.io/wp-content/uploads/2014/03/direction_BW_short.png"><img loading="lazy" class="alignnone  wp-image-373" alt="direction_BW_short" src="http://ast.io/wp-content/uploads/2014/03/direction_BW_short.png" width="693" height="148"></a><br>
 But why are we collecting this data? How and where will it circulate? And to what end? We might ask, as well, what rights we have to capture, store and present the data? Who should have rights to the data? How will it be used? In short, in what ways do the flows of traffic on Tenison Road matter, and to whom?<br>
 It’s precisely this line of questioning that has motivated our traffic-monitoring exercise and more generally a yearlong project we are embarking on with the people living and working on Tenison Road. The project — handily called the Tenison Road project — stems from some troubles we’ve had with all the excitement about data being reported by the popular press and matched by at least some of the claims coming from our technologically-minded comrades. It is hard not to open a newspaper, journal issue or conference proceedings without seeing something about data. On the one hand we have some pretty exaggerated claims envisioning data (especially Big Data) as the final answer for understanding just about anything that’s hitherto been too complex to understand. On the other, we see an abundance of stories predicting that a surveillance society afforded by the proliferation of personal data is set to dismantle civic life as we know it. Running alongside this is a discussion on appropriate policy frameworks that might enable the potential of data, while minimizing the risks and protecting the rights of citizens — encapsulated by the European Union’s focus this past year on gaining approval for the draft Data Protection Regulation.<br>
 No matter how you cut it, however, it’s abundantly clear that where data extends into the everyday — and is mobilised with many heterogeneous motives — there are some profoundly challenging technical, social and ethical issues at stake. On Tenison Road at least, we’ve found such issues to be deeply intertwined, immediately raising questions around how particular actors are prioritised and privileged and whether there may be different and possibly better ways to distribute agency. We’ve found there to be a troubling (if not altogether unsurprising) degree of nuance and complexity, and some real uncertainty about how things might be better.<br>
@@ -116,13 +102,12 @@ The vision of a data-rich and hyper-connected world presents some of the most ch
 © the International Institute of Communications workshop on “Creating a User-Centred Data Ecosystem: Context and Policy,” see <a href="http://www.iicom.org/annual-conference/annual-conference-2013/iic-2013-associated-events">here</a>.<br>
 More information about the Tenison Road project is available <a href="http://tenisonroad.com/">here</a>.<br>
 This document has been authored by Lara Houston, Alex Taylor and Carolyn Nguyen.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/dialogues-data-policy-civic-life/">Dialogues on data, policy and civic life</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/dialogues-data-policy-civic-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">363</post-id>	</item>
+			</item>
 	</channel>
 </rss>

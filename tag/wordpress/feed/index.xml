@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>wordpress Archives | Alex Taylor</title>
+	<title>wordpress - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Sending HTML formatted emails using BuddyPress and BBPress</title>
 		<link>http://ast.io/html-emails-buddypress-bbpress/</link>
 					<comments>http://ast.io/html-emails-buddypress-bbpress/#comments</comments>
@@ -35,23 +32,20 @@
 		<category><![CDATA[wordpress]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5694</guid>
 
-					<description><![CDATA[<p>I’ve spent quite a long time trying to figure out how to send html formatted emails on a community WordPress site, using Buddypress and bbpress. It’s taken a bit of digging and a combination of sources so I thought I’d share my final solution. The problem I run a WordPress website for my local neighbourhood [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/html-emails-buddypress-bbpress/">Read More...<span class="screen-reader-text"> from Sending HTML formatted emails using BuddyPress and BBPress</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/html-emails-buddypress-bbpress/">Sending HTML formatted emails using BuddyPress and BBPress</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I’ve spent quite a long time trying to figure out how to send html formatted emails on a community WordPress site, using Buddypress and bbpress. It’s taken a bit of digging and a combination of sources so I thought I’d share my final solution. The problem I run a WordPress website for my local neighbourhood [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/html-emails-buddypress-bbpress/">Read More...<span class="screen-reader-text"> from Sending HTML formatted emails using BuddyPress and BBPress</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-8 col-md-6 mt-3">
 <p>I’ve spent quite a long time trying to figure out how to send html formatted emails on a community <a href="https://en-gb.wordpress.org/" rel="noopener noreferrer" target="_blank">WordPress</a> site, using <a href="https://buddypress.org/" rel="noopener noreferrer" target="_blank">Buddypress</a> and <a href="https://bbpress.org/" rel="noopener noreferrer" target="_blank">bbpress</a>. It’s taken a bit of digging and a combination of sources so I thought I’d share my final solution.</p>
 <h2>The problem</h2>
 <p>I run a WordPress website for my local neighbourhood (of approx 200 people). The community makes good use of the bbpress enabled discussion forum. All members are automatically subscribed to the forum and receive email notifications when messages are posted.</p>
 <p>At first, I relied on Buddypress’s built-in use of PHPMailer to send the email notifications. I found, however, that my service provider was limiting the number of emails that could be sent per day and that many of the messages were ending up in people’s junk mail folders. As a result, a lot of people weren’t getting the notifications.</p>
-<p>My solution to this was to subscribe to a separate email service and use the <a href="https://wordpress.org/plugins/wp-mail-smtp/" rel="noopener noreferrer" target="_blank">WP Mail SMTP</a> plugin to send messages via the alternative, more reliable mail server.<a id="tippy_tip0_3306_anchor"></a></p>
+<p>My solution to this was to subscribe to a separate email service and use the <a href="https://wordpress.org/plugins/wp-mail-smtp/" rel="noopener noreferrer" target="_blank">WP Mail SMTP</a> plugin to send messages via the alternative, more reliable mail server.[foot]There are a few reasons for this improved reliability that I won’t go into here — WP Mail SMTP offer a reasonable <a href="https://wordpress.org/plugins/wp-mail-smtp/#description-header" rel="noopener noreferrer" target="_blank">explanation</a>.[/foot]</p>
 </div>
 </div>
 <div class="row">
 <div class="col-sm-7 col-md-4">
 <h3><em>Plaintext emails</em></h3>
-<p>As is so often the case in WordPress, this triggered another problem. To send messages through external mail servers, WordPress needs to use the <a href="https://developer.wordpress.org/reference/functions/wp_mail/" rel="noopener noreferrer" target="_blank"><code>wp_mail()</code></a> function. And here’s the reason for this blog post: BuddyPress and it’s younger sibling bbpress default to plaintext emails when <code>wp_mail()</code> is used. In <em>Snippet A</em> from one of Buddypress’s core files you’ll see the cause of this problem. At 3201, you’ll see ‘<code>content_plaintext</code>’. This sets the mail format to be plaintext when wpmail() is used.<a id="tippy_tip1_8672_anchor"></a></p>
+<p>As is so often the case in WordPress, this triggered another problem. To send messages through external mail servers, WordPress needs to use the <a href="https://developer.wordpress.org/reference/functions/wp_mail/" rel="noopener noreferrer" target="_blank"><code>wp_mail()</code></a> function. And here’s the reason for this blog post: BuddyPress and it’s younger sibling bbpress default to plaintext emails when <code>wp_mail()</code> is used. In <em>Snippet A</em> from one of Buddypress’s core files you’ll see the cause of this problem. At 3201, you’ll see ‘<code>content_plaintext</code>’. This sets the mail format to be plaintext when wpmail() is used.[foot]See: <code>\wp-content\plugins\buddypress\bp-core\bp-core-functions.php</code> from about line <code>3196</code>.[/foot]</p>
 </div>
 <div class="col-12 col-md-7 mt-2 pt-3">
 <figure class="figure">
@@ -89,7 +83,8 @@ if ( $must_use_wpmail ) {
 <div class="row">
 <div class="col-sm-8 col-md-6 mt-3">
 <h2>The solution</h2>
-<p>The solution requires three steps. Before we begin, we need to either open or create a file called <code>bp-custom.php</code> in the <code>wp-content/plugins</code> folder.<a id="tippy_tip2_9052_anchor"></a></p>
+<p>The solution requires three steps. Before we begin, we need to either open or create a file called <code>bp-custom.php</code> in the <code>wp-content/plugins</code> folder.[foot]I’m assuming you have access to your WordPress site’s root directory, via ftp for example.</p>
+<p>[/foot]</p>
 <h3 class="mt-2"><em>1. Use wp_mail</em></h3>
 <p>In this file, we need to tell Buddypress to use <code>wp_mail()</code> using the <a href="http://hookr.io/filters/bp_email_use_wp_mail/" rel="noopener noreferrer" target="_blank"><code>bp_email_use_wp_mail</code></a> filter:</p>
 </div>
@@ -115,7 +110,7 @@ function set_html_content_type() {
 </div>
 <div class="col-sm-8 col-md-6 mt-3">
 <h3><em>3. Use the HTML template</em></h3>
-<p>Finally, and this is the really important part, we need to tell Buddypress to use the HTML template rather than the plaintext content. This overwrites the code in Snippet A, line 3201 above.<a id="tippy_tip3_4355_anchor"></a></p>
+<p>Finally, and this is the really important part, we need to tell Buddypress to use the HTML template rather than the plaintext content. This overwrites the code in Snippet A, line 3201 above.[foot]I owe this solution to a <a href="https://buddydev.com/" rel="noopener noreferrer" target="_blank">BuddyDev</a> developer Brajesh Singh, <a href="https://buddydev.com/add-email-notification-unsubscribe-link-to-all-buddypress-emails" rel="noopener noreferrer" target="_blank">here</a>.[/foot]</p>
 </div>
 <div class="col-12 col-md-8">
 <pre class="brush: php; light: true; title: ; notranslate">
@@ -194,19 +189,13 @@ function noreply_from_name($name) {
 <p>Hope this works and is useful for others.</p>
 </div>
 </div>
-<div class="tippy" data-title="1" data-href="http://ast.io/html-emails-buddypress-bbpress/#foot_text_5694_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_5694_1" data-showheader data-anchor="#tippy_tip0_3306_anchor">There are a few reasons for this improved reliability that I won’t go into here — WP Mail SMTP offer a reasonable <a href="https://wordpress.org/plugins/wp-mail-smtp/#description-header" rel="noopener noreferrer" target="_blank">explanation</a>.</div>
-<div class="tippy" data-title="2" data-href="http://ast.io/html-emails-buddypress-bbpress/#foot_text_5694_2" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_5694_2" data-showheader data-anchor="#tippy_tip1_8672_anchor">See: <code>\wp-content\plugins\buddypress\bp-core\bp-core-functions.php</code> from about line <code>3196</code>.</div>
-<div class="tippy" data-title="3" data-href="http://ast.io/html-emails-buddypress-bbpress/#foot_text_5694_3" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_5694_3" data-showheader data-anchor="#tippy_tip2_9052_anchor">I’m assuming you have access to your WordPress site’s root directory, via ftp for example.
-<p></p></div>
-<div class="tippy" data-title="4" data-href="http://ast.io/html-emails-buddypress-bbpress/#foot_text_5694_4" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_5694_4" data-showheader data-anchor="#tippy_tip3_4355_anchor">I owe this solution to a <a href="https://buddydev.com/" rel="noopener noreferrer" target="_blank">BuddyDev</a> developer Brajesh Singh, <a href="https://buddydev.com/add-email-notification-unsubscribe-link-to-all-buddypress-emails" rel="noopener noreferrer" target="_blank">here</a>.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/html-emails-buddypress-bbpress/">Sending HTML formatted emails using BuddyPress and BBPress</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/html-emails-buddypress-bbpress/feed/</wfw:commentRss>
 			<slash:comments>13</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5694</post-id>	</item>
+			</item>
 		<item>
 		<title>Automatically subscribe to Buddypress group forum</title>
 		<link>http://ast.io/auto-subscribe-group-forum/</link>
@@ -221,10 +210,7 @@ function noreply_from_name($name) {
 		<category><![CDATA[wordpress]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3244</guid>
 
-					<description><![CDATA[<p>On a Buddypress and BBPress enabled WordPress site, I wanted to set things up so that when a member joins a group, he/she will also automatically be subscribed to its forum. I couldn’t find a clear description of how to do this, so I thought I’d share what worked for me. First, here’s the code. [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/auto-subscribe-group-forum/">Read More...<span class="screen-reader-text"> from Automatically subscribe to Buddypress group forum</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/auto-subscribe-group-forum/">Automatically subscribe to Buddypress group forum</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[On a Buddypress and BBPress enabled WordPress site, I wanted to set things up so that when a member joins a group, he/she will also automatically be subscribed to its forum. I couldn’t find a clear description of how to do this, so I thought I’d share what worked for me. First, here’s the code. [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/auto-subscribe-group-forum/">Read More...<span class="screen-reader-text"> from Automatically subscribe to Buddypress group forum</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>On a <a href="https://buddypress.org/" target="_blank" rel="noopener noreferrer">Buddypress</a> and <a href="https://bbpress.org/" target="_blank" rel="noopener noreferrer">BBPress</a> enabled WordPress site, I wanted to set things up so that when a member joins a <a href="https://buddypress.org/about/groups/" target="_blank" rel="noopener noreferrer">group</a>, he/she will also automatically be subscribed to its forum. I couldn’t find a clear description of how to do this, so I thought I’d share what worked for me.<br>
 First, here’s the code. You can paste this into the <a href="https://codex.wordpress.org/Functions_File_Explained" target="_blank" rel="noopener noreferrer">functions.php</a> file in your theme directory, or the <a href="https://codex.buddypress.org/themes/bp-custom-php/" target="_blank" rel="noopener noreferrer">bp-custom.php</a> file in your plugins directory. I think it should work as is so long as you only have one forum per group.</p>
 <pre class="brush: php; highlight: [5,7]; title: Add members who join a group to its forum; wrap-lines: true; notranslate">// Add member who joins a group to its forum
@@ -246,14 +232,13 @@ bbp_add_user_forum_subscription( $user_id, $forum_id );
 <p>Basically, you’re using the <code>groups_join_group</code> handle to trigger an action when someone joins a group (for example, by selecting the join group button/link on the group’s home page). The only slight oddity is that <code>bbp_get_group_forum_ids</code> returns an array (I guess in case the group has more than one forum), so you need to convert this into a single number. I do this by using the <a href="http://php.net/manual/en/function.array-shift.php" target="_blank" rel="noopener noreferrer">array_shift</a> function which returns the first value from the array.<br>
 Worth noting too that this would work with other handles too, for example when a user accepts a group invite (<code><a href="http://hookr.io/plugins/buddypress/2.6.2/actions/groups_accept_invite/" target="_blank" rel="noopener noreferrer">groups_accept_invite</a></code>). I’ve found <a href="http://hookr.io/plugins/buddypress/#index=a" target="_blank" rel="noopener noreferrer">Hookr</a> to be a really useful site to find, well, hooks.<br>
 Hope that helps!</p>
-<p>The post <a rel="nofollow" href="http://ast.io/auto-subscribe-group-forum/">Automatically subscribe to Buddypress group forum</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/auto-subscribe-group-forum/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3244</post-id>	</item>
+			</item>
 		<item>
 		<title>Controlling access to BuddyPress pages</title>
 		<link>http://ast.io/controlling-access-buddypress-pages/</link>
@@ -267,13 +252,10 @@ Hope that helps!</p>
 		<category><![CDATA[wordpress]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=2559</guid>
 
-					<description><![CDATA[<p>I wanted to find a way to control access to specific BuddyPress pages on a Residents Association site I help manage. I wanted, in short, to have greater control over the pages different types of members and non-members could view on the site. I found ways&#160;to do this via plugins (e.g. BuddyPress Members Only) or [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/controlling-access-buddypress-pages/">Read More...<span class="screen-reader-text"> from Controlling access to BuddyPress pages</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/controlling-access-buddypress-pages/">Controlling access to BuddyPress pages</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I wanted to find a way to control access to specific BuddyPress pages on a Residents Association site I help manage. I wanted, in short, to have greater control over the pages different types of members and non-members could view on the site. I found ways&#160;to do this via plugins (e.g. BuddyPress Members Only) or [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/controlling-access-buddypress-pages/">Read More...<span class="screen-reader-text"> from Controlling access to BuddyPress pages</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>I wanted to find a way to control access to specific <a href="https://buddypress.org/" target="_blank" rel="noopener noreferrer">BuddyPress</a> pages on a <a href="http://jhera.org/" target="_blank" rel="noopener noreferrer">Residents Association</a> site I help manage. I wanted, in short, to have greater control over the pages different types of members and non-members could view on the site.<br>
 I found ways&nbsp;to do this via plugins (e.g. <a href="https://wordpress.org/plugins/buddypress-members-only/" target="_blank" rel="noopener noreferrer">BuddyPress Members Only</a>) or <a href="https://buddypress.org/support/topic/how-to-make-a-private-community/page/5/?topic_page=6&amp;num=15%2F" target="_blank" rel="noopener noreferrer">tweaks</a> (e.g. <a href="https://buddypress.org/support/topic/hiding-groups-activity-members-list-to-non-members/" target="_blank" rel="noopener noreferrer">here</a> and <a href="https://seventhqueen.com/blog/code-snippets/restrict-guest-users-from-accessing-buddypress-or-bbpress-pages.html" target="_blank" rel="noopener noreferrer">here</a>), but nothing quite fit my needs. The plugins were mostly all or nothing, and the tweaks were helpful but didn’t offer a full solution.<br>
-The following, then, offers three steps I’ve taken to control access to a WordPress site’s&nbsp;BuddyPress members pages, even ones dynamically published.<span id="more-2559"></span> It relies on adding a&nbsp;relatively straightforward function to the <a id="tippy_tip4_2511_anchor"></a> in a site’s active theme folder.</p>
+The following, then, offers three steps I’ve taken to control access to a WordPress site’s&nbsp;BuddyPress members pages, even ones dynamically published.<span id="more-2559"></span> It relies on adding a&nbsp;relatively straightforward function to the [tippy title=“function.php file” showheader=“false”&nbsp;]For more information on the funsctions.php file see helpful information on this&nbsp;<a href="http://www.wpbeginner.com/glossary/functions-php/" target="_blank" rel="noopener noreferrer">WordPress for beginners page</a>, this <a href="https://premium.wpmudev.org/blog/functions-file/" target="_blank" rel="noopener noreferrer">wpmudev page</a>, and the <a href="https://codex.wordpress.org/Functions_File_Explained" target="_blank" rel="noopener noreferrer">WordPress codex</a>[/tippy] in a site’s active theme folder.</p>
 <h1 style="font-size: 1.3rem;">1. Restricted access for logged-out users</h1>
 <p>This first step offers the simplest condition:&nbsp;preventing&nbsp;logged out users from accessing BuddyPress member pages.</p>
 <p style="font-size: 1rem; font-weight: bold;">Example 1.1</p>
@@ -333,7 +315,7 @@ function bp_redirect_pages() {
 add_action( 'template_redirect', 'bp_redirect_pages' );</pre>
 <p>Here, we’re introducing a few new things:</p>
 <p style="padding-left: 30px;"><code>$current_user</code> returns and saves information about the user trying to load the page and will later (line 8) allow us to retrieve their user ID.<br>
-<code>$group_id</code> is the <a id="tippy_tip5_2063_anchor"></a> for a pre-defined group. In the case above, it’s “1”.</p>
+<code>$group_id</code> is the [tippy title=“BuddyPress group id” showheader=“false”&nbsp;]To work out what a group’s id is, navigate to the WordPress admin page, choose “Groups” from the left hand menu, choose to edit a group, look at the URL and the number after “gid=” is the group ID.[/tippy] for a pre-defined group. In the case above, it’s “1”.</p>
 <p>Before we get to the <code>if</code> statement, notice I’ve used a different redirect method here. <code>wp_redirect( home_url() . '/membership-signup/' );</code> redirects to “home_URL/membership-signup/”. You can add anything instead of <code>'/membership-signup/'</code> so long as it corresponds to a page on your site.<br>
 In this example’s <code>if</code> statement, <code>!groups_is_user_member( $current_user-&gt;ID, $group_id )</code> is testing to see if the current user (<code>$current_user</code>) is <strong>not</strong>&nbsp;a member of the group pre-defined (<code>$group_id</code>). Specifically, we’re checking if the current user’s ID (<code>$current_user-&gt;ID</code>) can be found in the group with ID 1 (<code>$group_id</code>).<br>
 The <code>if</code> statement is also testing whether the page the user wants to load is a BuddyPress group pages (<code>(bp_is_groups_component()</code>) or contains “group” in the URL (<code>in_array("groups", $explode_url)</code>).<br>
@@ -375,16 +357,13 @@ That’s about it. There are obviously many more options, but hopefully this pro
     }
 }
 add_action( 'template_redirect', 'bp_redirect_pages' );</pre>
-<div class="tippy" data-title="function.php file" data-showheader="false" data-anchor="#tippy_tip4_2511_anchor">For more information on the funsctions.php file see helpful information on this&nbsp;<a href="http://www.wpbeginner.com/glossary/functions-php/" target="_blank" rel="noopener noreferrer">WordPress for beginners page</a>, this <a href="https://premium.wpmudev.org/blog/functions-file/" target="_blank" rel="noopener noreferrer">wpmudev page</a>, and the <a href="https://codex.wordpress.org/Functions_File_Explained" target="_blank" rel="noopener noreferrer">WordPress codex</a></div>
-<div class="tippy" data-title="BuddyPress group id" data-showheader="false" data-anchor="#tippy_tip5_2063_anchor">To work out what a group’s id is, navigate to the WordPress admin page, choose “Groups” from the left hand menu, choose to edit a group, look at the URL and the number after “gid=” is the group ID.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/controlling-access-buddypress-pages/">Controlling access to BuddyPress pages</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/controlling-access-buddypress-pages/feed/</wfw:commentRss>
 			<slash:comments>6</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">2559</post-id>	</item>
+			</item>
 		<item>
 		<title>Custom wordpress full width page template (Twenty Twelve theme)</title>
 		<link>http://ast.io/wordpress-full-width-page-template/</link>
@@ -397,11 +376,8 @@ add_action( 'template_redirect', 'bp_redirect_pages' );</pre>
 		<category><![CDATA[wordpress]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=388</guid>
 
-					<description><![CDATA[<p>This took me a while to work out so I thought it would be worth sharing. Using the Twenty Twelve WordPress theme (on this site), I wanted to create my own page template with no sidebar and with full width content (e.g. see here). I thought it would be a simple matter of copying the [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/wordpress-full-width-page-template/">Read More...<span class="screen-reader-text"> from Custom wordpress full width page template (Twenty Twelve theme)</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/wordpress-full-width-page-template/">Custom wordpress full width page template (Twenty Twelve theme)</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p><span style="line-height: 1.5em;"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2014/04/my-full-width.png"><img loading="lazy" class=" wp-image-403 alignleft" alt="my-full-width" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/04/my-full-width.png?resize=395%2C331" width="395" height="331"  data-recalc-dims="1"></a>This took me a while to work out so I thought it would be worth sharing.</span><br>
+					<description><![CDATA[This took me a while to work out so I thought it would be worth sharing. Using the Twenty Twelve WordPress theme (on this site), I wanted to create my own page template with no sidebar and with full width content (e.g. see here). I thought it would be a simple matter of copying the [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/wordpress-full-width-page-template/">Read More...<span class="screen-reader-text"> from Custom wordpress full width page template (Twenty Twelve theme)</span></a></p>]]></description>
+										<content:encoded><![CDATA[<p><span style="line-height: 1.5em;"><a href="http://ast.io/wp-content/uploads/2014/04/my-full-width.png"><img loading="lazy" class=" wp-image-403 alignleft" alt="my-full-width" src="http://ast.io/wp-content/uploads/2014/04/my-full-width.png" width="395" height="331"></a>This took me a while to work out so I thought it would be worth sharing.</span><br>
 <span style="line-height: 1.5em;"><br>
 Using the Twenty Twelve WordPress theme (</span><a style="line-height: 1.5em;" href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">on this site</a><span style="line-height: 1.5em;">), I wanted to create my own page template with no sidebar and with full width content (e.g. see </span><a style="line-height: 1.5em;" href="http://tenisonroad.com/data-log/" target="_blank" rel="noopener noreferrer">here</a><span style="line-height: 1.5em;">). I thought it would be a simple matter of copying the existing full-width.php page template (see </span><a style="line-height: 1.5em;" href="https://github.com/WordPress/WordPress/blob/master/wp-content/themes/twentytwelve/page-templates/full-width.php" target="_blank" rel="noopener noreferrer">code</a><span style="line-height: 1.5em;">) from the Twenty Twelve <code>/wp-content/themes/twentytwelve/page-templates</code> directory, renaming it, and moving it to my own child theme page-templates directory. That didn’t work. It turns out you need to change a couple of things in the template file and add a few lines of script to the functions.php file.</span><span id="more-388"></span><br>
 &nbsp;<br>
@@ -442,13 +418,12 @@ Two things you need to look out for here. First, with the directory/file name to
 That should be it. Hope this helps.<br>
 &nbsp;<br>
 ** The class and file names are specific to the Twenty Twelve theme. If you can work out the details for your own theme (or add your own) this should work for other themes too.</p>
-<p>The post <a rel="nofollow" href="http://ast.io/wordpress-full-width-page-template/">Custom wordpress full width page template (Twenty Twelve theme)</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/wordpress-full-width-page-template/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">388</post-id>	</item>
+			</item>
 	</channel>
 </rss>

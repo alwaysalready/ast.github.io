@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>conference Archives | Alex Taylor</title>
+	<title>conference - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/conference/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>CSCW 2021 conference paper</title>
 		<link>http://ast.io/cscw-2021-conference-paper/</link>
 					<comments>http://ast.io/cscw-2021-conference-paper/#respond</comments>
@@ -35,10 +32,7 @@
 		<category><![CDATA[cscw]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5841</guid>
 
-					<description><![CDATA[<p>A CSCW conference paper from this year. Abstract Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/cscw-2021-conference-paper/">Read More...<span class="screen-reader-text"> from CSCW 2021 conference paper</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/cscw-2021-conference-paper/">CSCW 2021 conference paper</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[A CSCW conference paper from this year. Abstract Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/cscw-2021-conference-paper/">Read More...<span class="screen-reader-text"> from CSCW 2021 conference paper</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-12 col-md-8 my-3">A CSCW conference paper from this year.</div>
 <div class="col-12 col-md-7 my-4 offset-md-1">
@@ -47,18 +41,17 @@
 <div class="small"><strong><em>Abstract</em></strong><br>
 Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is also achieved by people with VI through interacting with others, such as in collaboration with sighted guides. Drawing on the concept of interdependence, this research presents a systematic analysis of sighted guiding partnerships. Using interaction analysis as our primary mode of data analysis, we conducted an empirical, qualitative study with 4 couples, each made up of person with a vision impairment and their sighted guide. Our results show how pairs used interactional resources such as turn-taking and body movements to both co-constitute a common space for navigation, and repair moments of rupture to this space. This work is used to present an exemplary case of interdependence and draws out implications for designing AI-enabled AT that shifts the emphasis away from independent navigation, and towards the carefully coordinated actions between people navigating together.</div>
 <div class="small"><strong><em><a class="download-link" title href="http://ast.io/download/5821/" rel="nofollow">
-	Interdependence in Action, CSCW 2021	(354 downloads)
+	Interdependence in Action, CSCW 2021	(356 downloads)
 </a></em></strong></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/cscw-2021-conference-paper/">CSCW 2021 conference paper</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/cscw-2021-conference-paper/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5841</post-id>	</item>
+			</item>
 		<item>
 		<title>CHI 2021 conference papers</title>
 		<link>http://ast.io/chi21-papers/</link>
@@ -72,10 +65,7 @@ Prior work on AI-enabled assistive technology (AT) for people with visual impair
 		<category><![CDATA[conference]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5833</guid>
 
-					<description><![CDATA[<p>Two papers at the CHI conference this year. Abstract The relationships that constitute the global industrial food system tend towards two dominant values that are creating unsustainable social and environmental inequalities. The first is a human-centered perspective on food that privileges humans over all other species. The second is a view of food as a [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi21-papers/">Read More...<span class="screen-reader-text"> from CHI 2021 conference papers</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/chi21-papers/">CHI 2021 conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Two papers at the CHI conference this year. Abstract The relationships that constitute the global industrial food system tend towards two dominant values that are creating unsustainable social and environmental inequalities. The first is a human-centered perspective on food that privileges humans over all other species. The second is a view of food as a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi21-papers/">Read More...<span class="screen-reader-text"> from CHI 2021 conference papers</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-12 col-md-8 my-3">Two papers at the CHI conference this year.</div>
 <div class="col-12 col-md-7 my-4">
@@ -85,7 +75,7 @@ Prior work on AI-enabled assistive technology (AT) for people with visual impair
 The relationships that constitute the global industrial food system tend towards two dominant values that are creating unsustainable social and environmental inequalities. The first is a human-centered perspective on food that privileges humans over all other species. The second is a view of food as a commodity to be traded for maximum economic value, rewarding a small number of shareholders. We present work that explores the unique algorithmic affordances of blockchain to create new types of value exchange and governance in the food system. We describe a project that used roleplay with urban agricultural communities to co-design blockchain-based food futures and explore the conditions for creating a thriving multispecies food commons. We discuss how the project helped rethink algorithmic food justice by reconfiguring more-than-human values and reconfiguring food as more-than-human commons. We also discuss some of the challenges and tensions arising from these explorations.
 </div>
 <div class="small"><strong><em><a class="download-link" title href="http://ast.io/download/5818/" rel="nofollow">
-	Algorithmic Food Justice, CHI 2021	(279 downloads)
+	Algorithmic Food Justice, CHI 2021	(281 downloads)
 </a></em></strong></div>
 </div>
 <div class="col-12 col-md-7 my-4 offset-md-2">
@@ -95,18 +85,17 @@ The relationships that constitute the global industrial food system tend towards
 AI technologies are often used to aid people in performing discrete tasks with well-defined goals (e.g., recognising faces in images). Emerging technologies that provide continuous, real-time information enable more open-ended AI experiences. In partnership with a blind child, we explore the challenges and opportunities of designing human-AI interaction for a system intended to support social sensemaking. Adopting a research-through-design perspective, we reflect upon working with the uncertain capabilities of AI systems in the design of this experience. We contribute: (i) a concrete example of an open-ended AI system that enabled a blind child to extend his own capabilities; (ii) an illustration of the delta between imagined and actual use, highlighting how capabilities derive from the human-AI interaction and not the AI system alone; and (iii) a discussion of design choices to craft an ongoing human-AI interaction that addresses the challenge of uncertain outputs of AI systems.
 </div>
 <div class="small"><strong><em><a class="download-link" title href="http://ast.io/download/5824/" rel="nofollow">
-	Social Sensemaking with AI, CHI 2021	(190 downloads)
+	Social Sensemaking with AI, CHI 2021	(192 downloads)
 </a></em></strong></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/chi21-papers/">CHI 2021 conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/chi21-papers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5833</post-id>	</item>
+			</item>
 		<item>
 		<title>Conference papers</title>
 		<link>http://ast.io/conference-papers-2020/</link>
@@ -121,10 +110,7 @@ AI technologies are often used to aid people in performing discrete tasks with w
 		<category><![CDATA[cscw]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=5761</guid>
 
-					<description><![CDATA[<p>I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors. Abstract Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/conference-papers-2020/">Read More...<span class="screen-reader-text"> from Conference papers</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/conference-papers-2020/">Conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors. Abstract Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/conference-papers-2020/">Read More...<span class="screen-reader-text"> from Conference papers</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-12 col-md-8 my-3">I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors.</div>
 <div class="col-12 col-md-7 my-4">
@@ -133,7 +119,7 @@ AI technologies are often used to aid people in performing discrete tasks with w
 <div class="small"><strong><em>Abstract</em></strong><br>
 Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements such task-completion approaches by attending to the care work of access-the continual affective and emotional adjustments that people make by noticing and attending to one another. We explore how this work impacts encounters among people with and without vision impairments who complete tasks together. We find that bound up in attempts to get things done are concerns for one another and how well people are doing together. Reading this work through emerging disability studies and feminist STS scholarship, we account for two important forms of work that give rise to access: (1) mundane attunements and (2) non-innocent authorizations. Together these processes work as sensitizing concepts to help HCI scholars account for the ways that intelligent ATs both produce access while sometimes subverting people with disabilities.</div>
 <div class="small"><strong><em><a class="download-link" title="Version published" href="http://ast.io/download/5689/" rel="nofollow">
-	The care work of access, CHI 2020	(565 downloads)
+	The care work of access, CHI 2020	(567 downloads)
 </a></em></strong></div>
 </div>
 <div class="col-12 col-md-7 my-4 offset-md-2">
@@ -142,17 +128,16 @@ Current approaches to AI and Assistive Technology (AT) often foreground task com
 <div class="small"><strong>Abstract</strong><br>
 For individuals with mental illness, social media platforms are considered spaces for sharing and connection. However, not all expressions of mental illness are treated equally on these platforms. Different aggregates of human and technical control are used to report and ban content, accounts, and communities. Through two years of digital ethnography, including online observation and interviews, with people with eating disorders, we examine the experience of content moderation. We use a constructivist grounded theory approach to analysis that shows how practices of moderation across different platforms have particular consequences for members of marginalized groups, who are pressured to conform and compelled to resist. Above all, we argue that platform moderation is enmeshed with wider processes of conformity to specific versions of mental illness. Practices of moderation reassert certain bodies and experiences as ‘normal’ and valued, while rejecting others. At the same time, navigating and resisting these normative pressures further inscribes the marginal status of certain individuals. We discuss changes to the ways that platforms handle content related to eating disorders by drawing on the concept of multiplicity to inform design.</div>
 <div class="small"><strong><em><a class="download-link" title="Version published" href="http://ast.io/download/5716/" rel="nofollow">
-	Conformity of eating disorders, CSCW 2020	(529 downloads)
+	Conformity of eating disorders, CSCW 2020	(531 downloads)
 </a></em></strong></div>
 </div>
 </div>
-<p>The post <a rel="nofollow" href="http://ast.io/conference-papers-2020/">Conference papers</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/conference-papers-2020/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">5761</post-id>	</item>
+			</item>
 	</channel>
 </rss>

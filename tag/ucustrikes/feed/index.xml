@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>ucustrikes Archives | Alex Taylor</title>
+	<title>ucustrikes - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/ucustrikes/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>From the Picket Line</title>
 		<link>http://ast.io/the-picket-line/</link>
 					<comments>http://ast.io/the-picket-line/#respond</comments>
@@ -34,12 +31,9 @@
 		<category><![CDATA[ucustrikes]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=3997</guid>
 
-					<description><![CDATA[<p>For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly detailing the developments and explaining how this is about for a walk of life that just doesn’t [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/the-picket-line/">Read More...<span class="screen-reader-text"> from From the Picket Line</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/the-picket-line/">From the Picket Line</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly [tippy title=“helpful reads” showheader=“false”]For example, from Jason Hickel, David Kernohan, via Medium, etc. Karen Gregory has put [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/the-picket-line/">Read More...<span class="screen-reader-text"> from From the Picket Line</span></a></p>]]></description>
 										<content:encoded><![CDATA[<div class="call-out">
-<div>For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly <a id="tippy_tip0_8418_anchor"></a> detailing the developments and explaining how this is about <a id="tippy_tip1_4289_anchor"></a> for a walk of life that just doesn’t have to be subject to the warped values of the Neo-liberal project.</div>
+<div>For those of us in UK academia, it’s been impossible to miss the strikes over the last four weeks, with academics from across the country standing their ground for a fair and equitable pension. There are many incredibly [tippy title=“helpful reads” showheader=“false”]For example, from <a href="https://www.jasonhickel.org/blog/2018/3/15/this-isnt-just-about-pensions-anymore-theres-a-revolution-afoot" rel="noopener noreferrer" target="_blank">Jason Hickel</a>, <a href="https://wonkhe.com/blogs/a-beginners-guide-to-the-uss-dispute/" rel="noopener noreferrer" target="_blank">David Kernohan</a>, via <a href="https://medium.com/@ukacademic/why-i-dont-want-to-go-on-strike-e4a18bed6438" rel="noopener noreferrer" target="_blank">Medium</a>, etc. <a href="https://twitter.com/claudiakincaid" rel="noopener noreferrer" target="_blank">Karen Gregory</a> has put together a list of <a href="https://karengregoryphd.wordpress.com/ucu-strike-readings/" rel="noopener noreferrer" target="_blank">UCU Strike Readings</a>. Lucy Robinson’s <a href="https://proflrobinson.com/2018/03/15/my-strike-scrapbook-by-lucy-robinson-aged-48-1-3-yrs/" rel="noopener noreferrer" target="_blank">strike scrapbook</a> also deserves a special mention.[/tippy] detailing the developments and explaining how this is about [tippy title=“much more than pensions” showheader=“false”]See by <a href="http://www.notesfrombelow.org/article/six-points-eve-ucu-strike" rel="noopener noreferrer" target="_blank">Six points on the eve of the UCU strike</a> Jamie Woodcock[/tippy] for a walk of life that just doesn’t have to be subject to the warped values of the Neo-liberal project.</div>
 <p></p>
 <div>Personally, what I’ve found inspirational is the coverage from the picket line and the industry of others. Naturally, there have been the marches, the banners, and the teach-ins. But, with such generative care and warmth, what has brought special cheer to me have been the many outstanding examples of creative impulse: of <a href="https://twitter.com/_JPhelps/status/975137991709593600" rel="noopener noreferrer" target="_blank">craft</a> (like that recorded by <a href="https://twitter.com/_JPhelps" rel="noopener noreferrer" target="_blank">Jacob Phelps</a> below), of design (from <a href="https://twitter.com/may_katja/status/975101915121049600" rel="noopener noreferrer" target="_blank">Katja May</a>, <a href="https://twitter.com/katjungnickel" rel="noopener noreferrer" target="_blank">Kat Jungnickel</a>, etc. at Goldsmiths), and of <a href="https://twitter.com/AcademicDiary/status/973881115172892672" rel="noopener noreferrer" target="_blank">poetry</a> (no less from the fabulous <a href="https://twitter.com/MichaelRosenYes/status/975290654556291078" rel="noopener noreferrer" target="_blank">Michael Rosen</a>).</div>
 <p></p></div>
@@ -129,23 +123,19 @@
 <p lang="und" dir="ltr"><a href="https://t.co/kHG1g6TMXy">pic.twitter.com/kHG1g6TMXy</a></p>
 <p>— Goldsmiths UCU (@GoldsmithsUCU) <a href="https://twitter.com/GoldsmithsUCU/status/974598449890054144?ref_src=twsrc%5Etfw">March 16, 2018</a></p></blockquote>
 <p></p></div>
-<a id="tippy_tip2_5818_anchor"></a><br>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div class="tippy" data-title="helpful reads" data-showheader="false" data-anchor="#tippy_tip0_8418_anchor">For example, from <a href="https://www.jasonhickel.org/blog/2018/3/15/this-isnt-just-about-pensions-anymore-theres-a-revolution-afoot" rel="noopener noreferrer" target="_blank">Jason Hickel</a>, <a href="https://wonkhe.com/blogs/a-beginners-guide-to-the-uss-dispute/" rel="noopener noreferrer" target="_blank">David Kernohan</a>, via <a href="https://medium.com/@ukacademic/why-i-dont-want-to-go-on-strike-e4a18bed6438" rel="noopener noreferrer" target="_blank">Medium</a>, etc. <a href="https://twitter.com/claudiakincaid" rel="noopener noreferrer" target="_blank">Karen Gregory</a> has put together a list of <a href="https://karengregoryphd.wordpress.com/ucu-strike-readings/" rel="noopener noreferrer" target="_blank">UCU Strike Readings</a>. Lucy Robinson’s <a href="https://proflrobinson.com/2018/03/15/my-strike-scrapbook-by-lucy-robinson-aged-48-1-3-yrs/" rel="noopener noreferrer" target="_blank">strike scrapbook</a> also deserves a special mention.</div>
-<div class="tippy" data-title="much more than pensions" data-showheader="false" data-anchor="#tippy_tip1_4289_anchor">See by <a href="http://www.notesfrombelow.org/article/six-points-eve-ucu-strike" rel="noopener noreferrer" target="_blank">Six points on the eve of the UCU strike</a> Jamie Woodcock</div>
-<div class="tippy" data-title="c" data-showheader="false" data-width="”450″" data-height="”200″" data-anchor="#tippy_tip2_5818_anchor">
+<p>[tippy title=“c” showheader=“false” width=”450″ height=”200″]</p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en">
 <p lang="en" dir="ltr">Your badges are awesome! Check out the ones we made <a href="https://twitter.com/UoK_UCU?ref_src=twsrc%5Etfw">@UoK_UCU</a> for <a href="https://twitter.com/hashtag/USSstrike?src=hash&amp;ref_src=twsrc%5Etfw">#USSstrike</a> <a href="https://t.co/90o96sZZAT">pic.twitter.com/90o96sZZAT</a></p>
 <p>— Katja May (@may_katja) <a href="https://twitter.com/may_katja/status/975101915121049600?ref_src=twsrc%5Etfw">March 17, 2018</a></p></blockquote>
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>
-</p></div>
-<p>The post <a rel="nofollow" href="http://ast.io/the-picket-line/">From the Picket Line</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+[/tippy]<br>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/the-picket-line/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">3997</post-id>	</item>
+			</item>
 	</channel>
 </rss>

@@ -5,13 +5,10 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Ontology Archives | Alex Taylor</title>
+	<title>Ontology - Alex Taylor</title>
 	<atom:link href="http://ast.io/tag/ontology/feed/" rel="self" type="application/rss+xml" />
 	<link>http://ast.io/</link>
 	<description>by Alex Taylor</description>
@@ -22,7 +19,7 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
-<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+	<item>
 		<title>Reading Sloterdijk’s Spheres, alongside Stengers and Barad</title>
 		<link>http://ast.io/sloterdijks-spheres/</link>
 					<comments>http://ast.io/sloterdijks-spheres/#comments</comments>
@@ -34,14 +31,11 @@
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=1003</guid>
 
-					<description><![CDATA[<p>Amanda Windle has kindly invited me to participate in her small seminar: Informed mattersDigital media materialities. The seminar is summarised as follows: Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/sloterdijks-spheres/">Read More...<span class="screen-reader-text"> from Reading Sloterdijk’s Spheres, alongside Stengers and Barad</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/sloterdijks-spheres/">Reading Sloterdijk’s Spheres, alongside Stengers and Barad</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Amanda Windle has kindly invited me to participate in her small seminar: Informed mattersDigital media materialities. The seminar is summarised as follows: Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/sloterdijks-spheres/">Read More...<span class="screen-reader-text"> from Reading Sloterdijk’s Spheres, alongside Stengers and Barad</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p><a href="http://amandawindle.com/" target="_blank" rel="noopener noreferrer">Amanda Windle</a> has kindly invited me to participate in her small seminar:</p>
 <div class="highlight" style="font-size:2.2rem;">Informed matters<br>Digital media materialities.</div>
 <p>The seminar is summarised as follows:</p>
-<blockquote style="font-family: 'Inconsolata', monospace; font-size: 0.9em; padding: 5px 20px; line-height: 1.6rem; background: #DCDCDC;"><p>Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an approach to Peter Sloterdijk’s ‘spherology’ across disciplines. How, where and with what matterings do we embark our daily readings is no trivial matter? Sloterdijk’s writing can both inform and trouble readers and so the adjacent readings from <a id="tippy_tip0_4138_anchor"></a> and <a id="tippy_tip1_1072_anchor"></a> will open up further questions and provocations. Sloterdijk’s recent publications have been aimed at a design audience (namely architects) and with his media theory the following digital media question will be proposed.&nbsp; With a broadly experiential and performative approach in mind the discussion will loosely consider spherology in this respect:</p>
+<blockquote style="font-family: 'Inconsolata', monospace; font-size: 0.9em; padding: 5px 20px; line-height: 1.6rem; background: #DCDCDC;"><p>Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an approach to Peter Sloterdijk’s ‘spherology’ across disciplines. How, where and with what matterings do we embark our daily readings is no trivial matter? Sloterdijk’s writing can both inform and trouble readers and so the adjacent readings from [tippy title=“Karen Barad” showheader=“false”]Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter.<em> Signs: Journal of Women in Culture and Society</em>, 28(3), 801–831.[/tippy] and [tippy title=“Isabelle Stengers” showheader=“false”]Stengers, I. (2013). Introductory notes on an ecology of practices.&nbsp;<i>Cultural Studies Review</i>,&nbsp;<i>11</i>(1), 183–196.[/tippy] will open up further questions and provocations. Sloterdijk’s recent publications have been aimed at a design audience (namely architects) and with his media theory the following digital media question will be proposed.&nbsp; With a broadly experiential and performative approach in mind the discussion will loosely consider spherology in this respect:</p>
 <ul>
 <li>This formulation opens to the somewhat irreverent question (following Sloterdijk’s own irreverence)&nbsp;of&nbsp;how his&nbsp;thinking can&nbsp;be turned into an app or an application&nbsp;(app displacing application displacing theorisation displacing philosophisation, the last term barely being a word)?</li>
 <li>How might Sloterdijk’s work be reparatively questioned through a feminist enquiry? How might Sloterdijk’s metaphors engage us intra-actively?</li>
@@ -63,16 +57,13 @@ Stengers, I. (2013). Introductory notes on an ecology of practices.&nbsp;<i>Cult
 Sloterdijk, P. (2009). Spheres theory: Talking to myself about the poetics of space.&nbsp;<i>Harvard Design Magazine</i>,&nbsp;<i>30</i>, 126–137.<br>
 van Gennep, A. (1960)&nbsp;&nbsp;<i>The rites of passage.</i>&nbsp;Chicago: University of Chicago Press.</p></blockquote>
 <p>&nbsp;</p>
-<div class="tippy" data-title="Karen Barad" data-showheader="false" data-anchor="#tippy_tip0_4138_anchor">Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter.<em> Signs: Journal of Women in Culture and Society</em>, 28(3), 801–831.</div>
-<div class="tippy" data-title="Isabelle Stengers" data-showheader="false" data-anchor="#tippy_tip1_1072_anchor">Stengers, I. (2013). Introductory notes on an ecology of practices.&nbsp;<i>Cultural Studies Review</i>,&nbsp;<i>11</i>(1), 183–196.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/sloterdijks-spheres/">Reading Sloterdijk’s Spheres, alongside Stengers and Barad</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/sloterdijks-spheres/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1003</post-id>	</item>
+			</item>
 		<item>
 		<title>Reading ‘Nothing comes without its world’: thinking with care</title>
 		<link>http://ast.io/without-its-world/</link>
@@ -87,29 +78,21 @@ van Gennep, A. (1960)&nbsp;&nbsp;<i>The rites of passage.</i>&nbsp;Chicago: Univ
 		<category><![CDATA[STS]]></category>
 		<guid isPermaLink="false">http://ast.io/?p=675</guid>
 
-					<description><![CDATA[<p>Reading María Puig de la Bellacasa’s article on feminist&#160;notions of care. Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. The Sociological Review, 60(2), 197–216. Puig de la Bellacasa writes evocatively on Donna Haraway’s work&#160;and draws it&#160;into an idea of care. I especially like how she figures care as a [...]</p>
-<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/without-its-world/">Read More...<span class="screen-reader-text"> from Reading ‘Nothing comes without its world’: thinking with care</span></a></p>
-<p>The post <a rel="nofollow" href="http://ast.io/without-its-world/">Reading ‘Nothing comes without its world’: thinking with care</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
-]]></description>
+					<description><![CDATA[Reading María Puig de la Bellacasa’s article on feminist&#160;notions of care. Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. The Sociological Review, 60(2), 197–216. Puig de la Bellacasa writes evocatively on Donna Haraway’s work&#160;and draws it&#160;into an idea of care. I especially like how she figures care as a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/without-its-world/">Read More...<span class="screen-reader-text"> from Reading ‘Nothing comes without its world’: thinking with care</span></a></p>]]></description>
 										<content:encoded><![CDATA[<p>Reading María Puig de la Bellacasa’s article on feminist&nbsp;notions of care.<span id="more-675"></span><br>
-<img loading="lazy" class=" size-medium wp-image-685 aligncenter" src="https://i0.wp.com/ast.io/wp-content/uploads/2015/02/without-its-world-300x300.png?resize=300%2C300" alt="without-its-world" width="300" height="300"  data-recalc-dims="1"></p>
+<img loading="lazy" class=" size-medium wp-image-685 aligncenter" src="http://ast.io/wp-content/uploads/2015/02/without-its-world-300x300.png" alt="without-its-world" width="300" height="300"></p>
 <blockquote><p>Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. <em>The Sociological Review</em>, 60(2), 197–216.</p></blockquote>
 <p>Puig de la Bellacasa writes evocatively on Donna Haraway’s work&nbsp;and draws it&nbsp;into an idea of care. I especially like how she figures care as a way of bringing things into productive relations with one another, not narrowing in on oppositional differences, but seeking a generative relationality.</p>
-<blockquote><a id="tippy_tip2_4310_anchor"></a></blockquote>
-<p>One thing that’s noteworthy is the absence of Annemarie Mol in this text, with her <a id="tippy_tip3_5485_anchor"></a> in science and technology scholarship. I wonder if this has to do with her only just&nbsp;veiled criticisms of some in feminist technoscience through&nbsp;her remarks on ‘new materialism’:</p>
-<blockquote><a id="tippy_tip4_8248_anchor"></a></blockquote>
-<p>Whatever the case, Puig de la Bellacasa “speculative reading” of Haraway and her thickening of <em>care</em> provides a helpful basis for thinking <a id="tippy_tip5_6527_anchor"></a> about what we know and how we know it.</p>
-<div class="tippy" data-title="Caring and relating thus share conceptual and ontological resonance. In worlds made of heterogeneous interdependent forms and processes of life and matter, to care about something, or for somebody, is inevitably to create relation. In this way care holds the peculiar significance of being a ‘non normative obligation’ (Puig de la Bellacasa, 2010): it is concomitant to life – not something forced upon living beings by a moral order; yet it obliges in that for life to be liveable it needs being fostered." data-showheader="false" data-anchor="#tippy_tip2_4310_anchor">p. 198, Puig la Bellacasa (2012)</div>
-<div class="tippy" data-title="central contribution on the topic of care" data-showheader="false" data-anchor="#tippy_tip3_5485_anchor">See Mol, A. 2008. <em>The Logic of Care: Health and the Problem of Patient Choice</em>. New York: Routledge.</div>
-<div class="tippy" data-title="As the new materialism forgets these relational engagements and affordances it has no ￼way of talking about what matter ‘itself’ does, other than naively echoing natural science textbooks and journal articles – minus the materials and methods sections. Decades of work in STS is being disdainfully discarded. In the process most of the questions that ‘relational materialism’ was trying to raise are being sidelined, too." data-showheader="false" data-anchor="#tippy_tip4_8248_anchor">… pp. 380–381, Mol, A. Mind your plate! The ontonorms of Dutch dieting. <em>Social Studies of Science</em> 43, 3 (2013), 379–396.</div>
-<div class="tippy" data-title="diffractively" data-showheader="false" data-anchor="#tippy_tip5_6527_anchor">That is, productively or generatively.</div>
-<p>The post <a rel="nofollow" href="http://ast.io/without-its-world/">Reading ‘Nothing comes without its world’: thinking with care</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+<blockquote><p>[tippy title=“Caring and relating thus share conceptual and ontological resonance. In worlds made of heterogeneous interdependent forms and processes of life and matter, to care about something, or for somebody, is inevitably to create relation. In this way care holds the peculiar significance of being a ‘non normative obligation’ (Puig de la Bellacasa, 2010): it is concomitant to life – not something forced upon living beings by a moral order; yet it obliges in that for life to be liveable it needs being fostered.” showheader=“false”]p. 198, Puig la Bellacasa (2012)[/tippy]</p></blockquote>
+<p>One thing that’s noteworthy is the absence of Annemarie Mol in this text, with her [tippy title=“central contribution on the topic of care”&nbsp;showheader=“false”]See Mol, A. 2008. <em>The Logic of Care: Health and the Problem of Patient Choice</em>. New York: Routledge.[/tippy] in science and technology scholarship. I wonder if this has to do with her only just&nbsp;veiled criticisms of some in feminist technoscience through&nbsp;her remarks on ‘new materialism’:</p>
+<blockquote><p>[tippy title=“As the new materialism forgets these relational engagements and affordances it has no ￼way of talking about what matter ‘itself’ does, other than naively echoing natural science textbooks and journal articles – minus the materials and methods sections. Decades of work in STS is being disdainfully discarded. In the process most of the questions that ‘relational materialism’ was trying to raise are being sidelined, too.” showheader=“false”]… pp. 380–381, Mol, A. Mind your plate! The ontonorms of Dutch dieting. <em>Social Studies of Science</em> 43, 3 (2013), 379–396.[/tippy]</p></blockquote>
+<p>Whatever the case, Puig de la Bellacasa “speculative reading” of Haraway and her thickening of <em>care</em> provides a helpful basis for thinking [tippy title=“diffractively” showheader=“false”]That is, productively or generatively.[/tippy] about what we know and how we know it.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://ast.io/without-its-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">675</post-id>	</item>
+			</item>
 	</channel>
 </rss>
