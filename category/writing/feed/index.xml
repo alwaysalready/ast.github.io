@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Writing Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/category/writing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Sun, 05 May 2019 10:21:50 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>CHI Workshop</title>
+		<link>http://ast.io/chi19-workshop-paper/</link>
+					<comments>http://ast.io/chi19-workshop-paper/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Sun, 05 May 2019 10:21:50 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Writing]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4804</guid>
+
+					<description><![CDATA[<p> [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi19-workshop-paper/">Read More...<span class="screen-reader-text"> from CHI Workshop</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/chi19-workshop-paper/">CHI Workshop</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="row">
+<div class="col-sm-9">
+<div>
+<p>Very happy to have participated in the <a href="https://chi2019.acm.org/" rel="noopener noreferrer" target="_blank">CHI ’19</a> conference workshop:<br>
+<a href="https://authentic.sice.indiana.edu/philosophy-hci-workshop/" rel="noopener noreferrer" target="_blank"><em>Exploring the Intersection of Philosophy and HCI</em></a>
+</p>
+</div>
+<div>
+<p>
+<a href="https://twitter.com/strangertohabit?lang=en" rel="noopener noreferrer" target="_blank">Ann Light</a> and I wrote a short piece for the workshop:
+</p>
+</div>
+<div class="highlight">
+<p>
+<a href="http://bit.ly/is-hope" rel="noopener noreferrer" target="_blank">The Name of the Title is Hope</a>
+</p>
+</div>
+</div>
+<div class="col-sm-12">
+<img src="https://i0.wp.com/ast.io/wp-content/uploads/2019/05/Multispecies-multiscalar-relations.png?w=640&#038;ssl=1" alt="Figure from paper: Figure 1: Multispecies, multiscalar relations." data-recalc-dims="1">
+</div>
+<div class="col-sm-8 col-lg-6 mt-3">
+<div class="small">
+<p><strong>ABSTRACT</strong>: This short piece, far too short for the space it demands, spins together a lively and unwieldy story about methods—the practices we in design and design research follow to both know about the world and to have an affect on it. We speculate on a mode of doing design inflected with questions about what we are doing when we study and intervene in the world. This is a project full with the hope of renewed designerly methods that make more of/in the world; that promote a flourishing of difference; and that might just lead to modest but better ways of living and dying together. Our philosophy (if that is not too grand a word for it) comes less from a ”standing on the shoulders” of any one person, and more a thinking through and with feminist ways of knowing, doing, and being. Weaving into a mesh of ideas from the likes of Barad, Derrida, Dewey, Durkheim, Hacking, Haraway, Law, Stengers, and so on, we find there to be troubles between the ways we come to know the world (doings, methods or practices), and what we know (knowings or theories). The problematic distinction between such doings and knowings, and the murky worlds between them, open up a space for thinking-doing a world otherwise. When we come to accept that what we do and what we know are always already together, and that this ’togetherness’ is all the world can be, then we, in design, are left with a beginning: “<em>What worlds do we want to do-know?</em>”</p>
+<div>
+<div class="mt-sm-1">
+<p>Download <a href="http://bit.ly/is-hope">PDF</a></p>
+</div>
+</div>
+</div>
+
+</div></div><p>The post <a rel="nofollow" href="http://ast.io/chi19-workshop-paper/">CHI Workshop</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/chi19-workshop-paper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4804</post-id>	</item>
+		<item>
+		<title>Experiments in collective counting</title>
+		<link>http://ast.io/collective-counting/</link>
+					<comments>http://ast.io/collective-counting/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Sun, 03 Jun 2018 22:51:25 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[data]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4176</guid>
+
+					<description><![CDATA[<p>I’m really happy to have a short piece by me and Clara Crivellaro included in the publication “Self-Service”, a collection of contributions responding to . Kirsty Hendry and Ilona Sagar produced the publication which was exhibited alongside their film screening at the Glasgow International Festival. In “Experiments in collective counting”, Clara and I write about [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/collective-counting/">Read More...<span class="screen-reader-text"> from Experiments in collective counting</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/collective-counting/">Experiments in collective counting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
+<div class="col-9 col-sm-6 col-md-5"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-1.jpg?ssl=1"><img loading="lazy" class="aligncenter wp-image-4190 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-1.jpg?resize=640%2C977&#038;ssl=1" alt="Photo of contributions to self-service publication." width="640" height="977"  data-recalc-dims="1"></a></div>
+<div class="col-xs-6 col-sm-6 col-md-7"></div>
+</div>
+<p>I’m really happy to have a short piece by me and <a href="https://openlab.ncl.ac.uk/people/b2052334" rel="noopener noreferrer" target="_blank">Clara Crivellaro</a> included in the publication “Self-Service”, a collection of contributions responding to <a id="tippy_tip0_4631_anchor"></a>. <a href="https://www.rca.ac.uk/students/kirsty-hendry/" target="_blank" rel="noopener noreferrer">Kirsty Hendry</a> and <a href="https://www.ilonasagar.com/" target="_blank" rel="noopener noreferrer">Ilona Sagar</a> produced the publication which was exhibited alongside their <a href="http://glasgowinternational.org/events/kirsty-hendry-ilona-sagar-2/" target="_blank" rel="noopener noreferrer">film screening</a> at the <a href="http://glasgowinternational.org/events/kirsty-hendry-ilona-sagar/" target="_blank" rel="noopener noreferrer">Glasgow International Festival</a>.</p>
+<div class="row" style="margin: 1rem 0 1rem 0;">
+<div class="col-10 col-sm-5 col-md-5"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-2.jpg?ssl=1"><img loading="lazy" class="wp-image-4174 size-large alignnone" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-2.jpg?resize=640%2C889&#038;ssl=1" alt="Photo of Experiments in collective counting, from the self-service publication." width="640" height="889"  data-recalc-dims="1"></a></div>
+<div class="col-10 col-sm-7 col-md-7"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-3.jpg?ssl=1"><img loading="lazy" class="aligncenter wp-image-4175" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/06/self-service-3.jpg?resize=640%2C454&#038;ssl=1" alt="Credits, from Experiments in collective counting." width="640" height="454"  data-recalc-dims="1"></a></div>
+</div>
+<p>In “Experiments in collective counting”, Clara and I write about the (ac)counting practices on an estate in South East London and our efforts to intervene in a resolutely singular logic of community and value.</p>
+<div class="tippy" data-title="<em>The Peckham Experiment</em>" data-showtitle="false" data-anchor="#tippy_tip0_4631_anchor"><strong>The Peckham Experiment</strong> was a social experiment targeting health. The Pioneer Health Foundation, the legacy to the experiment, describes it as “an investigation into the nature of health.” From 1926 to 1950 it was based in Peckham, south London at the Pioneer Health Centre. For more information visit the Pioneer Health Foundation <a href="http://thephf.org/peckhamexperiment" target="_blank" rel="noopener noreferrer"> website</a>.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/collective-counting/">Experiments in collective counting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/collective-counting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4176</post-id>	</item>
+		<item>
+		<title>CHI 2018 papers.</title>
+		<link>http://ast.io/chi-2018-papers/</link>
+					<comments>http://ast.io/chi-2018-papers/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2018 21:56:52 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[blind and vision impaired]]></category>
+		<category><![CDATA[CHI]]></category>
+		<category><![CDATA[HCI]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3871</guid>
+
+					<description><![CDATA[<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) “I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts. In Proceedings CHI ’18. ACM Press. ( downloads) Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) Lets Talk about Race: Identity, Chatbots, and AI. [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi-2018-papers/">Read More...<span class="screen-reader-text"> from CHI 2018 papers.</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/chi-2018-papers/">CHI 2018 papers.</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="call-out">
+<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip1_1729_anchor"></a></p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (873 downloads)</span></p>
+<p style="margin-top:6rem">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip2_4418_anchor"></a></p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1275 downloads)</span></p></div>
+<div class="left-of-call-out">
+<p>Very happy to have contributed to two papers being presented at the upcoming <a href="https://chi2018.acm.org/" rel="noopener noreferrer" target="_blank">CHI conference</a> this year. One reports on work with the blind and vision impaired a few of us have been involved in different ways (see <a href="http://ast.io/research/#capability" rel="noopener">here</a>). Broadly, we’ve used the piece to reflect on the relations between vision impairment and artificial intelligence, and set out directions for a possible design space.</p>
+<p style="margin:3rem 0 2rem 0;">The second paper picks up on a new theme for me, but one closely related to past reflections and design work around <a href="http://ast.io/research/#intelauto">machine intelligence</a>. With the fantastic <a href="http://arischlesinger.com/" rel="noopener noreferrer" target="_blank">Ari Schlesinger</a> (GA Tech) leading the research, we examine the challenges faced in handling race talk (and racism) in human-bot interactions. Taking both Tai AI and the blacklist as starting points, we take seriously the computational underpinnings of chat bots and conversational agents, to underscore the role they have in sustaining troubling racial categories and the conditions they make possible for more just and equitable ways forward.</p>
+</div>
+<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip1_1729_anchor"><strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.</div>
+<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip2_4418_anchor"><strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?</div>
+<p>The post <a rel="nofollow" href="http://ast.io/chi-2018-papers/">CHI 2018 papers.</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/chi-2018-papers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3871</post-id>	</item>
+		<item>
+		<title>What are you reading?</title>
+		<link>http://ast.io/what-are-you-reading/</link>
+					<comments>http://ast.io/what-are-you-reading/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 31 Oct 2017 10:28:03 +0000</pubDate>
+				<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[feminist technoscience]]></category>
+		<category><![CDATA[HCI]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3667</guid>
+
+					<description><![CDATA[<p>Happy to have the short conversation I had with @danielarosner published in Interactions Magazine’s regular “What are you reading?” column. We experiment with a brief interchange about two wonderful books: Anna Tsing’s The Mushroom at the End of the World and Sarah Ahmed’s Living a Feminist Life. Below is the long-winded version before tidying and [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/what-are-you-reading/">Read More...<span class="screen-reader-text"> from What are you reading?</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/what-are-you-reading/">What are you reading?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Happy to have the short conversation I had with @danielarosner published in Interactions Magazine’s regular “<a href="http://interactions.acm.org/enter/view/alex-s.-taylor-and-daniela-k.-rosner" rel="noopener noreferrer" target="_blank">What are you reading?</a>” column. We experiment with a brief interchange about two wonderful books: Anna Tsing’s <em>The Mushroom at the End of the World</em><a id="tippy_tip3_7331_anchor"></a> and Sarah Ahmed’s <em>Living a Feminist Life</em><a id="tippy_tip4_7833_anchor"></a>.<br>
+Below is the long-winded version before tidying and editing.<br>
+<span id="more-3667"></span></p>
+<blockquote style="font-size:.8rem"><p>
+A conversation with Alex and Daniela for the “<a href="http://interactions.acm.org/enter/view/alex-s.-taylor-and-daniela-k.-rosner" rel="noopener noreferrer" target="_blank">What are you reading?</a>” column in interactions magazine, Nov. 2017.<br>
+<strong>A.S.T.</strong>: Daniela and I wanted to try something a little different for this issue’s “What are you reading?”. We wanted to read something together that had a resonance between us, and that might give rise to a generative discussion. After a bit of deliberation, we settled on two books. The first is Anna Tsing’s “The Mushroom at the End of the World,” an extraordinary examination of one of the world’s most rarified mushrooms across capitalist supply chains and histories of multispecies cohabitation that explores the tensions between capitalist destruction and collaborative survival. The second book is Sarah Ahmed’s “Living a Feminist Life,” a feminist treatise that weaves together ideas from feminist of color scholarship with personal meditations on everyday feminist encounters.<br>
+Although quite different in scope, and although investigating topics conventionally outside HCI, both volumes explore feminist figurings of materialism that Daniela and I have been mulling on for quite some time. […]<br>
+Before getting into the readings, I feel it’s important to share that over the last eight years Daniela and I have grown together as scholars. Early on, we shared a keen interest in materialities as articulated by people like Tim Ingold and Bruno Latour. Over the years, this mutual interest has developed to centre far more on a feminist figuring of materialism and a particular concern for the entangled enactments of being and doing in the world, probably best exemplified in Donna Haraway’s figures of the cyborg, companion species and, most recently, the chthulucene. At the same time, Daniela has gone on to develop a mature reading of craft, hand-work and repair, and demonstrated the importance of these to HCI. And my own interests have threaded a variety of topics together, but been unified by a deep interest in the structural effects and affects of computation. Together, then, we hoped our convergences and divergences might make for something engaging, if unconventional for an interactions’ reader.<br>
+* 	*	*<br>
+Having read these books what makes them valuable to be read together, and critically how do they come to be valuable together as feminist figurings of materiality?<br>
+<strong>D.K.R.</strong>: I’m in awe of these authors — the scope of their work, their ability to entwine a strong activist agenda with a crisp theoretical focus, and their skillful nurturing of a poetics of practice with powerful analytic potential. How to search for understanding while asserting difference? Thinking through mushrooms, I’ve learned, can help.<br>
+Before reading Tsing’s book, I never thought much about mushrooms as more than something delicious (or deadly!) to consume, and certainly not as an object for feminist world-making. But as with Ahmed’s focus on feminism, reading Tsing’s account of the matsutake mushroom is a deeply personal account of noticing —showing how the impulse to notice can take multiple forms. For Ahmed noticing is a political act, drawing forth and realizing exclusions and omissions. What is it that people learn not to notice? In learning and unlearning across difference Ahmed promises opportunities for listening, for noticing. Tsing works with a noticing of unpredictability, the dance of following tracks in the dark, of follow the mushrooms, of noticing what matters. Bodies, both living and dead, become tools for “show[ing] us how to look around rather than ahead.” (2015, 22) They enroll additional instruments for knowing; forms of political listening that, in Tsing’s words, “look for disturbance-based ecologies in which many species sometimes live together without either harmony or conquest” (ibid, 5).<br>
+Have these forms of noticing infected your work? What did you find?<br>
+<strong>A.S.T.</strong>: You capture a strong commonality between what have been for me two exhilarating and deeply moving texts. I felt the same way: noticing is thoroughly enlivened by both authors. I found their ideas turned and folded in together—involuted! (Hustak and Myers)—to offer up something more and at the same time pointing to a deeper, more critical attention to things.<br>
+I was delighted with Tsing’s insistence on following the stories, of choosing to turn away from the usual modes of scholarly accounting and, instead, stay with the noticed details of lines spun by mushrooms and people across time, and along global supply chains. Also, I was touched by Ahmed’s attention to revisiting her own profound encounters with violence, (un)happiness and self-discovery, and responding by daring to ‘get in the way’—like Wolf’s Mrs Dalloway, finding ways to stop and orient the body differently. Between them, such shifts in scale! But together they invite, as you say, a care for paying attention and asking, to use Ahmed’s words, “questions about how to live better” (2017, 12).<br>
+It’s with an emphasis on the latter that I want to respond to you, and that I mean to ask a follow on question. Certainly paying attention to the details has been central to my research in studying how lives entangle with technologies. This has always been the starting point for the ethnographic enterprise that channels my work. And yet, I’ve managed to bracket this kind of eye for detail from what I bring with it, what worlds I bring with such noticings. I agree with you, Ahmed and Tsing (along with other feminist writings) show how noticing has its politics, that by ‘merely’ noticing we are always already entangled in a cosmopolitics (Stengers) in which the personal and structural are strung together, and where injustices, inequities and violence are immanent. What Ahmed’s and Tsing’s noticings show for me, then, is a commitment to much more than the detailed accounts of the world. By paying attention to the troubled conditions we are implicated in, they are making the space to seek reparative methods and the possibilities for other more bearable worlds.<br>
+What I’m curious to hear is whether these ideas of what I am beginning to think of as ‘resistances and reparations’ resonate with you in reading the texts and, perhaps more importantly, if/how you see them coming through in the design research you do.<br>
+<strong>D.K.R.</strong>: I like thinking of these as reparative methods —&nbsp;and, in this sense, I see their methods as reflections of genealogy. The lineage of design we receive as HCI practitioners looks very different from the one I inherited as an undergraduate design student, which looks different from the one I now seek to recuperate in my recent work (exploring the practices of women who wove early forms of computing memory by hand). In this multiply produced trajectory, in seeking out varied pathways toward defining design, I see possibilities for reconfiguring what comprises design today. Design might not work toward progress or toward ruin but instead, after Tsing, it may help us think with “salvage rhythms.” It might help us notice the uneven, contingent, and collective work required for change. Ahmed writes of women’s studies departments:</p>
+<div class="highlight" style="font-size:3rem">“We have to shake the foundations”</div>
+<p>“But when we shake the foundations, it is harder to stay up” (2017, 232). Does design call for the same willful commitment to keep going, “to keep coming up?” (ibid, 12).<br>
+Ahmed and Tsing don’t speak directly to design as a field or as a practice. But I wonder if you see in their critiques and potentials — from “decentering human hubris” to “diversity work” — an opening for elaborating a different kind of technology design? Tsing writes, “To listen politically is to detect the traces of not-yet-articulated common agendas” (2015, 254). As you do this listening, this reparation and resistance, what not-yet-articulated common agendas might you find?<br>
+<strong>A.S.T.</strong>: There’s so much to say in response to this, but in the interests of space (which we are running out of), let me limit my answer to one thing in particular, namely what I see to be our contemporaneous obsession with numbers, counting and simulacrums of the market place. To me, this unerring drift (that sometimes feels like a surge) towards measurement and the market rationalising of everything, has become such a big part of how we approach technology design. It operates as a rationalising force in so much work, to the point that we mask how—in the way Tsing shows so compellingly— labour and capital is strewn together through such a heterogeneity of flows, eddies, disturbances and even ruin. Indeed, the labours and products that many of us are involved in appear to be so bound up with this powerful logic, but there are still so few possibilities to question or resist it, to “shake the foundations” and “keep coming up”.<br>
+For me, Tsing and Ahmed show that we need, urgently, to find ways to act together, to make more possible with the possibilities you write of. Inspired by Ahmed’s language, in particular, I come away wanting to build an army in which each of us is not afraid of putting our bodies into it. All around us, there are ideologies, structures, methods, norms, practices, etc. that seek to smooth so much over and remove each of us from being counted, really counted, from being “alive with a world”. What we need are ways to keep pushing, resisting, and being sensational. We need to ensure our noticings are noticed.<br>
+<strong>D.K.R.</strong>: So maybe then, for HCI, this call to arms makes possible a renewed concern for the problem-solving heritage of the field. Across its methodological rubrics and case studies, HCI scholarship tends to frame design as a means of accomplishing ends, of seeking out too-easy resolutions rather than encouraging creative listening, in Tsing’s terms. These texts, by contrast, caution against such prefabrications and fatalisms. They show that what is at stake in making and inhabiting unpredictable encounters is our ability to recognize and become more accountable to those who lose out — to the things that lie outside our immediate view, to the bacteria that make the soil in which many designers mine, to the “users” haunted by our patriarchal legacies of innovation work. Tsing and Ahmed ask readers to struggle against — to take in and wrestle with our surrounding ecosystems. “We become a problem when we describe a problem,” writes Ahmed (2017, 87). For HCI, Tsing and Ahmed show that designers are not self-contained entities but designers-in-motion, continually working together across difference.
+</p></blockquote>
+<div class="tippy" data-title="1" data-href="http://ast.io/what-are-you-reading/#foot_text_3667_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_3667_1" data-showheader data-anchor="#tippy_tip3_7331_anchor">Tsing, A. L. (2015). <em>The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins</em>. Princeton University Press.</div>
+<div class="tippy" data-title="2" data-href="http://ast.io/what-are-you-reading/#foot_text_3667_2" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_3667_2" data-showheader data-anchor="#tippy_tip4_7833_anchor">Ahmed, S. (2017). <em>Living a Feminist Life.</em> Duke University Press.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/what-are-you-reading/">What are you reading?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/what-are-you-reading/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3667</post-id>	</item>
+		<item>
+		<title>Article in Design Issues</title>
+		<link>http://ast.io/article-design-issues/</link>
+					<comments>http://ast.io/article-design-issues/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 11 Jul 2017 10:10:12 +0000</pubDate>
+				<category><![CDATA[Publications]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[animals]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[Tim Ingold]]></category>
+		<category><![CDATA[Vinciane Despret]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3357</guid>
+
+					<description><![CDATA[<p>What Lines, Rats, and Sheep Can Tell Us Design Issues, Summer 2017, Vol. 33, No. 3, pp. 25–36 ABSTRACT — In his 2015 Research Through Design provocation, Tim Ingold invites his audience to think with string, lines, and meshworks. In this article I use Ingold’s concepts to explore an orientation to design—one that threads through [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/article-design-issues/">Read More...<span class="screen-reader-text"> from Article in Design Issues</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/article-design-issues/">Article in Design Issues</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="highlight"><a href="http://www.mitpressjournals.org/doi/abs/10.1162/DESI_a_00449" target="_blank" rel="noopener noreferrer">What Lines, Rats, and Sheep Can Tell Us</a></div>
+<p><em><a href="http://www.mitpressjournals.org/loi/desi" target="_blank" rel="noopener noreferrer">Design Issues</a></em>, Summer 2017, Vol. 33, No. <a href="http://www.mitpressjournals.org/toc/desi/33/3" target="_blank" rel="noopener noreferrer">3</a>, pp. 25–36<br>
+<a href="http://www.mitpressjournals.org/toc/desi/33/3"><img loading="lazy" src="https://i0.wp.com/www.mitpressjournals.org/na101/home/literatum/publisher/mit/journals/content/desi/2017/desi.2017.33.issue-3/desi.2017.33.issue-3/20170705/desi.2017.33.issue-3.largecover.jpg?resize=300%2C450&#038;ssl=1" width="300" height="450" alt="Cover art for Design Issues, 33 (3) 2017" class="alignnone size-full" data-recalc-dims="1"></a></p>
+<div class="call-out"><strong><a href="http://ast.io/download/3212/lines-rats-and-sheep-2017.pdf" target="_blank" rel="noopener noreferrer">ABSTRACT</a></strong> — In his 2015 Research Through Design provocation, Tim Ingold invites his audience to think with string, lines, and meshworks. In this article I use Ingold’s concepts to explore an orientation to design—one that threads through both Ingold’s ideas and Vinciane Despret’s vivid and moving accounts of human-animal relations. This is a “thinking and doing” through design that seeks to be expansive to the capacities of humans and non-humans in relation to one another.</div>
+<div class="left-of-call-out">I’m so pleased to finally have this article published in <a href="http://www.mitpressjournals.org/toc/desi/33/3" target="_blank" rel="noopener noreferrer">Design Issues</a>, and very grateful to <a href="http://www.abigaildurrant.com/" target="_blank" rel="noopener noreferrer">Abigail Durrant</a>, <a href="http://www.johnvines.eu/" target="_blank" rel="noopener noreferrer">John Vines</a>, <a href="http://www.digitaljewellery.com/jaynewallace/home.html" target="_blank" rel="noopener noreferrer">Jayne Wallace</a>, and <a href="http://www.designdictator.com/" target="_blank" rel="noopener noreferrer">Joyce Yee</a> for all their help with editing my text and the Special Issue: <a href="http://www.mitpressjournals.org/toc/desi/33/3" target="_blank" rel="noopener noreferrer"><em>Research Through Design: Twenty-First Century Makers and Materialities</em></a>.</div>
+<p></p>
+<div class="left-of-call-out">In my contribution, I’ve reflected on Tim Ingold’s <a href="https://researchthroughdesign.org/provocations/" target="_blank" rel="noopener noreferrer">provocation</a> at the Biennial <a href="https://researchthroughdesign.org/conferenceseries/" target="_blank" rel="noopener noreferrer">Research Through Design</a> conference, and tried to play around with opening up a more generative kind of design. My experiment has been to put Ingold’s ideas of lines and meshworks in conversation with <a href="http://www.vincianedespret.be/category/papers/" target="_blank" rel="noopener noreferrer">Vinciane Despret’s</a> uplifting stories of animals and becomings. A strange mix, but one that for me at least raises plenty of interesting questions — <em>and isn’t it more questions we need?!</em></div>
+<p></p>
+<div style="font-size:.8rem">For an early draft of the article see: <a class="download-link" title="Version draft" href="http://ast.io/download/3212/" rel="nofollow">
+	What lines, rats and sheep can tell us, Design Issues 2017</a></div>
+<p></p>
+<p>The post <a rel="nofollow" href="http://ast.io/article-design-issues/">Article in Design Issues</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/article-design-issues/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3357</post-id>	</item>
+		<item>
+		<title>Vienna art, design, and architecture biennale</title>
+		<link>http://ast.io/vienna-biennale/</link>
+					<comments>http://ast.io/vienna-biennale/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 03 Jul 2017 09:35:22 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[capability]]></category>
+		<category><![CDATA[design]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3344</guid>
+
+					<description><![CDATA[<p>Anab Jain very kindly asked me to contribute a short piece to the programme for the Vienna art, design, and architecture biennale. SAVE THE DATE 11June 6pm Opening VIENNA BIENNALE 2015: IDEAS FOR CHANGE https://t.co/TWZntdYWBX pic.twitter.com/061HYLrT6D — VIENNA BIENNALE (@VieBiennale) April 22, 2015 With the motto: “Robots. Work. Our Future” … the Biennale sets the [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/vienna-biennale/">Read More...<span class="screen-reader-text"> from Vienna art, design, and architecture biennale</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/vienna-biennale/">Vienna art, design, and architecture biennale</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Anab Jain very kindly asked me to contribute a short piece to the programme for the <a href="http://www.viennabiennale.org/en/" target="_blank" rel="noopener noreferrer">Vienna art, design, and architecture biennale</a>.</p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">SAVE THE DATE 11June 6pm Opening VIENNA BIENNALE 2015: IDEAS FOR CHANGE <a href="https://t.co/TWZntdYWBX">https://t.co/TWZntdYWBX</a> <a href="http://t.co/061HYLrT6D">pic.twitter.com/061HYLrT6D</a></p>
+<p>— VIENNA BIENNALE (@VieBiennale) <a href="https://twitter.com/VieBiennale/status/590865068721643521">April 22, 2015</a></p></blockquote>
+<p> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<div style="margin-top:4rem">With the motto:</div>
+<div class="highlight">“Robots. Work. Our Future”</div>
+<p>… the Biennale sets the developments in robotics and AI against the future of work and labour. I’ve used this as an invitation to consider two ‘modes’ of capability:</p>
+<blockquote><p><strong>When it comes to judging the capacities of humans and nonhumans</strong>, we are drawn to two modes of existence. In one mode, we are compelled to see capability as residing within an actor, as an intrinsic quality of their being. A favourite determinant is the brain-weight to body-weight ratio; another is genetic predisposition. We have devised all manner of tests to isolate human and nonhuman capacities: IQ tests, rats mazes and Turing tests among them. Naturally, humans come out on top using most counts.<br>
+In the second mode, we observe actors excel in their achievements. We allow ourselves to be surprised and delighted by exhibitions of capacity that exceed our expectations (and that contravene the first mode in so many ways). To find evidence of this mode, one need only turn to that vast repository of record and observation, YouTube, and witness the viewing numbers for titles like “species [x] and species [y] playing together”, “species [x] and species [y] unlikely friends”, and so on. As these titles suggest, capability is often recognised here as accomplished with others—with other objects, other actors, other critters.<br>
+Speculating on human capacities—on what humans might be capable of and how they might work in the future—I find myself asking, as the animal studies scholar Vinciane Despret does, which of these modes is ‘more interesting’ and which ‘makes more interesting’. Which of these modes invites us to speculate on new fabulations of actors of all kinds, of actors becoming-with each other, of becoming other-than-humanly-capable, of becoming more capable?<br>
+I am taken by the mode that views capability as collectively achieved and that invites those conditions that enlarge capacities through on-going interminglings. The future of work, through this mode, will be dictated not by the limits of being human, but by how we might best attune ourselves with others, how we might become more capable together.</p></blockquote>
+<p>The post <a rel="nofollow" href="http://ast.io/vienna-biennale/">Vienna art, design, and architecture biennale</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/vienna-biennale/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3344</post-id>	</item>
+		<item>
+		<title>Platypus blog post</title>
+		<link>http://ast.io/platypus-post/</link>
+					<comments>http://ast.io/platypus-post/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 02 May 2017 18:57:57 +0000</pubDate>
+				<category><![CDATA[Writing]]></category>
+		<category><![CDATA[capability]]></category>
+		<category><![CDATA[dis/ability]]></category>
+		<category><![CDATA[feminist technoscience]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3316</guid>
+
+					<description><![CDATA[<p>The Committee for the Anthropology of Science, Technology &#38; Computing (CASTAC) and Rebekah Culpit kindly gave me the opportunity to write a piece for Platypus (the CASTAC blog). Titled “Becoming More Capable”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/platypus-post/">Read More...<span class="screen-reader-text"> from Platypus blog post</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/platypus-post/">Platypus blog post</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The <a href="http://castac.org/" target="_blank" rel="noopener noreferrer">Committee for the Anthropology of Science, Technology &amp; Computing (CASTAC)</a> and Rebekah Culpit kindly gave me the opportunity to write a piece for <a href="http://blog.castac.org/" target="_blank" rel="noopener noreferrer">Platypus</a> (the CASTAC blog).<br>
+Titled “<a href="http://blog.castac.org/2017/04/becoming-more-capable/" target="_blank" rel="noopener noreferrer">Becoming More Capable</a>”, the blog post sketches out some of the early ideas I’ve been thinking with in connection to dis/ability. Specifically, it takes up a generative (feminist inspired) position, that understands capability as collectively achieved, as a ‘becoming-with’. The Platypus post is <a href="http://blog.castac.org/2017/04/becoming-more-capable/" target="_blank" rel="noopener noreferrer">here</a>, or see a longer un-edited version below.</p>
+<div class="highlight" style="font-size: 325%;">“<i>We need to exercise the imagination in order to elbow away at the conditions of im/possibility.</i>”</div>
+<p style="text-align: right; font-size: .9rem;">Ingunn Moser &amp; John Law (1999: 174)</p>
+<blockquote><p>What is it to be capable? How might we elbow away the conditions that limit ability, to become more capable?<span id="more-3316"></span><br>
+In this short piece, I take seriously <a href="http://blog.castac.org/2017/03/implication-design/">Rebekah’s invitation</a> to account for “different ways of doing, acting, and living in the world”. The anthropological imperative to “take into account difference” and consider how objects “intersect with social worlds, imaginaries and emergent social practices” speaks to my ongoing efforts to engage, productively, with the long and troubled relationship between technology and dis/ability. Specifically, it resonates with work I’ve been undertaking that asks what, if anything, artificial intelligence (AI) might offer the blind and vision impaired.<br>
+What I want to do in the following is give some space to an idea of capability that I’ve found especially generative in rethinking this pairing of ability and technology, and in asking what AI could be good for. I find works like that of Shreeharsh Kelkar’s (published on the <a href="http://blog.castac.org/2017/04/how-not-to-talk-about-ai/">CASTAC blog</a>) to be valuable here in critically examining what AI introduces to the technsocial assemblages of work, entertainment and leisure, and the boundaries enacted in/through such figurings. Like Shreeharsh, I hesitate to define, again, what counts as AI. Turning things around, my concern is for a capability that is achieved with others, and what the possibility of <i>becoming capable</i> <i>together</i> might mean for designing AI-with-dis/ability differently.<br>
+Thinking with dis/ability, I’ve found myself returning to a mixture of writings in disability studies, science and technology studies (STS), and feminist technoscience. I’ve drawn particular inspiration from Charles Goodwin and Ingunn Moser who have, in different ways, provided examples of the careful study of practice; both show a commitment to disrupting those sedimented “distributions of power and agency” which seem to come too easily when working with dis/ability (Moser 2005: 667). Also, offering a somewhat tangential perspective have been Donna Haraway’s writings and Vinciane Despret’s manifold accounts of animals. I’m conscious Haraway and Despret may seem peculiar reference points with their shared concerns for speculative/science fictions and stories with companion species, and I’m sensitive to what may appear to be the problematic connections I am drawing between such ‘fabulations’ and human dis/ability. However, my intention here is not to insist on direct parallels but to use the productive and uplifting works of Haraway and Despret to introduce a different point of view and, I hope, new questions around capability.<br>
+With this backdrop, the first thing to say is that the commonly referred to <i>deficit model</i> in disability studies presents an especially worrying version of capability. This version places the individual along a spectrum of ability, where what he or she can or cannot do defines them as more or less capable. Thus, blindness and vision impairment are indicative of an absence of ability. Worse still, if being human is defined somehow by a set of pre-defined abilities that constitute a ‘prototypical body’, then an absence of some sort or another conjures up the image of an actor who is less-than-human.<br>
+It’s this version of capability that Charles Goodwin troubles so convincingly in his careful analysis of the conversations between an aphasic man, Chil, and his family. Chil has only three words in his vocabulary, ‘yes’, ‘no’, and ‘and’. In a ‘formal linguistics’, Goodwin argues, Chil, with such a limited repertoire of words, “might seem an atypical, marginal figure for the study of human language, a defective actor who can be easily ignored without theoretical loss” (2004: 152). The “psychological and neurological structures necessary for linguistic competence are to be found” in the “mental life” of the speaker, and thus Chil is defined by a bodily absence, an individual deficit (2004: 153).<br>
+However, in actual talk, Chil shows himself to be a competent and adept conversationalist. Goodwin details how communicative features such as ‘nonsense’ syllable use, prosody, intonation and turn taking, and interactional, embodied resources like gaze and posture, are used by Chil to not just participate in ongoing conversational talk, but initiate and direct such talk himself.<br>
+The trouble with the deficit model of dis/ability then is it presents a version of capability that presumes a ‘normal’ human, and a deviation or absence of some ability, such as a limited lexicon, to be an indication of a “defective actor”. Yet this captures nothing of the mutual accomplishment of capability where such things as talk must be understood as an emerging phenomena, achieved in concert, with the involvement from others and a range of situational resources in-action. You might say, with the deficit model, capability is judged comparatively, always against some notional normative figure, always with an absence or lack of something that detracts from a ‘pure’ or ‘genuine’ presence in the world. No room is given for capability as it is achieved: how we—all of us—might just come to be capable in and through worlds strewn with ‘continuities and discontinuities’, and through ‘good and bad passages’ (Moser and Law 1999).<br>
+This takes me back to something a fieldwork informant, Jerry, told me. Comparing how people ‘take in information’ who have been blind from birth (as he has) with those who have recently lost their vision, Jerry thoughtfully comments:</p>
+<blockquote><p>We have a shared method I suppose of taking in information… It’s not… I don’t have to spend that time imagining the visual switch… They refer to the world that they live in as being like living in a fog, you know, nothing’s very clear. But I never had that feeling that my world is a fog. It’s the world.</p></blockquote>
+<p>I’m struck here by Jerry’s allusion to a world that is <i>not</i> forever placed in contrast to another. The ‘shared method’ is about coming to be capable, collectively, about living a life not dominated by a loss, a fog, but by being/becoming capable in/with the world. Another informant, Sarah, described something similar but in more concrete terms:</p>
+<blockquote><p>I was quite young when I learnt to take other cues. You know, people’s voice, what they sound like, how much they’re talking, are they suddenly really quiet [when] they’re normally really chatty, that they’re just not quite themselves. And quite often that’s an easy way. But! For example, the idea of catching someone’s eye across the room, that’s a foreign language to me. I just don’t even know what… I can in theory know what that means but in practice even if your head is facing towards me I don’t know who you’re talking to necessarily.</p></blockquote>
+<p>For Sarah, a visual cue—catching someone’s eye—is foreign, is other worldly; this could be used to highlight an absence in Sarah, the fog she lives in, a deficit in ability. But to me it feels more genuine to say she has become capable in/with a world that is other-than-visual. Dis/ability and what renders one more or less capable is afforded through a continual attunement in a world with others.<br>
+<span style="font-size: 1rem;">Jerry’s and Sarah’s reflections—that say so much to me about worlds that are other-than-sighted—bring to mind two related threads of work. One is a moving series of works from the artist <a href="https://en.wikipedia.org/wiki/Sophie_Calle" target="_blank" rel="noopener noreferrer" data-versionurl="http://web.archive.org/web/20170427104357/https://en.wikipedia.org/wiki/Sophie_Calle" data-versiondate="2017-04-27T10:43:57+00:00" data-amber-behavior>Sophie Calle</a>. In photos, videos and stories, Calle has people ponder on colour (“<a href="https://www.perrotin.com/artists/Sophie_Calle/1/color-blind/13515" target="_blank" rel="noopener noreferrer" data-versionurl="http://web.archive.org/web/20170426082015/https://www.perrotin.com/artists/Sophie_Calle/1/color-blind/13515" data-versiondate="2017-04-26T08:20:17+00:00" data-amber-behavior>La Couleur Aveugle</a>”) and beauty (“<a href="https://www.perrotin.com/artists/Sophie_Calle/1/the-blind-at-home/12717" target="_blank" rel="noopener noreferrer" data-versionurl="http://web.archive.org/web/20170426080354/https://www.perrotin.com/artists/Sophie_Calle/1/the-blind-at-home/12717" data-versiondate="2017-04-26T08:03:55+00:00" data-amber-behavior>Les Aveugles</a>”), and first and last sights (“<a href="https://www.perrotin.com/artists/Sophie_Calle/1/view-of-the-exhibition-pour-la-derniere-et-pour-la-premiere-fois-at-nagasaki-prefectural-art-museum-nagasaki-japan-2016/10000010590" target="_blank" rel="noopener noreferrer" data-versionurl="http://web.archive.org/web/20170426081511/https://www.perrotin.com/artists/Sophie_Calle/1/view-of-the-exhibition-pour-la-derniere-et-pour-la-premiere-fois-at-nagasaki-prefectural-art-museum-nagasaki-japan-2016/10000010590" data-versiondate="2017-04-26T08:15:12+00:00" data-amber-behavior>Pour La Dernière et Pour La Première Fois</a>”). Not all of those people Calle collaborates with are blind—some are seeing things for the first time (“<a href="https://www.perrotin.com/artists/Sophie_Calle/1/voir-la-mer/21871" target="_blank" rel="noopener noreferrer" data-versionurl="http://web.archive.org/web/20170426080910/https://www.perrotin.com/artists/Sophie_Calle/1/voir-la-mer/21871" data-versiondate="2017-04-26T08:09:11+00:00" data-amber-behavior>Voir la mer</a>”)—but in each case the audience is invited to rethink the relations between person, experience and sight, and imagine worlds that are more-than-sighted and actively brought into being.</span><br>
+<span style="font-size: 1rem;">A second related thread that reminds us of our active presence in the world is one which resonates with “the arts of feminist speculative fabulation” (Haraway 2016) and provides significantly different versions of capability to work with. In particular, it brings to mind Donna Haraway’s refigurings of human-machine entanglements and multi-species companionship, and also Vinciane Despret’s lively stories with animals. Haraway equips us with generative ways of imagining worlds actively brought into being, of composites of actors (of all kinds) defined not by “bounded utilitarian individualism” (Haraway 2016), but by </span><i style="font-size: 1rem;">becoming-with</i><span style="font-size: 1rem;"> each other.</span></p>
+<blockquote><p>“Becoming-with, not becoming, is the name of the game; becoming-with is how partners are, in Vinciane Despret’s terms, rendered capable. Ontologically heterogeneous partners become who and what they are in relational material-semiotic worlding. Natures, cultures, subjects, and objects do not preexist their intertwined worldings.”</p></blockquote>
+<p>Like Haraway, I find this ‘becoming-with’ takes on tremendous value through Despret’s work. Despret’s sensitivity to ‘asking the right questions’ of conditions and actors of all kinds, and of their assemblages, open up the possibilities to so much more, to render us capable in so many more ways (Despret 2016). Just as Chil emerges as a competent speaker and his family “treats him as someone who has something to say,” (Goodwin et al. 2002) Despret is interested in the possibilities of “interagency” (Despret 2013), of what actors-together might be rendered capable of. Despret’s project—if it can be referred to like this—is thus an expansive one. It is to perpetually invite the prospect of new ‘devices’, new ‘practices’, new ‘conditions’, new ‘fabulations’, and to invite the chance, the risk, even, of becoming <i>more</i> capable together.<br>
+It’s just such a version of capability that I believe gives us so much more to work with. Dis/ability is not constrained by the imagined limits of what it is to be human, but rather made possible by the conditions actors (of all sorts) are active in.<br>
+So, what if we—those of us who think and live with dis/ability—found ourselves able to work with capability along these lines? How might we approach dis/ability, and imagine new figurings of technology and dis/ability? This is not the place to speculate on these imaginaries, but it does I hope show that a different onus is put on emerging technologies like AI. The versions of technosocial fabulations we might begin to tell here are not of the repair or replacement of vision (or other deficits in ability) but of enlarging what and how we become-capable-with, <i>become more capable</i>.</p>
+<div style="font-size:.9rem;margin-top:1rem">Despret, Vinciane. 2016. <i>What Would Animals Say If We Asked the Right Questions</i>? London: University of Minnesota Press.<br>
+Despret, Vinciane. 2013. <a href="http://doi.org/10.1111/hith.10686">From secret agents to interagency</a>. <i>History and Theory</i>, <i>52</i>(4), 29–44.<br>
+Goodwin, Charles. 2004. A Competent Speaker Who Can’t Speak: The Social Life of Aphasia. <i>Journal of Linguistic Anthropology</i> 14(2): 151–170.<br>
+Goodwin, Charles, Goodwin, Marjorie H., &amp; Olsher, David. (2002). Producing Sense with Nonsense Syllables: Turn and Sequence in Conversations with a Man with Severe Aphasia. In Cecilia E. Ford, Barbara A. Fox, &amp; Sandra A. Thompson (Eds.), <i>The Language of Turn and Sequence</i>. Oxford: Oxford University Press.<br>
+Haraway, Donna J. 2016. <i>Staying With the Trouble: Making Kin in the Chthulucene</i>. London: Duke University Press.<br>
+Moser, Ingunn. 2005. On becoming disabled and articulating alternatives. <i>Cultural Studies</i> 19(6): 667–700.<br>
+Moser, Ingunn and Law, John. 1999. <a href="http://doi.org/10.1111/j.1467-954X.1999.tb03489.x">Good passages, bad passages</a>. <i>The Sociological Review</i>, <i>47</i>(S1), 196–219.</div>
+</blockquote>
+<p>The post <a rel="nofollow" href="http://ast.io/platypus-post/">Platypus blog post</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/platypus-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3316</post-id>	</item>
+		<item>
+		<title>Paper at 4S 2017</title>
+		<link>http://ast.io/4s-acceptance-2017/</link>
+					<comments>http://ast.io/4s-acceptance-2017/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 24 Apr 2017 08:45:29 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Presenting]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[4S]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3288</guid>
+
+					<description><![CDATA[<p>I’m thrilled to have our paper submission accepted to the . Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston. A care for beingmore (cap-)able Cynthia Bennett and Alex Taylor In this paper, we begin with Ingunn Moser’s and Maria Puig de la [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/4s-acceptance-2017/">Read More...<span class="screen-reader-text"> from Paper at 4S 2017</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/4s-acceptance-2017/">Paper at 4S 2017</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I’m thrilled to have our paper submission accepted to the <a id="tippy_tip5_4477_anchor"></a>. Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston.</p>
+<div class="highlight" style="font-size:325%">A care for being<br>more (cap-)able</div>
+<p><em>Cynthia Bennett and Alex Taylor</em></p>
+<blockquote><p>In this paper, we begin with Ingunn Moser’s and Maria Puig de la Bellacasa’s generative notions of care and use them to expand how we understand capability. Drawing on fieldwork with blind and vision impaired people, we turn our attention to a materially enacted, unfolding ‘sense-ability’. This is a sensing that puts (cap)ability and care together, that understands ‘seeing-in-the-world’ as a practical affair that is, at once, knowing, effecting and affecting with others (humans or otherwise). Thus, we show not only that care can contest an ‘instrumentalism’ in forms of knowing and doing—by ‘re-affecting objectified worlds’ (Puig de la Bellacasa, 2011: 98)—but also give a greater clarity to how care can be, in practice, entangled in practice. This sense-ability seeks to be active, enlivening how we become capable; it is figured to be worked with, not finite and dictated by assumed bodily limits, but open to becoming-with and becoming-more. Borrowing from Vinciane Despret, this sense-ability is “to gain a body that does more things, that feels other events, and that is more and more able…” (2004: 120).</p></blockquote>
+<blockquote style="font-size:smaller"><p>Despret, V. (2004). <a href="http://journals.sagepub.com/doi/abs/10.1177/1357034X04042938" target="_blank" rel="noopener noreferrer">The Body We Care For: Figures of Anthropo-zoo-genesis</a>. <em>Body &amp; Society</em>, 10(2–3), 111–134.<br>
+Moser, I. (2011). <a href="http://journals.sagepub.com/doi/abs/10.1177/0162243910396349" target="_blank" rel="noopener noreferrer">Dementia and the Limits to Life</a>. ST&amp;HV, 36(5), 704–722.<br>
+Puig de la Bellacasa, M. (2011). <a href="http://journals.sagepub.com/doi/abs/10.1177/0306312710380301" target="_blank" rel="noopener noreferrer">Matters of Care in Technoscience. Social Studies of Science</a>, 41(1), 85–106.</p></blockquote>
+<div class="tippy" data-title="4S 2017 annual meeting" data-showheader="false" data-anchor="#tippy_tip5_4477_anchor">4S is the <a href="http://www.4sonline.org/" target="_blank" rel="noopener noreferrer">Society for the Social Studies of Science</a>. The annual meeting details are <a href="http://www.4sonline.org/meeting" target="_blank" rel="noopener noreferrer">here</a>.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/4s-acceptance-2017/">Paper at 4S 2017</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/4s-acceptance-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3288</post-id>	</item>
+		<item>
+		<title>Surfacing Small Worlds through Data-In-Place</title>
+		<link>http://ast.io/surfacing-small-worlds/</link>
+					<comments>http://ast.io/surfacing-small-worlds/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2017 23:12:28 +0000</pubDate>
+				<category><![CDATA[Publications]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[cscw]]></category>
+		<category><![CDATA[data]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3075</guid>
+
+					<description><![CDATA[<p>Very happy to have another publication from the monumental Tenison Road project, this time in the Journal of Computer-Supported Cooperative Work (CSCW). Lindley, S.E., Thieme, A., Taylor, A.S. et al. (2017). Surfacing Small Worlds through Data-In-Place. Computer Supported Cooperative Work. &#160; Abstract We present findings from a five-week deployment of voting technologies in a city [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/surfacing-small-worlds/">Read More...<span class="screen-reader-text"> from Surfacing Small Worlds through Data-In-Place</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/surfacing-small-worlds/">Surfacing Small Worlds through Data-In-Place</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Very happy to have another publication from the monumental <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> project, this time in the Journal of Computer-Supported Cooperative Work (CSCW).</p>
+<blockquote><p>Lindley, S.E., Thieme, A., Taylor, A.S. et al. (2017). <a href="http://ast.io/download/3078/surfacing-small-worlds-2017" target="_blank" rel="noopener noreferrer">Surfacing Small Worlds through Data-In-Place</a>. <a href="http://dx.doi.org/10.1007/s10606-017-9263-3" target="_blank" rel="noopener noreferrer"><em>Computer Supported Cooperative Work</em></a>.</p></blockquote>
+<div class="clearfix"></div>
+<p>&nbsp;<br>
+<strong>Abstract</strong></p>
+<blockquote><p>We present findings from a five-week deployment of voting technologies in a city neighbourhood. Drawing on Marres’ (2012) work on material participation and Massey’s (2005) conceptualisation of space as dynamic, we designed the deployment such that the technologies (which were situated in residents’ homes, on the street, and available online) would work in concert, cutting across the neighbourhood to make visible, juxtapose and draw together the different ‘small worlds’ within it. We demonstrate how the material infrastructure of the voting devices set in motion particular processes and interpretations of participation, putting data in place in a way that had ramifications for the recognition of heterogeneity. We conclude that redistributing participation means not only opening up access, so that everyone can participate, or even providing a multitude of voting channels, so that people can participate in different ways. Rather, it means making visible multiplicity, challenging notions of similarity, and showing how difference may be productive.</p></blockquote>
+<p>See more on the CSCW site <a href="http://dx.doi.org/10.1007/s10606-017-9263-3" target="_blank" rel="noopener noreferrer">here</a>. See an early draft <a href="http://ast.io/download/3078/surfacing-small-worlds-2017" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/surfacing-small-worlds/">Surfacing Small Worlds through Data-In-Place</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/surfacing-small-worlds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3075</post-id>	</item>
+		<item>
+		<title>Paper presented at 4S/EASST meeting</title>
+		<link>http://ast.io/finite-flourishings/</link>
+					<comments>http://ast.io/finite-flourishings/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2016 18:38:07 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Presenting]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[feminist technoscience]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=2209</guid>
+
+					<description><![CDATA[<p>At the combined 4S/EASST meeting this year, Sarah Kember and I presented a paper titled: Writerly (ac)counts of finite flourishings and possibly better ways of being together As Sarah’s introduction to the paper outlined, our co-writings were an attempt to think with the emerging strategies of feminist counting, accounting and re-counting. Below, I present my [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/finite-flourishings/">Read More...<span class="screen-reader-text"> from Paper presented at 4S/EASST meeting</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/finite-flourishings/">Paper presented at 4S/EASST meeting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>At the combined <a href="http://www.4sonline.org/meeting/16" target="_blank" rel="noopener noreferrer">4S/EASST meeting</a> this year, <a href="http://www.gold.ac.uk/media-communications/staff/kember/" target="_blank" rel="noopener noreferrer">Sarah Kember</a> and I presented a paper titled:</p>
+<div class="highlight">Writerly (ac)counts of finite flourishings and possibly better ways of being together</div>
+<p>As Sarah’s introduction to the paper outlined, our co-writings were an attempt to think with the emerging strategies of feminist counting, accounting and re-counting.<br>
+Below, I present my part to the co-authered piece. It’s long, so I put it here more for the record than any expectation it will be read. I must add that the ideas I present draw on work done by <a id="tippy_tip6_6698_anchor"></a>. Without her energy and always thoughtful investment in the field site, this reflection would not have been possible:<span id="more-2209"></span></p>
+<div style="margin:3rem 0 0 -1rem;">Let me approach what we are calling these not so responsible strategies of feminist counting, accounting and re-counting — where <a id="tippy_tip7_3989_anchor"></a> — from a different perspective. I’ll begin by talking about a community building project I’ve been involved in and then, only very briefly, sketch out how, despite the differences, the two accounts Sarah and I have presented stitch together a common thread. This is a thread that I will just hint at for now — it has to do with collective refigurings, a multiplicity in participation, and, naturally, a counting by other means. Our hope is to introduce a sense of perspective, or a re-scaling, where the scale is not merely more human or humanist but something that stems from a kind of writerly, feminist retelling that challenges the masculinist disembodied knowledge practices of those who are able to see multiscalar worlds or invisible information infrastructures from everywhere and nowhere.<br>
+The project I want to recount is set within a six-year regeneration programme on the outskirts of London, where a deteriorating 1960s housing estate — once made up largely of high-rise tower blocks — is in the midst of being demolished and replaced by a contemporary mix of family houses and low-rise apartment buildings. It is a project also set against a longer arch: of a political move from ‘social housing’ to ‘affordable housing’ and a political appetite for ‘social mixing’.<br>
+It will surprise no one here, that such ideas of regeneration, affordability and social mixing have already been characterised as paradigmatic of, if not instrumental to, the neoliberal project. Here, dwellings, and where and how we dwell, are judged against a market value and opportunities for wealth creation. Even community is commodified under a logic of economic factors and enterprise. Connecting these strands, Luna Glucksberg <a id="tippy_tip8_2689_anchor"></a> of a “symbolic devaluation of people, their homes and communities on inner-city estates” where values such as wealth creation seem to be more about an “exclusion from specific value producing processes” than building better spaces and communities.<br>
+My story, amidst all this, begins three years ago with an invitation from Carol, the progressive and remarkably calm project manager leading the regeneration of shall we call it the ‘Eastgate Estate’. Working for a Housing Association that has taken over the once publically owned estate, Carol articulates a compelling case for the massive changes to the built environment. She talks of a failed project now synonymous with social depravation and crime rather than brutalist utopias. “You’ll end up on the Eastgate Estate” has been the threat to troublesome youth in the area.<br>
+In Carol’s eyes, the fresh building plans and concurrent changes to things like tenancy agreements are a concerted push towards building a community —one community — where there was none. This is palpable on the site and feels to genuinely motivate Carol’s team. Indeed, Carol’s original invitation to me was to help in this ‘community building’ by working with the regeneration team’s public engagement officer, Charlie, and a group of core residents from the old estate.<br>
+For myself, and Clara Crivellaro, it was impossible to resist Carol’s invitation. Although under considerable pressure as project manager, Carol welcomed virtually all the ideas we put forward. Thus, over the course of 18 months, led by Clara, we embarked on a series of interviews, meetings, workshops and interventions, culminating in the design of a system for collecting audio recordings of residents’ local stories — a system seeking to project personal and collective narratives back onto a place literally stripped of its physical and social geography.<br>
+Many of you here would expect nothing less than participant informed and carefully crafted systems like this from a participatory design. What I want to focus on though are not these interventions per se. Rather, what has struck me has been how a predominantly women’s labour—or, better yet, the labours of women—have come to surface the different ways in which a community counts. And, for me, this isn’t simply about getting behind grassroots resistances where what counts is a two fingers up to the establishment. I find myself sceptical of any such tidy binary, and one-way solutionism.<br>
+In writing with Sarah, we’ve come to understand our co-figurings as a <em>recounting-as-rescaling</em>, where a feminized labour (as opposed to purely feminine labour) highlights the continued value of stories in an era dominated by financial accounting and the singular computational count. This is a rescaling that doesn’t reject metrics, but is productive in computational and material architectures that might re-evaluate who and what counts.<br>
+So, in the case of the Housing Association’s management team, what stood out were not the social mixing numbers being targeted or even Carol’s overwhelming spreadsheets calculating startlingly large costs against forecasted revenues from the different tenancies. For me, what mattered were the shifting perspectives and scales afforded in Carol’s daily encounters: that she put her office in one of the soon to be demolished buildings; that she walked the Estate’s streets and corridors, talking and genuinely listening to residents; and that they visited her with tea and cake, and for counsel.<br>
+Carol seemed in this not just for the senior position she’d been given at her Housing Association’s flagship site or because she stood out as an exceptional woman among the usual male-management in planning and development… she was in this because she believed life on-the-Estate could be different. Sensitive to the frictions and contradictions of working to a spreadsheet of value-over-values, she and her team created the conditions of openness to other stories and the inevitable rescaling of counts, up and down.<br>
+For residents, this openness has indeed complicated things. Long-time resident of the Eastgate Estate, Theresa, found the operationalised value of a community counted against her. Without an assured income, she failed to meet the cut for the estate’s new tenancy agreements and so found herself having to move to a nearby estate.<br>
+Yet, while we worked on the project, Theresa continued to be one of the most active participants and, with the recording technology in particular, helped to collect many of the recordings.</div>
+<div style="font-size:1.4rem;margin:1rem 0 1rem 3rem;">“We are doing this because we want people to know that everywhere you go there is going to be problems and sometimes you can make a negative into a positive thing. I mean it’s like the stabbing – sometimes when you have a tragedy that brings the community together […] can help improve something […] people know that everything is not perfect.”</div>
+<div style="margin-left:-1rem;">For Tracey, the stories counted because they represented people on the Estate coming together for genuine reasons, they were stories that resisted homogeneous notions of a ‘perfect harmonious community’ and that showed instead why communities find a resilience.<br>
+Thus Thereas is, classed at once, as not right for the new estate, financially, but also deeply invested in its past, present and future. Her troubling position unravels any singular logic of value and shows there to be hard to reconcile differences to a count.<br>
+Troubles were also there in the recorded stories themselves. Wondering about what to record, Denise told a group of us about her scavenging on the demolition site looking for memorabilia to preserve something from the old estate.</div>
+<div style="font-size:1.4rem;margin:1rem 0 1rem 3rem;">“Just before the block itself was actually locked off to the public, I went back with a carrier bag full of glass bottles and did it one more time, just to hear it, and I videoed it, so here it is [replays sound]”</div>
+<div style="margin-left:-1rem;">Managing to get to the top of one of the derelict tower blocks, she’d thrown bottles down the rubbish shoot — as she did when she was a child — and recorded the evocative sound on her phone.<br>
+In a later encounter, again sat around the recording equipment, Rose, a 30-year resident on the estate, spoke of it being “the best thing that ever happened”, giving her the chance to “do things she never dreamt of”. Her recollections are again of a community pitching in and making do: of morning coffees, ploughman’s lunches and afternoon teas, of fun days in the local fields, money raised to see the Christmas lights and bus rides to villages in Kent. “You looked for good things” and discovered “there was always good things.”</div>
+<div style="font-size:1.4rem;margin:1rem 0 1rem 3rem;">“Obviously it has changed over the years and there are so many diverse stories […] that it all adds to everybody’s knowledge of everybody else…we are all sharing and learn more about the past and as I said we meet people and they talk about what they would like for the future…its all connected really…”</div>
+<div style="margin-left:-1rem;">Yet Denise’s mementos and Rose’s good things don’t seem like things that can be uniformly calculated; they might more easily be classed as “popular,” or “lay,” “creek-side,” even “housewife” metrics that are, as the anthropologist Dianne Nelson <a id="tippy_tip9_8316_anchor"></a>, the muddy pollutants in a ‘regime of logic’ that balance costs against benefits. But still, these “off-book” accounts (again Nelson’s phrase) materialise the many things that can come to count, counts as always something laboured on in the variably scaled “value producing processes”.<br>
+And of course there has been the time and labour Clara has put into this project. Maybe these labours and their impact could all be tallied up as a successful return on investment, and used as a ‘responsible metric’ in her department’s national research excellence framework assessment. For me, though, it’s been Clara’s continuing care for what counts and how it might be counted. Putting her heart into the work, her achievement has not been to narrow in on one side over the other, of assuming what counts or who counts in singular ways. Rather, she’s surfaced the struggle and, borrowing from Haraway, stayed with it to make room. For me, Clara’s care epitomises what Maria Puig de la Bellacasa calls an “affective engagement”. She has succeeded in ‘re-affecting’ an objectified world by creating the conditions for rescaling in what-counts-as-valuable on an Estate.<br>
+In a mixture of ways, then, women like Carol, Theresa, Rose, Denise, and Clara have given me the impetus and language to ask different questions about community and about counting. I’d be wrong to claim that these women speak for a feminist ontics, yet, one by one, I see what they’ve done and what they do as a feminised labour, a recounting-as-rescaling, that is situated somewhere and that, in its ongoingness, holds the possibilities open.<br>
+As a man working for what I can only describe as a masculinised organisation (one heavily invested in the computational count and the logic that knots together this with markets), these alternative figurations and rescalings invite me to reflect on my complicity. They invite me, to paraphrase Isabelle Stengers, “to recognise [myself] as a product of the history whose construction [I am] trying to [un]follow”. It ushers me into I hope irresponsible yet at the same time productive patternings and knottings where there might just be the possibility of refiguring computational and material architectures for values in the making.</div>
+<div class="tippy" data-title="Clara Crivellaro" data-showheader="false" data-anchor="#tippy_tip6_6698_anchor">… working from Newcastle’s <a href="https://openlab.ncl.ac.uk/" target="_blank" rel="noopener noreferrer">Open Lab</a></div>
+<div class="tippy" data-title="values might find a way to supersede value" data-showheader="false" data-anchor="#tippy_tip7_3989_anchor">See “<a href="http://www.tandfonline.com/doi/abs/10.1080/1369118X.2015.1111403" target="_blank" rel="noopener noreferrer">Capital experimentation with person/a formation: how Facebook’s monetization refigures the relationship between property, personhood and protest</a>” (Skeggs and Yuill 2015)</div>
+<div class="tippy" data-title="writes" data-showheader="false" data-anchor="#tippy_tip8_2689_anchor">See Glucksberg, L. (2014). <a href="http://doi.org/10.3384/vs.2001-5992.142297" target="_blank" rel="noopener noreferrer">“We Was Regenerated Out”</a>: Regeneration, Recycling and Devaluing Communities. <em>Valuation Studies</em>, 2(2), 97–118.</div>
+<div class="tippy" data-title="puts it" data-showheader="false" data-anchor="#tippy_tip9_8316_anchor">See <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/" target="_blank" rel="noopener noreferrer">“Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala</a></div>
+<p>The post <a rel="nofollow" href="http://ast.io/finite-flourishings/">Paper presented at 4S/EASST meeting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/finite-flourishings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2209</post-id>	</item>
+	</channel>
+</rss>

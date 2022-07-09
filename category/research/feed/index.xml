@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Research Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/category/research/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Sun, 08 Sep 2019 20:53:25 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>HCID Seminar talk</title>
+		<link>http://ast.io/hcid-seminar-talk-2018/</link>
+					<comments>http://ast.io/hcid-seminar-talk-2018/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 30 Nov 2018 10:36:31 +0000</pubDate>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[Talks]]></category>
+		<category><![CDATA[slavery]]></category>
+		<category><![CDATA[tables]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4450</guid>
+
+					<description><![CDATA[<p> [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/hcid-seminar-talk-2018/">Read More...<span class="screen-reader-text"> from HCID Seminar talk</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/hcid-seminar-talk-2018/">HCID Seminar talk</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="row">
+	<div class="col-11">
+		<p>
+			I had the pleasure of presenting as part of our very own <a href="https://hcid.city/seminar/" target="_blank" rel="noopener noreferrer">HCID Seminar Series</a> in November. I took the opportunity of trying out some early ideas about tables, a little clumsily testing out ideas of how tables have been used in the recording of bodies, from the slave trade to the algorithmic modes of bodily accounting so pervasive today.
+		</p>
+		<p>
+			See the abstract for the talk below.
+		</p>
+	</div>
+</div>
+<div class="row align-items-end">
+	<div class="col-md-4">
+		<figure class="figure">
+            <a href="http://discovery.nationalarchives.gov.uk/details/record?catid=3298289&amp;catln=6" target="_blank" rel="noopener noreferrer">
+                <img class="aligncenter wp-image-4305 size-large figure-img img-fluid rounded" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/12/slaves_returns_jamaica_st_ann_1820_national_archive.jpg?resize=640%2C447&#038;ssl=1" alt="A return of slaves in the Parish of Jamaica, St Ann”, 28 June 1820. The National Archive." width="640" height="447"  data-recalc-dims="1">
+            </a>
+			<figcaption class="figure-caption text-center mx-auto">
+				“A return of slaves in the Parish of Jamaica, St Ann”, 28 June 1820. The <a href="http://discovery.nationalarchives.gov.uk/details/record?catid=3298289&amp;catln=6" target="_blank" rel="noopener noreferrer">National Archive</a>.
+			</figcaption>
+		</figure>
+	</div>
+	<div class="col-md-8">
+		<figure class="figure">
+            <a href="https://arxiv.org/abs/1408.5882" target="_blank" rel="noopener noreferrer">
+                <img class="aligncenter wp-image-4305 size-large figure-img img-fluid rounded" src="https://i0.wp.com/pythonawesome.com/content/images/2018/07/X3cc7.png?resize=640%2C447&#038;ssl=1" alt="Convolutional Neural Networks for Sentence Classification. Yoo Kim" width="640" height="447"  data-recalc-dims="1">
+            </a>
+			<figcaption class="figure-caption text-center mx-auto">
+				Convolutional Neural Networks for Sentence Classification. Yoo Kim, <a href="https://arxiv.org/abs/1408.5882" target="_blank" rel="noopener noreferrer">arXiv.org</a>, 2014.
+			</figcaption>
+		</figure>
+	</div>
+</div>
+<div class="row my-5">
+	<div class="col-md-5">
+			<p class="h1 mt-sm-3 mt-md-5">
+				The act of reading across and down, through the coordinate grid, to find information is a generative act. […]
+			</p>
+			<p class="h1 mt-sm-4">
+				This is not trivial, but essential, to the performative capabilities of tables.
+			</p>
+			<p class="text-right small"><em>
+				Joanna Drucker
+			</em></p>
+	</div>
+	<div class="col-md-5 offset-md-1">
+		<div class="mb-3 small">
+			<p>
+				<strong>ABSTRACT: </strong>Through a number of routes, I’ve found myself thinking about tables, the kinds of tables with columns and rows. These tables lie behind so much of the proliferation of data and computation we are witnessing in contemporary life. They are also core to much of the work we do as researchers and designers. Yet too often we neglect the lively nature of these ordering technologies (Drucker 2014). In offering a practical solution for sorting and organising pretty much anything (e.g., numbers, times, dates, names, events, journeys, bodies, etc,), we overlook how they afford and authorise very particular ways of making matter matter (e.g. Rosenthal 2018; Wernimont 2018). Take Excel. The tool’s powerful capacities for ordering items in a seemingly infinite number of rows and columns—setting various systems of organisation against one another—is in no way inert. The explicit or implied hierarchies, the categories and comparisons, the roundings up or down, the spatial and calculative transformations, etc.—altogether, they are, already, telling a story. They are, if you will, technoscientific “worldings” (Haraway 2016).
+			</p>
+			<p>
+				I want to use this talk as a forcing function to explore this line of thought and the relevance it might have to the design of interactive systems. For now, my view is that much is to be understood from the close examination of ‘tables-in-action’. I believe we might discover many of the assumptions and biases we have in interpreting data and conducting research by attending to what we do with our tabulating practices—practices that, at first glance, appear so neutral. With this as a starting point, my hope will be to imagine worlds otherwise. To imagine intervening in the ways we work with tables so that we might extend and multiply the worlds we make possible.
+			</p>
+		</div>
+		<div>
+			<ul class="list-unstyled small">
+			  <li>
+				  Drucker, Johanna. Graphesis: Visual forms of knowledge production. Harvard University Press, 2014.
+			  </li>
+			  <li>
+				  Haraway, Donna J. Staying with the trouble: Making kin in the Chthulucene. Duke University Press, 2016.
+			  </li>
+			  <li>Rosenthal, Caitlin. Accounting for Slavery: Masters and Management. Harvard University Press, 2018.
+			  </li>
+			  <li>
+				  Wernimont, Jacqueline. Numbered Lives: Life and Death in Quantum Media. MIT Press, 2018.
+			  </li>
+		  </ul>
+		</div>
+	</div>
+</div>
+
+<p>The post <a rel="nofollow" href="http://ast.io/hcid-seminar-talk-2018/">HCID Seminar talk</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/hcid-seminar-talk-2018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4450</post-id>	</item>
+		<item>
+		<title>Cycling on up</title>
+		<link>http://ast.io/cycling-on-up/</link>
+					<comments>http://ast.io/cycling-on-up/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 03 Aug 2018 12:09:28 +0000</pubDate>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[bicycle]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[slavery]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4297</guid>
+
+					<description><![CDATA[<p>I’ve been continuing with my experimentations and thoughts on cycling, and in particular extending my reflections on my first ‘Boris Bike’ journey recorded in 2014 (see this chapter). There’ll hopefully be more to come in the coming months that tie together the space-times I traversed&#160;with other records and different accounts. A video captured using the [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/cycling-on-up/">Read More...<span class="screen-reader-text"> from Cycling on up</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/cycling-on-up/">Cycling on up</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 2rem;">
+<div class="col-9 col-sm-9 col-md-5">I’ve been continuing with my experimentations and thoughts on cycling, and in particular extending my reflections on my first ‘Boris Bike’ journey recorded in 2014 (see this <a href="http://ast.io/download/1702/?version=proof" target="_blank" rel="noopener noreferrer">chapter</a>). There’ll hopefully be more to come in the coming months that tie together the space-times I traversed&nbsp;with other records and different accounts.</div>
+<div class="small col-9 col-sm-9 col-md-7">
+<div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-4297-1" width="640" height="853" poster="http://ast.io/wp-content/uploads/2018/08/b00000421_21i4k3_20141003_165932e.jpg" preload="metadata" controls="controls"><source type="video/mp4" src="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4?_=1"><a href="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4">http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4</a></video></div>
+<p style="margin-top:1rem">A video captured using the now defunct <a href="https://en.wikipedia.org/wiki/Autographer" target="_blank" rel="noopener noreferrer">Autographer</a>. It captures me purposely cycling beyond the <a href="https://vartree.blogspot.com/2014/03/london-maps-and-bike-rental-communities.html" target="_blank" rel="noopener noreferrer">usual routes mapped</a> by the rental bikes. from the <a href="https://goo.gl/maps/DYfqjF5yv1m" target="_blank" rel="noopener noreferrer">Aberfeldy Street docking station</a> out through Newham to <a href="https://goo.gl/maps/T1x7Cw4tq8u" target="_blank" rel="noopener noreferrer">Green Street</a>, along <a href="https://goo.gl/maps/bM6x7JMbLtA2" target="_blank" rel="noopener noreferrer">The Greenway/Northern Outfall Sewer</a>, and then back to <a href="https://goo.gl/maps/dN8rK1Q7s172" target="_blank" rel="noopener noreferrer">Bow</a>.</p>
+</div>
+</div>
+<p><span id="more-4297"></span></p>
+<div class="row" style="margin-bottom: 2rem;">
+<div class="small col-9 col-sm-9 col-md-5"><a href="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/My-entry-on-airtable.png?ssl=1"><img loading="lazy" class="aligncenter wp-image-4305 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/My-entry-on-airtable.png?resize=640%2C447&#038;ssl=1" alt width="640" height="447"  data-recalc-dims="1"></a>Table of bike journeys on 3 Oct 2014. My journey from <a href="https://goo.gl/maps/DYfqjF5yv1m" target="_blank" rel="noopener noreferrer">Aberfeldy Street</a> to <a href="https://goo.gl/maps/dN8rK1Q7s172" target="_blank" rel="noopener noreferrer">Bow</a> is highlighted.</div>
+<div class="small col-9 col-sm-9 col-md-7"></div>
+</div>
+<div class="row" style="margin-bottom: 2rem;">
+<div class="small col-9 col-sm-9 col-md-5"></div>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/2014-rentals-per-day/" rel="attachment wp-att-4304"><img loading="lazy" class="aligncenter wp-image-4304 size-large" style="margin-top: 3rem;" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/2014-Rentals-per-day.png?resize=640%2C237&#038;ssl=1" alt="My entry in table of bike data" width="640" height="237"  data-recalc-dims="1"></a>Graph of bike hires per day in 2014. Oct 3, the day of my journey is highlighted in green.</div>
+</div>
+<div class="row" style="margin-bottom: 2rem;">
+<div class="small col-9 col-sm-9 col-md-5"></div>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/journey-duration-for-3-oct-2014/" rel="attachment wp-att-4316"><img loading="lazy" class="aligncenter wp-image-4316 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Journey-duration-for-3-Oct-2014.png?resize=640%2C150&#038;ssl=1" alt width="640" height="150"  data-recalc-dims="1"></a><br>
+Graph of number of rides against duration on 3 Oct. My journey was 45, highlighted in green.</div>
+</div>
+<div class="row" style="margin-bottom: 4rem;">
+<div class="small col-9 col-sm-9 col-md-5"></div>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/hrv/" rel="attachment wp-att-4317"><img loading="lazy" class="aligncenter wp-image-4317 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/HRV.jpg?resize=640%2C149&#038;ssl=1" alt width="640" height="149"  data-recalc-dims="1"></a><br>
+My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank" rel="noopener noreferrer">heart rate variability</a> (HRV) over the course of the bike ride.</div>
+</div>
+<div class="row" style="margin-bottom: 2rem;">
+<div class="small col-9 col-sm-9 col-md-5"><a href="http://ast.io/cycling-on-up/census/" rel="attachment wp-att-4322"><img loading="lazy" style="margin-botom:1rem;" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Census.jpg?resize=640%2C353&#038;ssl=1" alt width="640" height="353" class="aligncenter size-large wp-image-4322" data-recalc-dims="1"></a>
+<p style="margin-top:1rem">1851 Census record of Plaistow households, including household of Elizabeth Frances Ireland.</p>
+</div>
+<div class="small col-9 col-sm-9 col-md-7"><a href="http://ast.io/cycling-on-up/elizabeth-ireland-in-census/" rel="attachment wp-att-4325"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Elizabeth-Ireland-in-Census.jpg?resize=640%2C360&#038;ssl=1" alt width="640" height="360" class="aligncenter size-large wp-image-4325" data-recalc-dims="1"></a>
+<p style="margin-top:1rem">Highlight of Elizabeth Frances Ireland in 1851 Census record of Plaistow households.</p>
+</div>
+</div>
+<div class="row" style="margin-bottom: 2rem;">
+<div class="small col-9 col-sm-9 col-md-5"></div>
+<div class="small col-9 col-sm-9 col-md-7">
+<a href="http://ast.io/cycling-on-up/prospect-house-plaistow/" rel="attachment wp-att-4326"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Prospect-House-Plaistow.jpg?resize=640%2C334&#038;ssl=1" alt width="640" height="334" class="aligncenter size-large wp-image-4326" data-recalc-dims="1"></a>
+<p style="margin-top:1rem">Estimated location of Prospect Fram, where Elizabeth Frances Ireland’s home is recorded in the 1851 Census — intersecting with my cycle route.</p>
+</div>
+</div>
+<div class="row mb-5">
+<div class="small col-9 col-sm-9 col-md-5">
+<a href="http://ast.io/cycling-on-up/claimants-with-frances-ireland-on-airtable/" rel="attachment wp-att-4328"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/08/Claimants-with-Frances-Ireland-on-airtable.png?resize=640%2C883&#038;ssl=1" alt width="640" height="883" class="aligncenter size-large wp-image-4328" data-recalc-dims="1"></a>
+<p>One Elizabeth Frances Ireland, beneficiary claimant to the <a href="https://www.ucl.ac.uk/lbs/claim/view/14634" rel="noopener noreferrer" target="_blank">Woodstock Plantation</a>, St Ann, Jamaica, awarded compensation for enslaved people (see Legacies of <a href="https://www.ucl.ac.uk/lbs/person/view/2146631150" rel="noopener noreferrer" target="_blank">British Slave-ownership archive</a>).</p>
+</div>
+<div class="small col-9 col-sm-9 col-md-7"></div>
+</div>
+<p>The post <a rel="nofollow" href="http://ast.io/cycling-on-up/">Cycling on up</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/cycling-on-up/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+<enclosure url="http://ast.io/wp-content/uploads/2018/08/Autograph-video.mp4" length="36766395" type="video/mp4" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">4297</post-id>	</item>
+		<item>
+		<title>Seminar talk and discussion with Daniela Rosner</title>
+		<link>http://ast.io/seminar-talk-daniela-rosner/</link>
+					<comments>http://ast.io/seminar-talk-daniela-rosner/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Wed, 04 Jul 2018 10:30:24 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[HCID]]></category>
+		<category><![CDATA[seminar]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4257</guid>
+
+					<description><![CDATA[<p>I’m really thrilled to have Daniela Rosner visiting us at the Centre for Human-Computer Interaction Design (HCID), and especially excited about her HCID seminar talk. She’ll be expanding on ideas from her book “Critical Fabulations: Reworking the Methods and Margins of Design”, and Ann Light will acting as discussant. For details see this Eventbrite page [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/seminar-talk-daniela-rosner/">Read More...<span class="screen-reader-text"> from Seminar talk and discussion with Daniela Rosner</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/seminar-talk-daniela-rosner/">Seminar talk and discussion with Daniela Rosner</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row">
+<div class="col-md-7">I’m really thrilled to have <a href="https://www.hcde.washington.edu/rosner" rel="noopener noreferrer" target="_blank">Daniela Rosner</a> visiting us at the Centre for Human-Computer Interaction Design (<a href="https://www.city.ac.uk/mathematics-computer-science-engineering/research/centre-for-human-computer-interaction-design" rel="noopener noreferrer" target="_blank">HCID</a>), and especially excited about her HCID seminar talk. She’ll be expanding on ideas from her book “<a href="https://mitpress.mit.edu/books/critical-fabulations" rel="noopener noreferrer" target="_blank">Critical Fabulations: Reworking the Methods and Margins of Design</a>”, and <a href="https://theconversation.com/profiles/ann-light-148910" rel="noopener noreferrer" target="_blank">Ann Light</a> will acting as discussant. For details see this <a href="https://www.eventbrite.co.uk/e/why-fabulate-design-a-seminar-talk-and-discussion-with-daniela-rosner-tickets-47302898242" rel="noopener noreferrer" target="_blank">Eventbrite page</a></div>
+<div class="w-100"></div>
+<div class="col-8 mt-4">
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">Thrilled to have <a href="https://twitter.com/danielarosner?ref_src=twsrc%5Etfw">@danielarosner</a> giving our <a href="https://twitter.com/cityuni_hcid?ref_src=twsrc%5Etfw">@cityuni_hcid</a> seminar talk on 23 July: “Why Fabulate Design?” — A seminar talk and discussion with Daniela Rosner.<a href="https://t.co/ygmwZAFQ3c">https://t.co/ygmwZAFQ3c</a></p>
+<p>— Alex Taylor (@alxndrt) <a href="https://twitter.com/alxndrt/status/1011273268907692034?ref_src=twsrc%5Etfw">June 25, 2018</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p></div>
+</div>
+<p>The post <a rel="nofollow" href="http://ast.io/seminar-talk-daniela-rosner/">Seminar talk and discussion with Daniela Rosner</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/seminar-talk-daniela-rosner/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4257</post-id>	</item>
+		<item>
+		<title>FoI Request: Amount paid per year to repay Slavery Abolition Act loan</title>
+		<link>http://ast.io/amount-paid-to-repay-slavery-abolition-act-loan/</link>
+					<comments>http://ast.io/amount-paid-to-repay-slavery-abolition-act-loan/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 08 May 2018 21:17:29 +0000</pubDate>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[foi]]></category>
+		<category><![CDATA[slavery]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4114</guid>
+
+					<description><![CDATA[<p>In response to a story reported via a number of news sites and exploring a thread in my own research, I submitted a Freedom of Information (FoI) request to Her Majesty’s Treasury on the 7th April. In brief, I requested further details on the amount paid per year to repay the Slavery Abolition Act loan, [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/amount-paid-to-repay-slavery-abolition-act-loan/">Read More...<span class="screen-reader-text"> from FoI Request: Amount paid per year to repay Slavery Abolition Act loan</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/amount-paid-to-repay-slavery-abolition-act-loan/">FoI Request: Amount paid per year to repay Slavery Abolition Act loan</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row">
+<div class="col-9 col-md-5">In response to a story reported via a number of news sites and exploring a thread in my own research, I submitted a Freedom of Information (FoI) <a href="https://www.whatdotheyknow.com/request/amount_paid_per_year_to_repay_sl#outgoing-754175" target="_blank" rel="noopener noreferrer">request</a> to Her Majesty’s Treasury on the 7th April. In brief, I requested further details on the amount paid per year to repay the Slavery Abolition Act loan, a loan taken by the UK government in 1834 to ‘compensate’ slave owners for their loss of ‘property’. Shockingly, this loan was being repaid up until 2015 by UK taxpayers.<br>
+<br><br>
+I made <a href="https://www.whatdotheyknow.com/request/amount_paid_per_year_to_repay_sl#outgoing-754175" target="_blank" rel="noopener noreferrer">my request</a> using the amazing <a href="https://www.whatdotheyknow.com/" target="_blank" rel="noopener noreferrer">WhatDoTheyKnow</a> site. I’ve included the text from my request below for context.</div>
+<div class="col-9 col-md-6"><a href="http://ast.io/download/4124/"><img loading="lazy" src="https://i0.wp.com/ast.io/wp-content/uploads/2018/05/HMTreasry_FOI-request.png?resize=640%2C438&#038;ssl=1" alt="Screen shot of written response by HM Treasury to FOI request" width="640" height="438" class="aligncenter size-large wp-image-4126" data-recalc-dims="1"></a>
+</div>
+</div>
+<blockquote style="width: 380px; margin: 3rem 0 3rem 6%; font-size: .7rem; padding: 20px; box-shadow: 10px 10px; border: 1px solid black;"><p>To Her Majesty’s Treasury,<br>
+As widely reported, in 1833–35 [1] the UK government borrowed £20m, 40% of its national budget, to “recompense” slave owners for losing their “property” [2] — under the Slavery Abolition Act. On 9 February 2018, HM Treasury announced (via Twitter) that this loan had been paid in full. A related FOI request that HM Treasury responded to on 9 February 2018 sets the date of the loans ‘consolidation’ to be the 1 February 2015: “The 4% Consolidated Loan was redeemed on 1 February 2015” [3].<br>
+Under the Freedom of Information act, I request further details of this loan. Specifically, I request the annual amount paid per year since 1833–35.<br>
+I also request to total sum paid to repay the loan, including interest.<br>
+Yours faithfully,<br>
+Alex Taylor<br>
+London<br>
+1. From the documentation available, it’s unclear whether the loan began in 1833 or 1835.<br>
+2. This was covered by a number of news organisations. Two examples from the Guardian follow:<br>
+— <a href="https://www.theguardian.com/commentisfree/2018/feb/12/treasury-tweet-slavery-compensate-slave-owners" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfre…</a><br>
+— <a href="https://www.theguardian.com/commentisfree/2018/feb/11/lets-end-delusion-britain-abolished-slavery" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfre…</a><br>
+3. <a href="https://www.gov.uk/government/publications/slavery-abolition-act-1833" target="_blank" rel="noopener noreferrer">https://www.gov.uk/government/publicatio…</a></p></blockquote>
+<p>Having left their written response to the last day of the 20 working days usually allotted, HM Treasury replied with a somewhat muddled message offering some details, but not fully answering my request. Some equivalent to “HM Treasury does not hold information/records” was used four times in a one-page response:</p>
+<blockquote style="width: 380px; margin: 3rem 0 3rem 6%; font-size: .7rem; padding: 20px; box-shadow: 10px 10px; border: 1px solid black;"><p>“HM Treasury does not hold information within the scope of your request.”<br>
+“HM Treasury does not hold records dating from this period.”<br>
+“HM Treasury does not hold any detailed information on the structure or amounts of repayments…”<br>
+“HM Treasury does not hold information on the total interest paid…”</p></blockquote>
+<p>The letter from HM Treasury is available via WhatDoTheyKnow <a href="http://ast.io/download/4124/" target="_blank" rel="noopener noreferrer">here</a>.<br>
+I will be continuing this research and share any further information I’m able to obtain.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/amount-paid-to-repay-slavery-abolition-act-loan/">FoI Request: Amount paid per year to repay Slavery Abolition Act loan</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/amount-paid-to-repay-slavery-abolition-act-loan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4114</post-id>	</item>
+		<item>
+		<title>Papers presented at CHI ’18</title>
+		<link>http://ast.io/papers-chi-2018/</link>
+					<comments>http://ast.io/papers-chi-2018/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 03 May 2018 10:41:31 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Publications]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[CHI]]></category>
+		<category><![CDATA[HCI]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4104</guid>
+
+					<description><![CDATA[<p>Delighted to see the two great papers I contributed to being presented at CHI 2018 in Montreal. Award winning paper talk about chatbots and race. — RW pic.twitter.com/C4rClKRzf1 — ACM CHI Conference (@sig_chi) April 24, 2018 Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) Lets Talk about Race: Identity, Chatbots, and AI. In Proceedings CHI [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/papers-chi-2018/">Read More...<span class="screen-reader-text"> from Papers presented at CHI ’18</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/papers-chi-2018/">Papers presented at CHI ’18</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Delighted to see the two great papers I contributed to being presented at CHI 2018 in Montreal.</p>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">Award winning paper talk about chatbots and race. — RW <a href="https://t.co/C4rClKRzf1">pic.twitter.com/C4rClKRzf1</a></p>
+<p>— ACM CHI Conference (@sig_chi) <a href="https://twitter.com/sig_chi/status/988875868914290688?ref_src=twsrc%5Etfw">April 24, 2018</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p style="margin:1rem 30% 0 0">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip0_3236_anchor"></a></p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1275 downloads)</span>
+</p><blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">Anja <a href="https://twitter.com/anja_thieme?ref_src=twsrc%5Etfw">@anja_thieme</a> doing a fab job presenting all the months of time and thought we’ve put into an expansive idea of capability <a href="https://twitter.com/hashtag/chi2018?src=hash&amp;ref_src=twsrc%5Etfw">#chi2018</a> <a href="https://twitter.com/MSFTResearch?ref_src=twsrc%5Etfw">@MSFTResearch</a> <a href="https://twitter.com/MSFTResearchCam?ref_src=twsrc%5Etfw">@MSFTResearchCam</a> <a href="https://t.co/fZ5SdpGFh5">pic.twitter.com/fZ5SdpGFh5</a></p>
+<p>— Alex Taylor (@alxndrt) <a href="https://twitter.com/alxndrt/status/988857696085528576?ref_src=twsrc%5Etfw">April 24, 2018</a></p></blockquote>
+<p style="margin:1rem 30% 0 0">Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip1_4915_anchor"></a></p>
+<p><span class="entry-meta"><a href="http://ast.io/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (873 downloads)</span></p>
+<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip0_3236_anchor"><strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?</div>
+<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip1_4915_anchor"><strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/papers-chi-2018/">Papers presented at CHI ’18</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/papers-chi-2018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4104</post-id>	</item>
+		<item>
+		<title>Two fully-funded PhDs</title>
+		<link>http://ast.io/funded-phds-2018/</link>
+					<comments>http://ast.io/funded-phds-2018/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 03 May 2018 07:30:32 +0000</pubDate>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[HCID]]></category>
+		<category><![CDATA[phd]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4099</guid>
+
+					<description><![CDATA[<p>We’re excited to be offering two fully funded PhD Studentships in the HCID Centre at City. See: Beneath the archiveUnderstanding users’ mental models of digital archivesto inform user-centred design for humanities research Application deadline 20 May 2018. Artificial Intelligence for TeamsThe Future of Collaborative Work in Organisational Life Application deadline 27 May 2018. [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/funded-phds-2018/">Read More...<span class="screen-reader-text"> from Two fully-funded PhDs</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/funded-phds-2018/">Two fully-funded PhDs</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We’re excited to be offering two fully funded PhD Studentships in the <a href="https://www.city.ac.uk/mathematics-computer-science-engineering/research/centre-for-human-computer-interaction-design" rel="noopener noreferrer" target="_blank">HCID Centre</a> at City. See:<br>
+<a href="https://www2.i-grasp.com/fe/tpl_cityuniversity01.asp?s=4A515F4E5A565B1A&amp;jobid=111901,8888132172&amp;key=152978611&amp;c=23727271565999&amp;pagestamp=sedgvnnhdscghgurvk" rel="noopener noreferrer" target="_blank"><strong>Beneath the archive</strong></a><br>Understanding users’ mental models of digital archives<br>to inform user-centred design for humanities research<br>
+Application deadline 20 May 2018.<br>
+<a href="https://www2.i-grasp.com/fe/tpl_cityuniversity01.asp?s=4A515F4E5A565B1A&amp;jobid=112003,4756592123" rel="noopener noreferrer" target="_blank"><strong>Artificial Intelligence for Teams</strong></a><br>The Future of Collaborative Work in Organisational Life<br>
+Application deadline 27 May 2018.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/funded-phds-2018/">Two fully-funded PhDs</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/funded-phds-2018/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4099</post-id>	</item>
+		<item>
+		<title>William Kentridge — “A drawing lesson”</title>
+		<link>http://ast.io/drawing-lesson/</link>
+					<comments>http://ast.io/drawing-lesson/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2017 21:52:22 +0000</pubDate>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[arts]]></category>
+		<category><![CDATA[capability]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3427</guid>
+
+					<description><![CDATA[<p>“… can we be better than who we are, can we be other than who we are?” I’ve been trying to think about capability for a little while and trying to make sense of how we become able. What I’ve wanted to get away from is an idea of ability that we feel defined or [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/drawing-lesson/">Read More...<span class="screen-reader-text"> from William Kentridge — “A drawing lesson”</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/drawing-lesson/">William Kentridge — “A drawing lesson”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="call-out" style="margin-top:1%;margin-bottom:10%;font-size:2.5rem;font-weight:bold;font-style:italic;line-height:2.6rem">“… can we be better than who we are, can we be other than who we are?”</div>
+<div style="width:300px;margin-bottom:1rem">I’ve been trying to think about capability for a little while and trying to make sense of how we <em>become</em> able. What I’ve wanted to get away from is an idea of ability that we feel defined or limited by—the presumed limits of ability dictated, supposedly, by our bodily and mental capacities.</div>
+<p></p>
+<div style="width:300px;margin-bottom:1rem">Today I came across this lovely video of and by the artist William Kentridge. He expresses so much of what has engaged me in this subject matter, but with such eloquence and so vividly.</div>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/tyndlMIgbnU?rel=0&amp;controls=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The post <a rel="nofollow" href="http://ast.io/drawing-lesson/">William Kentridge — “A drawing lesson”</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/drawing-lesson/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3427</post-id>	</item>
+		<item>
+		<title>Talk at INCITE-ing Transformation in Social Research</title>
+		<link>http://ast.io/incite-ing-transformation-social-research/</link>
+					<comments>http://ast.io/incite-ing-transformation-social-research/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2013 15:50:56 +0000</pubDate>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[Talks]]></category>
+		<category><![CDATA[Sociology]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=298</guid>
+
+					<description><![CDATA[<p>On Saturday (12 Oct) I presented a short paper reflecting on INCITE’s achievements over the last 10 or so years at “INCITE-ing Transformation in Social Research” Preamble Referencing her New Media’s Intermediaries article, I want to glimpse back to reflect on how Nina Wakeford positioned INCITE and made sense of it against a back drop [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/incite-ing-transformation-social-research/">Read More...<span class="screen-reader-text"> from Talk at INCITE-ing Transformation in Social Research</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/incite-ing-transformation-social-research/">Talk at INCITE-ing Transformation in Social Research</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><b><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4622&amp;rep=rep1&amp;type=pdf"><img loading="lazy" class="alignnone  wp-image-303" alt="Incite-ing" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/10/Incite-ing-1024x1024.png?resize=614%2C614" width="614" height="614"  data-recalc-dims="1"></a></b><br>
+On Saturday (12 Oct) I presented a short paper reflecting on <a href="http://www.studioincite.com/" target="_blank" rel="noopener noreferrer">INCITE’s</a> achievements over the last 10 or so years at “<a href=" http://www.gold.ac.uk/calendar/?id=6856" target="_blank" rel="noopener noreferrer">INCITE-ing Transformation in Social Research</a>”<br>
+<b>Preamble</b><br>
+Referencing her <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4622&amp;rep=rep1&amp;type=pdf">New Media’s Intermediaries article</a>, I want to glimpse back to reflect on how <a href="http://www.gold.ac.uk/sociology/staff/academicstaff/wakefordnina/">Nina Wakeford</a> positioned <a href="http://www.studioincite.com/old%20website/people/nina.html">INCITE</a> and made sense of it against a back drop of cultural theory, science and technology studies, CSCW and sociology<br>
+.. And, in doing this, I also want to peer forward, to consider what troubles there might be ahead, and what productive possibilities we might imagine for ourselves.<span id="more-298"></span><br>
+I use glimpse and peer because I only have a meagre 15 mins or so to think through the significant achievements of <a href="http://www.studioincite.com/old%20website/people/nina.html">INCITE</a> and what could come next.<br>
+I want to add too that I modestly and probably unwisely claim to have a privileged position from which to do this, as I was part of a neighboring if not always neighbourly <a href="http://www.dwrc.surrey.ac.uk/">group</a> when INCITE was launched in the <a href="http://www2.surrey.ac.uk/sociology/">Sociology Department</a> at the University of Surrey some time back at the turn of the millennium.<br>
+<b>BACK THEN</b><br>
+“<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4622&amp;rep=rep1&amp;type=pdf">New Media’s intermediaries</a>” located INCITE at the intersection of empirical practice, technology design and critical theory. It cast those heavily implicated in the ‘making of technological things‘ — technologists, designers, etc. — as cultural intermediaries, and placed INCITE’s scholars alongside them, ‘<i>doing</i>’ the bricolage of design orientated ethnography and social analysis. As such, INCITE was unique for its time, aiming to not just produce sociological commentary on the production and consumption of technology, but to participate in those selfsame acts of making and doing.<br>
+From the floor below, in Surrey’s sociology department, I remember feeling a sense of awe (if not slight bewilderment) at how people like Nina, <a title="Kat Jungnickel" href="http://www.katjungnickel.com/" target="_blank" rel="noopener noreferrer">Kat</a>, <a href="http://academic.reed.edu/art/cohen/" target="_blank" rel="noopener noreferrer">Kris</a>, etc. were so adeptly able to juggle the middle-ground, shifting between knowing and making.<br>
+INCITE, as the intermediaries article recounts, was not just innovative, though. It was productively disruptive. It sought to redefine the design work it was involved in, doggedly interjecting its “<a href="http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=located%20accountabilities%20in%20technology%20production&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CDIQFjAA&amp;url=http%3A%2F%2Fwww.lancaster.ac.uk%2Fsociology%2Fresearch%2Fpublications%2Fpapers%2Fsuchman-located-accountabilities.pdf&amp;ei=xK5eUsWKH4eAhAfoq4DADQ&amp;usg=AFQjCNEN9h_bYNPwW7mdJ7n8ETfLr8JAZg&amp;sig2=0aYGFtVy173V7GMt9Ul2Tw&amp;bvm=bv.54176721,d.ZG4" target="_blank" rel="noopener noreferrer">partial translations</a>” — seen through the sociological gaze — in order to see design from somewhere/someone else.<br>
+The <a href="http://www.studioincite.com/73urbanjourneys/" target="_blank" rel="noopener noreferrer">73 bus</a> was, of course, canonical in this respect. When technological projects like <a href="http://en.wikipedia.org/wiki/Ubiquitous_computing" target="_blank" rel="noopener noreferrer">ubicomp</a> were espousing their martini solutions — anytime, anyplace anywhere — INCITE astutely chose to make technology and its design about place and about very particular kinds of people. Moreover, it reflected back on the sociological analysis it produced, looking for ways it might say something about social life beyond the sanctified academic text.<br>
+For INCITE these experiments were largely with the visual, experimenting with the linkages between collaborative visual work in design and modes of sociological and anthropological inquiry and production. So, we must know that INCITE was and continues to be an innovative collection of people and practices, challenging and regularly disrupting the status quo.<br>
+Nina would have it not other way!<br>
+<b>FROM HERE</b><br>
+And yet, with the benefit of hindsight, my rearward glance is now to see the intermediaries article as a struggle, a struggle with what sociology has to offer in a business predominately involved in making and selling more stuff.<br>
+Dealing with an intellectual legacy in which the forces of/on production are known to be plain bad, it represents a struggle with how to take responsibility — to be sociologically responsible for how things are made and for whom. In the article, I take the manifestation of this to have been:<br>
+1. a commitment to tell it how it is, or at least to provide some partial insights into the multiple ways things are and get done, and<br>
+2. to bring something home — that is, back to sociology.<br>
+Again, with hindsight on my side — and all that comes with operating in an always emerging milieu of ideas and theorizing — I want to think about what else INCITE might have been doing and to see their project more as a moving on and throw, rather than something set in the past.<br>
+It’s easy and perhaps blindingly obvious to say now, but I see the INCITE in the New Media’s intermediaries piece doing some important groundwork in a move towards the <a href="http://www.routledge.com/books/details/9780415574815/" target="_blank" rel="noopener noreferrer">inventive methods</a> and <a href="http://www.gold.ac.uk/pg/ma-msc-digital-sociology/" target="_blank" rel="noopener noreferrer">digital</a> and <a href="http://www.gold.ac.uk/pg/ma-visual-sociology/" target="_blank" rel="noopener noreferrer">visual sociology</a> that the <a href="http://www.gold.ac.uk/sociology/" target="_blank" rel="noopener noreferrer">Goldsmiths Sociology Department</a> has become synonymous with. Let me try to explain this briefly, if I can.<br>
+In several ways, I see Nina’s piece foreshadowing John Law’s STS treatise, <a href="http://books.google.co.uk/books/about/After_Method.html?id=Vib4zrJxosAC&amp;redir_esc=y" target="_blank" rel="noopener noreferrer">After Method</a>, by inviting questions about what we accomplish when we apply sociological methods — in this case for the purposes of design. As with Law and others — such as Annemarie Mol — this isn’t merely about what methods we use, but a recognition of and responsibility for the ways of knowing we are enacting in and through these methods. Moreover, it is to ask how we might apply them differently, to imagine other worlds or “out-there-nesses” (<a href="http://books.google.co.uk/books/about/After_Method.html?id=Vib4zrJxosAC&amp;redir_esc=y" target="_blank" rel="noopener noreferrer">Law</a>).<br>
+Nina addresses each of these issues in her note — yes, with a phasing of the time — but still dealing directly with what sociological method does. So the-INCITE-of-over-a-decade-ago is forcing the sociological gaze back in on it self, seeking actively to do what the anthropologist Annalies Riles refers to as ‘<a href="http://books.google.co.uk/books/about/The_Network_Inside_Out.html?id=iOu_LP1w2LEC&amp;redir_esc=y" target="_blank" rel="noopener noreferrer">turning the network inside out</a>’. As with inventive methods and digital and visual sociology, methods are recognised as not just procedural but epistemic and producing multiples…<br>
+Yet it is here, when we look to contemporary theorizing that it’s hard not to see a leap or shift in INCITE’s thinking,… or at least I find it a lot harder to join the dots. Whereas method was, back in 2003, a struggle to discover what is there — to tell it how it is — it has come to be something we understand as entangled in and enacting what we might rather grandly think of as ‘<a href="http://sth.sagepub.com/content/37/5/478.short" target="_blank" rel="noopener noreferrer">regimes of existence</a>’ (a phrase I borrow from Genevieve Teil).<br>
+The methods of science and technology — INCITE’s included — are the apparatuses through which the regimes come to be. They are implicated in ontics, in the world coming to be the way it is. They —the methods — are actively making different cuts into worlds that are always in a state (or should I say statelessness) of constant becoming.<br>
+So our sociological methods are not just tools for responsibly telling cultural intermediaries how it is, but through which we enact one kind of world over another. They foreground one set of ‘<a href="http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=JW15ik18U8QC&amp;oi=fnd&amp;pg=PR13&amp;dq=partial+connections&amp;ots=rAflYChNVm&amp;sig=mj682_hyGc3r5aCF7xIj3GseJsc#v=onepage&amp;q=partial%20connections&amp;f=false" target="_blank" rel="noopener noreferrer">partial connections</a>‘ — to tie this back to Strathern — over others.<br>
+What’s more, our methods — our tools — are no more or less implicated than others’. The weightings may be different in different cases, but we all at one point or another serve as these cultural intermediaries. There is no outside in this business. No gods trick or even lesser-gods trick.<br>
+For INCITE this is what now makes method central not just as a tool of translation, a <i>boundary object</i>, but also as agential in what is real (for agential realism see <a href="http://books.google.co.uk/books?id=4qYorOpfB6EC&amp;printsec=frontcover&amp;dq=meeting+the+universe+halfway&amp;hl=en&amp;sa=X&amp;ei=LrFeUseuMI6zhAeT7YHABg&amp;ved=0CDkQ6AEwAQ#v=onepage&amp;q=meeting%20the%20universe%20halfway&amp;f=false" target="_blank" rel="noopener noreferrer">Barad</a>). So, yes, I see INCITE’s concern for method having been there, right from the beginning. But this new move to the inventive has an onus on methods that I take to be different,… The work here is to encounter the multiple worlds of becoming. The inventive methods are meant to keep the trouble going between different worlds and force us many intermediaries to be accountable for the cuts we make. And, of course, these methods are recognized by INCITE to have politics. They are understood to be regimes through which political and moral worlds are made, remade and undone.<br>
+Although it may not officially or entirely fall under the banner of INCITE, in spirit, I see <a href="http://www.katjungnickel.com/" target="_blank" rel="noopener noreferrer">Kat’s</a> work as exemplary in this. Her inventive enactments — the transmissions and entanglements — are precisely about the complication of method, the uncertainty about who is talking to whom, and how. Her work — along with colleagues like <a href="http://www.katjungnickel.com/portfolio/enquiry-machine-1-2/" target="_blank" rel="noopener noreferrer">Julian McHardy</a> — aims to reveal <i>the work</i> being done in method. It immediately unsettles the uniformity and neatness of cuts to show them as always already being enacted. Moreover, it disrupts who exactly we imagine to be the intermediaries. The voices of corporate enterprise, local designers, artists, cyclists, academics and publics are entangled, intentionally.<br>
+It is method then that I want to claim has changed most significantly for INCITE.<br>
+<b>TO WHERE</b><br>
+Looking forward, it’s this kind of work that inevitably sets INCITE up for making choices about the worlds it wants to perform and how — through the theoretical, empirical and design bricolage — it does so.<br>
+Design and the interventions into it — through inventive methods — offer up the opportunities to move on from selling people more stuff, to providing the possibility of doing the world differently. But here in lies the rub. How should this move be made? A move from methods that aim to tell it how it is — as if we were some how removed from that — to inventive methods that convey to us how it could and should be?<br>
+My own ideas here are perhaps sidestepping the problem. I imagine our part in a breed of machines and human-machine entanglements that speak to partiality, multiplicity and unending becomings. As INCITE has shown us, DIY and Maker cultures are the natural predecessors of such imaginaries… and, now, with companies like Intel moving into the fray, they’re looking to be a lot less counter-culture than they once did.<br>
+I can’t help but wonder about mainstream culture though (if that’s not too troubling a concept). What will partiality, multiplicity and constant becomings look like here? I doubt everyone is geared up for hacking and experimenting with cultural forms in the maker spirit. I expect it won’t be enough to hand over the choices to everyone. I expect in one way or another I and other heres are going to have to make some choices about the worlds we want to be…<br>
+…and I, at least, am still pretty uncertain how I’ll go about that.<br>
+It is here, once again, that I’m taking inspiration from INCITE.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/incite-ing-transformation-social-research/">Talk at INCITE-ing Transformation in Social Research</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/incite-ing-transformation-social-research/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">298</post-id>	</item>
+		<item>
+		<title>Announcing Tenison Road launch</title>
+		<link>http://ast.io/tenison-road/</link>
+					<comments>http://ast.io/tenison-road/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 27 Sep 2013 09:11:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[HCI]]></category>
+		<category><![CDATA[hyper-localism]]></category>
+		<category><![CDATA[Materialism]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=270</guid>
+
+					<description><![CDATA[<p>Finally posted some flyers to announce the launch of the big data project we’ll run for a year. We hope to work with the residents and proprietors on Tenison Road in Cambridge to better understand how big data matters and what people on the street want it to be. This is a project that is [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/tenison-road/">Read More...<span class="screen-reader-text"> from Announcing Tenison Road launch</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/tenison-road/">Announcing Tenison Road launch</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="wp-image-275 alignnone" alt src="https://i0.wp.com/ast.io/wp-content/uploads/2013/09/ten_rd_proj_letter.jpg?resize=585%2C585" width="585" height="585"  data-recalc-dims="1"></a><br>
+Finally posted some flyers to announce the launch of the <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">big data project</a> we’ll run for a year. We hope to work with the residents and proprietors on <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> in Cambridge to better understand how big data matters and what people on the street want it to be. This is a project that is aiming to get at the interminglings of data and locality, and to intervene in the entanglements in productive ways. That’s the hope! … Fingers crossed.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/tenison-road/">Announcing Tenison Road launch</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/tenison-road/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">270</post-id>	</item>
+	</channel>
+</rss>

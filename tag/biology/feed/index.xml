@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Biology Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/tag/biology/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Wed, 01 Aug 2018 08:53:07 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>EASST 2018 Presentation</title>
+		<link>http://ast.io/easst-2018-presentation/</link>
+					<comments>http://ast.io/easst-2018-presentation/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Wed, 01 Aug 2018 08:53:07 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Talks]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4291</guid>
+
+					<description><![CDATA[<p>Abigail Durrant and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at EASST last week, in the fabulous Feminist Figures panel. Very excited to see @alxndrt and @abigail_durrant present today in #feministfigures you both rocked! Not my best pic of the day but I really wanted to show this slide with [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/easst-2018-presentation/">Read More...<span class="screen-reader-text"> from EASST 2018 Presentation</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/easst-2018-presentation/">EASST 2018 Presentation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
+<div class="col-9 col-sm-9 col-md-5"><a href="https://twitter.com/abigail_durrant?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed&amp;ref_url=https%3A%2F%2Ftwitter.com%2Fanotherwindle" rel="noopener noreferrer" target="_blank">Abigail Durrant</a> and I gave our paper “Modelling Cells in/with risky comakings and devious worlds” at <a href="https://easst.net/conferences/" rel="noopener noreferrer" target="_blank">EASST</a> last week, in the fabulous <a href="https://twitter.com/search?l=&amp;q=%23feministfigures%20since%3A2018-05-27%20until%3A2018-08-03&amp;src=typd&amp;lang=en-gb" rel="noopener noreferrer" target="_blank">Feminist Figures</a> panel.</div>
+<div class="small col-9 col-sm-9 col-md-7">
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">Very excited to see <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> and <a href="https://twitter.com/abigail_durrant?ref_src=twsrc%5Etfw">@abigail_durrant</a> present today in <a href="https://twitter.com/hashtag/feministfigures?src=hash&amp;ref_src=twsrc%5Etfw">#feministfigures</a> you both rocked! Not my best pic of the day but I really wanted to show this slide with <a href="https://twitter.com/hashtag/Haraway?src=hash&amp;ref_src=twsrc%5Etfw">#Haraway</a>’s game of cats cradle in the background <a href="https://twitter.com/hashtag/EASST2018?src=hash&amp;ref_src=twsrc%5Etfw">#EASST2018</a> <a href="https://t.co/JWRqn34k0F">pic.twitter.com/JWRqn34k0F</a></p>
+<p>— Dr Amanda Windle (@anotherwindle) <a href="https://twitter.com/anotherwindle/status/1022212792013742082?ref_src=twsrc%5Etfw">July 25, 2018</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p></div>
+</div>
+<div class="row" style="margin-bottom: 1rem;">
+<div class="col-9 col-sm-9 col-md-5">
+<p class="highlight">Modelling cells in/with risky comakings and devious worlds</p>
+</div>
+<div class="small col-9 col-sm-9 col-md-7">
+<strong>ABSTRACT</strong><br>
+We use String Figures and Involutionary Momentum to “read against the grain” of a contemporaneous biology characterised by reduction. Working through the design of a tool that models cellular stability, we spin a yarn of “affectively charged” relations between researchers, cells and technologies.<br>
+Drawing from her foundational studies of biology, Evelyn Fox Keller (2009:301) writes of a complexity and connectedness that might just characterise our “devious” world(s). She has traced threads through biology for over 40 years, drawing attention to—amongst other things—how it has often resisted the explanatory powers conferred upon its counterparts in other natural sciences. A pragmatic approach has dominated, she extols, in which unknowns have been a part of biology’s messy reality.<br>
+Looking ahead, to the deepening entanglements between biology and computation, we find contemporaneous imaginaries surrounding cellular life to be testing this lineage. Certainly—as Keller herself has reflected—computation makes possible very particular modes of understanding, ones conforming to the “reductive, mechanistic, and adaptationist logics” that characterise a prevailing neo-Darwinism (Hustak &amp; Myers 2013:77).<br>
+In this paper, we wish to cut across what on the face it appears to be biology’s narrowing move. By ‘looking askew’, we hope to ask more about biology and whether or not it is being rendered computational. Examining a project invested in the computational challenges of modelling cellular stability, and relying on the “risky comakings” (Haraway 2016:14) between actors, algorithms and computational tools, we stay committed to the troubles enlivened by knotted relations. We use two feminist figures, Haraway’s String Figure, and Hustak and Myer’s Involutionary Momentum, to (re-)tell a story of unfolding relationships between researchers, cells and technologies, spinning a yarn of “affectively charged” (Hustak &amp; Myers 2013) relays and knottings that resist singular figurings.<br>
+<strong>References</strong><br>
+Haraway, D.J., 2016. Staying with the trouble: Making kin in the Chthulucene. Duke University Press.<br>
+Hustak, C. and Myers, N., 2012. Involutionary momentum: Affective ecologies and the sciences of plant/insect encounters. differences, 23(3), pp.74–118.<br>
+Keller, E.F., 2009. Making sense of life: Explaining biological development with models, metaphors, and machines. Harvard University Press.
+</div>
+</div>
+<p>The post <a rel="nofollow" href="http://ast.io/easst-2018-presentation/">EASST 2018 Presentation</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/easst-2018-presentation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4291</post-id>	</item>
+		<item>
+		<title>2013 publications updated</title>
+		<link>http://ast.io/2013-publications/</link>
+					<comments>http://ast.io/2013-publications/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 19 Sep 2013 10:00:16 +0000</pubDate>
+				<category><![CDATA[Admin]]></category>
+		<category><![CDATA[Publications]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[HCI]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=41</guid>
+
+					<description><![CDATA[<p>Updated 2013 publications. &#160; [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/2013-publications/">Read More...<span class="screen-reader-text"> from 2013 publications updated</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/2013-publications/">2013 publications updated</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://ast.io/publications/alex-taylor-2013/"><img loading="lazy" class="alignnone size-medium wp-image-42" alt="2013" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/09/2013-300x300.png?resize=300%2C300" width="300" height="300"  data-recalc-dims="1"></a><br>
+Updated <a href="http://ast.io/publications/alex-taylor-2013/">2013</a> publications.<br>
+&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://ast.io/2013-publications/">2013 publications updated</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/2013-publications/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41</post-id>	</item>
+	</channel>
+</rss>

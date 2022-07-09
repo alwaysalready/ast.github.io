@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Big Data Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/tag/big-data/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 27 Jun 2014 12:27:10 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>Reading Bowker on The Theory / Data thing</title>
+		<link>http://ast.io/bowker-on-the-theory-data-thing/</link>
+					<comments>http://ast.io/bowker-on-the-theory-data-thing/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2014 12:27:10 +0000</pubDate>
+				<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[data]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=422</guid>
+
+					<description><![CDATA[<p>Bowker, G.C. (2014). The Theory/Data Thing. International Journal of Communication 8 (2043), 1795–1799. Thanks to Barry Brown for forwarding this commentary by Geoffrey Bowker. I accept Bowker’s criticism of Latour (although it is somewhat sweeping), and I like the point that it’s ‘understanding’ that’s at stake. Latour’s flattening of networks (à la Tarde) has been [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/bowker-on-the-theory-data-thing/">Read More...<span class="screen-reader-text"> from Reading Bowker on The Theory / Data thing</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/bowker-on-the-theory-data-thing/">Reading Bowker on The Theory / Data thing</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bowker, G.C. (2014). <a href="http://ijoc.org/index.php/ijoc/article/view/2190/1156">The Theory/Data Thing</a>. <em>International Journal of Communication</em> 8 (2043), 1795–1799.<span id="more-422"></span><br>
+<a href="https://i0.wp.com/ast.io/wp-content/uploads/2014/06/theory-data-thing.png"><img loading="lazy" class="alignnone size-full wp-image-425" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/06/theory-data-thing.png?resize=544%2C544" alt="theory-data-thing" width="544" height="544"  data-recalc-dims="1"></a><br>
+Thanks to Barry Brown for forwarding this commentary by Geoffrey Bowker.<br>
+I accept Bowker’s criticism of Latour (although it is somewhat sweeping), and I like the point that it’s ‘understanding’ that’s at stake. Latour’s flattening of networks (à la Tarde) has been useful for me in thinking through agency and entanglements, but it starts to run out of steam when it comes to thickening understanding — (I’m in favour of Latour’s pre-Tardian actor-network).<br>
+I do wonder though how we might say something more on this data thing? It doesn’t seem enough now to criticise those proclaiming the end of theories, categories and indeed ethnography. We know big data, much like any other interpretive act, slices through and embroiders a kind of truth. The greater challenge is to ask what does data do that might thicken truths and give them some (more/other) legs, so to speak? I’d want to know what Bowker thinks this (big) data thing might be good for and whether they might just enable other forms of understanding.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/bowker-on-the-theory-data-thing/">Reading Bowker on The Theory / Data thing</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/bowker-on-the-theory-data-thing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">422</post-id>	</item>
+		<item>
+		<title>Reading The “sentient” city and what it may portend</title>
+		<link>http://ast.io/sentient-city-may-portend/</link>
+					<comments>http://ast.io/sentient-city-may-portend/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2014 09:08:02 +0000</pubDate>
+				<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Cities]]></category>
+		<category><![CDATA[computation]]></category>
+		<category><![CDATA[data]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=489</guid>
+
+					<description><![CDATA[<p>A rambling piece in Big Data &#38; Society&#160;by Nigel Thrift: The ‘sentient’ city and what it may portend. Wasn’t expecting the digression into spirits and performance art, but I do like Thrift’s continual efforts to write about expansive human/agent capacities and extending the&#160;. …the claim is being made that, as computational objects have developed, cities [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/sentient-city-may-portend/">Read More...<span class="screen-reader-text"> from Reading The “sentient” city and what it may portend</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/sentient-city-may-portend/">Reading The “sentient” city and what it may portend</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A rambling piece in Big Data &amp; Society&nbsp;by Nigel Thrift: <a href="http://bds.sagepub.com/content/1/1/2053951714532241.abstract">The ‘sentient’ city and what it may portend</a><a href="http://ast.io/wp-content/uploads/2014/06/sentient_city.png">.<br>
+<a href="https://i0.wp.com/ast.io/wp-content/uploads/2014/06/sentient_city.png"><img loading="lazy" class="alignnone size-medium wp-image-498" src="https://i0.wp.com/ast.io/wp-content/uploads/2014/06/sentient_city.png?resize=300%2C300" alt="sentient_city" width="300" height="300"  data-recalc-dims="1"></a><br>
+Wasn’t expecting the digression into spirits and performance art, but I do like Thrift’s continual efforts to write about expansive human/agent capacities and extending the&nbsp;<a id="tippy_tip0_9492_anchor"></a>.</a></p>
+<blockquote><p>…the claim is being made that, as computational objects have developed, cities are able to take on new forms of vitality (Stern, 2010), forms of vitality which can develop over time. Perhaps one way in which we might consider this ques- tion is precisely through looking at how vitality devel- ops when computational things are explicitly included in the contours of experience. Then it becomes clear that it has only gradually arisen, line by line, algorithm by algorithm, program by program.<a id="tippy_tip1_4957_anchor"></a></p></blockquote>
+<div class="tippy" data-title="sensorium" data-anchor="#tippy_tip0_9492_anchor"><a href="http://en.wikipedia.org/wiki/Sensorium">Wikipedia</a> or see Goonewardena, K. (2005). <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.0066-4812.2005.00473.x/abstract">The urban sensorium: space, ideology and the aestheticization of politics</a>. Antipode, 37(1), 46–71.</div>
+<div class="tippy" data-title="1" data-href="http://ast.io/sentient-city-may-portend/#foot_text_489_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_489_1" data-showheader data-anchor="#tippy_tip1_4957_anchor">Thirft, N.&nbsp;(2014). <a href="http://bds.sagepub.com/content/1/1/2053951714532241.abstract">The “sentient” city and what it may portend</a>. <i>Big Data &amp; Society</i>, <i>1</i>(1). </div>
+<p>The post <a rel="nofollow" href="http://ast.io/sentient-city-may-portend/">Reading The “sentient” city and what it may portend</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/sentient-city-may-portend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">489</post-id>	</item>
+	</channel>
+</rss>

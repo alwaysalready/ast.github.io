@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>bodies Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/tag/bodies/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Wed, 02 Oct 2019 20:43:43 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>Seminar talk at Edinburgh Design Informatics</title>
+		<link>http://ast.io/edinburgh-design-informatics/</link>
+					<comments>http://ast.io/edinburgh-design-informatics/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 27 Sep 2019 15:34:13 +0000</pubDate>
+				<category><![CDATA[Talks]]></category>
+		<category><![CDATA[bodies]]></category>
+		<category><![CDATA[labour]]></category>
+		<category><![CDATA[tables]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=5530</guid>
+
+					<description><![CDATA[<p>Really delighted to have presented at Design informatics this week. “The grid/table partitions, breaks down bodies &#38; labour. The grid/tables remake the body as an integral part to new infrastructure. The grid/table acts as a regulatory or disciplinary structure, dictating the possible” @alxndrt shakes the core of @DataCapitalEd @DesignInf pic.twitter.com/73tqu2ovLf — chrisspeed (@chrisspeed) September 26, [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/edinburgh-design-informatics/">Read More...<span class="screen-reader-text"> from Seminar talk at Edinburgh Design Informatics</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/edinburgh-design-informatics/">Seminar talk at Edinburgh Design Informatics</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Really delighted to have presented at <a href="https://www.designinformatics.org/event/research-seminar-alex-taylor/" rel="noopener noreferrer" target="_blank">Design informatics</a> this week.</p>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">“The grid/table partitions, breaks down bodies &amp; labour. The grid/tables remake the body as an integral part to new infrastructure. The grid/table acts as a regulatory or disciplinary structure, dictating the possible” <a href="https://twitter.com/alxndrt?ref_src=twsrc%5Etfw">@alxndrt</a> shakes the core of <a href="https://twitter.com/DataCapitalEd?ref_src=twsrc%5Etfw">@DataCapitalEd</a> <a href="https://twitter.com/DesignInf?ref_src=twsrc%5Etfw">@DesignInf</a> <a href="https://t.co/73tqu2ovLf">pic.twitter.com/73tqu2ovLf</a></p>
+<p>— chrisspeed (@chrisspeed) <a href="https://twitter.com/chrisspeed/status/1177248283430924288?ref_src=twsrc%5Etfw">September 26, 2019</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>The post <a rel="nofollow" href="http://ast.io/edinburgh-design-informatics/">Seminar talk at Edinburgh Design Informatics</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/edinburgh-design-informatics/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">5530</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Press Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/category/press/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Tue, 04 Oct 2016 12:20:38 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>Interview with Nora Young on CBC Radio Spark Show</title>
+		<link>http://ast.io/interview-cbc-radio-spark/</link>
+					<comments>http://ast.io/interview-cbc-radio-spark/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2016 12:20:38 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Press]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[birds]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=1620</guid>
+
+					<description><![CDATA[<p>I was interviewed just over a week ago by Nora Young, for the great Spark programme, aired on CBC Radio One. In short, I try to give Nora a sense of how AI could open up some radically different possibilities if we were able to approach intelligence differently. I try to capture how we might [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/interview-cbc-radio-spark/">Read More...<span class="screen-reader-text"> from Interview with Nora Young on CBC Radio Spark Show</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/interview-cbc-radio-spark/">Interview with Nora Young on CBC Radio Spark Show</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I was interviewed just over a week ago by <a id="tippy_tip0_5215_anchor"></a> <a href="https://en.wikipedia.org/wiki/Nora_Young" target="_blank" rel="noopener noreferrer">Nora Young</a>, for the great <a href="http://www.cbc.ca/radio/spark/about" target="_blank" rel="noopener noreferrer">Spark</a> programme, aired on CBC Radio One.<br>
+In short, I try to give Nora a sense of how AI could open up some radically different possibilities if we were able to approach intelligence differently. I try to capture how we might see intelligence not in restrictive human terms (as stable cognitive capacities in the head/mind), but as something always emergent, always enacted and tied to the many unfolding relations we find ourselves entangled in. I see this to be a generative orientation to AI, building on ideas from Donna Haraway, Isabelle Stengers, Vinciane Despret, Sarah Whatmore and many others grappling with the possibilities of us extending our capabilities, of being somehow more-than-human.<br>
+If you’re in Canada, the programme is broadcast this coming Sunday afternoon at 1:05 PM local time (in most parts of Canada) and again on Wednesday at 2:05 PM. Alternatively, my segment of the show is available <a href="http://www.cbc.ca/radio/spark/329-a-new-standard-for-intelligence-online-bartering-and-more-1.3782044/how-should-we-define-intelligence-1.3782055" target="_blank" rel="noopener noreferrer">here</a>, titled:</p>
+<div class="highlight" style="font-size:2.2rem;">
+<a href="http://www.cbc.ca/radio/spark/329-a-new-standard-for-intelligence-online-bartering-and-more-1.3782044/how-should-we-define-intelligence-1.3782055" target="_blank" rel="noopener noreferrer">How should we<br>define “intelligence”?</a>
+</div>
+<p>I want to give a special thanks to <a href="http://marcuscarter.com/" target="_blank" rel="noopener noreferrer">Marcus Carter</a> and the <a href="http://www.socialnui.unimelb.edu.au/" target="_blank" rel="noopener noreferrer">University of Melbourne’s Social NUI Centre</a> for allowing me to share their amazing <a href="http://www.socialnui.unimelb.edu.au/research/zoos/" target="_blank" rel="noopener noreferrer">work with Orangutans</a>.</p>
+<div class="tippy" data-title="CBC's" data-showheader="false" data-anchor="#tippy_tip0_5215_anchor"><a href="http://www.cbc.ca/" target="_blank" rel="noopener noreferrer">Canadian public broadcaster</a></div>
+<p>The post <a rel="nofollow" href="http://ast.io/interview-cbc-radio-spark/">Interview with Nora Young on CBC Radio Spark Show</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/interview-cbc-radio-spark/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1620</post-id>	</item>
+	</channel>
+</rss>

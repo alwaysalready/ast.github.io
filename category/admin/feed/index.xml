@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Admin Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/category/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Thu, 19 Sep 2013 10:00:16 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>2013 publications updated</title>
+		<link>http://ast.io/2013-publications/</link>
+					<comments>http://ast.io/2013-publications/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 19 Sep 2013 10:00:16 +0000</pubDate>
+				<category><![CDATA[Admin]]></category>
+		<category><![CDATA[Publications]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[Biology]]></category>
+		<category><![CDATA[HCI]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=41</guid>
+
+					<description><![CDATA[<p>Updated 2013 publications. &#160; [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/2013-publications/">Read More...<span class="screen-reader-text"> from 2013 publications updated</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/2013-publications/">2013 publications updated</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://ast.io/publications/alex-taylor-2013/"><img loading="lazy" class="alignnone size-medium wp-image-42" alt="2013" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/09/2013-300x300.png?resize=300%2C300" width="300" height="300"  data-recalc-dims="1"></a><br>
+Updated <a href="http://ast.io/publications/alex-taylor-2013/">2013</a> publications.<br>
+&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://ast.io/2013-publications/">2013 publications updated</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/2013-publications/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41</post-id>	</item>
+		<item>
+		<title>On always already</title>
+		<link>http://ast.io/always-already/</link>
+					<comments>http://ast.io/always-already/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 01 Aug 2013 10:00:47 +0000</pubDate>
+				<category><![CDATA[Admin]]></category>
+		<category><![CDATA[feminist technoscience]]></category>
+		<category><![CDATA[Structuralism]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=2</guid>
+
+					<description><![CDATA[<p>The&#160;phrase&#160;“always already” is, in the main, attributed to the&#160;poststructuralist&#160;philosopher Jaques Derrida. It has, however, come to be a trope for the new&#160;materialists&#160;and it is in this usage that I modestly take it on. Specifically, my guiding sources are from the feminist&#160;technoscience&#160;scholars&#160;Donna Haraway&#160;and&#160;Karen Barad,&#160;both of whom make heavy use of the phrase to trouble the binaries [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/always-already/">Read More...<span class="screen-reader-text"> from On always already</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/always-already/">On always already</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://i0.wp.com/ast.io/wp-content/uploads/2013/08/Alwaysalready.gif"><img loading="lazy" class="alignnone size-medium wp-image-3" alt="Alwaysalready" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/08/Alwaysalready-300x224.gif?resize=300%2C224" width="300" height="224"  data-recalc-dims="1"></a><br>
+The&nbsp;phrase&nbsp;“always already” is, in the main, attributed to the&nbsp;<a title="Post-structuralism" href="http://en.wikipedia.org/wiki/Post-structuralism" target="_blank" rel="wikipedia noopener noreferrer">poststructuralist</a>&nbsp;philosopher <a href="http://en.wikipedia.org/wiki/Jacques_Derrida" target="_blank" rel="noopener noreferrer">Jaques Derrida</a>. It has, however, come to be a trope for the new&nbsp;materialists&nbsp;and it is in this usage that I modestly take it on. Specifically, my guiding sources are from the feminist&nbsp;<a title="Technoscience" href="http://en.wikipedia.org/wiki/Technoscience" target="_blank" rel="wikipedia noopener noreferrer">technoscience</a>&nbsp;scholars&nbsp;<a href="http://en.wikipedia.org/wiki/Donna_Haraway" target="_blank" rel="noopener noreferrer">Donna Haraway</a>&nbsp;and&nbsp;<a href="http://en.wikipedia.org/wiki/Karen_Barad" target="_blank" rel="noopener noreferrer">Karen Barad</a>,&nbsp;both of whom make heavy use of the phrase to trouble the binaries abound in science and technology&nbsp;(subject-object, mind-matter, inside-outside, past-present, etc.).<br>
+For some back ground reading see&nbsp;<a href="http://www.tandfonline.com/doi/abs/10.1080/08038740.2011.620575#.Umg3TJEYjHM" target="_blank" rel="noopener noreferrer"><em>The New Materialist “Always Already”: On an A‑Human Humanities</em></a>.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/always-already/">On always already</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/always-already/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4784</post-id>	</item>
+	</channel>
+</rss>

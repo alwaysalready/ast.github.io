@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>counting Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/tag/counting/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 05 Aug 2016 08:47:35 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>‘Counting by other means’ 4S/EASST conference preview</title>
+		<link>http://ast.io/counting-means-4s-easst/</link>
+					<comments>http://ast.io/counting-means-4s-easst/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 05 Aug 2016 08:47:35 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[computation]]></category>
+		<category><![CDATA[counting]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=1440</guid>
+
+					<description><![CDATA[<p>A preview of our “Counting by other means” 4S/EASST conference track has been posted on the Society of Social Studies of Science Backchannels blog. I’m running the track with Sarah Kember and we’re&#160;excited to have these papers included: Session 1 The Slow Times of the Digital, Paul Dourish Digital Accessibility: Ageing and the Mattering Counts [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting-means-4s-easst/">Read More...<span class="screen-reader-text"> from ‘Counting by other means’ 4S/EASST conference preview</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/counting-means-4s-easst/">‘Counting by other means’ 4S/EASST conference preview</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A <a href="http://www.4sonline.org/blog/post/4s_preview_counting_by_other_means" target="_blank" rel="noopener noreferrer">preview</a> of our “Counting by other means” <a href="http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=4457" target="_blank" rel="noopener noreferrer">4S/EASST conference track</a> has been posted on the Society of Social Studies of Science <a href="http://www.4sonline.org/blog" target="_blank" rel="noopener noreferrer">Backchannels blog</a>. I’m running the track with Sarah Kember and we’re&nbsp;excited to have these papers included:<span id="more-1440"></span></p>
+<h2 style="padding-left: 30px; font-size: 1.2rem">Session 1</h2>
+<p style="padding-left: 30px; font-size: 0.8rem"><strong>The Slow Times of the Digital</strong>, Paul Dourish<br>
+<strong>Digital Accessibility: Ageing and the Mattering Counts of Arts Engagement</strong>, Amanda Windle<br>
+<strong>Counting the Future; the designed artefacts of prediction</strong>, David Benque<br>
+<strong>Making inventions count: the gender politics of design patents</strong>, Kat Jungnickel<br>
+Phoebe Senger — Discussant</p>
+<h2 style="padding-left: 30px; font-size: 1.2rem">Session 2</h2>
+<p style="padding-left: 30px; font-size: 0.8rem"><strong>Writerly (ac)counts of finite flourishings and possibly better ways of being together</strong>, Sarah Kember and Alex Taylor<br>
+<strong>Capital numbers and&nbsp;the obscure numericality of code</strong>, Adrian MacKenzie<br>
+<strong>Reimagining Work: Heart Labor, Heart Time</strong>, Lucian Leahu<br>
+<strong>Secretaries, Counting Time and AI</strong>, Jessa Lingel and Kate Crawford<br>
+<strong>Repair as Transition: Temporalities of Breakdown, Maintenance and Recuperation</strong>, Steve Jackson<br>
+&nbsp;<br>
+See the backchannels post <a href="http://www.4sonline.org/blog/post/4s_preview_counting_by_other_means" target="_blank" rel="noopener noreferrer">here</a> or just see the preview text for our track below:</p>
+<div style="font-weight:bold;font-size:2.5rem;margin:30px 40px 30px -5%;">Tick… tick… tick.</div>
+<blockquote>
+<div style="float:left;font-weight:bold;font-size:2rem;margin:-16px 2px -9px 0px;">B</div>
+<p>eneath us there is a ticking, the ticking of a computational count that winds its way down to the next interrupt. This counting joins up a web of surprisingly static things—an internet of sensors and input devices. But, below, the operations are lively; data of all sorts and at every perceivable scale are combined and mined to report, forecast, and act on a dizzying array of possibilities. Pacemakers, cochlear implants, smart watches, activity monitors, smart homes, transport systems, power grids, traffic lights, communication systems, logistics, cashless payments, emergency services, surveillance systems, space stations—everywhere, an unending amalgam of algorithmic systems that keep our bodies and spaces ticking.<br>
+Yet, as the sequential and relentless count keeps ticking, how and where exactly do the agencies that pulse through these computational systems entangle with our own? Where do substance and system conjoin, or ‘intra-act’ (Barad 2007), to enact the bodies, spaces and worlds we share in common? What capacities are afforded and ‘authorised’ (Despret 2004) through such worldly becomings—with their obdurate logics of efficiency and rationales organised by numbers? And how do they give shape, perhaps, to a different kind of critter, new varieties of “trans-corporeality” (Alaimo 2012), generatively figuring different worlds of numbers (Verran 2001)? Who and what else might come to count in this proliferation of counting?<br>
+Following their own hunches and leads, humanities and social science scholars have been grappling with such questions by working through their own examples of this “regime of computation” (Hayles 2005). Katherine Hayles started early with her writings of a ‘universe’ where “computation… is taken as the ground of being.” (1999: 34). Since then, many of us have sought to account for beings of this sort through all manner of substances (Fujimura 2011; Kruse 2013; Taylor et al. 2014); bodies (Crawford Lingel and Karppi 2015); practices (MacKenzie 2003; Beer 2015); places (Kaika and Swyngedouw 2000; Kenney 2015; Kitchin Lauriault and McArdle 2015); (infra)structures (Jackson and Barbrow 2013; MacKenzie 2015); and politics (Miller 2005; Nelson 2013; McQuillan 2015). Although disparate, what this mixture of work might be seen to point to is an uneasy uniformity of time-telling, a structured time that is enacted via the computational count and that configures a peculiar set of relations between life and labour. The count collapses life as labour-time, constituting it in terms of quantified metrics, performance and productivity.<br>
+Critically examining these relations between time, the count, and forms of life/labour, our research might also be seen to point to more careful and caring imaginaries of who and what could count in/through computation. With what we would want to call a “feminist time-telling”—that is to say, one that thrives not in the singularity but promiscuity of time-telling—we find the possibility for alternate encounters with the ubiquitous count. The alluringly singular, teleological organization of time is disrupted through anomalies raised by such things as redemption, regression, repetition, and rupture (Felski 2002: 21). Surfaced are the multiple bodily, political and ethical entanglements and becomings, the temporally bound ‘processes of mediation’ (Kember and Zylinska 2012), in computational regimes. The count, then, is ‘geared towards measurably enhanced productivity, performance, transparency and efficiency’, coincidently ‘core values of neoliberalism’ (Kember and Zylinska 2012). Likewise, we find it intensifies and extends the reach of gendered biopower by enforcing an alarmingly regressive portrayal of women’s labour in/of time. Yet through the hopeful but modest stories we tell about the lively complications, we show a care for difference and how it might be given space amidst the counting.<br>
+“The problem is” as Grosz relays in her conceptual refiguring of feminism, materiality and freedom, “… how to enable more action, more making and doing, more difference.” (2010: 154). Our two session track is designed to provide a forum where topically diverse works like those above might mingle, and possibly intermingle, to enliven new interconnections and mutations that make a difference. As well as offering a moment in which we might interrupt or make a cut along the lines of counts and computation, we invite possibilities for frictions, laughter, experimentation, (dis)agreements, and generative refigurings of where we might go with all these counts—where we might reimagine who/what really could count amidst this counting. A counting by other means.<br>
+<strong>References</strong><br>
+Alaimo, S. (2012). States of Suspension: Trans-corporeality at Sea. Interdisciplinary Studies in Literature and Environment, 19(3), 476–493.<br>
+Beer, D. (2015). Productive measures: Culture and measurement in the context of everyday neoliberalism. Big Data &amp; Society, 2(1).<br>
+Crawford, K., Lingel, J., &amp; Karppi, T. (2015). Our metrics, ourselves: A hundred years of self-tracking from the weight scale to the wrist wearable device. European Journal of Cultural Studies, 18(4–5), 479–496.<br>
+Despret, V. (2004). The Body We Care for: Figures of Anthropo-zoo-genesis. Body &amp; Society, 10(2–3), 111–134.<br>
+Felski, R. (2002). Telling Time in Feminist Theory. Tulsa Studies in Women’s Literature, 21–28.<br>
+Grosz, E. (2010). Feminism, materialism, and freedom. In, D. Coole &amp; S. Frost (Eds.), New materialisms: Ontology, agency, and politics, 139–157.<br>
+Kaika, M., &amp; Swyngedouw, E. (2000). Fetishizing the modern city: the phantasmagoria of urban technological networks. International Journal of Urban and Regional Research.<br>
+Kember, S., &amp; Zylinska, J. (2012). Life after new media: Mediation as a vital process. MIT Press.<br>
+Kruse, C. (2013). The Bayesian approach to forensic evidence: Evaluating, communicating, and distributing responsibility. Social Studies of Science, 43(5), 657–680.<br>
+Fujimura, J. H. (2011). Technobiological imaginaries: How do systems biologists know nature? In M. J. Goldman, P. Nadasdy, &amp; M. D. Turner (Eds.), Knowing Nature: Conversations at the Intersection of Political Ecology and Science Studies (pp. 65–80). London: The University of Chicago Press.<br>
+Hayles, N. K. (2005). My Mother Was a Computer: Digital Subjects and Literary Texts. London: University of Chicago Press.<br>
+Jackson, S. J., &amp; Barbrow, S. (2013). Infrastructure and vocation: field, calling and computation in ecology (p. 2873). Presented at the CHI ’13: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, New York, New York, USA:  ACM Press.<br>
+Kitchin, R., Lauriault, T. P., &amp; McArdle, G. (2015). Knowing and governing cities through urban indicators, city benchmarking and real-time dashboards. Regional Studies, 2(1), 6–28.<br>
+McQuillan, D. (2015). Algorithmic states of exception. European Journal of Cultural Studies, 18(4–5), 564–576.<br>
+MacKenzie, D. (2003). An Equation and its Worlds Bricolage, Exemplars, Disunity and Performativity in Financial Economics. Social Studies of Science, 33(6), 831–868.<br>
+Mackenzie, A. (2015). The production of prediction: What does machine learning want? European Journal of Cultural Studies, 18(4–5), 429–445.<br>
+Miller, C. A. (2005). New Civic Epistemologies of Quantification: Making Sense of Indicators of Local and Global Sustainability. Science, Technology &amp; Human Values, 30(3), 403–432.<br>
+Nelson, D. (2013). Yes to Life= No to Mining’: Counting as Biotechnology in Life (Ltd) Guatemala. The Scholar &amp; Feminist Online, 11(3). Retrieved October 15, 2015, from http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/<br>
+Kenney, M. (2015). Counting, accounting, and accountability: Helen Verran’s relational empiricism. Social Studies of Science, 45(5), 749–771.<br>
+Taylor, A. S., Fisher, J., Cook, B., Ishtiaq, S., &amp; Piterman, N. (2014) Modelling Biology – working through (in-)stabilities and frictions, Computational Culture 1(3).<br>
+Verran, H. (2001). Science and an African Logic. London: University of Chicago Press.</p></blockquote>
+<p>The post <a rel="nofollow" href="http://ast.io/counting-means-4s-easst/">‘Counting by other means’ 4S/EASST conference preview</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/counting-means-4s-easst/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1440</post-id>	</item>
+		<item>
+		<title>Reading “Yes to Life = No to Mining:”…</title>
+		<link>http://ast.io/yes-to-life/</link>
+					<comments>http://ast.io/yes-to-life/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 29 Feb 2016 19:45:29 +0000</pubDate>
+				<category><![CDATA[Reading]]></category>
+		<category><![CDATA[counting]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=950</guid>
+
+					<description><![CDATA[<p>This striking article from Diane Nelson—in SF Online’s special issue: Life (Un)ltd—has stuck with me over the last few weeks. Nelson, D. (2013). “Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala. The Scholar and Feminist Online, 11(3). Nelson&#160;weaves together a compelling if somewhat bleak story of mining in Guatemala [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/yes-to-life/">Read More...<span class="screen-reader-text"> from Reading “Yes to Life = No to Mining:”…</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/yes-to-life/">Reading “Yes to Life = No to Mining:”…</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/"> This</a> striking article from Diane Nelson—in SF Online’s special issue: <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/" target="_blank" rel="noopener noreferrer">Life (Un)ltd</a>—has stuck with me over the last few weeks.</p>
+<blockquote><p>Nelson, D. (2013). <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/" target="_blank" rel="noopener noreferrer">“Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala</a>. The Scholar and Feminist Online, 11(3).</p></blockquote>
+<p>Nelson&nbsp;weaves together a compelling if somewhat bleak story of mining in Guatemala and the impact it is having on small villages and local people.<span id="more-950"></span> What she&nbsp;does especially well is show the complexities of the mining industry’s presence in the mountains of Guatemala and the many different issues at stake for the multiple actors (human and nonhuman). Without a doubt, she&nbsp;paints a vivid picture in support of the people labouring in the mines and affected my the huge physical presence of the mining industry, but at the same time she captures the uncertainties and occasional doubts the locals themselves have in mobilising a clear cut case against mining.</p>
+<blockquote style="font-size: 1.8rem; font-style: italic; line-height: 3rem; text-indent: -12px;"><p>“I explore struggles over differences in live-ability and response-ability.”</p></blockquote>
+<p>Relevant for me are&nbsp;Nelson’s thoughts on counting and accounting. She sheds light on the modes of counting—the&nbsp;repertoires&nbsp;and regimes—and what kinds of authority they afford. At the same time, she reveals the real tensions that arise in trying to use number to capture and (re)produce the worlds we make.</p>
+<blockquote style="text-indent: -6px;"><p>“How do you balance — without particularly accurate information — quetzales to cuerdas of land, wages to labor, hopes for progress, development, and the “will to improve,” to war’s devastation and the impossible existing relations of production?”</p></blockquote>
+<p>I’m reminded, in Nelson’s piece, of Helen Verran’s amazing book <a id="tippy_tip0_4244_anchor"></a>, and it relates closely with a few other works I’ve been reading on counting and number:</p>
+<blockquote><p>Beer, D. (2015). <a href="http://doi.org/10.1177/2053951715578951" target="_blank" rel="noopener noreferrer">Productive measures: Culture and measurement in the context of everyday neoliberalism</a>. Big Data &amp; Society, 2(1), 1–12.<br>
+Felski, R. (2002). <a href="http://doi.org/10.2307/4149213" target="_blank" rel="noopener noreferrer">Telling Time in Feminist Theory</a>. Tulsa Studies in Women’s Literature, 21(1), 21.<br>
+Skeggs, B. (2014). <a href="http://doi.org/10.1111/1468-4446.12072" target="_blank" rel="noopener noreferrer">Values beyond value? Is anything beyond the logic of capital?</a> The British Journal of Sociology, 65(1), 1–20.<br>
+Verran, H. (2013). <a href="http://natureculture.sakura.ne.jp/02-translational-movements/" target="_blank" rel="noopener noreferrer">Numbers performing nature in quantitative valuing</a>. NatureCulture, 2, 23–37.</p></blockquote>
+<div class="tippy" data-title="<em>Science and An African Logic</em>" data-showheader="false" data-anchor="#tippy_tip0_4244_anchor">Verran, H. (2001) <a href="http://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html" target="_blank" rel="noopener noreferrer">Science and An African Logic</a>. London: University of Chicago Press.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/yes-to-life/">Reading “Yes to Life = No to Mining:”…</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/yes-to-life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">950</post-id>	</item>
+	</channel>
+</rss>

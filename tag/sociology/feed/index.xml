@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sociology Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/tag/sociology/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 05 Apr 2019 13:53:42 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>Are you Research Excellent?</title>
+		<link>http://ast.io/are-you-research-excellent/</link>
+					<comments>http://ast.io/are-you-research-excellent/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 05 Apr 2019 13:53:42 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[computer science]]></category>
+		<category><![CDATA[ref]]></category>
+		<category><![CDATA[Sociology]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4761</guid>
+
+					<description><![CDATA[<p>The UK’s national Research Excellence Framework (REF) assessment is looming. The formal deadline is in 2021, but many will be already feeling the pressures in their institutions and departments to be making sense of their work in terms of REF’s metrics and procedures. I’ve found myself entangled in this world of REF recently and wanting [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/are-you-research-excellent/">Read More...<span class="screen-reader-text"> from Are you Research Excellent?</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/are-you-research-excellent/">Are you Research Excellent?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row">
+<div class="col-md-9">
+The UK’s national <a href="https://www.ref.ac.uk/2014/" target="_blank" rel="noopener noreferrer">Research Excellence Framework (REF)</a> assessment is looming.<a id="tippy_tip0_5752_anchor"></a> The formal deadline is in 2021, but many will be already feeling the pressures in their institutions and departments to be making sense of their work in terms of REF’s metrics and procedures.<br>
+I’ve found myself entangled in this world of REF recently and wanting to be able to make comparisons between institutions and their “<a href="https://www.ref.ac.uk/about/units-of-assessment/" target="_blank" rel="noopener noreferrer">Units of Assessment</a>” (REFs classification of research disciplines and fields).<br>
+Using this publicly available <a href="https://results.ref.ac.uk/(S(mo1uvhe3m0brbdoom52x00nr))/DownloadResults" target="_blank" rel="noopener noreferrer">data</a>, I’ve built a little tool to see how an institution’s unit of assessment did in the last assessment (circa 2014) and view this against other UoA results.
+</div>
+</div>
+<p><a href="http://ast.io/ref-2014-uoa23/"><img loading="lazy" class="aligncenter wp-image-4762 size-large" src="https://i0.wp.com/ast.io/wp-content/uploads/2019/04/soc-ref.gif?resize=640%2C337&#038;ssl=1" alt="screen grab of REF comparison tool" width="640" height="337"  data-recalc-dims="1"></a></p>
+<div class="row">
+<div class="col-md-9">
+For now, I’m just visualising data from two units of assessment, <a href="http://ast.io/ref-2014-uoa23/">Sociology</a> and <a href="http://ast.io/ref-2014-uoa11/">Computer Sciences and Informatics</a>.<br>
+You can compare your own institution’s Sociology or Computer Science scores against others’ in terms of Outputs, Impact and Environment (the REF assessment profiles).
+</div>
+</div>
+<div class="tippy" data-title="1" data-href="http://ast.io/are-you-research-excellent/#foot_text_4761_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_4761_1" data-showheader data-anchor="#tippy_tip0_5752_anchor">I post this sensitive to the troubles and complications that come with enacting academic life using these systems of accounting. I’m grateful to Effie Le Moignan for <a href="https://twitter.com/Effie_lm/status/1114168866450608129" rel="noopener noreferrer" target="_blank">reminding me</a> of the troubles.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/are-you-research-excellent/">Are you Research Excellent?</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/are-you-research-excellent/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4761</post-id>	</item>
+		<item>
+		<title>Talk at INCITE-ing Transformation in Social Research</title>
+		<link>http://ast.io/incite-ing-transformation-social-research/</link>
+					<comments>http://ast.io/incite-ing-transformation-social-research/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2013 15:50:56 +0000</pubDate>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[Talks]]></category>
+		<category><![CDATA[Sociology]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=298</guid>
+
+					<description><![CDATA[<p>On Saturday (12 Oct) I presented a short paper reflecting on INCITE’s achievements over the last 10 or so years at “INCITE-ing Transformation in Social Research” Preamble Referencing her New Media’s Intermediaries article, I want to glimpse back to reflect on how Nina Wakeford positioned INCITE and made sense of it against a back drop [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/incite-ing-transformation-social-research/">Read More...<span class="screen-reader-text"> from Talk at INCITE-ing Transformation in Social Research</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/incite-ing-transformation-social-research/">Talk at INCITE-ing Transformation in Social Research</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><b><a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4622&amp;rep=rep1&amp;type=pdf"><img loading="lazy" class="alignnone  wp-image-303" alt="Incite-ing" src="https://i0.wp.com/ast.io/wp-content/uploads/2013/10/Incite-ing-1024x1024.png?resize=614%2C614" width="614" height="614"  data-recalc-dims="1"></a></b><br>
+On Saturday (12 Oct) I presented a short paper reflecting on <a href="http://www.studioincite.com/" target="_blank" rel="noopener noreferrer">INCITE’s</a> achievements over the last 10 or so years at “<a href=" http://www.gold.ac.uk/calendar/?id=6856" target="_blank" rel="noopener noreferrer">INCITE-ing Transformation in Social Research</a>”<br>
+<b>Preamble</b><br>
+Referencing her <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4622&amp;rep=rep1&amp;type=pdf">New Media’s Intermediaries article</a>, I want to glimpse back to reflect on how <a href="http://www.gold.ac.uk/sociology/staff/academicstaff/wakefordnina/">Nina Wakeford</a> positioned <a href="http://www.studioincite.com/old%20website/people/nina.html">INCITE</a> and made sense of it against a back drop of cultural theory, science and technology studies, CSCW and sociology<br>
+.. And, in doing this, I also want to peer forward, to consider what troubles there might be ahead, and what productive possibilities we might imagine for ourselves.<span id="more-298"></span><br>
+I use glimpse and peer because I only have a meagre 15 mins or so to think through the significant achievements of <a href="http://www.studioincite.com/old%20website/people/nina.html">INCITE</a> and what could come next.<br>
+I want to add too that I modestly and probably unwisely claim to have a privileged position from which to do this, as I was part of a neighboring if not always neighbourly <a href="http://www.dwrc.surrey.ac.uk/">group</a> when INCITE was launched in the <a href="http://www2.surrey.ac.uk/sociology/">Sociology Department</a> at the University of Surrey some time back at the turn of the millennium.<br>
+<b>BACK THEN</b><br>
+“<a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.4622&amp;rep=rep1&amp;type=pdf">New Media’s intermediaries</a>” located INCITE at the intersection of empirical practice, technology design and critical theory. It cast those heavily implicated in the ‘making of technological things‘ — technologists, designers, etc. — as cultural intermediaries, and placed INCITE’s scholars alongside them, ‘<i>doing</i>’ the bricolage of design orientated ethnography and social analysis. As such, INCITE was unique for its time, aiming to not just produce sociological commentary on the production and consumption of technology, but to participate in those selfsame acts of making and doing.<br>
+From the floor below, in Surrey’s sociology department, I remember feeling a sense of awe (if not slight bewilderment) at how people like Nina, <a title="Kat Jungnickel" href="http://www.katjungnickel.com/" target="_blank" rel="noopener noreferrer">Kat</a>, <a href="http://academic.reed.edu/art/cohen/" target="_blank" rel="noopener noreferrer">Kris</a>, etc. were so adeptly able to juggle the middle-ground, shifting between knowing and making.<br>
+INCITE, as the intermediaries article recounts, was not just innovative, though. It was productively disruptive. It sought to redefine the design work it was involved in, doggedly interjecting its “<a href="http://www.google.co.uk/url?sa=t&amp;rct=j&amp;q=located%20accountabilities%20in%20technology%20production&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CDIQFjAA&amp;url=http%3A%2F%2Fwww.lancaster.ac.uk%2Fsociology%2Fresearch%2Fpublications%2Fpapers%2Fsuchman-located-accountabilities.pdf&amp;ei=xK5eUsWKH4eAhAfoq4DADQ&amp;usg=AFQjCNEN9h_bYNPwW7mdJ7n8ETfLr8JAZg&amp;sig2=0aYGFtVy173V7GMt9Ul2Tw&amp;bvm=bv.54176721,d.ZG4" target="_blank" rel="noopener noreferrer">partial translations</a>” — seen through the sociological gaze — in order to see design from somewhere/someone else.<br>
+The <a href="http://www.studioincite.com/73urbanjourneys/" target="_blank" rel="noopener noreferrer">73 bus</a> was, of course, canonical in this respect. When technological projects like <a href="http://en.wikipedia.org/wiki/Ubiquitous_computing" target="_blank" rel="noopener noreferrer">ubicomp</a> were espousing their martini solutions — anytime, anyplace anywhere — INCITE astutely chose to make technology and its design about place and about very particular kinds of people. Moreover, it reflected back on the sociological analysis it produced, looking for ways it might say something about social life beyond the sanctified academic text.<br>
+For INCITE these experiments were largely with the visual, experimenting with the linkages between collaborative visual work in design and modes of sociological and anthropological inquiry and production. So, we must know that INCITE was and continues to be an innovative collection of people and practices, challenging and regularly disrupting the status quo.<br>
+Nina would have it not other way!<br>
+<b>FROM HERE</b><br>
+And yet, with the benefit of hindsight, my rearward glance is now to see the intermediaries article as a struggle, a struggle with what sociology has to offer in a business predominately involved in making and selling more stuff.<br>
+Dealing with an intellectual legacy in which the forces of/on production are known to be plain bad, it represents a struggle with how to take responsibility — to be sociologically responsible for how things are made and for whom. In the article, I take the manifestation of this to have been:<br>
+1. a commitment to tell it how it is, or at least to provide some partial insights into the multiple ways things are and get done, and<br>
+2. to bring something home — that is, back to sociology.<br>
+Again, with hindsight on my side — and all that comes with operating in an always emerging milieu of ideas and theorizing — I want to think about what else INCITE might have been doing and to see their project more as a moving on and throw, rather than something set in the past.<br>
+It’s easy and perhaps blindingly obvious to say now, but I see the INCITE in the New Media’s intermediaries piece doing some important groundwork in a move towards the <a href="http://www.routledge.com/books/details/9780415574815/" target="_blank" rel="noopener noreferrer">inventive methods</a> and <a href="http://www.gold.ac.uk/pg/ma-msc-digital-sociology/" target="_blank" rel="noopener noreferrer">digital</a> and <a href="http://www.gold.ac.uk/pg/ma-visual-sociology/" target="_blank" rel="noopener noreferrer">visual sociology</a> that the <a href="http://www.gold.ac.uk/sociology/" target="_blank" rel="noopener noreferrer">Goldsmiths Sociology Department</a> has become synonymous with. Let me try to explain this briefly, if I can.<br>
+In several ways, I see Nina’s piece foreshadowing John Law’s STS treatise, <a href="http://books.google.co.uk/books/about/After_Method.html?id=Vib4zrJxosAC&amp;redir_esc=y" target="_blank" rel="noopener noreferrer">After Method</a>, by inviting questions about what we accomplish when we apply sociological methods — in this case for the purposes of design. As with Law and others — such as Annemarie Mol — this isn’t merely about what methods we use, but a recognition of and responsibility for the ways of knowing we are enacting in and through these methods. Moreover, it is to ask how we might apply them differently, to imagine other worlds or “out-there-nesses” (<a href="http://books.google.co.uk/books/about/After_Method.html?id=Vib4zrJxosAC&amp;redir_esc=y" target="_blank" rel="noopener noreferrer">Law</a>).<br>
+Nina addresses each of these issues in her note — yes, with a phasing of the time — but still dealing directly with what sociological method does. So the-INCITE-of-over-a-decade-ago is forcing the sociological gaze back in on it self, seeking actively to do what the anthropologist Annalies Riles refers to as ‘<a href="http://books.google.co.uk/books/about/The_Network_Inside_Out.html?id=iOu_LP1w2LEC&amp;redir_esc=y" target="_blank" rel="noopener noreferrer">turning the network inside out</a>’. As with inventive methods and digital and visual sociology, methods are recognised as not just procedural but epistemic and producing multiples…<br>
+Yet it is here, when we look to contemporary theorizing that it’s hard not to see a leap or shift in INCITE’s thinking,… or at least I find it a lot harder to join the dots. Whereas method was, back in 2003, a struggle to discover what is there — to tell it how it is — it has come to be something we understand as entangled in and enacting what we might rather grandly think of as ‘<a href="http://sth.sagepub.com/content/37/5/478.short" target="_blank" rel="noopener noreferrer">regimes of existence</a>’ (a phrase I borrow from Genevieve Teil).<br>
+The methods of science and technology — INCITE’s included — are the apparatuses through which the regimes come to be. They are implicated in ontics, in the world coming to be the way it is. They —the methods — are actively making different cuts into worlds that are always in a state (or should I say statelessness) of constant becoming.<br>
+So our sociological methods are not just tools for responsibly telling cultural intermediaries how it is, but through which we enact one kind of world over another. They foreground one set of ‘<a href="http://books.google.co.uk/books?hl=en&amp;lr=&amp;id=JW15ik18U8QC&amp;oi=fnd&amp;pg=PR13&amp;dq=partial+connections&amp;ots=rAflYChNVm&amp;sig=mj682_hyGc3r5aCF7xIj3GseJsc#v=onepage&amp;q=partial%20connections&amp;f=false" target="_blank" rel="noopener noreferrer">partial connections</a>‘ — to tie this back to Strathern — over others.<br>
+What’s more, our methods — our tools — are no more or less implicated than others’. The weightings may be different in different cases, but we all at one point or another serve as these cultural intermediaries. There is no outside in this business. No gods trick or even lesser-gods trick.<br>
+For INCITE this is what now makes method central not just as a tool of translation, a <i>boundary object</i>, but also as agential in what is real (for agential realism see <a href="http://books.google.co.uk/books?id=4qYorOpfB6EC&amp;printsec=frontcover&amp;dq=meeting+the+universe+halfway&amp;hl=en&amp;sa=X&amp;ei=LrFeUseuMI6zhAeT7YHABg&amp;ved=0CDkQ6AEwAQ#v=onepage&amp;q=meeting%20the%20universe%20halfway&amp;f=false" target="_blank" rel="noopener noreferrer">Barad</a>). So, yes, I see INCITE’s concern for method having been there, right from the beginning. But this new move to the inventive has an onus on methods that I take to be different,… The work here is to encounter the multiple worlds of becoming. The inventive methods are meant to keep the trouble going between different worlds and force us many intermediaries to be accountable for the cuts we make. And, of course, these methods are recognized by INCITE to have politics. They are understood to be regimes through which political and moral worlds are made, remade and undone.<br>
+Although it may not officially or entirely fall under the banner of INCITE, in spirit, I see <a href="http://www.katjungnickel.com/" target="_blank" rel="noopener noreferrer">Kat’s</a> work as exemplary in this. Her inventive enactments — the transmissions and entanglements — are precisely about the complication of method, the uncertainty about who is talking to whom, and how. Her work — along with colleagues like <a href="http://www.katjungnickel.com/portfolio/enquiry-machine-1-2/" target="_blank" rel="noopener noreferrer">Julian McHardy</a> — aims to reveal <i>the work</i> being done in method. It immediately unsettles the uniformity and neatness of cuts to show them as always already being enacted. Moreover, it disrupts who exactly we imagine to be the intermediaries. The voices of corporate enterprise, local designers, artists, cyclists, academics and publics are entangled, intentionally.<br>
+It is method then that I want to claim has changed most significantly for INCITE.<br>
+<b>TO WHERE</b><br>
+Looking forward, it’s this kind of work that inevitably sets INCITE up for making choices about the worlds it wants to perform and how — through the theoretical, empirical and design bricolage — it does so.<br>
+Design and the interventions into it — through inventive methods — offer up the opportunities to move on from selling people more stuff, to providing the possibility of doing the world differently. But here in lies the rub. How should this move be made? A move from methods that aim to tell it how it is — as if we were some how removed from that — to inventive methods that convey to us how it could and should be?<br>
+My own ideas here are perhaps sidestepping the problem. I imagine our part in a breed of machines and human-machine entanglements that speak to partiality, multiplicity and unending becomings. As INCITE has shown us, DIY and Maker cultures are the natural predecessors of such imaginaries… and, now, with companies like Intel moving into the fray, they’re looking to be a lot less counter-culture than they once did.<br>
+I can’t help but wonder about mainstream culture though (if that’s not too troubling a concept). What will partiality, multiplicity and constant becomings look like here? I doubt everyone is geared up for hacking and experimenting with cultural forms in the maker spirit. I expect it won’t be enough to hand over the choices to everyone. I expect in one way or another I and other heres are going to have to make some choices about the worlds we want to be…<br>
+…and I, at least, am still pretty uncertain how I’ll go about that.<br>
+It is here, once again, that I’m taking inspiration from INCITE.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/incite-ing-transformation-social-research/">Talk at INCITE-ing Transformation in Social Research</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/incite-ing-transformation-social-research/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">298</post-id>	</item>
+	</channel>
+</rss>

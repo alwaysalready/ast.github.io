@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Worlds Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/tag/worlds/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Mon, 21 Sep 2015 09:54:46 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>“Earthwide projects” at Shifting Borderlands, Aarhus 2015</title>
+		<link>http://ast.io/earthwide/</link>
+					<comments>http://ast.io/earthwide/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 21 Sep 2015 09:54:46 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[Worlds]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=747</guid>
+
+					<description><![CDATA[<p>I was delighted to participate in last month’s “Shifting Borderlands” workshop at the decennial Aarhus Conference: Critical Alternatives&#160;.&#160;What an inspiring and&#160;memorable event!&#160;My sincerest thanks to the organisers, Silvia, Marisa, Lucian, Hrönn and Carl. The position papers—from a wonderful mix of people—are all online here. My&#160;own text was a short but rambling piece on some&#160;still underdeveloped [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/earthwide/">Read More...<span class="screen-reader-text"> from “Earthwide projects” at Shifting Borderlands, Aarhus 2015</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/earthwide/">“Earthwide projects” at Shifting Borderlands, Aarhus 2015</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I was delighted to participate in last month’s “<a href="https://tracingcriticalpractice2015.wordpress.com/organizers/" target="_blank" rel="noopener noreferrer">Shifting Borderlands</a>” workshop at the <a href="http://aarhus2015.org/" target="_blank" rel="noopener noreferrer">decennial Aarhus Conference: Critical Alternatives</a>&nbsp;.&nbsp;What an inspiring and&nbsp;memorable event!&nbsp;My sincerest thanks to the <a href="https://tracingcriticalpractice2015.wordpress.com/organizers/" target="_blank" rel="noopener noreferrer">organisers</a>, Silvia, Marisa, Lucian, Hrönn and Carl.<br>
+The position papers—from a wonderful mix of people—are all online <a href="https://tracingcriticalpractice2015.wordpress.com/position-papers/" target="_blank" rel="noopener noreferrer">here</a>. <a href="https://tracingcriticalpractice2015.files.wordpress.com/2015/08/a-taylor_impact-and-counting.pdf" target="_blank" rel="noopener noreferrer">My&nbsp;own text</a> was a short but rambling piece on some&nbsp;still underdeveloped ideas. I’ve been trying to think a little more critically about&nbsp;my role as a academician and a Microsoft researcher. Predictably, in combination, the roles&nbsp;raise all sorts of questions and frictions for me.&nbsp;Increasingly, I’ve directed my efforts at thinking about the worlds I’ve helped to enact&nbsp;and asking whether they are&nbsp;kinds of worlds that I would want to live in.<br>
+It’s hard to put it better than Donna Haraway:</p>
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<blockquote><a id="tippy_tip0_7048_anchor"></a></blockquote>
+<p>My piece, “<a href="https://tracingcriticalpractice2015.files.wordpress.com/2015/08/a-taylor_impact-and-counting.pdf">Impact and Counting</a>”, is available <a href="https://tracingcriticalpractice2015.wordpress.com/position-papers/" target="_blank" rel="noopener noreferrer">here</a>.
+</p></div>
+</div>
+</div>
+</div>
+<div class="tippy" data-title="I think my problem, and “our” problem, is how to have simultaneously an account of radical historical contingency for all knowledge claims and knowing subjects, a critical practice for recognizing our own “semiotic technologies” for making meanings, and a no-nonsense commitment to faithful accounts of a “real” world, one that can be partially shared and that is friendly to earthwide projects of finite freedom, adequate material abundance, modest meaning in suffering,and limited happiness." data-showheader="false" data-anchor="#tippy_tip0_7048_anchor">Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist studies, 14(3): 579.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/earthwide/">“Earthwide projects” at Shifting Borderlands, Aarhus 2015</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/earthwide/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+	</channel>
+</rss>

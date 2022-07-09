@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>housing Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/tag/housing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Mon, 27 Jun 2016 07:39:00 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>Re-making places</title>
+		<link>http://ast.io/re-making-places/</link>
+					<comments>http://ast.io/re-making-places/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 27 Jun 2016 07:39:00 +0000</pubDate>
+				<category><![CDATA[Publications]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[CHI]]></category>
+		<category><![CDATA[housing]]></category>
+		<category><![CDATA[London]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=1124</guid>
+
+					<description><![CDATA[<p>At the CHI conference this year, Clara Crivellaro presented this paper on our amazing work at a regeneration site on the outskirts of London. The work touches on many issues that are important to me, from grassroots participation and housing to inventive methods and technoscience’s productive possibilities. Re-Making Places: HCI, ‘Community Building’ and Change Clara [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/re-making-places/">Read More...<span class="screen-reader-text"> from Re-making places</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/re-making-places/">Re-making places</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>At the <a href="https://chi2016.acm.org/wp/">CHI conference</a> this year, Clara Crivellaro presented <a href="http://ast.io/m/1128.pdf" target="_blank" rel="noopener noreferrer">this paper</a> on our amazing work at a regeneration site on the outskirts of London. The work touches on many issues that are important to me, from grassroots participation and housing to inventive methods and technoscience’s productive possibilities.</p>
+<div class="highlight" style="margin-bottom:2px"><a href="http://ast.io/m/1128.pdf" target="_blank" rel="noopener noreferrer">Re-Making Places:</a></div>
+<div class="highlight" style="font-size:1.8rem;margin-top:0px">HCI, ‘Community Building’ and Change</div>
+<p><em>Clara Crivellaro, Alex Taylor, Vasilis Vlachokyriakos, Rob Comber, Bettina Nissen, Peter Wright</em></p>
+<blockquote><p><strong>Abstract</strong><br>
+We present insights from an extended engagement and design intervention at an urban regeneration site in SE London. We describe the process of designing a walking trail and system for recording and playing back place-specific stories for those living and working on the housing estate, and show how this is set within a wider context of urban renewal, social/affordable housing and “community building”. Like prior work, the research reveals the frictions that arise in participatory engagements with heterogeneous actors. Here we illustrate how material interventions can rearrange existing spatial configurations, making productive the plurality of accounts intrinsic in community life. Through this, we provide an orientation to HCI and design interventions that are concerned with civic engagement and participation in processes of making places.</p></blockquote>
+<p>The post <a rel="nofollow" href="http://ast.io/re-making-places/">Re-making places</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/re-making-places/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1124</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sending HTML formatted emails using BuddyPress and BBPress	</title>
+	<atom:link href="http://ast.io/html-emails-buddypress-bbpress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/html-emails-buddypress-bbpress/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Thu, 15 Jul 2021 11:06:26 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Peace David		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-88</link>
+
+		<dc:creator><![CDATA[Peace David]]></dc:creator>
+		<pubDate>Thu, 15 Jul 2021 11:06:26 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-88</guid>
+
+					<description><![CDATA[Please are we adding the bp-custom.php to wp-content/plugins/buddypress ?]]></description>
+			<content:encoded><![CDATA[<p>Please are we adding the bp-custom.php to wp-content/plugins/buddypress ?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Tiffany Bryant		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-86</link>
+
+		<dc:creator><![CDATA[Tiffany Bryant]]></dc:creator>
+		<pubDate>Wed, 05 May 2021 22:04:19 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-86</guid>
+
+					<description><![CDATA[Thank you thank you thank you!!]]></description>
+			<content:encoded><![CDATA[<p>Thank you thank you thank you!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alex Taylor		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-85</link>
+
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 13 Apr 2021 16:32:58 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-85</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/html-emails-buddypress-bbpress/#comment-84&quot;&gt;Lefteris&lt;/a&gt;.
+
+That&#039;s a good point. I&#039;ve not tried this, but I wonder if removing the &#039;wp_mail_content_type&#039; filter after step 3 might work. So, at line 26, something like: &quot;remove_filter( &#039;wp_mail_content_type&#039;, &#039;set_html_content_type&#039; );&quot;
+
+Let me know if you try this and have any success.
+
+Alternatively, I notice in the examples, &lt;a href=&quot;https://developer.wordpress.org/reference/hooks/wp_mail_content_type/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;here&lt;/a&gt;, there&#039;s a suggestion from stevenlinx to use an if statement to conditionally specify the content type.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/html-emails-buddypress-bbpress/#comment-84">Lefteris</a>.</p>
+<p>That’s a good point. I’ve not tried this, but I wonder if removing the ‘wp_mail_content_type’ filter after step 3 might work. So, at line 26, something like: “remove_filter( ‘wp_mail_content_type’, ‘set_html_content_type’ );”</p>
+<p>Let me know if you try this and have any success.</p>
+<p>Alternatively, I notice in the examples, <a href="https://developer.wordpress.org/reference/hooks/wp_mail_content_type/" target="_blank" rel="noopener nofollow ugc">here</a>, there’s a suggestion from stevenlinx to use an if statement to conditionally specify the content type.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Lefteris		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-84</link>
+
+		<dc:creator><![CDATA[Lefteris]]></dc:creator>
+		<pubDate>Tue, 13 Apr 2021 14:44:52 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-84</guid>
+
+					<description><![CDATA[Hello Alfred, Thank you for sharing this code :) 
+
+Could i ask you how would it be possible to change the code in a way so that it doesn&#039;t set all default wordpress emails with text/html header, But only those that bp is sending out. Because i have been digging around and it seems that setting all default wordpress emails with text/html header could create conflicts with some of them.]]></description>
+			<content:encoded><![CDATA[<p>Hello Alfred, Thank you for sharing this code 🙂 </p>
+<p>Could i ask you how would it be possible to change the code in a way so that it doesn’t set all default wordpress emails with text/html header, But only those that bp is sending out. Because i have been digging around and it seems that setting all default wordpress emails with text/html header could create conflicts with some of them.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alex Taylor		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-83</link>
+
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2021 08:49:31 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-83</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/html-emails-buddypress-bbpress/#comment-82&quot;&gt;Alfred&lt;/a&gt;.
+
+Hey Alfred, you don&#039;t want to edit bpcore. Create a file called bp-custom.php in the wp-content/plugins folder. Add the code in this file, following steps above.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/html-emails-buddypress-bbpress/#comment-82">Alfred</a>.</p>
+<p>Hey Alfred, you don’t want to edit bpcore. Create a file called bp-custom.php in the wp-content/plugins folder. Add the code in this file, following steps above.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alfred		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-82</link>
+
+		<dc:creator><![CDATA[Alfred]]></dc:creator>
+		<pubDate>Mon, 08 Mar 2021 12:55:12 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-82</guid>
+
+					<description><![CDATA[I don&#039;t know what I&#039;m doing wrong here. This line of code worked &quot;add_filter( &#039;bp_email_use_wp_mail&#039;, &#039;__return_true&#039; );&quot; under function.php but when  I add these changes under bbcore nothing happen.]]></description>
+			<content:encoded><![CDATA[<p>I don’t know what I’m doing wrong here. This line of code worked “add_filter( ‘bp_email_use_wp_mail’, ‘__return_true’ );” under function.php but when  I add these changes under bbcore nothing happen.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Bogdan		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-81</link>
+
+		<dc:creator><![CDATA[Bogdan]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 10:47:26 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-81</guid>
+
+					<description><![CDATA[Thank you for sharing this, works like a charm!]]></description>
+			<content:encoded><![CDATA[<p>Thank you for sharing this, works like a charm!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Vasyl		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-80</link>
+
+		<dc:creator><![CDATA[Vasyl]]></dc:creator>
+		<pubDate>Sun, 10 Jan 2021 21:30:06 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-80</guid>
+
+					<description><![CDATA[You are GENIUS! Thank you, this method helped!]]></description>
+			<content:encoded><![CDATA[<p>You are GENIUS! Thank you, this method helped!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Alex Taylor		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-77</link>
+
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2020 13:35:47 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-77</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/html-emails-buddypress-bbpress/#comment-76&quot;&gt;Vikas&lt;/a&gt;.
+
+Hi there. I&#039;ve not seen any disruption to one-on-one emails between users. From what I can tell, the direct messages are sent using HTML with this configuration so I have to assume the above changes apply to them as well.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/html-emails-buddypress-bbpress/#comment-76">Vikas</a>.</p>
+<p>Hi there. I’ve not seen any disruption to one-on-one emails between users. From what I can tell, the direct messages are sent using HTML with this configuration so I have to assume the above changes apply to them as well.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Vikas		</title>
+		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-76</link>
+
+		<dc:creator><![CDATA[Vikas]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2020 05:13:42 +0000</pubDate>
+		<guid isPermaLink="false">http://ast.io/?p=5694#comment-76</guid>
+
+					<description><![CDATA[Hi, Very informative post. But I have a query. Can buddypress users create and send one-on-one mails using above functionality?]]></description>
+			<content:encoded><![CDATA[<p>Hi, Very informative post. But I have a query. Can buddypress users create and send one-on-one mails using above functionality?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

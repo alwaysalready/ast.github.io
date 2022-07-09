@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Presenting Archives | Alex Taylor</title>
+	<atom:link href="http://ast.io/category/presenting/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ast.io/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Thu, 07 Jun 2018 10:07:24 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+<site xmlns="com-wordpress:feed-additions:1">165671821</site>	<item>
+		<title>Newcastle APL Talk</title>
+		<link>http://ast.io/newcastle-apl-talk/</link>
+					<comments>http://ast.io/newcastle-apl-talk/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 07 Jun 2018 10:07:24 +0000</pubDate>
+				<category><![CDATA[Presenting]]></category>
+		<category><![CDATA[bicycle]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[geography]]></category>
+		<category><![CDATA[infrastructure]]></category>
+		<category><![CDATA[slavery]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=4235</guid>
+
+					<description><![CDATA[<p>Talking to the good people at Newcastle’s School of Architecture, Planning &#38; Landscape (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations. Living Fruitfully in/with the conditions of (im-) possibilty ABSTRACT In this talk, I want to revisit a piece I wrote in 2016. [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/newcastle-apl-talk/">Read More...<span class="screen-reader-text"> from Newcastle APL Talk</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/newcastle-apl-talk/">Newcastle APL Talk</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
+<div class="col-9 col-sm-9 col-md-5">Talking to the good people at Newcastle’s <a href="https://www.ncl.ac.uk/apl/" rel="noopener noreferrer" target="_blank">School of Architecture, Planning &amp; Landscape</a> (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations.<br>
+<p class="highlight"><a href="https://www.ncl.ac.uk/apl/events/seminars/#d.en.740154" rel="noopener noreferrer" target="_blank">Living Fruitfully in/with the conditions of (im-) possibilty</a></p>
+</div>
+<div class="small col-9 col-sm-9 col-md-7">
+<strong><a href="https://www.ncl.ac.uk/apl/events/seminars/#d.en.740154" rel="noopener noreferrer" target="_blank">ABSTRACT</a></strong>
+<p>In this talk, I want to revisit a piece I wrote in <a href="http://ast.io/publications/alex-taylor-2016/">2016</a>. The piece, a chapter in Dawn Nafus’ book Quantified (2016), was intended as a story of promise, a fabulation about London’s bike rental scheme and how it might be used to re-imagine new figurings of human-machine relations. Thinking across, askew, or “athwart” (Hustak &amp; Myers 2013), my experimenting with the relational capacities of bicycles, a city, (bio)sensing and the proliferation of data-everywhere, aimed to resist the “agencies of homogenization” (Scott 1998) to explore the conditions of possibility for other worldings (Haraway 2016).</p>
+<p>Reflecting on this work, I’ve felt a dissatisfaction with my efforts to throw together mixtures of data at all scales, with the attempts at thickening and enlivening the relations. It all felt too flat, too lacking in vitality. So, at the risk of appearing self indulgent, this talk will present some early ideas for a different story woven in and through the thicket of relations. Struggling to weave myself into London’s legacy with slavery and the violent erasures of bodies and agency (Hartman 2008), I’ll be trying to place myself at a much more fragile and tenuous juncture of space-time, but at the same time still seeking to work fruitfully in/with the conditions of (im-)possibility.</p>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="http://ast.io/newcastle-apl-talk/">Newcastle APL Talk</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/newcastle-apl-talk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">4235</post-id>	</item>
+		<item>
+		<title>Paper presented at Assets</title>
+		<link>http://ast.io/assets-2017/</link>
+					<comments>http://ast.io/assets-2017/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Sat, 02 Dec 2017 10:05:05 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Presenting]]></category>
+		<category><![CDATA[Publications]]></category>
+		<category><![CDATA[accessible computing]]></category>
+		<category><![CDATA[blind and vision impaired]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3805</guid>
+
+					<description><![CDATA[<p>I’m very happy to have been a part of the work leading up to a paper presented at Assets 2017, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired. Cecily Morrison, Edward Cutrell, [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/assets-2017/">Read More...<span class="screen-reader-text"> from Paper presented at Assets</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/assets-2017/">Paper presented at Assets</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I’m very happy to have been a part of the work leading up to a paper presented at <a href="https://assets17.sigaccess.org/" rel="noopener noreferrer" target="_blank">Assets 2017</a>, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired.</p>
+<blockquote class="small"><p>Cecily Morrison, Edward Cutrell, Anupama Dhareshwar, Kevin Doherty, Anja Thieme, and Alex Taylor. 2017. <strong>Imagining Artificial Intelligence Applications with People with Visual Disabilities using Tactile Ideation</strong>. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (<em>ASSETS ’17</em>). ACM, New York, NY, USA, 81–90. <a href="https://doi.org/10.1145/3132525.3132530" rel="noopener noreferrer" target="_blank">DOI</a>.</p></blockquote>
+<p><span id="more-3805"></span></p>
+<blockquote><p><strong>ABSTRACT</strong><br>
+There has been a surge in artificial intelligence (AI) technologies co-opted by or designed for people with visual disabilities. Researchers and engineers have pushed technical boundaries in areas such as computer vision, natural language processing, location inference, and wearable computing. But what do people with visual disabilities imagine as their own technological future? To explore this question, we developed and carried out tactile ideation workshops with participants in the UK and India. Our participants generated a large and diverse set of ideas, most focusing on ways to meet needs related to social interaction. In some cases, this was a matter of recognizing people. In other cases, they wanted to be able to participate in social situations without foregrounding their disability. It was striking that this finding was consistent across UK and India despite substantial cultural and infrastructural differences. In this paper, we describe a new technique for working with people with visual disabilities to imagine new technologies that are tuned to their needs and aspirations. Based on our experience with these workshops, we provide a set of social dimensions to consider in the design of new AI technologies: social participation, social navigation, social maintenance, and social independence. We offer these social dimensions as a starting point to forefront users’ social needs and desires as a more deliberate consideration for assistive technology design.</p></blockquote>
+<p>Download a copy of the paper <a href="http://ast.io/download/3684/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>The post <a rel="nofollow" href="http://ast.io/assets-2017/">Paper presented at Assets</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/assets-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3805</post-id>	</item>
+		<item>
+		<title>Paper at 4S 2017</title>
+		<link>http://ast.io/4s-acceptance-2017/</link>
+					<comments>http://ast.io/4s-acceptance-2017/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 24 Apr 2017 08:45:29 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Presenting]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[4S]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=3288</guid>
+
+					<description><![CDATA[<p>I’m thrilled to have our paper submission accepted to the . Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston. A care for beingmore (cap-)able Cynthia Bennett and Alex Taylor In this paper, we begin with Ingunn Moser’s and Maria Puig de la [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/4s-acceptance-2017/">Read More...<span class="screen-reader-text"> from Paper at 4S 2017</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/4s-acceptance-2017/">Paper at 4S 2017</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I’m thrilled to have our paper submission accepted to the <a id="tippy_tip0_3971_anchor"></a>. Cynthia Bennett and I will be busily preparing our paper for the always amazing event, this year in August/September in Boston.</p>
+<div class="highlight" style="font-size:325%">A care for being<br>more (cap-)able</div>
+<p><em>Cynthia Bennett and Alex Taylor</em></p>
+<blockquote><p>In this paper, we begin with Ingunn Moser’s and Maria Puig de la Bellacasa’s generative notions of care and use them to expand how we understand capability. Drawing on fieldwork with blind and vision impaired people, we turn our attention to a materially enacted, unfolding ‘sense-ability’. This is a sensing that puts (cap)ability and care together, that understands ‘seeing-in-the-world’ as a practical affair that is, at once, knowing, effecting and affecting with others (humans or otherwise). Thus, we show not only that care can contest an ‘instrumentalism’ in forms of knowing and doing—by ‘re-affecting objectified worlds’ (Puig de la Bellacasa, 2011: 98)—but also give a greater clarity to how care can be, in practice, entangled in practice. This sense-ability seeks to be active, enlivening how we become capable; it is figured to be worked with, not finite and dictated by assumed bodily limits, but open to becoming-with and becoming-more. Borrowing from Vinciane Despret, this sense-ability is “to gain a body that does more things, that feels other events, and that is more and more able…” (2004: 120).</p></blockquote>
+<blockquote style="font-size:smaller"><p>Despret, V. (2004). <a href="http://journals.sagepub.com/doi/abs/10.1177/1357034X04042938" target="_blank" rel="noopener noreferrer">The Body We Care For: Figures of Anthropo-zoo-genesis</a>. <em>Body &amp; Society</em>, 10(2–3), 111–134.<br>
+Moser, I. (2011). <a href="http://journals.sagepub.com/doi/abs/10.1177/0162243910396349" target="_blank" rel="noopener noreferrer">Dementia and the Limits to Life</a>. ST&amp;HV, 36(5), 704–722.<br>
+Puig de la Bellacasa, M. (2011). <a href="http://journals.sagepub.com/doi/abs/10.1177/0306312710380301" target="_blank" rel="noopener noreferrer">Matters of Care in Technoscience. Social Studies of Science</a>, 41(1), 85–106.</p></blockquote>
+<div class="tippy" data-title="4S 2017 annual meeting" data-showheader="false" data-anchor="#tippy_tip0_3971_anchor">4S is the <a href="http://www.4sonline.org/" target="_blank" rel="noopener noreferrer">Society for the Social Studies of Science</a>. The annual meeting details are <a href="http://www.4sonline.org/meeting" target="_blank" rel="noopener noreferrer">here</a>.</div>
+<p>The post <a rel="nofollow" href="http://ast.io/4s-acceptance-2017/">Paper at 4S 2017</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/4s-acceptance-2017/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3288</post-id>	</item>
+		<item>
+		<title>Paper presented at 4S/EASST meeting</title>
+		<link>http://ast.io/finite-flourishings/</link>
+					<comments>http://ast.io/finite-flourishings/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 01 Dec 2016 18:38:07 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Presenting]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[feminist technoscience]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=2209</guid>
+
+					<description><![CDATA[<p>At the combined 4S/EASST meeting this year, Sarah Kember and I presented a paper titled: Writerly (ac)counts of finite flourishings and possibly better ways of being together As Sarah’s introduction to the paper outlined, our co-writings were an attempt to think with the emerging strategies of feminist counting, accounting and re-counting. Below, I present my [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/finite-flourishings/">Read More...<span class="screen-reader-text"> from Paper presented at 4S/EASST meeting</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/finite-flourishings/">Paper presented at 4S/EASST meeting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>At the combined <a href="http://www.4sonline.org/meeting/16" target="_blank" rel="noopener noreferrer">4S/EASST meeting</a> this year, <a href="http://www.gold.ac.uk/media-communications/staff/kember/" target="_blank" rel="noopener noreferrer">Sarah Kember</a> and I presented a paper titled:</p>
+<div class="highlight">Writerly (ac)counts of finite flourishings and possibly better ways of being together</div>
+<p>As Sarah’s introduction to the paper outlined, our co-writings were an attempt to think with the emerging strategies of feminist counting, accounting and re-counting.<br>
+Below, I present my part to the co-authered piece. It’s long, so I put it here more for the record than any expectation it will be read. I must add that the ideas I present draw on work done by <a id="tippy_tip1_7744_anchor"></a>. Without her energy and always thoughtful investment in the field site, this reflection would not have been possible:<span id="more-2209"></span></p>
+<div style="margin:3rem 0 0 -1rem;">Let me approach what we are calling these not so responsible strategies of feminist counting, accounting and re-counting — where <a id="tippy_tip2_8568_anchor"></a> — from a different perspective. I’ll begin by talking about a community building project I’ve been involved in and then, only very briefly, sketch out how, despite the differences, the two accounts Sarah and I have presented stitch together a common thread. This is a thread that I will just hint at for now — it has to do with collective refigurings, a multiplicity in participation, and, naturally, a counting by other means. Our hope is to introduce a sense of perspective, or a re-scaling, where the scale is not merely more human or humanist but something that stems from a kind of writerly, feminist retelling that challenges the masculinist disembodied knowledge practices of those who are able to see multiscalar worlds or invisible information infrastructures from everywhere and nowhere.<br>
+The project I want to recount is set within a six-year regeneration programme on the outskirts of London, where a deteriorating 1960s housing estate — once made up largely of high-rise tower blocks — is in the midst of being demolished and replaced by a contemporary mix of family houses and low-rise apartment buildings. It is a project also set against a longer arch: of a political move from ‘social housing’ to ‘affordable housing’ and a political appetite for ‘social mixing’.<br>
+It will surprise no one here, that such ideas of regeneration, affordability and social mixing have already been characterised as paradigmatic of, if not instrumental to, the neoliberal project. Here, dwellings, and where and how we dwell, are judged against a market value and opportunities for wealth creation. Even community is commodified under a logic of economic factors and enterprise. Connecting these strands, Luna Glucksberg <a id="tippy_tip3_6828_anchor"></a> of a “symbolic devaluation of people, their homes and communities on inner-city estates” where values such as wealth creation seem to be more about an “exclusion from specific value producing processes” than building better spaces and communities.<br>
+My story, amidst all this, begins three years ago with an invitation from Carol, the progressive and remarkably calm project manager leading the regeneration of shall we call it the ‘Eastgate Estate’. Working for a Housing Association that has taken over the once publically owned estate, Carol articulates a compelling case for the massive changes to the built environment. She talks of a failed project now synonymous with social depravation and crime rather than brutalist utopias. “You’ll end up on the Eastgate Estate” has been the threat to troublesome youth in the area.<br>
+In Carol’s eyes, the fresh building plans and concurrent changes to things like tenancy agreements are a concerted push towards building a community —one community — where there was none. This is palpable on the site and feels to genuinely motivate Carol’s team. Indeed, Carol’s original invitation to me was to help in this ‘community building’ by working with the regeneration team’s public engagement officer, Charlie, and a group of core residents from the old estate.<br>
+For myself, and Clara Crivellaro, it was impossible to resist Carol’s invitation. Although under considerable pressure as project manager, Carol welcomed virtually all the ideas we put forward. Thus, over the course of 18 months, led by Clara, we embarked on a series of interviews, meetings, workshops and interventions, culminating in the design of a system for collecting audio recordings of residents’ local stories — a system seeking to project personal and collective narratives back onto a place literally stripped of its physical and social geography.<br>
+Many of you here would expect nothing less than participant informed and carefully crafted systems like this from a participatory design. What I want to focus on though are not these interventions per se. Rather, what has struck me has been how a predominantly women’s labour—or, better yet, the labours of women—have come to surface the different ways in which a community counts. And, for me, this isn’t simply about getting behind grassroots resistances where what counts is a two fingers up to the establishment. I find myself sceptical of any such tidy binary, and one-way solutionism.<br>
+In writing with Sarah, we’ve come to understand our co-figurings as a <em>recounting-as-rescaling</em>, where a feminized labour (as opposed to purely feminine labour) highlights the continued value of stories in an era dominated by financial accounting and the singular computational count. This is a rescaling that doesn’t reject metrics, but is productive in computational and material architectures that might re-evaluate who and what counts.<br>
+So, in the case of the Housing Association’s management team, what stood out were not the social mixing numbers being targeted or even Carol’s overwhelming spreadsheets calculating startlingly large costs against forecasted revenues from the different tenancies. For me, what mattered were the shifting perspectives and scales afforded in Carol’s daily encounters: that she put her office in one of the soon to be demolished buildings; that she walked the Estate’s streets and corridors, talking and genuinely listening to residents; and that they visited her with tea and cake, and for counsel.<br>
+Carol seemed in this not just for the senior position she’d been given at her Housing Association’s flagship site or because she stood out as an exceptional woman among the usual male-management in planning and development… she was in this because she believed life on-the-Estate could be different. Sensitive to the frictions and contradictions of working to a spreadsheet of value-over-values, she and her team created the conditions of openness to other stories and the inevitable rescaling of counts, up and down.<br>
+For residents, this openness has indeed complicated things. Long-time resident of the Eastgate Estate, Theresa, found the operationalised value of a community counted against her. Without an assured income, she failed to meet the cut for the estate’s new tenancy agreements and so found herself having to move to a nearby estate.<br>
+Yet, while we worked on the project, Theresa continued to be one of the most active participants and, with the recording technology in particular, helped to collect many of the recordings.</div>
+<div style="font-size:1.4rem;margin:1rem 0 1rem 3rem;">“We are doing this because we want people to know that everywhere you go there is going to be problems and sometimes you can make a negative into a positive thing. I mean it’s like the stabbing – sometimes when you have a tragedy that brings the community together […] can help improve something […] people know that everything is not perfect.”</div>
+<div style="margin-left:-1rem;">For Tracey, the stories counted because they represented people on the Estate coming together for genuine reasons, they were stories that resisted homogeneous notions of a ‘perfect harmonious community’ and that showed instead why communities find a resilience.<br>
+Thus Thereas is, classed at once, as not right for the new estate, financially, but also deeply invested in its past, present and future. Her troubling position unravels any singular logic of value and shows there to be hard to reconcile differences to a count.<br>
+Troubles were also there in the recorded stories themselves. Wondering about what to record, Denise told a group of us about her scavenging on the demolition site looking for memorabilia to preserve something from the old estate.</div>
+<div style="font-size:1.4rem;margin:1rem 0 1rem 3rem;">“Just before the block itself was actually locked off to the public, I went back with a carrier bag full of glass bottles and did it one more time, just to hear it, and I videoed it, so here it is [replays sound]”</div>
+<div style="margin-left:-1rem;">Managing to get to the top of one of the derelict tower blocks, she’d thrown bottles down the rubbish shoot — as she did when she was a child — and recorded the evocative sound on her phone.<br>
+In a later encounter, again sat around the recording equipment, Rose, a 30-year resident on the estate, spoke of it being “the best thing that ever happened”, giving her the chance to “do things she never dreamt of”. Her recollections are again of a community pitching in and making do: of morning coffees, ploughman’s lunches and afternoon teas, of fun days in the local fields, money raised to see the Christmas lights and bus rides to villages in Kent. “You looked for good things” and discovered “there was always good things.”</div>
+<div style="font-size:1.4rem;margin:1rem 0 1rem 3rem;">“Obviously it has changed over the years and there are so many diverse stories […] that it all adds to everybody’s knowledge of everybody else…we are all sharing and learn more about the past and as I said we meet people and they talk about what they would like for the future…its all connected really…”</div>
+<div style="margin-left:-1rem;">Yet Denise’s mementos and Rose’s good things don’t seem like things that can be uniformly calculated; they might more easily be classed as “popular,” or “lay,” “creek-side,” even “housewife” metrics that are, as the anthropologist Dianne Nelson <a id="tippy_tip4_6712_anchor"></a>, the muddy pollutants in a ‘regime of logic’ that balance costs against benefits. But still, these “off-book” accounts (again Nelson’s phrase) materialise the many things that can come to count, counts as always something laboured on in the variably scaled “value producing processes”.<br>
+And of course there has been the time and labour Clara has put into this project. Maybe these labours and their impact could all be tallied up as a successful return on investment, and used as a ‘responsible metric’ in her department’s national research excellence framework assessment. For me, though, it’s been Clara’s continuing care for what counts and how it might be counted. Putting her heart into the work, her achievement has not been to narrow in on one side over the other, of assuming what counts or who counts in singular ways. Rather, she’s surfaced the struggle and, borrowing from Haraway, stayed with it to make room. For me, Clara’s care epitomises what Maria Puig de la Bellacasa calls an “affective engagement”. She has succeeded in ‘re-affecting’ an objectified world by creating the conditions for rescaling in what-counts-as-valuable on an Estate.<br>
+In a mixture of ways, then, women like Carol, Theresa, Rose, Denise, and Clara have given me the impetus and language to ask different questions about community and about counting. I’d be wrong to claim that these women speak for a feminist ontics, yet, one by one, I see what they’ve done and what they do as a feminised labour, a recounting-as-rescaling, that is situated somewhere and that, in its ongoingness, holds the possibilities open.<br>
+As a man working for what I can only describe as a masculinised organisation (one heavily invested in the computational count and the logic that knots together this with markets), these alternative figurations and rescalings invite me to reflect on my complicity. They invite me, to paraphrase Isabelle Stengers, “to recognise [myself] as a product of the history whose construction [I am] trying to [un]follow”. It ushers me into I hope irresponsible yet at the same time productive patternings and knottings where there might just be the possibility of refiguring computational and material architectures for values in the making.</div>
+<div class="tippy" data-title="Clara Crivellaro" data-showheader="false" data-anchor="#tippy_tip1_7744_anchor">… working from Newcastle’s <a href="https://openlab.ncl.ac.uk/" target="_blank" rel="noopener noreferrer">Open Lab</a></div>
+<div class="tippy" data-title="values might find a way to supersede value" data-showheader="false" data-anchor="#tippy_tip2_8568_anchor">See “<a href="http://www.tandfonline.com/doi/abs/10.1080/1369118X.2015.1111403" target="_blank" rel="noopener noreferrer">Capital experimentation with person/a formation: how Facebook’s monetization refigures the relationship between property, personhood and protest</a>” (Skeggs and Yuill 2015)</div>
+<div class="tippy" data-title="writes" data-showheader="false" data-anchor="#tippy_tip3_6828_anchor">See Glucksberg, L. (2014). <a href="http://doi.org/10.3384/vs.2001-5992.142297" target="_blank" rel="noopener noreferrer">“We Was Regenerated Out”</a>: Regeneration, Recycling and Devaluing Communities. <em>Valuation Studies</em>, 2(2), 97–118.</div>
+<div class="tippy" data-title="puts it" data-showheader="false" data-anchor="#tippy_tip4_6712_anchor">See <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/" target="_blank" rel="noopener noreferrer">“Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala</a></div>
+<p>The post <a rel="nofollow" href="http://ast.io/finite-flourishings/">Paper presented at 4S/EASST meeting</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/finite-flourishings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2209</post-id>	</item>
+		<item>
+		<title>Artificial Intelligence: asking the right questions</title>
+		<link>http://ast.io/ai-asking-the-right-questions/</link>
+					<comments>http://ast.io/ai-asking-the-right-questions/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2016 15:08:57 +0000</pubDate>
+				<category><![CDATA[Presenting]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[intelligence]]></category>
+		<guid isPermaLink="false">http://ast.io/?p=1522</guid>
+
+					<description><![CDATA[<p>Nesta&#160;kindly&#160;invited me to one of their ‘hot topics’&#160;events a couple of weeks ago to present a provocation on AI and human-computer interaction. They also asked for me to write a few words that they’ve now published on the “TheLong+Short” blog here.&#160;I append the original text to my provocation below. I came across this photo on [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/ai-asking-the-right-questions/">Read More...<span class="screen-reader-text"> from Artificial Intelligence: asking the right questions</span></a></p>
+<p>The post <a rel="nofollow" href="http://ast.io/ai-asking-the-right-questions/">Artificial Intelligence: asking the right questions</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.nesta.org.uk/" target="_blank" rel="noopener noreferrer">Nesta</a>&nbsp;kindly&nbsp;invited me to one of their ‘<a href="http://www.nesta.org.uk/event/human-meet-computer" target="_blank" rel="noopener noreferrer">hot topics</a>’&nbsp;events a couple of weeks ago to present a provocation on AI and human-computer interaction. They also asked for me to write a few words that they’ve now published on the “TheLong+Short” blog <a href="http://thelongandshort.org/machines/beyond-human-intelligence" target="_blank" rel="noopener noreferrer">here</a>.&nbsp;I append the original text to my provocation below.<br>
+I came across this photo on my computer today (sorry, I’ve looked to see if I can attribute it to someone, but so far failed). It’s a lovely image&nbsp;in it’s own right, playing with a vintage quality to the future, but in this context I think it does invite the question&nbsp;‘is this the limit of our imaginations?’ I’d like to suggest AI might open us up to so much more.<span id="more-1522"></span><br>
+<img loading="lazy" class="wp-image-1566" style="border-radius: 10px" src="https://i0.wp.com/ast.io/wp-content/uploads/2016/08/children-with-robot-194x300.jpg?resize=240%2C371" alt="Children with robot" width="240" height="371"  data-recalc-dims="1"><br>
+&nbsp;</p>
+<div class="highlight-float">Asking the<br>Right Questions<a id="tippy_tip5_3497_anchor"></a></div>
+<blockquote><p>It seems to me that again and again, in our visions of human computer interaction, we keep coming back to a peculiar notion of human intelligence as a benchmark for what we want our machines to behave like — chess players, go players, conversational agents, car drivers, humanoid robots, etc.<br>
+To me, this seems to be a terribly restrictive idea of intelligence, one that limits our imaginations and constrains what the innovations in machine learning and AI could offer. To be blunt: our clunky ideas of human intelligence, smartness, emotion, and so on, are things we’re so deeply invested in, intellectually and culturally, that they distract us from far more promising possibilities.<br>
+To get us thinking differently, I want to experiment a little with some questions about what we think intelligence is, and what kind of intelligence we might want in the machines we’re building and that we’ll eventually come to live with. Through a different way of viewing the challenges, I want to ask what other kinds of intelligence we might just imagine in our interactions with machines?<br>
+To help develop this line of questioning, let me begin with a parable of sorts, one that might seem to diverge from the topic at hand, but I hope to show has an apposite lesson:<br>
+For decades, animal behaviourists have invested their research energies in assessing whether birds can talk and whether, with that talk, they exhibit higher-functioning cognitive abilities, that is ones closer to our own. In the laboratory — through all sorts of experimental configurations — mynah birds, parrots, macaws etc. have been pushed and prodded to talk. What’s hardly surprising is that the results point towards conclusive evidence that birds have a less sophisticated cognitive capacity to let us say other highly evolved nonhumans such as primates, and of course ourselves. In experimental conditions, birds perform badly (as a matter of fact they do their utmost to sabotage the equipment.<a id="tippy_tip6_6621_anchor"></a> To put it another way, it turns out that mynahs, macaws, parrots, and the like just don’t like to talk under the experimental conditions they are subject to.<br>
+However, outside the laboratory, at least in a limited number of cases, it seems that if people invest in developing a relationship with these birds, one in which the needs and desires are understood to be things that are negotiated and developed over time — what the philosopher and ethnologist Vinciane Depret refers to as “a constant movement of attunement” <a id="tippy_tip7_5145_anchor"></a> — they can start to talk and they can at the end of a day (literally) end up saying things like:</p>
+<div class="highlight">You be good, see you tomorrow.<br>I love you.<a id="tippy_tip8_7626_anchor"></a></div>
+<p>Now, my point here isn’t yet another argument for or against anthropomorphising birds, animals or even machines. My interest — again, taking from Despret — is in how we might start to ask a different set of questions: In the case of birds, it’s not whether we can generalise to say that birds are intrinsically like/unlike humans or, more specifically, whether they can talk like humans. Rather, can we ask what are the conditions through which we can begin to talk with them, and that they might talk back?<br>
+To bring this back to our topic, can we ask what the conditions would be for something akin to intelligence to surface in our human-machine interactions? What questions do we need to ask of those things we interact with to allow an intelligence to surface? It’s this turn to a‑thinking-about-the-conditions that are created and what-might-just-be-possible that invites us to ask some very different questions, questions not about some intrinsic quality of animal or machine intelligence, but of humans and nonhumans altogether, of a wider set of relations and entanglements that bring intelligence into being.<br>
+So what might these different conditions be? And how might we imagine something else through the entanglements between humans and machines? With questions like these I think we open ourselves up to a vast array of possibilities, but let me offer just one idea to illustrate. I want to suggest that through the infrastructural capacities of vastly distributed systems and the production of data, we could begin to see the conditions for difference.<br>
+Take the example of the <a id="tippy_tip9_3637_anchor"></a> in IP geolocation from Maxmind, the US-based provider of “IP intelligence”. Through a system designed to locate people using their connected devices, we see how certain demographic categories are sustained and cemented: what do people living here buy? Or where do nefarious interact activities originate? And, in some cases, we see how the technical particularities of such an algorithmic system can give rise to a so-called glitch where, because of their geographic location, people and households are inadvertently accused of criminal activity. If there’s any intelligence here, it’s invested in counting and bucketing people into coarse and problematic socio-economic categories.<br>
+My question would be to ask how this configuration of geography, people and technology might be changed to surface something else. How might the conditions be altered so that populations are seen not in overly simplistic and at times error-prone ways, but in ways that open us up to different possibilities. How might they be used, for instance, to understand how people could be counted differently, how new classifications might be surfaced that open us up to the other ways we inhabit and build relations to spaces. And what if the specific algorithmic limitations of the system weren’t bracketed off, and treated as noise, but used to ask who is not being counted here, and how might they be?<br>
+I wouldn’t want to pretend to have any concrete or half-baked answers here, but I think we need to take seriously the invitation to ask different questions like these. They will be what surface an intelligence that is more than mimicry and invested, instead, in how we hope to live our lives. Thus, we might ask: What is it each of us might learn from using a system that responds, intelligently, to the relations between ourselves and place? What, derived from a panoply of data sources and billions of human-machine interactions, might each of us develop a sense of? How might each of us truly accomplish something, together, with an emerging back and forth of engagements and interactions?<br>
+In interacting with an intelligence of this sort, we may not need to know its inner workings, just as we don’t need to know the inner workings of someone else (or for that matter of another species) to talk to them. What we do need are the conditions to actively produce something in common, to bit by bit “result in shared perspectives, intelligences and intentions, resemblances, inversions and exchanges of properties.” <a id="tippy_tip10_9467_anchor"></a></p>
+<div class="tippy" data-title="1" data-href="http://ast.io/ai-asking-the-right-questions/#foot_text_1522_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_1522_1" data-showheader data-anchor="#tippy_tip5_3497_anchor">I humbly borrow this phrasing from <a href="http://www.vincianedespret.be/" target="_blank" rel="noopener noreferrer">Vinciane Despret</a> who has invested a career in figuring out the right questions to ask of animals and most recently published the fabulous book “<a href="https://www.upress.umn.edu/book-division/books/what-would-animals-say-if-we-asked-the-right" target="_blank" rel="noopener noreferrer">What would animals say if we asked the right questions?”</a></div>
+<div class="tippy" data-title="2" data-href="http://ast.io/ai-asking-the-right-questions/#foot_text_1522_2" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_1522_2" data-showheader data-anchor="#tippy_tip6_6621_anchor">This is taken from Despret’s book. She cites the following as the source: Griffin, D. (1992). Animal Minds. Chicago: Chicago University Press.</div>
+<div class="tippy" data-title="3" data-href="http://ast.io/ai-asking-the-right-questions/#foot_text_1522_3" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_1522_3" data-showheader data-anchor="#tippy_tip7_5145_anchor">Vinciane Despret 2008. The Becomings of Subjectivity in Animal Worlds. <em>Subjectivity</em>, 23 (1), p 125.</div>
+<div class="tippy" data-title="4" data-href="http://ast.io/ai-asking-the-right-questions/#foot_text_1522_4" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_1522_4" data-showheader data-anchor="#tippy_tip8_7626_anchor">Irene Pepperberg reports that her parrot Alex used to say this to her every evening. It has been widely reported not least in the <a href="http://www.telegraph.co.uk/culture/books/authorinterviews/10523254/Irene-Pepperberg-on-teaching-Alex-the-parrot-to-count.html" target="_blank" rel="noopener noreferrer">Telegraph</a>. I first came across the story via Despret in both her book and her 2008 paper in <a href="http://link.springer.com/article/10.1057%2Fsub.2008.15" target="_blank" rel="noopener noreferrer"><em>Subjectivity</em></a>.</div>
+<div class="tippy" data-title="widely reported glitch" data-showheader="false" data-anchor="#tippy_tip9_3637_anchor">See the original story from <a href="http://fusion.net/author/kashmir-hill/" target="_blank" rel="noopener noreferrer">Kashmir Hill</a> <a href="http://fusion.net/story/287592/internet-mapping-glitch-kansas-farm/" target="_blank" rel="noopener noreferrer">here</a> and a recent followup Guardian piece <a href="https://www.theguardian.com/technology/2016/aug/09/maxmind-mapping-lawsuit-kansas-farm-ip-address" target="_blank" rel="noopener noreferrer">here</a>.</div>
+<div class="tippy" data-title="5" data-href="http://ast.io/ai-asking-the-right-questions/#foot_text_1522_5" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_1522_5" data-showheader data-anchor="#tippy_tip10_9467_anchor">Vinciane Despret 2008. The Becomings of Subjectivity in Animal Worlds. <em>Subjectivity</em>, 23 (1), p 135.</div>
+</blockquote><p>The post <a rel="nofollow" href="http://ast.io/ai-asking-the-right-questions/">Artificial Intelligence: asking the right questions</a> appeared first on <a rel="nofollow" href="http://ast.io/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://ast.io/ai-asking-the-right-questions/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1522</post-id>	</item>
+	</channel>
+</rss>
