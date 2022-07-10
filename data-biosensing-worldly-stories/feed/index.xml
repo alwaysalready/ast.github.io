@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Data, (bio)sensing and (other-)worldly stories from the cycle routes of London	</title>
-	<atom:link href="http://ast.io/data-biosensing-worldly-stories/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/data-biosensing-worldly-stories/</link>
+	<atom:link href="/data-biosensing-worldly-stories/feed/" rel="self" type="application/rss+xml" />
+	<link>/data-biosensing-worldly-stories/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 09 May 2016 16:41:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

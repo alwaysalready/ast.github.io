@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Cycling on up	</title>
-	<atom:link href="http://ast.io/cycling-on-up/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/cycling-on-up/</link>
+	<atom:link href="/cycling-on-up/feed/" rel="self" type="application/rss+xml" />
+	<link>/cycling-on-up/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 03 Aug 2018 12:09:28 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Controlling access to BuddyPress pages	</title>
-	<atom:link href="http://ast.io/controlling-access-buddypress-pages/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/controlling-access-buddypress-pages/</link>
+	<atom:link href="/controlling-access-buddypress-pages/feed/" rel="self" type="application/rss+xml" />
+	<link>/controlling-access-buddypress-pages/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 01 Mar 2020 07:04:57 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: vvcares2		</title>
-		<link>http://ast.io/controlling-access-buddypress-pages/#comment-71</link>
+		<link>/controlling-access-buddypress-pages/#comment-71</link>
 
 		<dc:creator><![CDATA[vvcares2]]></dc:creator>
 		<pubDate>Sun, 01 Mar 2020 07:04:57 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=2559#comment-71</guid>
+		<guid isPermaLink="false">/?p=2559#comment-71</guid>
 
 					<description><![CDATA[The simplest way is explained here. Simple to fix.
 https://vvcares.com/blog/2020/02/wordpress-buddypress-hide-page-from-non-members]]></description>
@@ -36,17 +36,17 @@ https://vvcares.com/blog/2020/02/wordpress-buddypress-hide-page-from-non-members
 		<item>
 		<title>
 		By: Ed		</title>
-		<link>http://ast.io/controlling-access-buddypress-pages/#comment-45</link>
+		<link>/controlling-access-buddypress-pages/#comment-45</link>
 
 		<dc:creator><![CDATA[Ed]]></dc:creator>
 		<pubDate>Fri, 29 Sep 2017 02:39:50 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=2559#comment-45</guid>
+		<guid isPermaLink="false">/?p=2559#comment-45</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/controlling-access-buddypress-pages/#comment-44&quot;&gt;Alex&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/controlling-access-buddypress-pages/#comment-44&quot;&gt;Alex&lt;/a&gt;.
 
 Hi Alex,
 Thank you for the reply. I&#039;m so sorry for not being clear in the message. I didn&#039;t enable Group in my Buddypress. The membership I was referring to was from a membership plugin that would allow me to restrict some content (posts and pages) to a certain members only based on their membership level. But it can&#039;t restrict Buddypress at all. And after a member&#039;s membership is cancelled, he can&#039;t access restricted content but can still log in freely, which means he can still access BP. That&#039;s why I need to find a way to block them from BP after their membership is cancelled and log in based on their cancelled membership level, or whatever else that can do the trick. I hope this clears things up a little. Thanks.:)]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/controlling-access-buddypress-pages/#comment-44">Alex</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/controlling-access-buddypress-pages/#comment-44">Alex</a>.</p>
 <p>Hi Alex,<br>
 Thank you for the reply. I’m so sorry for not being clear in the message. I didn’t enable Group in my Buddypress. The membership I was referring to was from a membership plugin that would allow me to restrict some content (posts and pages) to a certain members only based on their membership level. But it can’t restrict Buddypress at all. And after a member’s membership is cancelled, he can’t access restricted content but can still log in freely, which means he can still access BP. That’s why I need to find a way to block them from BP after their membership is cancelled and log in based on their cancelled membership level, or whatever else that can do the trick. I hope this clears things up a little. Thanks.:)</p>
 ]]></content:encoded>
@@ -55,13 +55,13 @@ Thank you for the reply. I’m so sorry for not being clear in the message. I di
 		<item>
 		<title>
 		By: Alex		</title>
-		<link>http://ast.io/controlling-access-buddypress-pages/#comment-44</link>
+		<link>/controlling-access-buddypress-pages/#comment-44</link>
 
 		<dc:creator><![CDATA[Alex]]></dc:creator>
 		<pubDate>Thu, 28 Sep 2017 12:50:23 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=2559#comment-44</guid>
+		<guid isPermaLink="false">/?p=2559#comment-44</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/controlling-access-buddypress-pages/#comment-43&quot;&gt;Ed&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/controlling-access-buddypress-pages/#comment-43&quot;&gt;Ed&lt;/a&gt;.
 
 Hi Ed. Glad you&#039;ve got part way there with these suggestions. Just wondering if you can check whether or not your cancelled member is part of a group or not? By cancelling their membership, I&#039;m assuming they&#039;re unsubscribing from a buddypress group, is that right?
 If that&#039;s the case, you could use &lt;a href=&quot;http://hookr.io/plugins/buddypress/2.8.2/functions/bp_group_is_member/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow noreferrer&quot;&gt;&quot;&lt;code&gt;bp_group_is_member( $group )&lt;/code&gt;&lt;/a&gt;&quot;? So you could add a new &lt;code&gt;if&lt;/code&gt; statement or, in example 4, lines 7-9, you could change it to something like:
@@ -69,7 +69,7 @@ If that&#039;s the case, you could use &lt;a href=&quot;http://hookr.io/plugins/
 8	 wp_redirect( home_url() . &#039;/membership-signup/&#039; );
 9	}&lt;/code&gt;
 Also worth taking a look at &quot;&lt;code&gt;&lt;a href=&quot;http://hookr.io/functions/groups_is_user_member/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow noreferrer&quot;&gt;groups_is_user_member&lt;/a&gt;&lt;/code&gt;&quot;. Not totally sure what the difference is, but I&#039;ve used it above (line 10), and it seems to work there.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/controlling-access-buddypress-pages/#comment-43">Ed</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/controlling-access-buddypress-pages/#comment-43">Ed</a>.</p>
 <p>Hi Ed. Glad you’ve got part way there with these suggestions. Just wondering if you can check whether or not your cancelled member is part of a group or not? By cancelling their membership, I’m assuming they’re unsubscribing from a buddypress group, is that right?<br>
 If that’s the case, you could use <a href="http://hookr.io/plugins/buddypress/2.8.2/functions/bp_group_is_member/" target="_blank" rel="noopener nofollow noreferrer">“<code>bp_group_is_member( $group )</code></a>”? So you could add a new <code>if</code> statement or, in example 4, lines 7–9, you could change it to something like:<br>
 <code>if ( is_user_logged_in() &amp;&amp; <strong>!bp_group_is_member( $group_id )</strong> &amp;&amp; [list other criteria to limit page/category access] ) {<br>
@@ -82,11 +82,11 @@ Also worth taking a look at “<code><a href="http://hookr.io/functions/groups_i
 		<item>
 		<title>
 		By: Ed		</title>
-		<link>http://ast.io/controlling-access-buddypress-pages/#comment-43</link>
+		<link>/controlling-access-buddypress-pages/#comment-43</link>
 
 		<dc:creator><![CDATA[Ed]]></dc:creator>
 		<pubDate>Thu, 28 Sep 2017 02:43:30 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=2559#comment-43</guid>
+		<guid isPermaLink="false">/?p=2559#comment-43</guid>
 
 					<description><![CDATA[Hi there,
 This information on &quot;3. Restrict access by member type&quot; is exactly what I&#039;ve been looking for in the past few days. I tried it out on the site I&#039;m building and it does work. However, one problem. I need to block members on my site who have cancelled their membership. I assume cancelled members will no longer have a member type, so for this codes to work, I think they have to be rephrased from
@@ -108,18 +108,18 @@ Thank you so much. 🙂</p>
 		<item>
 		<title>
 		By: Alex		</title>
-		<link>http://ast.io/controlling-access-buddypress-pages/#comment-42</link>
+		<link>/controlling-access-buddypress-pages/#comment-42</link>
 
 		<dc:creator><![CDATA[Alex]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2017 22:53:09 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=2559#comment-42</guid>
+		<guid isPermaLink="false">/?p=2559#comment-42</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/controlling-access-buddypress-pages/#comment-41&quot;&gt;Marcus Ferdinand&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/controlling-access-buddypress-pages/#comment-41&quot;&gt;Marcus Ferdinand&lt;/a&gt;.
 
 Thanks for the comment. I found there were quite a few Buddypress pages that were accessible to non-members. I know there&#039;s probably some redundancy in the code above, but I just wanted to make doubly very sure access only went to the right people.
 As for making the activity page public, have you looked at building your own page template which includes the activity loop? I&#039;m not sure, but you may be able to control who can see what that way. There&#039;s a basic guide &lt;a href=&quot;https://premium.wpmudev.org/blog/how-to-customize-the-buddypress-activity-loop/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;, and some options detailed &lt;a href=&quot;https://codex.buddypress.org/developer/loops-reference/the-activity-stream-loop/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;. Also do a search on customising the BuddyPress activity loop.
 I can&#039;t tell for sure whether you can actually make the stream available to non-members, but possibly worth experimenting?]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/controlling-access-buddypress-pages/#comment-41">Marcus Ferdinand</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/controlling-access-buddypress-pages/#comment-41">Marcus Ferdinand</a>.</p>
 <p>Thanks for the comment. I found there were quite a few Buddypress pages that were accessible to non-members. I know there’s probably some redundancy in the code above, but I just wanted to make doubly very sure access only went to the right people.<br>
 As for making the activity page public, have you looked at building your own page template which includes the activity loop? I’m not sure, but you may be able to control who can see what that way. There’s a basic guide <a href="https://premium.wpmudev.org/blog/how-to-customize-the-buddypress-activity-loop/" target="_blank" rel="nofollow noopener noreferrer">here</a>, and some options detailed <a href="https://codex.buddypress.org/developer/loops-reference/the-activity-stream-loop/" target="_blank" rel="nofollow noopener noreferrer">here</a>. Also do a search on customising the BuddyPress activity loop.<br>
 I can’t tell for sure whether you can actually make the stream available to non-members, but possibly worth experimenting?</p>
@@ -129,11 +129,11 @@ I can’t tell for sure whether you can actually make the stream available to no
 		<item>
 		<title>
 		By: Marcus Ferdinand		</title>
-		<link>http://ast.io/controlling-access-buddypress-pages/#comment-41</link>
+		<link>/controlling-access-buddypress-pages/#comment-41</link>
 
 		<dc:creator><![CDATA[Marcus Ferdinand]]></dc:creator>
 		<pubDate>Mon, 13 Feb 2017 16:01:57 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=2559#comment-41</guid>
+		<guid isPermaLink="false">/?p=2559#comment-41</guid>
 
 					<description><![CDATA[Great article. I thought that buddypress does this by default. For instance, logged out users get redirected to the home page when they try to go to the activity page.
 I would be interested in knowing how to show the activity page for logged out users.

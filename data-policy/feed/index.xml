@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: #datapolicy	</title>
-	<atom:link href="http://ast.io/data-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/data-policy/</link>
+	<atom:link href="/data-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>/data-policy/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 10 Apr 2014 12:10:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

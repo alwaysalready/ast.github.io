@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Published “After Interaction”	</title>
-	<atom:link href="http://ast.io/published-after-interaction/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/published-after-interaction/</link>
+	<atom:link href="/published-after-interaction/feed/" rel="self" type="application/rss+xml" />
+	<link>/published-after-interaction/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 06 Oct 2015 12:32:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: Back to interaction (a reply to Barry) - ast.io ast.io		</title>
-		<link>http://ast.io/published-after-interaction/#comment-18</link>
+		<link>/published-after-interaction/#comment-18</link>
 
 		<dc:creator><![CDATA[Back to interaction (a reply to Barry) - ast.io ast.io]]></dc:creator>
 		<pubDate>Tue, 06 Oct 2015 12:32:54 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=732#comment-18</guid>
+		<guid isPermaLink="false">/?p=732#comment-18</guid>
 
 					<description><![CDATA[[&#8230;] grateful to Barry Brown for his comments on my short Interactions piece, &#8220;After [&#8230;]]]></description>
 			<content:encoded><![CDATA[<p>[…] grateful to Barry Brown for his comments on my short Interactions piece, “After […]</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		By: Barry		</title>
-		<link>http://ast.io/published-after-interaction/#comment-17</link>
+		<link>/published-after-interaction/#comment-17</link>
 
 		<dc:creator><![CDATA[Barry]]></dc:creator>
 		<pubDate>Fri, 02 Oct 2015 15:38:08 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=732#comment-17</guid>
+		<guid isPermaLink="false">/?p=732#comment-17</guid>
 
 					<description><![CDATA[I wanted to write you a short note with a response to your interactions article, which was very inspiring and thoughtful, and chimed with my own thoughts recently, alongside as you’d expect some disagreements :-). I’ve been trying to think of a HCI without interaction, or rather presumptuously a ‘post-interaction hci’ and what that might be, although i was rather thinking more of how things might do things differently, rather than re-conceptualising existing worlds of technology and people.
 As I saw your argument it had two steps.  The first, is the familiar concern with rethinking material/non-material relationships; and recasting relationships between hybrid entities in more networked, entanglement-ed descriptions.

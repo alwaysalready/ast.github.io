@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Paper presented at 4S/EASST meeting	</title>
-	<atom:link href="http://ast.io/finite-flourishings/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/finite-flourishings/</link>
+	<atom:link href="/finite-flourishings/feed/" rel="self" type="application/rss+xml" />
+	<link>/finite-flourishings/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 01 Dec 2016 18:38:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

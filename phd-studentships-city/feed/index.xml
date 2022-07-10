@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: PhD studentships at City	</title>
-	<atom:link href="http://ast.io/phd-studentships-city/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/phd-studentships-city/</link>
+	<atom:link href="/phd-studentships-city/feed/" rel="self" type="application/rss+xml" />
+	<link>/phd-studentships-city/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 06 Feb 2018 22:30:41 +0000</lastBuildDate>
 	<sy:updatePeriod>

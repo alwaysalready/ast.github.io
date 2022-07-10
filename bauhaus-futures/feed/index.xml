@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Bauhaus Futures Book Chapter	</title>
-	<atom:link href="http://ast.io/bauhaus-futures/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/bauhaus-futures/</link>
+	<atom:link href="/bauhaus-futures/feed/" rel="self" type="application/rss+xml" />
+	<link>/bauhaus-futures/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 12 Dec 2019 10:37:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: William Kentridge — “A drawing lesson”	</title>
-	<atom:link href="http://ast.io/drawing-lesson/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/drawing-lesson/</link>
+	<atom:link href="/drawing-lesson/feed/" rel="self" type="application/rss+xml" />
+	<link>/drawing-lesson/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 25 Jul 2017 21:52:22 +0000</lastBuildDate>
 	<sy:updatePeriod>

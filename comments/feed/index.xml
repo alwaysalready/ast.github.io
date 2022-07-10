@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Alex Taylor	</title>
-	<atom:link href="http://ast.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 23 Mar 2022 19:00:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Automatically subscribe to Buddypress group forum by simeaulrich		</title>
-		<link>http://ast.io/auto-subscribe-group-forum/#comment-94</link>
+		<link>/auto-subscribe-group-forum/#comment-94</link>
 
 		<dc:creator><![CDATA[simeaulrich]]></dc:creator>
 		<pubDate>Wed, 23 Mar 2022 19:00:40 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=3244#comment-94</guid>
+		<guid isPermaLink="false">/?p=3244#comment-94</guid>
 
 					<description><![CDATA[That&#039;s really nice, you just saved me a lot of time! Is there a way to do the same for unsubscribe? Like when I leave a group also unsubscribe the forum?]]></description>
 			<content:encoded><![CDATA[<p>That’s really nice, you just saved me a lot of time! Is there a way to do the same for unsubscribe? Like when I leave a group also unsubscribe the forum?</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Peace David		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-88</link>
+		<link>/html-emails-buddypress-bbpress/#comment-88</link>
 
 		<dc:creator><![CDATA[Peace David]]></dc:creator>
 		<pubDate>Thu, 15 Jul 2021 11:06:26 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-88</guid>
+		<guid isPermaLink="false">/?p=5694#comment-88</guid>
 
 					<description><![CDATA[Please are we adding the bp-custom.php to wp-content/plugins/buddypress ?]]></description>
 			<content:encoded><![CDATA[<p>Please are we adding the bp-custom.php to wp-content/plugins/buddypress ?</p>
@@ -48,11 +48,11 @@
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Tiffany Bryant		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-86</link>
+		<link>/html-emails-buddypress-bbpress/#comment-86</link>
 
 		<dc:creator><![CDATA[Tiffany Bryant]]></dc:creator>
 		<pubDate>Wed, 05 May 2021 22:04:19 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-86</guid>
+		<guid isPermaLink="false">/?p=5694#comment-86</guid>
 
 					<description><![CDATA[Thank you thank you thank you!!]]></description>
 			<content:encoded><![CDATA[<p>Thank you thank you thank you!!</p>
@@ -62,20 +62,20 @@
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Alex Taylor		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-85</link>
+		<link>/html-emails-buddypress-bbpress/#comment-85</link>
 
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Tue, 13 Apr 2021 16:32:58 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-85</guid>
+		<guid isPermaLink="false">/?p=5694#comment-85</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/html-emails-buddypress-bbpress/#comment-84&quot;&gt;Lefteris&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/html-emails-buddypress-bbpress/#comment-84&quot;&gt;Lefteris&lt;/a&gt;.
 
 That&#039;s a good point. I&#039;ve not tried this, but I wonder if removing the &#039;wp_mail_content_type&#039; filter after step 3 might work. So, at line 26, something like: &quot;remove_filter( &#039;wp_mail_content_type&#039;, &#039;set_html_content_type&#039; );&quot;
 
 Let me know if you try this and have any success.
 
 Alternatively, I notice in the examples, &lt;a href=&quot;https://developer.wordpress.org/reference/hooks/wp_mail_content_type/&quot; target=&quot;_blank&quot; rel=&quot;noopener nofollow ugc&quot;&gt;here&lt;/a&gt;, there&#039;s a suggestion from stevenlinx to use an if statement to conditionally specify the content type.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/html-emails-buddypress-bbpress/#comment-84">Lefteris</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/html-emails-buddypress-bbpress/#comment-84">Lefteris</a>.</p>
 <p>That’s a good point. I’ve not tried this, but I wonder if removing the ‘wp_mail_content_type’ filter after step 3 might work. So, at line 26, something like: “remove_filter( ‘wp_mail_content_type’, ‘set_html_content_type’ );”</p>
 <p>Let me know if you try this and have any success.</p>
 <p>Alternatively, I notice in the examples, <a href="https://developer.wordpress.org/reference/hooks/wp_mail_content_type/" target="_blank" rel="noopener nofollow ugc">here</a>, there’s a suggestion from stevenlinx to use an if statement to conditionally specify the content type.</p>
@@ -85,11 +85,11 @@ Alternatively, I notice in the examples, &lt;a href=&quot;https://developer.word
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Lefteris		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-84</link>
+		<link>/html-emails-buddypress-bbpress/#comment-84</link>
 
 		<dc:creator><![CDATA[Lefteris]]></dc:creator>
 		<pubDate>Tue, 13 Apr 2021 14:44:52 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-84</guid>
+		<guid isPermaLink="false">/?p=5694#comment-84</guid>
 
 					<description><![CDATA[Hello Alfred, Thank you for sharing this code :) 
 
@@ -102,16 +102,16 @@ Could i ask you how would it be possible to change the code in a way so that it 
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Alex Taylor		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-83</link>
+		<link>/html-emails-buddypress-bbpress/#comment-83</link>
 
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 08:49:31 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-83</guid>
+		<guid isPermaLink="false">/?p=5694#comment-83</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/html-emails-buddypress-bbpress/#comment-82&quot;&gt;Alfred&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/html-emails-buddypress-bbpress/#comment-82&quot;&gt;Alfred&lt;/a&gt;.
 
 Hey Alfred, you don&#039;t want to edit bpcore. Create a file called bp-custom.php in the wp-content/plugins folder. Add the code in this file, following steps above.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/html-emails-buddypress-bbpress/#comment-82">Alfred</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/html-emails-buddypress-bbpress/#comment-82">Alfred</a>.</p>
 <p>Hey Alfred, you don’t want to edit bpcore. Create a file called bp-custom.php in the wp-content/plugins folder. Add the code in this file, following steps above.</p>
 ]]></content:encoded>
 		
@@ -119,11 +119,11 @@ Hey Alfred, you don&#039;t want to edit bpcore. Create a file called bp-custom.p
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Alfred		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-82</link>
+		<link>/html-emails-buddypress-bbpress/#comment-82</link>
 
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Mon, 08 Mar 2021 12:55:12 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-82</guid>
+		<guid isPermaLink="false">/?p=5694#comment-82</guid>
 
 					<description><![CDATA[I don&#039;t know what I&#039;m doing wrong here. This line of code worked &quot;add_filter( &#039;bp_email_use_wp_mail&#039;, &#039;__return_true&#039; );&quot; under function.php but when  I add these changes under bbcore nothing happen.]]></description>
 			<content:encoded><![CDATA[<p>I don’t know what I’m doing wrong here. This line of code worked “add_filter( ‘bp_email_use_wp_mail’, ‘__return_true’ );” under function.php but when  I add these changes under bbcore nothing happen.</p>
@@ -133,11 +133,11 @@ Hey Alfred, you don&#039;t want to edit bpcore. Create a file called bp-custom.p
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Bogdan		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-81</link>
+		<link>/html-emails-buddypress-bbpress/#comment-81</link>
 
 		<dc:creator><![CDATA[Bogdan]]></dc:creator>
 		<pubDate>Mon, 08 Feb 2021 10:47:26 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-81</guid>
+		<guid isPermaLink="false">/?p=5694#comment-81</guid>
 
 					<description><![CDATA[Thank you for sharing this, works like a charm!]]></description>
 			<content:encoded><![CDATA[<p>Thank you for sharing this, works like a charm!</p>
@@ -147,11 +147,11 @@ Hey Alfred, you don&#039;t want to edit bpcore. Create a file called bp-custom.p
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Vasyl		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-80</link>
+		<link>/html-emails-buddypress-bbpress/#comment-80</link>
 
 		<dc:creator><![CDATA[Vasyl]]></dc:creator>
 		<pubDate>Sun, 10 Jan 2021 21:30:06 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-80</guid>
+		<guid isPermaLink="false">/?p=5694#comment-80</guid>
 
 					<description><![CDATA[You are GENIUS! Thank you, this method helped!]]></description>
 			<content:encoded><![CDATA[<p>You are GENIUS! Thank you, this method helped!</p>
@@ -161,16 +161,16 @@ Hey Alfred, you don&#039;t want to edit bpcore. Create a file called bp-custom.p
 		<item>
 		<title>
 		Comment on Sending HTML formatted emails using BuddyPress and BBPress by Alex Taylor		</title>
-		<link>http://ast.io/html-emails-buddypress-bbpress/#comment-77</link>
+		<link>/html-emails-buddypress-bbpress/#comment-77</link>
 
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Mon, 23 Nov 2020 13:35:47 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=5694#comment-77</guid>
+		<guid isPermaLink="false">/?p=5694#comment-77</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;http://ast.io/html-emails-buddypress-bbpress/#comment-76&quot;&gt;Vikas&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;/html-emails-buddypress-bbpress/#comment-76&quot;&gt;Vikas&lt;/a&gt;.
 
 Hi there. I&#039;ve not seen any disruption to one-on-one emails between users. From what I can tell, the direct messages are sent using HTML with this configuration so I have to assume the above changes apply to them as well.]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="http://ast.io/html-emails-buddypress-bbpress/#comment-76">Vikas</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="/html-emails-buddypress-bbpress/#comment-76">Vikas</a>.</p>
 <p>Hi there. I’ve not seen any disruption to one-on-one emails between users. From what I can tell, the direct messages are sent using HTML with this configuration so I have to assume the above changes apply to them as well.</p>
 ]]></content:encoded>
 		

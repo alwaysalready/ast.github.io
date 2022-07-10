@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>security - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/security/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>security Archives | Alex Taylor</title>
+	<atom:link href="/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 11 Dec 2015 22:25:57 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,22 +21,25 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Securing a bicycle saddle to a bike</title>
-		<link>http://ast.io/secure-bike-saddle/</link>
-					<comments>http://ast.io/secure-bike-saddle/#comments</comments>
+		<link>/secure-bike-saddle/</link>
+					<comments>/secure-bike-saddle/#comments</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Fri, 11 Dec 2015 22:25:57 +0000</pubDate>
 				<category><![CDATA[Projects]]></category>
 		<category><![CDATA[bicycle]]></category>
 		<category><![CDATA[security]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=864</guid>
+		<guid isPermaLink="false">/?p=864</guid>
 
-					<description><![CDATA[Slightly off topic, but I thought it&#160;would be worth sharing my attempt at what might seam the trifling problem of securing a&#160;bike seat or saddle to a&#160;bike. As many cyclists will know, seats or saddles can be a real target for thieves — I’ve had at least two stolen. The trouble is good saddles can [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/secure-bike-saddle/">Read More...<span class="screen-reader-text"> from Securing a bicycle saddle to a bike</span></a></p>]]></description>
+					<description><![CDATA[<p>Slightly off topic, but I thought it&#160;would be worth sharing my attempt at what might seam the trifling problem of securing a&#160;bike seat or saddle to a&#160;bike. As many cyclists will know, seats or saddles can be a real target for thieves — I’ve had at least two stolen. The trouble is good saddles can [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/secure-bike-saddle/">Read More...<span class="screen-reader-text"> from Securing a bicycle saddle to a bike</span></a></p>
+<p>The post <a rel="nofollow" href="/secure-bike-saddle/">Securing a bicycle saddle to a bike</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Slightly off topic, but I thought it&nbsp;would be worth sharing my attempt at what might seam the trifling problem of securing a&nbsp;bike seat or saddle to a&nbsp;bike.<span id="more-864"></span></p>
 <div class="row" style="float:left; padding:.1rem 1rem 1rem 0;text-align:left;">
 <div class="col-md-auto">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/bike-seat-300x300.jpg" alt="Brooks saddle" style="width:96%">
+			<img src="/wp-content/uploads/2015/12/bike-seat-300x300.jpg" alt="Brooks saddle" style="width:96%">
 		</div>
 </div>
 </div>
@@ -48,17 +51,17 @@ A solution I’ve come up with&nbsp;is to use a combination of a generic securit
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3705-300x300.jpg" alt="bicycle-security bolt + screw" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3705-300x300.jpg" alt="bicycle-security bolt + screw" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3686-300x300.jpg" alt="bicycle-security bolt gauge" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3686-300x300.jpg" alt="bicycle-security bolt gauge" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3697-300x300.jpg" alt="bicycle-security bolt length" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3697-300x300.jpg" alt="bicycle-security bolt length" style="width:100%">
 		</div>
 </div>
 </div>
@@ -67,36 +70,33 @@ I went for the M8 (8mm thread width) by&nbsp;50mm long “<a href="http://www.se
 <div class="row">
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3709-300x300.jpg" alt="bolts" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3709-300x300.jpg" alt="bolts" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3682-300x300.jpg" alt="bicycle-security bolt and seat" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3682-300x300.jpg" alt="bicycle-security bolt and seat" style="width:100%">
 		</div>
 </div>
 </div>
 <p><br><br>
-What you get are 10 bolts (minimum order) and a small screw driver insert with a special fitting. The latter as the website explains “[tippy title=“fits into most conventional magnetic drivers.” showheader=“false”]<img loading="lazy" class="alignleft size-medium wp-image-880" src="http://ast.io/wp-content/uploads/2015/12/IMG_3708-300x123.jpg" alt="IMG_3708" width="300" height="123"></p>
-<p style="font-size: 80%;">Screw driver with replaceable fitting.<br>
-<a href="http://www.amazon.co.uk/Stanley-066358-Multi-Bit-Stubby-Screwdriver/dp/B003KQ5EFM/ref=pd_sim_60_4?ie=UTF8&amp;dpID=41G5TmJTtEL&amp;dpSrc=sims&amp;preST=_AC_UL160_SR160%2C160_&amp;refRID=0CWWQ5ZHSWKAHB09Z4Z2" target="_blank" rel="noopener noreferrer">This kind of thing.</a></p>
-<p>[/tippy]”<br>
+What you get are 10 bolts (minimum order) and a small screw driver insert with a special fitting. The latter as the website explains “<a id="tippy_tip0_4731_anchor"></a>”<br>
 All I had to do is replace the original bolt that secures your saddle to the seat post, with the new security bolt.</p>
 <h3>Locking the seat and seat post to the bike frame</h3>
 <div class="row" style="margin-top:.1rem;">
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3728-300x300.jpg" alt="IMG_3728" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3728-300x300.jpg" alt="IMG_3728" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3747-300x300.jpg" alt="IMG_3747" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3747-300x300.jpg" alt="IMG_3747" style="width:100%">
 		</div>
 </div>
 <div class="col-md-4">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3736-300x300.jpg" alt="IMG_3736" style="width:100%">
+			<img src="/wp-content/uploads/2015/12/IMG_3736-300x300.jpg" alt="IMG_3736" style="width:100%">
 		</div>
 </div>
 </div>
@@ -104,7 +104,7 @@ All I had to do is replace the original bolt that secures your saddle to the sea
 <div class="row" style="float:right; padding:.1rem 0 1rem 1rem;text-align:right;">
 <div class="col-md-auto">
 <div class="thumbnail">
-			<img src="http://ast.io/wp-content/uploads/2015/12/IMG_3732-300x300.jpg" alt="original seat post nut" style="width:96%;">
+			<img src="/wp-content/uploads/2015/12/IMG_3732-300x300.jpg" alt="original seat post nut" style="width:96%;">
 		</div>
 </div>
 </div>
@@ -116,9 +116,14 @@ The fitting is pretty straightforward. Use a standard <a href="https://en.wikipe
 Of course, nothing is failsafe, and this idea is vulnerable to thieves having the right fittings — I don’t think that’s likely, though, not until they read this post anyway.<br>
 Naturally, this idea won’t work with all seat and seat post fittings. It could work with different arrangements though, just make sure to get the right gauged nuts and bolts and that you’ve got enough room to tighten them with a screw diver or spanner.<br>
 If you’ve read this far and you think you need a M8 bolt or nut (and live close to East London) drop me a line. I’ll probably have spares of both.</p>
+<div class="tippy" data-title="fits into most conventional magnetic drivers." data-showheader="false" data-anchor="#tippy_tip0_4731_anchor"><img loading="lazy" class="alignleft size-medium wp-image-880" src="/wp-content/uploads/2015/12/IMG_3708-300x123.jpg" alt="IMG_3708" width="300" height="123">
+<p style="font-size: 80%;">Screw driver with replaceable fitting.<br>
+<a href="http://www.amazon.co.uk/Stanley-066358-Multi-Bit-Stubby-Screwdriver/dp/B003KQ5EFM/ref=pd_sim_60_4?ie=UTF8&amp;dpID=41G5TmJTtEL&amp;dpSrc=sims&amp;preST=_AC_UL160_SR160%2C160_&amp;refRID=0CWWQ5ZHSWKAHB09Z4Z2" target="_blank" rel="noopener noreferrer">This kind of thing.</a></p>
+<p></p></div>
+<p>The post <a rel="nofollow" href="/secure-bike-saddle/">Securing a bicycle saddle to a bike</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/secure-bike-saddle/feed/</wfw:commentRss>
+					<wfw:commentRss>/secure-bike-saddle/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		

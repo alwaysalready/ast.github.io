@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: HCID Seminar talk	</title>
-	<atom:link href="http://ast.io/hcid-seminar-talk-2018/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/hcid-seminar-talk-2018/</link>
+	<atom:link href="/hcid-seminar-talk-2018/feed/" rel="self" type="application/rss+xml" />
+	<link>/hcid-seminar-talk-2018/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 30 Nov 2018 10:36:31 +0000</lastBuildDate>
 	<sy:updatePeriod>

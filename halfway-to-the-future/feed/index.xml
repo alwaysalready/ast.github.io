@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Halfway to the Future	</title>
-	<atom:link href="http://ast.io/halfway-to-the-future/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/halfway-to-the-future/</link>
+	<atom:link href="/halfway-to-the-future/feed/" rel="self" type="application/rss+xml" />
+	<link>/halfway-to-the-future/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 12 Jun 2020 06:43:54 +0000</lastBuildDate>
 	<sy:updatePeriod>

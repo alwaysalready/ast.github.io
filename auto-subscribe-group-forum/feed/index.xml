@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Automatically subscribe to Buddypress group forum	</title>
-	<atom:link href="http://ast.io/auto-subscribe-group-forum/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/auto-subscribe-group-forum/</link>
+	<atom:link href="/auto-subscribe-group-forum/feed/" rel="self" type="application/rss+xml" />
+	<link>/auto-subscribe-group-forum/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 23 Mar 2022 19:00:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: simeaulrich		</title>
-		<link>http://ast.io/auto-subscribe-group-forum/#comment-94</link>
+		<link>/auto-subscribe-group-forum/#comment-94</link>
 
 		<dc:creator><![CDATA[simeaulrich]]></dc:creator>
 		<pubDate>Wed, 23 Mar 2022 19:00:40 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=3244#comment-94</guid>
+		<guid isPermaLink="false">/?p=3244#comment-94</guid>
 
 					<description><![CDATA[That&#039;s really nice, you just saved me a lot of time! Is there a way to do the same for unsubscribe? Like when I leave a group also unsubscribe the forum?]]></description>
 			<content:encoded><![CDATA[<p>That’s really nice, you just saved me a lot of time! Is there a way to do the same for unsubscribe? Like when I leave a group also unsubscribe the forum?</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		By: olufemishield		</title>
-		<link>http://ast.io/auto-subscribe-group-forum/#comment-46</link>
+		<link>/auto-subscribe-group-forum/#comment-46</link>
 
 		<dc:creator><![CDATA[olufemishield]]></dc:creator>
 		<pubDate>Tue, 03 Jul 2018 12:51:28 +0000</pubDate>
-		<guid isPermaLink="false">http://ast.io/?p=3244#comment-46</guid>
+		<guid isPermaLink="false">/?p=3244#comment-46</guid>
 
 					<description><![CDATA[Hi, thanks a lot for this.]]></description>
 			<content:encoded><![CDATA[<p>Hi, thanks a lot for this.</p>

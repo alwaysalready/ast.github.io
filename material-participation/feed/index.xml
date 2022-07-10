@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Reading Material Participation	</title>
-	<atom:link href="http://ast.io/material-participation/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/material-participation/</link>
+	<atom:link href="/material-participation/feed/" rel="self" type="application/rss+xml" />
+	<link>/material-participation/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 29 May 2015 15:18:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

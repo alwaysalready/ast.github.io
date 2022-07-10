@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Reading “Yes to Life = No to Mining:”…	</title>
-	<atom:link href="http://ast.io/yes-to-life/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/yes-to-life/</link>
+	<atom:link href="/yes-to-life/feed/" rel="self" type="application/rss+xml" />
+	<link>/yes-to-life/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 29 Feb 2016 19:45:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

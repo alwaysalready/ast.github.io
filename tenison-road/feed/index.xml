@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Announcing Tenison Road launch	</title>
-	<atom:link href="http://ast.io/tenison-road/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/tenison-road/</link>
+	<atom:link href="/tenison-road/feed/" rel="self" type="application/rss+xml" />
+	<link>/tenison-road/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 27 Sep 2013 09:11:51 +0000</lastBuildDate>
 	<sy:updatePeriod>

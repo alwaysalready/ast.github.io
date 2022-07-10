@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Short note on Solove’s ‘Nothing to Hide’	</title>
-	<atom:link href="http://ast.io/something-to-say/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/something-to-say/</link>
+	<atom:link href="/something-to-say/feed/" rel="self" type="application/rss+xml" />
+	<link>/something-to-say/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 04 Oct 2013 12:24:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

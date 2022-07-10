@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: IX Magazine: AI Activism	</title>
-	<atom:link href="http://ast.io/ix-magazine-ai-activism/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/ix-magazine-ai-activism/</link>
+	<atom:link href="/ix-magazine-ai-activism/feed/" rel="self" type="application/rss+xml" />
+	<link>/ix-magazine-ai-activism/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 17:44:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

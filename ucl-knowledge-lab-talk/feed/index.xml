@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: “Being Capable” at UCL Knowledge Lab	</title>
-	<atom:link href="http://ast.io/ucl-knowledge-lab-talk/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/ucl-knowledge-lab-talk/</link>
+	<atom:link href="/ucl-knowledge-lab-talk/feed/" rel="self" type="application/rss+xml" />
+	<link>/ucl-knowledge-lab-talk/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 26 Feb 2017 20:57:53 +0000</lastBuildDate>
 	<sy:updatePeriod>

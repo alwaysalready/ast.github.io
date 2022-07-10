@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: “Remaking Digital Futures” — BDFI Panel	</title>
-	<atom:link href="http://ast.io/remaking-digital-futures/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/remaking-digital-futures/</link>
+	<atom:link href="/remaking-digital-futures/feed/" rel="self" type="application/rss+xml" />
+	<link>/remaking-digital-futures/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 01 Mar 2022 09:50:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

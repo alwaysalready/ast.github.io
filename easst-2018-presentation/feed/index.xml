@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: EASST 2018 Presentation	</title>
-	<atom:link href="http://ast.io/easst-2018-presentation/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/easst-2018-presentation/</link>
+	<atom:link href="/easst-2018-presentation/feed/" rel="self" type="application/rss+xml" />
+	<link>/easst-2018-presentation/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 01 Aug 2018 08:53:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

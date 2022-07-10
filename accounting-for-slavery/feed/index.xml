@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Reading “Accounting for Slavery”	</title>
-	<atom:link href="http://ast.io/accounting-for-slavery/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/accounting-for-slavery/</link>
+	<atom:link href="/accounting-for-slavery/feed/" rel="self" type="application/rss+xml" />
+	<link>/accounting-for-slavery/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 08 Sep 2019 20:34:19 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Seminar talk at Edinburgh Design Informatics	</title>
-	<atom:link href="http://ast.io/edinburgh-design-informatics/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/edinburgh-design-informatics/</link>
+	<atom:link href="/edinburgh-design-informatics/feed/" rel="self" type="application/rss+xml" />
+	<link>/edinburgh-design-informatics/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 02 Oct 2019 20:43:43 +0000</lastBuildDate>
 	<sy:updatePeriod>

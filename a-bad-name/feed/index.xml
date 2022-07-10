@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: On “How Apple is Giving Design a Bad Name”	</title>
-	<atom:link href="http://ast.io/a-bad-name/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/a-bad-name/</link>
+	<atom:link href="/a-bad-name/feed/" rel="self" type="application/rss+xml" />
+	<link>/a-bad-name/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 11 Nov 2015 16:02:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

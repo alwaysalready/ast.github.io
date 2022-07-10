@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Talk at RCA, Design Products	</title>
-	<atom:link href="http://ast.io/what-are-we-capable-of/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/what-are-we-capable-of/</link>
+	<atom:link href="/what-are-we-capable-of/feed/" rel="self" type="application/rss+xml" />
+	<link>/what-are-we-capable-of/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 10 Feb 2017 11:10:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

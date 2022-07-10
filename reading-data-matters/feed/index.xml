@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Reading Data matter(s)	</title>
-	<atom:link href="http://ast.io/reading-data-matters/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/reading-data-matters/</link>
+	<atom:link href="/reading-data-matters/feed/" rel="self" type="application/rss+xml" />
+	<link>/reading-data-matters/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 13 Apr 2014 21:14:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

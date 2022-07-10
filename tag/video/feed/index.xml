@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>video - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/video/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>video Archives | Alex Taylor</title>
+	<atom:link href="/tag/video/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 18:48:18 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,17 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Video: Ecological Reparation &#038; Blockchain Food Imaginaries</title>
-		<link>http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/</link>
-					<comments>http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/#respond</comments>
+		<link>/video-ecological-reparation-blockchain-food-imaginaries/</link>
+					<comments>/video-ecological-reparation-blockchain-food-imaginaries/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Wed, 27 Oct 2021 13:08:25 +0000</pubDate>
 				<category><![CDATA[Projects]]></category>
 		<category><![CDATA[Blockchain Food Imaginaries]]></category>
 		<category><![CDATA[video]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=5894</guid>
+		<guid isPermaLink="false">/?p=5894</guid>
 
-					<description><![CDATA[Under what technoscientific conditions might the scarcity of food be understood as contingent on heterogeneous actors?&#160;And how might the possibilities&#160;of food abundance be approached as a reparative project of valuing their manifold relations? Blockchain promises to be an infrastructure that presents both productive imaginaries and also challenges to such restorative and sustainable work (Seidler et [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/">Read More...<span class="screen-reader-text"> from Video: Ecological Reparation &#38; Blockchain Food Imaginaries</span></a></p>]]></description>
+					<description><![CDATA[<p>Under what technoscientific conditions might the scarcity of food be understood as contingent on heterogeneous actors?&#160;And how might the possibilities&#160;of food abundance be approached as a reparative project of valuing their manifold relations? Blockchain promises to be an infrastructure that presents both productive imaginaries and also challenges to such restorative and sustainable work (Seidler et [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/video-ecological-reparation-blockchain-food-imaginaries/">Read More...<span class="screen-reader-text"> from Video: Ecological Reparation &#38; Blockchain Food Imaginaries</span></a></p>
+<p>The post <a rel="nofollow" href="/video-ecological-reparation-blockchain-food-imaginaries/">Video: Ecological Reparation &amp; Blockchain Food Imaginaries</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<div class="row">
 <div class="col-sm-11 col-md-12 mt-3">
 <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/1VPaU1SWjq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,9 +52,10 @@
 <p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p></div>
 </div>
+<p>The post <a rel="nofollow" href="/video-ecological-reparation-blockchain-food-imaginaries/">Video: Ecological Reparation &amp; Blockchain Food Imaginaries</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/video-ecological-reparation-blockchain-food-imaginaries/feed/</wfw:commentRss>
+					<wfw:commentRss>/video-ecological-reparation-blockchain-food-imaginaries/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

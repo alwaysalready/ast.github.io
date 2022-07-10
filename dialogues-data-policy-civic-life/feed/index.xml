@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Dialogues on data, policy and civic life	</title>
-	<atom:link href="http://ast.io/dialogues-data-policy-civic-life/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/dialogues-data-policy-civic-life/</link>
+	<atom:link href="/dialogues-data-policy-civic-life/feed/" rel="self" type="application/rss+xml" />
+	<link>/dialogues-data-policy-civic-life/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 06 Mar 2014 14:42:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

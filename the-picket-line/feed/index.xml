@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: From the Picket Line	</title>
-	<atom:link href="http://ast.io/the-picket-line/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/the-picket-line/</link>
+	<atom:link href="/the-picket-line/feed/" rel="self" type="application/rss+xml" />
+	<link>/the-picket-line/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 19 Mar 2018 22:34:16 +0000</lastBuildDate>
 	<sy:updatePeriod>

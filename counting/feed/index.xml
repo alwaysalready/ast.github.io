@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: On Counting	</title>
-	<atom:link href="http://ast.io/counting/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/counting/</link>
+	<atom:link href="/counting/feed/" rel="self" type="application/rss+xml" />
+	<link>/counting/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 06 Jul 2015 11:51:56 +0000</lastBuildDate>
 	<sy:updatePeriod>

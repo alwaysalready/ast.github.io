@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Talk at “Austerity Futures?”	</title>
-	<atom:link href="http://ast.io/austerity-futures/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/austerity-futures/</link>
+	<atom:link href="/austerity-futures/feed/" rel="self" type="application/rss+xml" />
+	<link>/austerity-futures/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 31 Oct 2013 20:18:59 +0000</lastBuildDate>
 	<sy:updatePeriod>

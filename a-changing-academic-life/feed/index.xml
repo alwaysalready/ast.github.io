@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: A changing academic life	</title>
-	<atom:link href="http://ast.io/a-changing-academic-life/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/a-changing-academic-life/</link>
+	<atom:link href="/a-changing-academic-life/feed/" rel="self" type="application/rss+xml" />
+	<link>/a-changing-academic-life/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 31 Jul 2019 09:02:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>access - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/access/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>access Archives | Alex Taylor</title>
+	<atom:link href="/tag/access/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 15:38:15 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Panel talk: Prototyping AI ethics futures—Rights, access and refusal</title>
-		<link>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/</link>
-					<comments>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/#respond</comments>
+		<link>/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/</link>
+					<comments>/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Sun, 20 Jun 2021 11:47:51 +0000</pubDate>
@@ -32,9 +32,12 @@
 		<category><![CDATA[access]]></category>
 		<category><![CDATA[AI]]></category>
 		<category><![CDATA[dis/ability]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=5848</guid>
+		<guid isPermaLink="false">/?p=5848</guid>
 
-					<description><![CDATA[Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with Ada Lovelace Institute, The British Academy and The Arts and Humanities Research council. Join us this Wednesday 23th at 1pm BST for the@justainet panel on “Rights, Access and Refusal” with @crystaljjlee @alxndrt and @maramills. Response from @sarahchander and chaired by @anthroptimist and @_louhicky https://t.co/3UUdNNzOsf [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Read More...<span class="screen-reader-text"> from Panel talk: Prototyping AI ethics futures—Rights, access and refusal</span></a></p>]]></description>
+					<description><![CDATA[<p>Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with Ada Lovelace Institute, The British Academy and The Arts and Humanities Research council. Join us this Wednesday 23th at 1pm BST for the@justainet panel on “Rights, Access and Refusal” with @crystaljjlee @alxndrt and @maramills. Response from @sarahchander and chaired by @anthroptimist and @_louhicky https://t.co/3UUdNNzOsf [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Read More...<span class="screen-reader-text"> from Panel talk: Prototyping AI ethics futures—Rights, access and refusal</span></a></p>
+<p>The post <a rel="nofollow" href="/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Panel talk: Prototyping AI ethics futures—Rights, access and refusal</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Panel talk at 1:00pm–2:30pm, 23 June 2021 (BST), in association with <a href="https://www.adalovelaceinstitute.org/event/prototyping-ai-ethics-futures-rights-access-refusal/" rel="noopener" target="_blank">Ada Lovelace Institute</a>, <a href="https://www.thebritishacademy.ac.uk/" rel="noopener" target="_blank">The British Academy</a> and <a href="https://ahrc.ukri.org/" rel="noopener" target="_blank">The Arts and Humanities Research council</a>.</p>
 <div class="row">
 <div class="col-sm-9 col-md-8 mt-3">
@@ -45,9 +48,10 @@
 </div>
 </div>
 <p></script></p>
-</div></div>]]></content:encoded>
+</div></div><p>The post <a rel="nofollow" href="/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/">Panel talk: Prototyping AI ethics futures—Rights, access and refusal</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/feed/</wfw:commentRss>
+					<wfw:commentRss>/panel-talk-prototyping-ai-ethics-futures-rights-access-and-refusal/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

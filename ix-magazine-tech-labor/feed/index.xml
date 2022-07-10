@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: IX Magazine: Tech Labor	</title>
-	<atom:link href="http://ast.io/ix-magazine-tech-labor/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/ix-magazine-tech-labor/</link>
+	<atom:link href="/ix-magazine-tech-labor/feed/" rel="self" type="application/rss+xml" />
+	<link>/ix-magazine-tech-labor/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 17:56:45 +0000</lastBuildDate>
 	<sy:updatePeriod>

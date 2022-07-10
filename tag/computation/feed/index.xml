@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>computation - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/computation/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>computation Archives | Alex Taylor</title>
+	<atom:link href="/tag/computation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 05 Aug 2016 08:47:35 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>‘Counting by other means’ 4S/EASST conference preview</title>
-		<link>http://ast.io/counting-means-4s-easst/</link>
-					<comments>http://ast.io/counting-means-4s-easst/#respond</comments>
+		<link>/counting-means-4s-easst/</link>
+					<comments>/counting-means-4s-easst/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Fri, 05 Aug 2016 08:47:35 +0000</pubDate>
@@ -30,9 +30,12 @@
 		<category><![CDATA[computation]]></category>
 		<category><![CDATA[counting]]></category>
 		<category><![CDATA[STS]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=1440</guid>
+		<guid isPermaLink="false">/?p=1440</guid>
 
-					<description><![CDATA[A preview of our “Counting by other means” 4S/EASST conference track has been posted on the Society of Social Studies of Science Backchannels blog. I’m running the track with Sarah Kember and we’re&#160;excited to have these papers included: Session 1 The Slow Times of the Digital, Paul Dourish Digital Accessibility: Ageing and the Mattering Counts [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting-means-4s-easst/">Read More...<span class="screen-reader-text"> from ‘Counting by other means’ 4S/EASST conference preview</span></a></p>]]></description>
+					<description><![CDATA[<p>A preview of our “Counting by other means” 4S/EASST conference track has been posted on the Society of Social Studies of Science Backchannels blog. I’m running the track with Sarah Kember and we’re&#160;excited to have these papers included: Session 1 The Slow Times of the Digital, Paul Dourish Digital Accessibility: Ageing and the Mattering Counts [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/counting-means-4s-easst/">Read More...<span class="screen-reader-text"> from ‘Counting by other means’ 4S/EASST conference preview</span></a></p>
+<p>The post <a rel="nofollow" href="/counting-means-4s-easst/">‘Counting by other means’ 4S/EASST conference preview</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>A <a href="http://www.4sonline.org/blog/post/4s_preview_counting_by_other_means" target="_blank" rel="noopener noreferrer">preview</a> of our “Counting by other means” <a href="http://www.nomadit.co.uk/easst/easst_4s2016/panels.php5?PanelID=4457" target="_blank" rel="noopener noreferrer">4S/EASST conference track</a> has been posted on the Society of Social Studies of Science <a href="http://www.4sonline.org/blog" target="_blank" rel="noopener noreferrer">Backchannels blog</a>. I’m running the track with Sarah Kember and we’re&nbsp;excited to have these papers included:<span id="more-1440"></span></p>
 <h2 style="padding-left: 30px; font-size: 1.2rem">Session 1</h2>
 <p style="padding-left: 30px; font-size: 0.8rem"><strong>The Slow Times of the Digital</strong>, Paul Dourish<br>
@@ -78,17 +81,18 @@ Nelson, D. (2013). Yes to Life= No to Mining’: Counting as Biotechnology in Li
 Kenney, M. (2015). Counting, accounting, and accountability: Helen Verran’s relational empiricism. Social Studies of Science, 45(5), 749–771.<br>
 Taylor, A. S., Fisher, J., Cook, B., Ishtiaq, S., &amp; Piterman, N. (2014) Modelling Biology – working through (in-)stabilities and frictions, Computational Culture 1(3).<br>
 Verran, H. (2001). Science and an African Logic. London: University of Chicago Press.</p></blockquote>
+<p>The post <a rel="nofollow" href="/counting-means-4s-easst/">‘Counting by other means’ 4S/EASST conference preview</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/counting-means-4s-easst/feed/</wfw:commentRss>
+					<wfw:commentRss>/counting-means-4s-easst/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>On Counting</title>
-		<link>http://ast.io/counting/</link>
-					<comments>http://ast.io/counting/#respond</comments>
+		<link>/counting/</link>
+					<comments>/counting/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Mon, 06 Jul 2015 11:51:56 +0000</pubDate>
@@ -96,9 +100,12 @@ Verran, H. (2001). Science and an African Logic. London: University of Chicago P
 		<category><![CDATA[Talks]]></category>
 		<category><![CDATA[computation]]></category>
 		<category><![CDATA[STS]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=700</guid>
+		<guid isPermaLink="false">/?p=700</guid>
 
-					<description><![CDATA[Kat Jungnickel kindly invited me to a two day meeting as part of her continuing series of Transmissions and Entanglements events. Amidst others working through new methods and processes, here’s what I had to say for myself on counting: What is it to count and to be counted? One way I have made sense of [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting/">Read More...<span class="screen-reader-text"> from On Counting</span></a></p>]]></description>
+					<description><![CDATA[<p>Kat Jungnickel kindly invited me to a two day meeting as part of her continuing series of Transmissions and Entanglements events. Amidst others working through new methods and processes, here’s what I had to say for myself on counting: What is it to count and to be counted? One way I have made sense of [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/counting/">Read More...<span class="screen-reader-text"> from On Counting</span></a></p>
+<p>The post <a rel="nofollow" href="/counting/">On Counting</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p><a href="http://www.gold.ac.uk/sociology/staff/academicstaff/jungnickelkat/" target="_blank" rel="noopener noreferrer">Kat Jungnickel</a> kindly invited me to a two day meeting as part of her continuing series of <a href="http://transmissionsandentanglements.com/" target="_blank" rel="noopener noreferrer">Transmissions and Entanglements</a> events. Amidst others working through new methods and processes, here’s what I had to say for myself on <em>counting</em>:</p>
 <blockquote><p>What is it to count and to be counted?<br>
 One way I have made sense of my work over the last 10 years at Microsoft has been to see it as a way of getting to grips with counting and in some ways coming to terms with being counted.<br>
@@ -110,14 +117,13 @@ I won’t go into the details of the computation here. I do want to say, though,
 This is fantastic by itself, but more interesting for me was how an intrinsic feature of biology, and especially wet-lab bench work, was disrupted by this computational accomplishment. Something that is so interleaved in the work of experimental biology, time, and more specifically biological time, ceased here to be present, at least in any recognisable way. Instead, a computational time comes to count in which the measures are produced through the steps taken in a sequence of lemmas (roughly translated as conditional ‘arguments’ in logic).<br>
 So we begin to see here how counting and being counted can entangle. Some highly specialized and computationally sophisticated techniques for translating biological states into clusters of counts means that life, cell life, comes to count differently. The cellular models have no way of enumerating the changes occurring in a temporal sequence. Through a different figuring, the cellular life being enacted by the models is done through a sort of state space where it is the density and weight given to the relations that make a difference. So the techniques of enumeration and calculation fundamentally alter what matters in the cellular system.<br>
 To put it another way, the counts, bound up with a formal and algorithmic logic, are a matter of life and (I need to be careful here) death: for this tool is an experimental one targeted at modelling, for instance, healthy skin cell development and leaning more about those cases in which cancerous rather than healthy cells proliferate.<br>
-I want to say here, then, that the modes of counting and how things come to count appear tightly entangled. I’ve missed too many of the important details here, but hopefully ever so faintly we catch a glimpse how counting can become a way to see and do lived worlds differently.[foot]<span style="color: #222222;">See <a href="http://computationalculture.net/article/modelling-biology" target="_blank" rel="noopener noreferrer">this paper</a> for a longer account of the work on this modelling tool: <br>Alex S Taylor, Jasmin Fisher, Byron Cook, Samin Ishtiaq, Nir Piterman (2014) <a href="http://computationalculture.net/article/modelling-biology" target="_blank" rel="noopener noreferrer">Modelling Biology – working through (in-)stabilities and frictions</a>, <i style="color: #222222;">Computational Culture</i> 1(3).</span>[/foot]<br>
+I want to say here, then, that the modes of counting and how things come to count appear tightly entangled. I’ve missed too many of the important details here, but hopefully ever so faintly we catch a glimpse how counting can become a way to see and do lived worlds differently.<a id="tippy_tip0_840_anchor"></a><br>
 To turn to my second example, I’d like now to think through the data flows of London’s rental bikes and how I’ve used my own counting methods to introduce, let us say, some trouble into the entanglements.<br>
 I see there to be two broad ways in which the ‘Boris bike’ data (made ‘freely available by the public authority, Transport for London) are being used. One is targeted at supporting the users of the system, providing them with, for example, live counts of bike availability for the roughly 700 docking stations across the city. You can download apps, for instance, that show the nearest docking stations and the number of bikes available to rent.<br>
 The second common use of the data is to visualise the usage, picturing the popularity of docking stations and some indication of the frequency of journeys between them. The result is often a colourful map of nodes (docking stations) and lines of varying density between them (indicating journey frequency).<br>
 The first thing I want to say about these geospatial counts of bicycles will be of little surprise to us. These bikes and their data are bound intimately to a politics of the city. Yes, the Boris bikes were launched in 2010 by the controversial conservative mayor of London, Boris Johnson (hence their colloquial name), and yes, the system’s status as a public-private partnership is often used as an exemplary case for partisanship on both sides of the public/private ownership debates.<br>
 Things go deeper than this though. Interweaved with the spatial configuration of the city and a specific set of economic, technical and computational modes, we find a geography emerging from the entanglements. Most obviously this is manifest in the free 30 minute window users have before they are charged on a per-minute basis for using the system. With about 95% of all journeys falling inside this count down, a cartogram of the city is produced that has some fairly well-defined regions and boundaries. These, more often than not, paint a picture of a patchworked city with hubs in the financial districts and dense spokes funnelled to the residential neighbourhoods that service them. Large areas to the East and South East are rendered invisible in these cycle-slash-data routes. So the network of nodes and connections, probably unsurprisingly, correspond to where wealth and prosperity are accumulating in the city.<br>
-At risk of oversimplifying things, what I want to say here then is that the multiple systems of counting and the material infrastructures through which the counts are produced do political work, but, and critical to my point here, is they do a work that merely reminds us of what we all already know; to borrow Donna Haraway’s [tippy title=“words”&nbsp;showheader=“false”]See Haraway, D., (1997), Modest_Witness@Second_Millennium. FemaleMan©_Meets_OncoMouseTM:<br>
-Feminism and Technoscience, New York: Routledge. <br><br>And also see la Bellacasa, de, M. P. (2012) ‘“Nothing comes without its world”: thinking with care’, The Sociological Review, 60(2), 197–216.[/tippy], “Nothing”, not even numbers, “come without their worlds”, and these worlds like the ones etched out of the Boris bike’s data maps recapitulate the kinds of differences we know too well.<br>
+At risk of oversimplifying things, what I want to say here then is that the multiple systems of counting and the material infrastructures through which the counts are produced do political work, but, and critical to my point here, is they do a work that merely reminds us of what we all already know; to borrow Donna Haraway’s <a id="tippy_tip1_2545_anchor"></a>, “Nothing”, not even numbers, “come without their worlds”, and these worlds like the ones etched out of the Boris bike’s data maps recapitulate the kinds of differences we know too well.<br>
 Drawing heavily on Kat’s ever-so artful ways of treating the empirical site — of treating it dare I say with the distain it deserves — my urge here has been to intervene, to find new entanglements that might provoke other ways in which difference might be done, that might if you will trouble the transmissions.<br>
 So on one fine autumn day last October I took my first ride on a Boris Bike, on bike number 2175.<br>
 My journey is between two docking stations that lie at the Eastern edge of the cycle scheme’s cartography of routes and stops. The route, starting at a docking station on Aberfeldy Street leads me further East (about 5km beyond the rental bike scheme’s eastern most docking station), through a series of neighbourhoods that, despite their proximity to the finical district, Canary Wharf, still feel a long way from London’s ever increasing prosperity and cycles of gentrification.<br>
@@ -131,40 +137,48 @@ Here, I want to leave as ill defined any ideas for how things could come to coun
 What I want to say though is that, what I’m struggling with is a sense of counting as an apparatus of transmission for how we might open up the possibilities for new relations. From my own experiment, the fluxes of rates, coordinates, ‘steps’ , image sequences, and so on are open questions about how we might surface a mixture of worlds, ones in which the counts spiral off the map literally and figuratively, ones where we are not sure what might come to count.<br>
 Counting and being counted here then collapse:<br>
 Counting, becomes a way to intervene in the numbers and to further entangle the panoply of economic, technical, computational, political, and ethical modes that make worlds. Counting is to shift what it is that counts, and to ask how life whether that be amongst cells or for those of us in living together, could be different.</p></blockquote>
+<div class="tippy" data-title="1" data-href="/counting/#foot_text_700_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_700_1" data-showheader data-anchor="#tippy_tip0_840_anchor"><span style="color: #222222;">See <a href="http://computationalculture.net/article/modelling-biology" target="_blank" rel="noopener noreferrer">this paper</a> for a longer account of the work on this modelling tool: Alex S Taylor, Jasmin Fisher, Byron Cook, Samin Ishtiaq, Nir Piterman (2014) <a href="http://computationalculture.net/article/modelling-biology" target="_blank" rel="noopener noreferrer">Modelling Biology – working through (in-)stabilities and frictions</a>, <i style="color: #222222;">Computational Culture</i> 1(3).</span></div>
+<div class="tippy" data-title="words" data-showheader="false" data-anchor="#tippy_tip1_2545_anchor">See Haraway, D., (1997), Modest_Witness@Second_Millennium. FemaleMan©_Meets_OncoMouseTM:<br>
+Feminism and Technoscience, New York: Routledge. And also see la Bellacasa, de, M. P. (2012) ‘“Nothing comes without its world”: thinking with care’, The Sociological Review, 60(2), 197–216.</div>
+<p>The post <a rel="nofollow" href="/counting/">On Counting</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/counting/feed/</wfw:commentRss>
+					<wfw:commentRss>/counting/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Published Modelling Biology – working through (in-)stabilities and frictions</title>
-		<link>http://ast.io/published-modelling-biology-working-stabilities-frictions/</link>
-					<comments>http://ast.io/published-modelling-biology-working-stabilities-frictions/#respond</comments>
+		<link>/published-modelling-biology-working-stabilities-frictions/</link>
+					<comments>/published-modelling-biology-working-stabilities-frictions/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Sat, 15 Nov 2014 19:51:44 +0000</pubDate>
 				<category><![CDATA[Writing]]></category>
 		<category><![CDATA[computation]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=547</guid>
+		<guid isPermaLink="false">/?p=547</guid>
 
-					<description><![CDATA[Just had our paper on Computational Biology published in the online journal Computational Culture. Alex S. Taylor, Jasmin Fisher, Byron Cook, Samin Ishtiaq and Nir Piterman (2014) Modelling Biology – working through (in-)stabilities and frictions. Computational Culture, 1 (4). Abstract: Computational biology is a nascent field reliant on software coding and modelling to produce insights [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/published-modelling-biology-working-stabilities-frictions/">Read More...<span class="screen-reader-text"> from Published Modelling Biology – working through (in-)stabilities and frictions</span></a></p>]]></description>
+					<description><![CDATA[<p>Just had our paper on Computational Biology published in the online journal Computational Culture. Alex S. Taylor, Jasmin Fisher, Byron Cook, Samin Ishtiaq and Nir Piterman (2014) Modelling Biology – working through (in-)stabilities and frictions. Computational Culture, 1 (4). Abstract: Computational biology is a nascent field reliant on software coding and modelling to produce insights [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/published-modelling-biology-working-stabilities-frictions/">Read More...<span class="screen-reader-text"> from Published Modelling Biology – working through (in-)stabilities and frictions</span></a></p>
+<p>The post <a rel="nofollow" href="/published-modelling-biology-working-stabilities-frictions/">Published Modelling Biology – working through (in-)stabilities and frictions</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Just had our paper on Computational Biology published in the online journal <a href="http://computationalculture.net/article/modelling-biology" target="_blank" rel="noopener noreferrer">Computational Culture</a>.<br>
 Alex S. Taylor, Jasmin Fisher, Byron Cook, Samin Ishtiaq and Nir Piterman (2014) <a href="http://computationalculture.net/article/modelling-biology" target="_blank" rel="noopener noreferrer">Modelling Biology – working through (in-)stabilities and frictions</a>. <a href="http://computationalculture.net/" target="_blank" rel="noopener noreferrer">Computational Culture</a>, 1 (4).<br>
-<a href="http://computationalculture.net/article/modelling-biology"><img loading="lazy" class="alignleft wp-image-550 " src="http://ast.io/wp-content/uploads/2014/11/modelling_bio-300x300.png" alt="modelling_bio" width="207" height="207"></a><br>
+<a href="http://computationalculture.net/article/modelling-biology"><img loading="lazy" class="alignleft wp-image-550 " src="/wp-content/uploads/2014/11/modelling_bio-300x300.png" alt="modelling_bio" width="207" height="207"></a><br>
 <em>Abstract</em>: Computational biology is a nascent field reliant on software coding and modelling to produce insights into biological phenomena. Extreme claims cast it as a field set to replace conventional forms of experimental biology, seeing software modelling as a (more convenient) proxy for bench-work in the wet-lab. In this article, we deepen and complicate the relations between computation and scientific ways of knowing by discussing a computational biology tool, BMA, that models gene regulatory networks. We detail the instabilities and frictions that surface when computation is incorporated into scientific practice, framing the tensions as part of knowing-in-progress—the practical back and forth in working things out. The work exemplifies how software studies—and careful attention to the materialities of computation—can shed light on the emerging sciences that rely on coding and computation. Further, it puts to work a standpoint that sees computation as tightly entangled with forms of scientific knowing and doing, rather than a wholesale replacement of them.</p>
+<p>The post <a rel="nofollow" href="/published-modelling-biology-working-stabilities-frictions/">Published Modelling Biology – working through (in-)stabilities and frictions</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/published-modelling-biology-working-stabilities-frictions/feed/</wfw:commentRss>
+					<wfw:commentRss>/published-modelling-biology-working-stabilities-frictions/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading The “sentient” city and what it may portend</title>
-		<link>http://ast.io/sentient-city-may-portend/</link>
-					<comments>http://ast.io/sentient-city-may-portend/#respond</comments>
+		<link>/sentient-city-may-portend/</link>
+					<comments>/sentient-city-may-portend/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Thu, 26 Jun 2014 09:08:02 +0000</pubDate>
@@ -173,16 +187,22 @@ Alex S. Taylor, Jasmin Fisher, Byron Cook, Samin Ishtiaq and Nir Piterman (2014)
 		<category><![CDATA[Cities]]></category>
 		<category><![CDATA[computation]]></category>
 		<category><![CDATA[data]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=489</guid>
+		<guid isPermaLink="false">/?p=489</guid>
 
-					<description><![CDATA[A rambling piece in Big Data &#38; Society&#160;by Nigel Thrift: The ‘sentient’ city and what it may portend. Wasn’t expecting the digression into spirits and performance art, but I do like Thrift’s continual efforts to write about expansive human/agent capacities and extending the&#160;[tippy title=“sensorium”]Wikipedia or see Goonewardena, K. (2005). The urban sensorium: space, ideology and [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/sentient-city-may-portend/">Read More...<span class="screen-reader-text"> from Reading The “sentient” city and what it may portend</span></a></p>]]></description>
-										<content:encoded><![CDATA[<p>A rambling piece in Big Data &amp; Society&nbsp;by Nigel Thrift: <a href="http://bds.sagepub.com/content/1/1/2053951714532241.abstract">The ‘sentient’ city and what it may portend</a><a href="http://ast.io/wp-content/uploads/2014/06/sentient_city.png">.<br>
-<a href="http://ast.io/wp-content/uploads/2014/06/sentient_city.png"><img loading="lazy" class="alignnone size-medium wp-image-498" src="http://ast.io/wp-content/uploads/2014/06/sentient_city.png" alt="sentient_city" width="300" height="300"></a><br>
-Wasn’t expecting the digression into spirits and performance art, but I do like Thrift’s continual efforts to write about expansive human/agent capacities and extending the&nbsp;[tippy title=“sensorium”]<a href="http://en.wikipedia.org/wiki/Sensorium">Wikipedia</a> or see Goonewardena, K. (2005). <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.0066-4812.2005.00473.x/abstract">The urban sensorium: space, ideology and the aestheticization of politics</a>. Antipode, 37(1), 46–71.[/tippy].</a></p>
-<blockquote><p>…the claim is being made that, as computational objects have developed, cities are able to take on new forms of vitality (Stern, 2010), forms of vitality which can develop over time. Perhaps one way in which we might consider this ques- tion is precisely through looking at how vitality devel- ops when computational things are explicitly included in the contours of experience. Then it becomes clear that it has only gradually arisen, line by line, algorithm by algorithm, program by program.[foot]Thirft, N.&nbsp;(2014). <a href="http://bds.sagepub.com/content/1/1/2053951714532241.abstract">The “sentient” city and what it may portend</a>. <i>Big Data &amp; Society</i>, <i>1</i>(1). [/foot]</p></blockquote>
+					<description><![CDATA[<p>A rambling piece in Big Data &#38; Society&#160;by Nigel Thrift: The ‘sentient’ city and what it may portend. Wasn’t expecting the digression into spirits and performance art, but I do like Thrift’s continual efforts to write about expansive human/agent capacities and extending the&#160;. …the claim is being made that, as computational objects have developed, cities [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/sentient-city-may-portend/">Read More...<span class="screen-reader-text"> from Reading The “sentient” city and what it may portend</span></a></p>
+<p>The post <a rel="nofollow" href="/sentient-city-may-portend/">Reading The “sentient” city and what it may portend</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A rambling piece in Big Data &amp; Society&nbsp;by Nigel Thrift: <a href="http://bds.sagepub.com/content/1/1/2053951714532241.abstract">The ‘sentient’ city and what it may portend</a><a href="/wp-content/uploads/2014/06/sentient_city.png">.<br>
+<a href="/wp-content/uploads/2014/06/sentient_city.png"><img loading="lazy" class="alignnone size-medium wp-image-498" src="/wp-content/uploads/2014/06/sentient_city.png" alt="sentient_city" width="300" height="300"></a><br>
+Wasn’t expecting the digression into spirits and performance art, but I do like Thrift’s continual efforts to write about expansive human/agent capacities and extending the&nbsp;<a id="tippy_tip2_322_anchor"></a>.</a></p>
+<blockquote><p>…the claim is being made that, as computational objects have developed, cities are able to take on new forms of vitality (Stern, 2010), forms of vitality which can develop over time. Perhaps one way in which we might consider this ques- tion is precisely through looking at how vitality devel- ops when computational things are explicitly included in the contours of experience. Then it becomes clear that it has only gradually arisen, line by line, algorithm by algorithm, program by program.<a id="tippy_tip3_799_anchor"></a></p></blockquote>
+<div class="tippy" data-title="sensorium" data-anchor="#tippy_tip2_322_anchor"><a href="http://en.wikipedia.org/wiki/Sensorium">Wikipedia</a> or see Goonewardena, K. (2005). <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.0066-4812.2005.00473.x/abstract">The urban sensorium: space, ideology and the aestheticization of politics</a>. Antipode, 37(1), 46–71.</div>
+<div class="tippy" data-title="1" data-href="/sentient-city-may-portend/#foot_text_489_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_489_1" data-showheader data-anchor="#tippy_tip3_799_anchor">Thirft, N.&nbsp;(2014). <a href="http://bds.sagepub.com/content/1/1/2053951714532241.abstract">The “sentient” city and what it may portend</a>. <i>Big Data &amp; Society</i>, <i>1</i>(1). </div>
+<p>The post <a rel="nofollow" href="/sentient-city-may-portend/">Reading The “sentient” city and what it may portend</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/sentient-city-may-portend/feed/</wfw:commentRss>
+					<wfw:commentRss>/sentient-city-may-portend/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Two fully-funded PhDs	</title>
-	<atom:link href="http://ast.io/funded-phds-2018/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/funded-phds-2018/</link>
+	<atom:link href="/funded-phds-2018/feed/" rel="self" type="application/rss+xml" />
+	<link>/funded-phds-2018/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 03 May 2018 07:30:32 +0000</lastBuildDate>
 	<sy:updatePeriod>

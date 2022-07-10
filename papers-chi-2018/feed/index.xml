@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Papers presented at CHI ’18	</title>
-	<atom:link href="http://ast.io/papers-chi-2018/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/papers-chi-2018/</link>
+	<atom:link href="/papers-chi-2018/feed/" rel="self" type="application/rss+xml" />
+	<link>/papers-chi-2018/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 03 May 2018 10:41:31 +0000</lastBuildDate>
 	<sy:updatePeriod>

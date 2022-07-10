@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Re-making places	</title>
-	<atom:link href="http://ast.io/re-making-places/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/re-making-places/</link>
+	<atom:link href="/re-making-places/feed/" rel="self" type="application/rss+xml" />
+	<link>/re-making-places/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 27 Jun 2016 07:39:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

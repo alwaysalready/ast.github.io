@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Paper presented at Assets	</title>
-	<atom:link href="http://ast.io/assets-2017/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/assets-2017/</link>
+	<atom:link href="/assets-2017/feed/" rel="self" type="application/rss+xml" />
+	<link>/assets-2017/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sat, 02 Dec 2017 10:05:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

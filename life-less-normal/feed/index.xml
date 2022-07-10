@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Covid article in Interactions	</title>
-	<atom:link href="http://ast.io/life-less-normal/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/life-less-normal/</link>
+	<atom:link href="/life-less-normal/feed/" rel="self" type="application/rss+xml" />
+	<link>/life-less-normal/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 17 Jun 2021 09:28:33 +0000</lastBuildDate>
 	<sy:updatePeriod>

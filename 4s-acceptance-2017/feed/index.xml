@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Paper at 4S 2017	</title>
-	<atom:link href="http://ast.io/4s-acceptance-2017/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/4s-acceptance-2017/</link>
+	<atom:link href="/4s-acceptance-2017/feed/" rel="self" type="application/rss+xml" />
+	<link>/4s-acceptance-2017/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 24 Apr 2017 08:45:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

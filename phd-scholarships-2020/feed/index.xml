@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: PhD Scholarships at City	</title>
-	<atom:link href="http://ast.io/phd-scholarships-2020/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/phd-scholarships-2020/</link>
+	<atom:link href="/phd-scholarships-2020/feed/" rel="self" type="application/rss+xml" />
+	<link>/phd-scholarships-2020/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 30 Jul 2020 12:46:55 +0000</lastBuildDate>
 	<sy:updatePeriod>

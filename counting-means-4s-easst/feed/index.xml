@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: ‘Counting by other means’ 4S/EASST conference preview	</title>
-	<atom:link href="http://ast.io/counting-means-4s-easst/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/counting-means-4s-easst/</link>
+	<atom:link href="/counting-means-4s-easst/feed/" rel="self" type="application/rss+xml" />
+	<link>/counting-means-4s-easst/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 05 Aug 2016 08:47:35 +0000</lastBuildDate>
 	<sy:updatePeriod>

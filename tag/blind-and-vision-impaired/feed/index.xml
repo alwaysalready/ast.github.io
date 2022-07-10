@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>blind and vision impaired - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/blind-and-vision-impaired/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>blind and vision impaired Archives | Alex Taylor</title>
+	<atom:link href="/tag/blind-and-vision-impaired/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 05 Feb 2018 21:56:52 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>CHI 2018 papers.</title>
-		<link>http://ast.io/chi-2018-papers/</link>
-					<comments>http://ast.io/chi-2018-papers/#respond</comments>
+		<link>/chi-2018-papers/</link>
+					<comments>/chi-2018-papers/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Mon, 05 Feb 2018 21:56:52 +0000</pubDate>
@@ -32,29 +32,35 @@
 		<category><![CDATA[CHI]]></category>
 		<category><![CDATA[HCI]]></category>
 		<category><![CDATA[intelligence]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=3871</guid>
+		<guid isPermaLink="false">/?p=3871</guid>
 
-					<description><![CDATA[Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) “I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts. In Proceedings CHI ’18. ACM Press. [tippy title=“Abstract” showtitle=“false”]Abstract — This research takes an orientation to visual impairment (VI) that does not regard it [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/chi-2018-papers/">Read More...<span class="screen-reader-text"> from CHI 2018 papers.</span></a></p>]]></description>
+					<description><![CDATA[<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) “I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts. In Proceedings CHI ’18. ACM Press. ( downloads) Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) Lets Talk about Race: Identity, Chatbots, and AI. [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/chi-2018-papers/">Read More...<span class="screen-reader-text"> from CHI 2018 papers.</span></a></p>
+<p>The post <a rel="nofollow" href="/chi-2018-papers/">CHI 2018 papers.</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<div class="call-out">
-<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. [tippy title=“Abstract” showtitle=“false”]<strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.[/tippy]</p>
-<p><span class="entry-meta"><a href="http://ast.io/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (875 downloads)</span></p>
-<p style="margin-top:6rem">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. [tippy title=“Abstract” showtitle=“false”]<strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?[/tippy]</p>
-<p><span class="entry-meta"><a href="http://ast.io/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1277 downloads)</span></p></div>
+<p>Anja Thieme, Cynthia L. Bennett, Cecily Morrison, Edward Cutrell and Alex Taylor (2018) <strong>“I can do everything but see!” – How People with Vision Impairments Negotiate their Abilities in Social Contexts.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip0_7851_anchor"></a></p>
+<p><span class="entry-meta"><a href="/download/3859/" rel="noopener noreferrer" target="_blank">pdf</a> (879 downloads)</span></p>
+<p style="margin-top:6rem">Ari Schlesinger, Kenton O’Hara and Alex Taylor (2018) <strong>Lets Talk about Race: Identity, Chatbots, and AI.</strong> <em>In Proceedings CHI ’18</em>. ACM Press. <a id="tippy_tip1_229_anchor"></a></p>
+<p><span class="entry-meta"><a href="/download/3850/" rel="noopener noreferrer" target="_blank">pdf</a> (1282 downloads)</span></p></div>
 <div class="left-of-call-out">
-<p>Very happy to have contributed to two papers being presented at the upcoming <a href="https://chi2018.acm.org/" rel="noopener noreferrer" target="_blank">CHI conference</a> this year. One reports on work with the blind and vision impaired a few of us have been involved in different ways (see <a href="http://ast.io/research/#capability" rel="noopener">here</a>). Broadly, we’ve used the piece to reflect on the relations between vision impairment and artificial intelligence, and set out directions for a possible design space.</p>
-<p style="margin:3rem 0 2rem 0;">The second paper picks up on a new theme for me, but one closely related to past reflections and design work around <a href="http://ast.io/research/#intelauto">machine intelligence</a>. With the fantastic <a href="http://arischlesinger.com/" rel="noopener noreferrer" target="_blank">Ari Schlesinger</a> (GA Tech) leading the research, we examine the challenges faced in handling race talk (and racism) in human-bot interactions. Taking both Tai AI and the blacklist as starting points, we take seriously the computational underpinnings of chat bots and conversational agents, to underscore the role they have in sustaining troubling racial categories and the conditions they make possible for more just and equitable ways forward.</p>
+<p>Very happy to have contributed to two papers being presented at the upcoming <a href="https://chi2018.acm.org/" rel="noopener noreferrer" target="_blank">CHI conference</a> this year. One reports on work with the blind and vision impaired a few of us have been involved in different ways (see <a href="/research/#capability" rel="noopener">here</a>). Broadly, we’ve used the piece to reflect on the relations between vision impairment and artificial intelligence, and set out directions for a possible design space.</p>
+<p style="margin:3rem 0 2rem 0;">The second paper picks up on a new theme for me, but one closely related to past reflections and design work around <a href="/research/#intelauto">machine intelligence</a>. With the fantastic <a href="http://arischlesinger.com/" rel="noopener noreferrer" target="_blank">Ari Schlesinger</a> (GA Tech) leading the research, we examine the challenges faced in handling race talk (and racism) in human-bot interactions. Taking both Tai AI and the blacklist as starting points, we take seriously the computational underpinnings of chat bots and conversational agents, to underscore the role they have in sustaining troubling racial categories and the conditions they make possible for more just and equitable ways forward.</p>
 </div>
+<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip0_7851_anchor"><strong>Abstract</strong> — This research takes an orientation to visual impairment (VI) that does not regard it as fixed or determined alone in or through the body. Instead, we consider (dis)ability as produced through interactions with the environment and configured by the people and technology within it. Specifically, we explore how abilities become negotiated through video ethnography with six VI athletes and spectators during the Rio 2016 Paralympics. We use generated in-depth examples to identify how technology can be a meaningful part of ability negotiations, emphasizing how these embed into the social interactions and lives of people with VI. In contrast to treating technology as a solution to a ‘sensory deficit’, we understand it to support the triangulation process of sense-making through provision of appropriate additional information. Further, we suggest that technology should not try and replace human assistance, but instead enable people with VI to better identify and interact with other people in-situ.</div>
+<div class="tippy" data-title="Abstract" data-showtitle="false" data-anchor="#tippy_tip1_229_anchor"><strong>Abstract</strong> — Why is it so hard for chatbots to talk about race? This work explores how the biased contents of databases, the syntactic focus of natural language processing, and the opaque nature of deep learning algorithms cause chatbots difficulty in handling race-talk. In each of these areas, the tensions between race and chatbots create new opportunities for people and machines. By making the abstract and disparate qualities of this problem space tangible, we can develop chatbots that are more capable of handling race-talk in its many forms. Our goal is to provide the HCI community with ways to begin addressing the question, how can chatbots handle race-talk in new and improved ways?</div>
+<p>The post <a rel="nofollow" href="/chi-2018-papers/">CHI 2018 papers.</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/chi-2018-papers/feed/</wfw:commentRss>
+					<wfw:commentRss>/chi-2018-papers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Paper presented at Assets</title>
-		<link>http://ast.io/assets-2017/</link>
-					<comments>http://ast.io/assets-2017/#respond</comments>
+		<link>/assets-2017/</link>
+					<comments>/assets-2017/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Sat, 02 Dec 2017 10:05:05 +0000</pubDate>
@@ -63,18 +69,22 @@
 		<category><![CDATA[Publications]]></category>
 		<category><![CDATA[accessible computing]]></category>
 		<category><![CDATA[blind and vision impaired]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=3805</guid>
+		<guid isPermaLink="false">/?p=3805</guid>
 
-					<description><![CDATA[I’m very happy to have been a part of the work leading up to a paper presented at Assets 2017, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired. Cecily Morrison, Edward Cutrell, [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/assets-2017/">Read More...<span class="screen-reader-text"> from Paper presented at Assets</span></a></p>]]></description>
+					<description><![CDATA[<p>I’m very happy to have been a part of the work leading up to a paper presented at Assets 2017, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired. Cecily Morrison, Edward Cutrell, [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/assets-2017/">Read More...<span class="screen-reader-text"> from Paper presented at Assets</span></a></p>
+<p>The post <a rel="nofollow" href="/assets-2017/">Paper presented at Assets</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>I’m very happy to have been a part of the work leading up to a paper presented at <a href="https://assets17.sigaccess.org/" rel="noopener noreferrer" target="_blank">Assets 2017</a>, the ACM conference on Accessible Computing. Reporting on work from a group of us at Microsoft Research, the paper describes an orientation to our studies with the blind and vision impaired.</p>
 <blockquote class="small"><p>Cecily Morrison, Edward Cutrell, Anupama Dhareshwar, Kevin Doherty, Anja Thieme, and Alex Taylor. 2017. <strong>Imagining Artificial Intelligence Applications with People with Visual Disabilities using Tactile Ideation</strong>. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (<em>ASSETS ’17</em>). ACM, New York, NY, USA, 81–90. <a href="https://doi.org/10.1145/3132525.3132530" rel="noopener noreferrer" target="_blank">DOI</a>.</p></blockquote>
 <p><span id="more-3805"></span></p>
 <blockquote><p><strong>ABSTRACT</strong><br>
 There has been a surge in artificial intelligence (AI) technologies co-opted by or designed for people with visual disabilities. Researchers and engineers have pushed technical boundaries in areas such as computer vision, natural language processing, location inference, and wearable computing. But what do people with visual disabilities imagine as their own technological future? To explore this question, we developed and carried out tactile ideation workshops with participants in the UK and India. Our participants generated a large and diverse set of ideas, most focusing on ways to meet needs related to social interaction. In some cases, this was a matter of recognizing people. In other cases, they wanted to be able to participate in social situations without foregrounding their disability. It was striking that this finding was consistent across UK and India despite substantial cultural and infrastructural differences. In this paper, we describe a new technique for working with people with visual disabilities to imagine new technologies that are tuned to their needs and aspirations. Based on our experience with these workshops, we provide a set of social dimensions to consider in the design of new AI technologies: social participation, social navigation, social maintenance, and social independence. We offer these social dimensions as a starting point to forefront users’ social needs and desires as a more deliberate consideration for assistive technology design.</p></blockquote>
-<p>Download a copy of the paper <a href="http://ast.io/download/3684/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>Download a copy of the paper <a href="/download/3684/" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>The post <a rel="nofollow" href="/assets-2017/">Paper presented at Assets</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/assets-2017/feed/</wfw:commentRss>
+					<wfw:commentRss>/assets-2017/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

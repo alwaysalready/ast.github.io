@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Audrey, Anyone?	</title>
-	<atom:link href="http://ast.io/audrey-anyone/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/audrey-anyone/</link>
+	<atom:link href="/audrey-anyone/feed/" rel="self" type="application/rss+xml" />
+	<link>/audrey-anyone/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 10 Jan 2018 15:20:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

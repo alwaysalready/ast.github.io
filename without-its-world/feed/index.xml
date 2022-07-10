@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Reading ‘Nothing comes without its world’: thinking with care	</title>
-	<atom:link href="http://ast.io/without-its-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/without-its-world/</link>
+	<atom:link href="/without-its-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/without-its-world/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 18 Feb 2015 17:34:29 +0000</lastBuildDate>
 	<sy:updatePeriod>

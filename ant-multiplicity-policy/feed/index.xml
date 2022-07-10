@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Reading “ANT, multiplicity and policy”	</title>
-	<atom:link href="http://ast.io/ant-multiplicity-policy/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/ant-multiplicity-policy/</link>
+	<atom:link href="/ant-multiplicity-policy/feed/" rel="self" type="application/rss+xml" />
+	<link>/ant-multiplicity-policy/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 10 Feb 2015 16:23:32 +0000</lastBuildDate>
 	<sy:updatePeriod>

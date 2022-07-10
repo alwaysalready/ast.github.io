@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>London - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/london/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>London Archives | Alex Taylor</title>
+	<atom:link href="/tag/london/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 27 Jun 2016 07:39:00 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Re-making places</title>
-		<link>http://ast.io/re-making-places/</link>
-					<comments>http://ast.io/re-making-places/#respond</comments>
+		<link>/re-making-places/</link>
+					<comments>/re-making-places/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Mon, 27 Jun 2016 07:39:00 +0000</pubDate>
@@ -31,26 +31,30 @@
 		<category><![CDATA[CHI]]></category>
 		<category><![CDATA[housing]]></category>
 		<category><![CDATA[London]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=1124</guid>
+		<guid isPermaLink="false">/?p=1124</guid>
 
-					<description><![CDATA[At the CHI conference this year, Clara Crivellaro presented this paper on our amazing work at a regeneration site on the outskirts of London. The work touches on many issues that are important to me, from grassroots participation and housing to inventive methods and technoscience’s productive possibilities. Re-Making Places: HCI, ‘Community Building’ and Change Clara [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/re-making-places/">Read More...<span class="screen-reader-text"> from Re-making places</span></a></p>]]></description>
-										<content:encoded><![CDATA[<p>At the <a href="https://chi2016.acm.org/wp/">CHI conference</a> this year, Clara Crivellaro presented <a href="http://ast.io/m/1128.pdf" target="_blank" rel="noopener noreferrer">this paper</a> on our amazing work at a regeneration site on the outskirts of London. The work touches on many issues that are important to me, from grassroots participation and housing to inventive methods and technoscience’s productive possibilities.</p>
-<div class="highlight" style="margin-bottom:2px"><a href="http://ast.io/m/1128.pdf" target="_blank" rel="noopener noreferrer">Re-Making Places:</a></div>
+					<description><![CDATA[<p>At the CHI conference this year, Clara Crivellaro presented this paper on our amazing work at a regeneration site on the outskirts of London. The work touches on many issues that are important to me, from grassroots participation and housing to inventive methods and technoscience’s productive possibilities. Re-Making Places: HCI, ‘Community Building’ and Change Clara [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/re-making-places/">Read More...<span class="screen-reader-text"> from Re-making places</span></a></p>
+<p>The post <a rel="nofollow" href="/re-making-places/">Re-making places</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>At the <a href="https://chi2016.acm.org/wp/">CHI conference</a> this year, Clara Crivellaro presented <a href="/m/1128.pdf" target="_blank" rel="noopener noreferrer">this paper</a> on our amazing work at a regeneration site on the outskirts of London. The work touches on many issues that are important to me, from grassroots participation and housing to inventive methods and technoscience’s productive possibilities.</p>
+<div class="highlight" style="margin-bottom:2px"><a href="/m/1128.pdf" target="_blank" rel="noopener noreferrer">Re-Making Places:</a></div>
 <div class="highlight" style="font-size:1.8rem;margin-top:0px">HCI, ‘Community Building’ and Change</div>
 <p><em>Clara Crivellaro, Alex Taylor, Vasilis Vlachokyriakos, Rob Comber, Bettina Nissen, Peter Wright</em></p>
 <blockquote><p><strong>Abstract</strong><br>
 We present insights from an extended engagement and design intervention at an urban regeneration site in SE London. We describe the process of designing a walking trail and system for recording and playing back place-specific stories for those living and working on the housing estate, and show how this is set within a wider context of urban renewal, social/affordable housing and “community building”. Like prior work, the research reveals the frictions that arise in participatory engagements with heterogeneous actors. Here we illustrate how material interventions can rearrange existing spatial configurations, making productive the plurality of accounts intrinsic in community life. Through this, we provide an orientation to HCI and design interventions that are concerned with civic engagement and participation in processes of making places.</p></blockquote>
+<p>The post <a rel="nofollow" href="/re-making-places/">Re-making places</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/re-making-places/feed/</wfw:commentRss>
+					<wfw:commentRss>/re-making-places/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</title>
-		<link>http://ast.io/data-biosensing-worldly-stories/</link>
-					<comments>http://ast.io/data-biosensing-worldly-stories/#respond</comments>
+		<link>/data-biosensing-worldly-stories/</link>
+					<comments>/data-biosensing-worldly-stories/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Mon, 09 May 2016 16:41:44 +0000</pubDate>
@@ -58,18 +62,23 @@ We present insights from an extended engagement and design intervention at an ur
 		<category><![CDATA[Writing]]></category>
 		<category><![CDATA[data]]></category>
 		<category><![CDATA[London]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=1114</guid>
+		<guid isPermaLink="false">/?p=1114</guid>
 
-					<description><![CDATA[Delighted to have a chapter published in Dawn Nafus’ new book, Quantified&#160;(MIT Press). &#160; Abstract This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/data-biosensing-worldly-stories/">Read More...<span class="screen-reader-text"> from Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</span></a></p>]]></description>
+					<description><![CDATA[<p>Delighted to have a chapter published in Dawn Nafus’ new book, Quantified&#160;(MIT Press). &#160; Abstract This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/data-biosensing-worldly-stories/">Read More...<span class="screen-reader-text"> from Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</span></a></p>
+<p>The post <a rel="nofollow" href="/data-biosensing-worldly-stories/">Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Delighted to have a chapter published in Dawn Nafus’ new book, <a href="https://mitpress.mit.edu/books/quantified" target="_blank" rel="noopener noreferrer">Quantified</a>&nbsp;(MIT Press).<span id="more-1114"></span><br>
-<a href="http://ast.io/m/1115.pdf"><img loading="lazy" class="wp-image-1116 size-full aligncenter" src="http://ast.io/wp-content/uploads/2016/05/Data-and-biosensing.png" alt="Data and biosensing" width="640" height="480"></a><br>
+<a href="/m/1115.pdf"><img loading="lazy" class="wp-image-1116 size-full aligncenter" src="/wp-content/uploads/2016/05/Data-and-biosensing.png" alt="Data and biosensing" width="640" height="480"></a><br>
 &nbsp;</p>
 <blockquote><p><em>Abstract</em><br>
-This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities of other worlds are imagined. Mixtures of data at all scales are thrown together, playing with and testing out a thickening and enlivening of relations, new edges, and making room for difference—for different assemblies of bodies, space and time. Relations are brought into being that might just resist the “agencies of homogenization” ([tippy title=“Scott 1998” showheader=“false”]Scott, J. C. (1998).&nbsp;<i>Seeing like a state: How certain schemes to improve the human condition have failed</i>. Yale University Press.[/tippy]) and that mess about in the unevenness and plurality that makes London vibrant.</p></blockquote>
-<p>I’ve uploaded a pre-published draft&nbsp;<a href="http://ast.io/m/1115.pdf" target="_blank" rel="noopener noreferrer">here</a>.</p>
+This chapter tells a story of promise, one about London’s bike rental data and how it might be used to re-imagine new figurings of human-machine relations. Experimenting with the relational capacities of (bio)sensing and the proliferation of data-everywhere, the possibilities of other worlds are imagined. Mixtures of data at all scales are thrown together, playing with and testing out a thickening and enlivening of relations, new edges, and making room for difference—for different assemblies of bodies, space and time. Relations are brought into being that might just resist the “agencies of homogenization” (<a id="tippy_tip0_6673_anchor"></a>) and that mess about in the unevenness and plurality that makes London vibrant.</p></blockquote>
+<p>I’ve uploaded a pre-published draft&nbsp;<a href="/m/1115.pdf" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<div class="tippy" data-title="Scott 1998" data-showheader="false" data-anchor="#tippy_tip0_6673_anchor">Scott, J. C. (1998).&nbsp;<i>Seeing like a state: How certain schemes to improve the human condition have failed</i>. Yale University Press.</div>
+<p>The post <a rel="nofollow" href="/data-biosensing-worldly-stories/">Data, (bio)sensing and (other-)worldly stories from the cycle routes of London</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/data-biosensing-worldly-stories/feed/</wfw:commentRss>
+					<wfw:commentRss>/data-biosensing-worldly-stories/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: CHI Workshop	</title>
-	<atom:link href="http://ast.io/chi19-workshop-paper/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/chi19-workshop-paper/</link>
+	<atom:link href="/chi19-workshop-paper/feed/" rel="self" type="application/rss+xml" />
+	<link>/chi19-workshop-paper/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 05 May 2019 10:21:50 +0000</lastBuildDate>
 	<sy:updatePeriod>

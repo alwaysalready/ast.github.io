@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: IOT on Claude Lévi-Strauss	</title>
-	<atom:link href="http://ast.io/levi-strauss/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/levi-strauss/</link>
+	<atom:link href="/levi-strauss/feed/" rel="self" type="application/rss+xml" />
+	<link>/levi-strauss/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 23 Oct 2013 20:22:46 +0000</lastBuildDate>
 	<sy:updatePeriod>

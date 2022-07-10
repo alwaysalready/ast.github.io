@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: on “Leakiness and creepiness in app space”	</title>
-	<atom:link href="http://ast.io/leakiness-creepiness-app-space/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/leakiness-creepiness-app-space/</link>
+	<atom:link href="/leakiness-creepiness-app-space/feed/" rel="self" type="application/rss+xml" />
+	<link>/leakiness-creepiness-app-space/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 30 Jun 2014 09:00:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

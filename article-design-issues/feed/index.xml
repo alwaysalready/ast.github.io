@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Article in Design Issues	</title>
-	<atom:link href="http://ast.io/article-design-issues/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/article-design-issues/</link>
+	<atom:link href="/article-design-issues/feed/" rel="self" type="application/rss+xml" />
+	<link>/article-design-issues/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 11 Jul 2017 10:10:12 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>arts - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/arts/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>arts Archives | Alex Taylor</title>
+	<atom:link href="/tag/arts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 25 Jul 2017 21:52:22 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,25 +21,29 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>William Kentridge — “A drawing lesson”</title>
-		<link>http://ast.io/drawing-lesson/</link>
-					<comments>http://ast.io/drawing-lesson/#respond</comments>
+		<link>/drawing-lesson/</link>
+					<comments>/drawing-lesson/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Tue, 25 Jul 2017 21:52:22 +0000</pubDate>
 				<category><![CDATA[Research]]></category>
 		<category><![CDATA[arts]]></category>
 		<category><![CDATA[capability]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=3427</guid>
+		<guid isPermaLink="false">/?p=3427</guid>
 
-					<description><![CDATA[“… can we be better than who we are, can we be other than who we are?” I’ve been trying to think about capability for a little while and trying to make sense of how we become able. What I’ve wanted to get away from is an idea of ability that we feel defined or [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/drawing-lesson/">Read More...<span class="screen-reader-text"> from William Kentridge — “A drawing lesson”</span></a></p>]]></description>
+					<description><![CDATA[<p>“… can we be better than who we are, can we be other than who we are?” I’ve been trying to think about capability for a little while and trying to make sense of how we become able. What I’ve wanted to get away from is an idea of ability that we feel defined or [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/drawing-lesson/">Read More...<span class="screen-reader-text"> from William Kentridge — “A drawing lesson”</span></a></p>
+<p>The post <a rel="nofollow" href="/drawing-lesson/">William Kentridge — “A drawing lesson”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<div class="call-out" style="margin-top:1%;margin-bottom:10%;font-size:2.5rem;font-weight:bold;font-style:italic;line-height:2.6rem">“… can we be better than who we are, can we be other than who we are?”</div>
 <div style="width:300px;margin-bottom:1rem">I’ve been trying to think about capability for a little while and trying to make sense of how we <em>become</em> able. What I’ve wanted to get away from is an idea of ability that we feel defined or limited by—the presumed limits of ability dictated, supposedly, by our bodily and mental capacities.</div>
 <p></p>
 <div style="width:300px;margin-bottom:1rem">Today I came across this lovely video of and by the artist William Kentridge. He expresses so much of what has engaged me in this subject matter, but with such eloquence and so vividly.</div>
 <p><iframe loading="lazy" src="https://www.youtube.com/embed/tyndlMIgbnU?rel=0&amp;controls=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The post <a rel="nofollow" href="/drawing-lesson/">William Kentridge — “A drawing lesson”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/drawing-lesson/feed/</wfw:commentRss>
+					<wfw:commentRss>/drawing-lesson/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

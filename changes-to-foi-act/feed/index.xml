@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Changes to FoI Act	</title>
-	<atom:link href="http://ast.io/changes-to-foi-act/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/changes-to-foi-act/</link>
+	<atom:link href="/changes-to-foi-act/feed/" rel="self" type="application/rss+xml" />
+	<link>/changes-to-foi-act/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 02 Sep 2013 11:47:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

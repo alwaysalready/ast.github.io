@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Seminar talk and discussion with Daniela Rosner	</title>
-	<atom:link href="http://ast.io/seminar-talk-daniela-rosner/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/seminar-talk-daniela-rosner/</link>
+	<atom:link href="/seminar-talk-daniela-rosner/feed/" rel="self" type="application/rss+xml" />
+	<link>/seminar-talk-daniela-rosner/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 08 Sep 2019 20:53:25 +0000</lastBuildDate>
 	<sy:updatePeriod>

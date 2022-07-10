@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Interview with Nora Young on CBC Radio Spark Show	</title>
-	<atom:link href="http://ast.io/interview-cbc-radio-spark/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/interview-cbc-radio-spark/</link>
+	<atom:link href="/interview-cbc-radio-spark/feed/" rel="self" type="application/rss+xml" />
+	<link>/interview-cbc-radio-spark/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 04 Oct 2016 12:20:38 +0000</lastBuildDate>
 	<sy:updatePeriod>

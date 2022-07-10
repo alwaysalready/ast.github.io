@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Artificial Intelligence: asking the right questions	</title>
-	<atom:link href="http://ast.io/ai-asking-the-right-questions/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/ai-asking-the-right-questions/</link>
+	<atom:link href="/ai-asking-the-right-questions/feed/" rel="self" type="application/rss+xml" />
+	<link>/ai-asking-the-right-questions/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 17 Aug 2016 15:08:57 +0000</lastBuildDate>
 	<sy:updatePeriod>

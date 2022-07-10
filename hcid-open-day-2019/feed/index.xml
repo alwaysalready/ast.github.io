@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: HCID Open Day 2019	</title>
-	<atom:link href="http://ast.io/hcid-open-day-2019/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/hcid-open-day-2019/</link>
+	<atom:link href="/hcid-open-day-2019/feed/" rel="self" type="application/rss+xml" />
+	<link>/hcid-open-day-2019/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 16 Oct 2019 21:35:37 +0000</lastBuildDate>
 	<sy:updatePeriod>

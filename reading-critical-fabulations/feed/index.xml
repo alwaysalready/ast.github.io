@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Reading “Critical Fabulations”	</title>
-	<atom:link href="http://ast.io/reading-critical-fabulations/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/reading-critical-fabulations/</link>
+	<atom:link href="/reading-critical-fabulations/feed/" rel="self" type="application/rss+xml" />
+	<link>/reading-critical-fabulations/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 26 Jul 2018 21:30:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

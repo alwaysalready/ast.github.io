@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Published Data and life on the street	</title>
-	<atom:link href="http://ast.io/published-data-life-street/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/published-data-life-street/</link>
+	<atom:link href="/published-data-life-street/feed/" rel="self" type="application/rss+xml" />
+	<link>/published-data-life-street/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 02 Jul 2014 10:59:05 +0000</lastBuildDate>
 	<sy:updatePeriod>

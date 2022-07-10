@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Reading - Alex Taylor</title>
-	<atom:link href="http://ast.io/category/reading/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>Reading Archives | Alex Taylor</title>
+	<atom:link href="/category/reading/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 08 Sep 2019 20:34:19 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,46 +21,52 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Reading “Accounting for Slavery”</title>
-		<link>http://ast.io/accounting-for-slavery/</link>
-					<comments>http://ast.io/accounting-for-slavery/#respond</comments>
+		<link>/accounting-for-slavery/</link>
+					<comments>/accounting-for-slavery/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Wed, 02 Jan 2019 11:23:26 +0000</pubDate>
 				<category><![CDATA[Reading]]></category>
 		<category><![CDATA[slavery]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=4521</guid>
+		<guid isPermaLink="false">/?p=4521</guid>
 
-					<description><![CDATA[[raw] Rosenthal, C. Caitlin. (2018). Accounting for Slavery: Masters and Management. Harvard University Press, Cambridge MA. I’ve read a number of Caitlin Rosenthal’s academic papers and have been anticipating this book for a while. The book doesn’t disappoint. It cements and builds on her past work, and draws her insightful ideas together. Rosenthal convincingly shows [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/accounting-for-slavery/">Read More...<span class="screen-reader-text"> from Reading “Accounting for Slavery”</span></a></p>]]></description>
-										<content:encoded><![CDATA[<p>[raw]</p>
+					<description><![CDATA[<p> [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/accounting-for-slavery/">Read More...<span class="screen-reader-text"> from Reading “Accounting for Slavery”</span></a></p>
+<p>The post <a rel="nofollow" href="/accounting-for-slavery/">Reading “Accounting for Slavery”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
 <div class="row">
 <div class="col-md-6 col-sm-8 mb-3">
 Rosenthal, C. Caitlin. (2018). <em>Accounting for Slavery: Masters and Management</em>. Harvard University Press, Cambridge MA.
 </div>
 <div class="col-md-8 col-sm-9 mb-3">
 <p>I’ve read a number of Caitlin Rosenthal’s academic papers and have been anticipating this book for a while. The book doesn’t disappoint. It cements and builds on her past work, and draws her insightful ideas together. Rosenthal convincingly shows how the systems of accounting used in the (largely) antebellum Southern States of the US served to manage (and master) slaves, methodically sustaining the violence we know too well.</p>
-<p>I particularly enjoyed Rosenthal’s careful examination of the paper-based records, showing in detail how forms, tables and calculations objectified people’s bodies as machinery in a capital project, in effect authorising the brutality. What I’d really like to see in any future work is how this line of inquiry ties into contemporary slave studies, with its strong and vital narrative forms. This will no doubt present a challenge, but one worth pursuing.</p>
-</div>
+<p>I particularly enjoyed Rosenthal’s careful examination of the paper-based records, showing in detail how forms, tables and calculations objectified people’s bodies as machinery in a capital project, in effect authorising the brutality. What I’d really like to see in any future work is how this line of inquiry ties into contemporary slave studies, with its strong and vital narrative forms. This will no doubt present a challenge, but one worth pursuing.</p><p>
+</p></div>
 <div class="col-md-4 col-8">
 <figure class="figure">
-<a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674972094"><br>
-<img loading="lazy" class="size-large mb-2" src="http://www.hup.harvard.edu/images/jackets/9780674972094-lg.jpg" alt="Book cover for Accounting for Slavery: Masters and Management - Caitlin Rosenthal" width="447" height="680"><br>
-</a><figcaption class="figure-caption text-center mx-auto">
-Accounting for Slavery:<br>Masters and Management<br>Caitlin Rosenthal.<br>
-</figcaption></figure>
+<a href="http://www.hup.harvard.edu/catalog.php?isbn=9780674972094">
+<img class="size-large mb-2" src="http://www.hup.harvard.edu/images/jackets/9780674972094-lg.jpg" alt="Book cover for Accounting for Slavery: Masters and Management - Caitlin Rosenthal" width="447" height="680">
+</a>
+<figcaption class="figure-caption text-center mx-auto">
+Accounting for Slavery:<br>Masters and Management<br>Caitlin Rosenthal.
+</figcaption>
+</figure>
 </div>
 </div>
-<p>[/raw]</p>
+
+<p>The post <a rel="nofollow" href="/accounting-for-slavery/">Reading “Accounting for Slavery”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/accounting-for-slavery/feed/</wfw:commentRss>
+					<wfw:commentRss>/accounting-for-slavery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading “Critical Fabulations”</title>
-		<link>http://ast.io/reading-critical-fabulations/</link>
-					<comments>http://ast.io/reading-critical-fabulations/#respond</comments>
+		<link>/reading-critical-fabulations/</link>
+					<comments>/reading-critical-fabulations/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Thu, 26 Jul 2018 21:30:15 +0000</pubDate>
@@ -68,9 +74,12 @@ Accounting for Slavery:<br>Masters and Management<br>Caitlin Rosenthal.<br>
 		<category><![CDATA[book]]></category>
 		<category><![CDATA[design]]></category>
 		<category><![CDATA[fabulation]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=4269</guid>
+		<guid isPermaLink="false">/?p=4269</guid>
 
-					<description><![CDATA[When we really need it — amidst so much darkness and gloom — Daniela Rosner has woven together an interventionist design with a critical feminist view to produce something so full of promise. The generative theorising set out in the works of Donna Haraway, Anna Tsing, Saidiya Hartman and so on (all such outstanding figures [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/reading-critical-fabulations/">Read More...<span class="screen-reader-text"> from Reading “Critical Fabulations”</span></a></p>]]></description>
+					<description><![CDATA[<p>When we really need it — amidst so much darkness and gloom — Daniela Rosner has woven together an interventionist design with a critical feminist view to produce something so full of promise. The generative theorising set out in the works of Donna Haraway, Anna Tsing, Saidiya Hartman and so on (all such outstanding figures [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/reading-critical-fabulations/">Read More...<span class="screen-reader-text"> from Reading “Critical Fabulations”</span></a></p>
+<p>The post <a rel="nofollow" href="/reading-critical-fabulations/">Reading “Critical Fabulations”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
 <div class="col-9 col-sm-9 col-md-5">
 <p>When we really need it — amidst so much darkness and gloom — <a href="https://www.hcde.washington.edu/rosner" rel="noopener noreferrer" target="_blank">Daniela Rosner</a> has woven together an interventionist design with a critical feminist view to produce something so full of promise. The generative theorising set out in the works of Donna Haraway, Anna Tsing, Saidiya Hartman and so on (all such outstanding figures in contemporary feminist scholarship) is put into practice through an assortment of design interventions. The design work is cleverly presented through a range of different voices and perspectives, altogether showing Rosner’s impulse to work creatively. But the book is much much more than this, it is about the stories we are able tell in doing design and because of design. It is about a design practice done differently — redoing design so that the absences and alternative imaginaries come to life.</p>
@@ -78,23 +87,24 @@ Accounting for Slavery:<br>Masters and Management<br>Caitlin Rosenthal.<br>
 <p class="highlight"><a href="https://mitpress.mit.edu/books/critical-fabulations" rel="noopener noreferrer" target="_blank">Reworking the Methods and Margins of Design</a></p>
 </div>
 <div class="col-9 col-sm-9 col-md-7">
-<a href="http://ast.io/reading-critical-fabulations/img_9685/" rel="attachment wp-att-4271"><img loading="lazy" src="http://ast.io/wp-content/uploads/2018/07/IMG_9685-1024x1024.jpg" alt="Photo of 10 copies of Critical Fabulations book" width="640" height="640" class="aligncenter size-large wp-image-4271"></a><br>
+<a href="/reading-critical-fabulations/img_9685/" rel="attachment wp-att-4271"><img loading="lazy" src="/wp-content/uploads/2018/07/IMG_9685-1024x1024.jpg" alt="Photo of 10 copies of Critical Fabulations book" width="640" height="640" class="aligncenter size-large wp-image-4271"></a><br>
 
 <p style="margin-top:1rem">What I really enjoyed in reading this book is that it offers a way for those of us in design to think with the kind of hopeful scholarship coming out of feminist theory. For so many, scholars like Haraway are a challenge to read, but not only does Rosner make this scholarship accessible, she spins something new into the ideas. She takes Haraway’s ‘speculative fabulations’ and provides very tangible ways to think ‘with’ stories, and think ‘other’ and ‘more than’ with stories. Her design interventions (constituting a patchwork across the book) provide exemplary ways of both undertaking design and also thinking with it. The centrepiece, the work Rosner has done with others on weaving the Apollo mission’s ‘core memory’, speaks then to both a designerly practice for doing technological innovation and a way to do design in responsible, sensitive and open-ended ways.</p>
 <p><span id="more-4269"></span></p>
 <p>Beyond recounting her exemplary design practice, Rosner does a lovely job setting the stage in the early parts to the book. We learn how an instrumentalist design prevails in today’s science and technology, and yet Rosner shows it didn’t always and doesn’t have to be this way. I liked, in particular, her interweaving story of Haraway’s biography and Lucy Suchman’s profound influence on science and technology, which serves to draw out sometimes common and sometimes contrasting viewpoints. This stitching together of some arguably very different threads produces a lively tapestry of ideas for Rosner to work with, showing immediately her commitment to a generative working with the relations between design and technoscientific innovation.</p>
 <p>I can’t wait to see how this book impacts practice and the future wave of designers aiming to make a difference. I for one will be adding it to my class readings.</p>
-</div></div>]]></content:encoded>
+</div></div><p>The post <a rel="nofollow" href="/reading-critical-fabulations/">Reading “Critical Fabulations”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/reading-critical-fabulations/feed/</wfw:commentRss>
+					<wfw:commentRss>/reading-critical-fabulations/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>What are you reading?</title>
-		<link>http://ast.io/what-are-you-reading/</link>
-					<comments>http://ast.io/what-are-you-reading/#respond</comments>
+		<link>/what-are-you-reading/</link>
+					<comments>/what-are-you-reading/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Tue, 31 Oct 2017 10:28:03 +0000</pubDate>
@@ -102,10 +112,13 @@ Accounting for Slavery:<br>Masters and Management<br>Caitlin Rosenthal.<br>
 		<category><![CDATA[Writing]]></category>
 		<category><![CDATA[feminist technoscience]]></category>
 		<category><![CDATA[HCI]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=3667</guid>
+		<guid isPermaLink="false">/?p=3667</guid>
 
-					<description><![CDATA[Happy to have the short conversation I had with @danielarosner published in Interactions Magazine’s regular “What are you reading?” column. We experiment with a brief interchange about two wonderful books: Anna Tsing’s The Mushroom at the End of the World[foot]Tsing, A. L. (2015). The Mushroom at the End of the World: On the Possibility of [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/what-are-you-reading/">Read More...<span class="screen-reader-text"> from What are you reading?</span></a></p>]]></description>
-										<content:encoded><![CDATA[<p>Happy to have the short conversation I had with @danielarosner published in Interactions Magazine’s regular “<a href="http://interactions.acm.org/enter/view/alex-s.-taylor-and-daniela-k.-rosner" rel="noopener noreferrer" target="_blank">What are you reading?</a>” column. We experiment with a brief interchange about two wonderful books: Anna Tsing’s <em>The Mushroom at the End of the World</em>[foot]Tsing, A. L. (2015). <em>The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins</em>. Princeton University Press.[/foot] and Sarah Ahmed’s <em>Living a Feminist Life</em>[foot]Ahmed, S. (2017). <em>Living a Feminist Life.</em> Duke University Press.[/foot].<br>
+					<description><![CDATA[<p>Happy to have the short conversation I had with @danielarosner published in Interactions Magazine’s regular “What are you reading?” column. We experiment with a brief interchange about two wonderful books: Anna Tsing’s The Mushroom at the End of the World and Sarah Ahmed’s Living a Feminist Life. Below is the long-winded version before tidying and [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/what-are-you-reading/">Read More...<span class="screen-reader-text"> from What are you reading?</span></a></p>
+<p>The post <a rel="nofollow" href="/what-are-you-reading/">What are you reading?</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Happy to have the short conversation I had with @danielarosner published in Interactions Magazine’s regular “<a href="http://interactions.acm.org/enter/view/alex-s.-taylor-and-daniela-k.-rosner" rel="noopener noreferrer" target="_blank">What are you reading?</a>” column. We experiment with a brief interchange about two wonderful books: Anna Tsing’s <em>The Mushroom at the End of the World</em><a id="tippy_tip0_9059_anchor"></a> and Sarah Ahmed’s <em>Living a Feminist Life</em><a id="tippy_tip1_277_anchor"></a>.<br>
 Below is the long-winded version before tidying and editing.<br>
 <span id="more-3667"></span></p>
 <blockquote style="font-size:.8rem"><p>
@@ -130,30 +143,36 @@ Ahmed and Tsing don’t speak directly to design as a field or as a practice. Bu
 For me, Tsing and Ahmed show that we need, urgently, to find ways to act together, to make more possible with the possibilities you write of. Inspired by Ahmed’s language, in particular, I come away wanting to build an army in which each of us is not afraid of putting our bodies into it. All around us, there are ideologies, structures, methods, norms, practices, etc. that seek to smooth so much over and remove each of us from being counted, really counted, from being “alive with a world”. What we need are ways to keep pushing, resisting, and being sensational. We need to ensure our noticings are noticed.<br>
 <strong>D.K.R.</strong>: So maybe then, for HCI, this call to arms makes possible a renewed concern for the problem-solving heritage of the field. Across its methodological rubrics and case studies, HCI scholarship tends to frame design as a means of accomplishing ends, of seeking out too-easy resolutions rather than encouraging creative listening, in Tsing’s terms. These texts, by contrast, caution against such prefabrications and fatalisms. They show that what is at stake in making and inhabiting unpredictable encounters is our ability to recognize and become more accountable to those who lose out — to the things that lie outside our immediate view, to the bacteria that make the soil in which many designers mine, to the “users” haunted by our patriarchal legacies of innovation work. Tsing and Ahmed ask readers to struggle against — to take in and wrestle with our surrounding ecosystems. “We become a problem when we describe a problem,” writes Ahmed (2017, 87). For HCI, Tsing and Ahmed show that designers are not self-contained entities but designers-in-motion, continually working together across difference.
 </p></blockquote>
+<div class="tippy" data-title="1" data-href="/what-are-you-reading/#foot_text_3667_1" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_3667_1" data-showheader data-anchor="#tippy_tip0_9059_anchor">Tsing, A. L. (2015). <em>The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins</em>. Princeton University Press.</div>
+<div class="tippy" data-title="2" data-href="/what-are-you-reading/#foot_text_3667_2" data-class="annie_footnoteRef annie_custom" data-name="foot_loc_3667_2" data-showheader data-anchor="#tippy_tip1_277_anchor">Ahmed, S. (2017). <em>Living a Feminist Life.</em> Duke University Press.</div>
+<p>The post <a rel="nofollow" href="/what-are-you-reading/">What are you reading?</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/what-are-you-reading/feed/</wfw:commentRss>
+					<wfw:commentRss>/what-are-you-reading/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading Sloterdijk’s Spheres, alongside Stengers and Barad</title>
-		<link>http://ast.io/sloterdijks-spheres/</link>
-					<comments>http://ast.io/sloterdijks-spheres/#comments</comments>
+		<link>/sloterdijks-spheres/</link>
+					<comments>/sloterdijks-spheres/#comments</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Thu, 17 Mar 2016 21:28:59 +0000</pubDate>
 				<category><![CDATA[Reading]]></category>
 		<category><![CDATA[Ontology]]></category>
 		<category><![CDATA[STS]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=1003</guid>
+		<guid isPermaLink="false">/?p=1003</guid>
 
-					<description><![CDATA[Amanda Windle has kindly invited me to participate in her small seminar: Informed mattersDigital media materialities. The seminar is summarised as follows: Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/sloterdijks-spheres/">Read More...<span class="screen-reader-text"> from Reading Sloterdijk’s Spheres, alongside Stengers and Barad</span></a></p>]]></description>
+					<description><![CDATA[<p>Amanda Windle has kindly invited me to participate in her small seminar: Informed mattersDigital media materialities. The seminar is summarised as follows: Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/sloterdijks-spheres/">Read More...<span class="screen-reader-text"> from Reading Sloterdijk’s Spheres, alongside Stengers and Barad</span></a></p>
+<p>The post <a rel="nofollow" href="/sloterdijks-spheres/">Reading Sloterdijk’s Spheres, alongside Stengers and Barad</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p><a href="http://amandawindle.com/" target="_blank" rel="noopener noreferrer">Amanda Windle</a> has kindly invited me to participate in her small seminar:</p>
 <div class="highlight" style="font-size:2.2rem;">Informed matters<br>Digital media materialities.</div>
 <p>The seminar is summarised as follows:</p>
-<blockquote style="font-family: 'Inconsolata', monospace; font-size: 0.9em; padding: 5px 20px; line-height: 1.6rem; background: #DCDCDC;"><p>Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an approach to Peter Sloterdijk’s ‘spherology’ across disciplines. How, where and with what matterings do we embark our daily readings is no trivial matter? Sloterdijk’s writing can both inform and trouble readers and so the adjacent readings from [tippy title=“Karen Barad” showheader=“false”]Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter.<em> Signs: Journal of Women in Culture and Society</em>, 28(3), 801–831.[/tippy] and [tippy title=“Isabelle Stengers” showheader=“false”]Stengers, I. (2013). Introductory notes on an ecology of practices.&nbsp;<i>Cultural Studies Review</i>,&nbsp;<i>11</i>(1), 183–196.[/tippy] will open up further questions and provocations. Sloterdijk’s recent publications have been aimed at a design audience (namely architects) and with his media theory the following digital media question will be proposed.&nbsp; With a broadly experiential and performative approach in mind the discussion will loosely consider spherology in this respect:</p>
+<blockquote style="font-family: 'Inconsolata', monospace; font-size: 0.9em; padding: 5px 20px; line-height: 1.6rem; background: #DCDCDC;"><p>Considering Peter Sloterdijk’s rendering of a Heideggerian ‘being-in’ this informal seminar will be a situated reading. The discussion will be located at the Royal Society of the Arts to spatially think through an approach to Peter Sloterdijk’s ‘spherology’ across disciplines. How, where and with what matterings do we embark our daily readings is no trivial matter? Sloterdijk’s writing can both inform and trouble readers and so the adjacent readings from <a id="tippy_tip2_5915_anchor"></a> and <a id="tippy_tip3_1896_anchor"></a> will open up further questions and provocations. Sloterdijk’s recent publications have been aimed at a design audience (namely architects) and with his media theory the following digital media question will be proposed.&nbsp; With a broadly experiential and performative approach in mind the discussion will loosely consider spherology in this respect:</p>
 <ul>
 <li>This formulation opens to the somewhat irreverent question (following Sloterdijk’s own irreverence)&nbsp;of&nbsp;how his&nbsp;thinking can&nbsp;be turned into an app or an application&nbsp;(app displacing application displacing theorisation displacing philosophisation, the last term barely being a word)?</li>
 <li>How might Sloterdijk’s work be reparatively questioned through a feminist enquiry? How might Sloterdijk’s metaphors engage us intra-actively?</li>
@@ -175,85 +194,101 @@ Stengers, I. (2013). Introductory notes on an ecology of practices.&nbsp;<i>Cult
 Sloterdijk, P. (2009). Spheres theory: Talking to myself about the poetics of space.&nbsp;<i>Harvard Design Magazine</i>,&nbsp;<i>30</i>, 126–137.<br>
 van Gennep, A. (1960)&nbsp;&nbsp;<i>The rites of passage.</i>&nbsp;Chicago: University of Chicago Press.</p></blockquote>
 <p>&nbsp;</p>
+<div class="tippy" data-title="Karen Barad" data-showheader="false" data-anchor="#tippy_tip2_5915_anchor">Barad, K. (2003). Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter.<em> Signs: Journal of Women in Culture and Society</em>, 28(3), 801–831.</div>
+<div class="tippy" data-title="Isabelle Stengers" data-showheader="false" data-anchor="#tippy_tip3_1896_anchor">Stengers, I. (2013). Introductory notes on an ecology of practices.&nbsp;<i>Cultural Studies Review</i>,&nbsp;<i>11</i>(1), 183–196.</div>
+<p>The post <a rel="nofollow" href="/sloterdijks-spheres/">Reading Sloterdijk’s Spheres, alongside Stengers and Barad</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/sloterdijks-spheres/feed/</wfw:commentRss>
+					<wfw:commentRss>/sloterdijks-spheres/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading “Yes to Life = No to Mining:”…</title>
-		<link>http://ast.io/yes-to-life/</link>
-					<comments>http://ast.io/yes-to-life/#respond</comments>
+		<link>/yes-to-life/</link>
+					<comments>/yes-to-life/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Mon, 29 Feb 2016 19:45:29 +0000</pubDate>
 				<category><![CDATA[Reading]]></category>
 		<category><![CDATA[counting]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=950</guid>
+		<guid isPermaLink="false">/?p=950</guid>
 
-					<description><![CDATA[This striking article from Diane Nelson—in SF Online’s special issue: Life (Un)ltd—has stuck with me over the last few weeks. Nelson, D. (2013). “Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala. The Scholar and Feminist Online, 11(3). Nelson&#160;weaves together a compelling if somewhat bleak story of mining in Guatemala [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/yes-to-life/">Read More...<span class="screen-reader-text"> from Reading “Yes to Life = No to Mining:”…</span></a></p>]]></description>
+					<description><![CDATA[<p>This striking article from Diane Nelson—in SF Online’s special issue: Life (Un)ltd—has stuck with me over the last few weeks. Nelson, D. (2013). “Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala. The Scholar and Feminist Online, 11(3). Nelson&#160;weaves together a compelling if somewhat bleak story of mining in Guatemala [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/yes-to-life/">Read More...<span class="screen-reader-text"> from Reading “Yes to Life = No to Mining:”…</span></a></p>
+<p>The post <a rel="nofollow" href="/yes-to-life/">Reading “Yes to Life = No to Mining:”…</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p><a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/"> This</a> striking article from Diane Nelson—in SF Online’s special issue: <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/" target="_blank" rel="noopener noreferrer">Life (Un)ltd</a>—has stuck with me over the last few weeks.</p>
 <blockquote><p>Nelson, D. (2013). <a href="http://sfonline.barnard.edu/life-un-ltd-feminism-bioscience-race/yes-to-life-no-to-mining-counting-as-biotechnology-in-life-ltd-guatemala/" target="_blank" rel="noopener noreferrer">“Yes to Life = No to Mining:” Counting as Biotechnology in Life (Ltd) Guatemala</a>. The Scholar and Feminist Online, 11(3).</p></blockquote>
 <p>Nelson&nbsp;weaves together a compelling if somewhat bleak story of mining in Guatemala and the impact it is having on small villages and local people.<span id="more-950"></span> What she&nbsp;does especially well is show the complexities of the mining industry’s presence in the mountains of Guatemala and the many different issues at stake for the multiple actors (human and nonhuman). Without a doubt, she&nbsp;paints a vivid picture in support of the people labouring in the mines and affected my the huge physical presence of the mining industry, but at the same time she captures the uncertainties and occasional doubts the locals themselves have in mobilising a clear cut case against mining.</p>
 <blockquote style="font-size: 1.8rem; font-style: italic; line-height: 3rem; text-indent: -12px;"><p>“I explore struggles over differences in live-ability and response-ability.”</p></blockquote>
 <p>Relevant for me are&nbsp;Nelson’s thoughts on counting and accounting. She sheds light on the modes of counting—the&nbsp;repertoires&nbsp;and regimes—and what kinds of authority they afford. At the same time, she reveals the real tensions that arise in trying to use number to capture and (re)produce the worlds we make.</p>
 <blockquote style="text-indent: -6px;"><p>“How do you balance — without particularly accurate information — quetzales to cuerdas of land, wages to labor, hopes for progress, development, and the “will to improve,” to war’s devastation and the impossible existing relations of production?”</p></blockquote>
-<p>I’m reminded, in Nelson’s piece, of Helen Verran’s amazing book [tippy title=“<em>Science and An African Logic</em>” showheader=“false”]Verran, H. (2001) <a href="http://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html" target="_blank" rel="noopener noreferrer">Science and An African Logic</a>. London: University of Chicago Press.[/tippy], and it relates closely with a few other works I’ve been reading on counting and number:</p>
+<p>I’m reminded, in Nelson’s piece, of Helen Verran’s amazing book <a id="tippy_tip4_2291_anchor"></a>, and it relates closely with a few other works I’ve been reading on counting and number:</p>
 <blockquote><p>Beer, D. (2015). <a href="http://doi.org/10.1177/2053951715578951" target="_blank" rel="noopener noreferrer">Productive measures: Culture and measurement in the context of everyday neoliberalism</a>. Big Data &amp; Society, 2(1), 1–12.<br>
 Felski, R. (2002). <a href="http://doi.org/10.2307/4149213" target="_blank" rel="noopener noreferrer">Telling Time in Feminist Theory</a>. Tulsa Studies in Women’s Literature, 21(1), 21.<br>
 Skeggs, B. (2014). <a href="http://doi.org/10.1111/1468-4446.12072" target="_blank" rel="noopener noreferrer">Values beyond value? Is anything beyond the logic of capital?</a> The British Journal of Sociology, 65(1), 1–20.<br>
 Verran, H. (2013). <a href="http://natureculture.sakura.ne.jp/02-translational-movements/" target="_blank" rel="noopener noreferrer">Numbers performing nature in quantitative valuing</a>. NatureCulture, 2, 23–37.</p></blockquote>
+<div class="tippy" data-title="<em>Science and An African Logic</em>" data-showheader="false" data-anchor="#tippy_tip4_2291_anchor">Verran, H. (2001) <a href="http://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html" target="_blank" rel="noopener noreferrer">Science and An African Logic</a>. London: University of Chicago Press.</div>
+<p>The post <a rel="nofollow" href="/yes-to-life/">Reading “Yes to Life = No to Mining:”…</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/yes-to-life/feed/</wfw:commentRss>
+					<wfw:commentRss>/yes-to-life/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>On “How Apple is Giving Design a Bad Name”</title>
-		<link>http://ast.io/a-bad-name/</link>
-					<comments>http://ast.io/a-bad-name/#respond</comments>
+		<link>/a-bad-name/</link>
+					<comments>/a-bad-name/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Wed, 11 Nov 2015 16:02:50 +0000</pubDate>
 				<category><![CDATA[Reading]]></category>
 		<category><![CDATA[design]]></category>
 		<category><![CDATA[HCI]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=810</guid>
+		<guid isPermaLink="false">/?p=810</guid>
 
-					<description><![CDATA[Thanks to Richard Banks for pointing me towards this piece published on Fast Company’s site by Don Norman and Bruce Tognazzini (Tog): How Apple Is Giving Design A Bad Name For years, Apple followed user-centered design principles. Then something went wrong. The article is a hard hitting critique of Apple’s current design philosophy. More than [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/a-bad-name/">Read More...<span class="screen-reader-text"> from On “How Apple is Giving Design a Bad Name”</span></a></p>]]></description>
+					<description><![CDATA[<p>Thanks to Richard Banks for pointing me towards this piece published on Fast Company’s site by Don Norman and Bruce Tognazzini (Tog): How Apple Is Giving Design A Bad Name For years, Apple followed user-centered design principles. Then something went wrong. The article is a hard hitting critique of Apple’s current design philosophy. More than [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/a-bad-name/">Read More...<span class="screen-reader-text"> from On “How Apple is Giving Design a Bad Name”</span></a></p>
+<p>The post <a rel="nofollow" href="/a-bad-name/">On “How Apple is Giving Design a Bad Name”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Thanks to <a href="http://www.richardbanks.com/73-2/" target="_blank" rel="noopener noreferrer">Richard Banks</a> for pointing me towards this piece published on Fast Company’s site by Don Norman and Bruce Tognazzini (Tog):</p>
 <div class="highlight" style="font-size:1.6rem;"><a href="http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name?partner=rss" target="_blank" rel="noopener noreferrer"><big>How Apple Is Giving Design A Bad Name</big><br>
 For years, Apple followed user-centered design principles. Then something went wrong.</a></div>
 <p>The article is a hard hitting critique of Apple’s current design philosophy. More than this, though, the two long time interaction design gurus set out a clear project for design, one that they see Apple having been instrumental in but now deviating from. Their general argument is, on the face of it, pretty convincing. Yet digging a little deeper it’s one that I have problems with. This post is really an effort to sort things out in my own mind.<span id="more-810"></span><br>
 I think, outwardly, at least, Norman and Tog have a point about Apple doing a disservice to design. Certainly, in their marketing and stores, they are putting a lot of emphasis on visual aesthetic and physical form. As Norman and Tog say, this conveys a message that the business of design (and how it is being widely promoted by Apple) is all about making things pretty. I am fairly confident though that Apple’s designers would make a strong case for putting meticulous effort into interaction cues, and visual (and tactile) feedback—that is, in thinking carefully about the ensemble of product/interaction design. I’ve read interviews with Apple’s designers saying just this and heard Ive talking about the painstaking efforts to convey interactional qualities through animation, touch, tactility, etc. Whether they’ve made good choices or not is, I’d say, another matter.<br>
-Again, I also recognise that Norman and Tog have some very clear and convincing arguments for the kind of interaction design they proselytise. I worry though that they are part of the old guard that sees some of the original ‘solutions’ to the problems they themselves created/defined as the best ones (for example, what they see to be [tippy title=“the power of menus”]Image from <a href="http://applemuseum.bott.org/" target="_blank" rel="noopener noreferrer">The Apple Museum</a>[/tippy]).<br>
+Again, I also recognise that Norman and Tog have some very clear and convincing arguments for the kind of interaction design they proselytise. I worry though that they are part of the old guard that sees some of the original ‘solutions’ to the problems they themselves created/defined as the best ones (for example, what they see to be <a id="tippy_tip5_1804_anchor"></a>).<br>
 <img loading="lazy" src="http://applemuseum.bott.org/sections/images/screenshots/system1/menu.gif" alt="Mac OS Menus" width="614" height="228"><br>
 If we were to take this reference—indeed reverence—to Apple’s past design at face value, we would be led to imagine that none of us had problems with using earlier versions of Mac OS. Well, of course we did. I never really got on with Apple’s original bitmap Chicago font, the open/save dialogues were notoriously confusing, and we’re still left with the legacy of a very awkward solution for ejecting media.<br>
 <img class="alignnone" src="http://applemuseum.bott.org/sections/images/screenshots/system3/opensave.gif" alt="Mac OS Open dialogue"><br>
-[tippy title=“<small>Mac OS System 3, Open dialogue.</small>” showheader=“false”]Image from <a href="http://applemuseum.bott.org/" target="_blank" rel="noopener noreferrer">The Apple Museum</a>[/tippy]<br>
+<a id="tippy_tip6_4460_anchor"></a><br>
 More importantly, there is a sense of the authors misjudging the changing ways we have come to think about computing and use computers. In fact, I think many people don’t think they’re using computers anymore—at least in how we understood them in the 80s/90s as productivity machines. Our phones and tablets are much more entertainment devices (devices of consumption), not so far from a gaming experience in which many will know things like discoverability, feedback, mapping, and the ability to undo are just not cast in the same mould. Of course, the kinds of design criteria Norman and Tog talk about are important and I, for one, sorely miss them when I try to use Word, Excel, etc. on a iPad. But in the world of iOS, where the forms of use are so very different, I think the issues manifest themselves differently and demand a different kind of attention (one that Norman and Tog choose not to see or perhaps not to understand).<br>
 What particularly interests me about this is that I think we need to recognise that what good usability is and, to some extent, what good design is are things we in a sense ‘manufacture’ through the technologies we produce and design. Tog and Norman understand good design guidelines as static, something somehow unchanging, irrespective of everything else that is changing. By talking about “basic psychological principles” they indicate an obduracy to what good design might be, but fail to recognise that this is deeply bound to the continuously changing material practices we are enabling through ‘computing’. They write: “principles reflect the needs, desires, and abilities of human beings, not the machines they use.”<br>
 The trouble is our needs, desires and abilities are inexorably entangled with matter, matter like machines. The qualities of being human can’t in some way exist outside of these entanglements. Of course, there is much to be gained by looking back to designers like Dieter Rams,&nbsp;but I think what we’re doing when we do this historicising is reworking old concepts into contemporary moments, undertaking a translation work to make these meaningful for the assemblies of things and people we are dealing with today. So, to me, the guidelines Norman and Tog speak of make most sense for the machines that they played a role in engineering and building. A principle of consistency has a very particular meaning for the early Mac OS that, I feel, doesn’t translate in any straightforward way to contemporary operating systems and ecologies of apps, etc. What Tog and Norman miss, I think, is that we are always giving shape to new and different possibilities of good design through the things we create. As computing has diverged from the Macintosh (and PC), we have created logics and rationales that present fundamentally different kinds of interaction where it doesn’t always make sense to rigidly apply past principles.<br>
-Even though Tog and Norman plead for us not to, yes, let’s take the popularity of the iPad amongst—for lack of a better category description—retirees (or ‘grandparents’ if you like). I know I’m not alone in being struck by how people from my parents’ generation can get so intimately attached to their iPads. I think we have to ask what’s going on here and not brush aside what is visibly a genuine intimacy by simply criticising some specific user interface features based on the design of “traditional computers”. And this is meant as more than the hackneyed “could my mother use it” kind of point. Really, what’s going on here? Of course, there are probably plenty of reasons for the iPad’s appeal (and I don’t mean to overlook a lot of the really difficult and frustrating aspects of using them), but I think we’re witnessing a different set of expectations around computing and the relationships we form with machines. This seems to be something Norman and Tog don’t want to acknowledge (despite Norman’s efforts to understand [tippy title=“emotional design” showheader=“false”]Norman D (2005) <em><a href="https://books.google.com/books/about/Emotional_Design.html?id=h_wAbnGlOC4C" target="_blank" rel="noopener noreferrer">Emotional Design: Why We Love (or Hate) Everyday Things</a></em>. Basic Books.[/tippy]).&nbsp;<br>
+Even though Tog and Norman plead for us not to, yes, let’s take the popularity of the iPad amongst—for lack of a better category description—retirees (or ‘grandparents’ if you like). I know I’m not alone in being struck by how people from my parents’ generation can get so intimately attached to their iPads. I think we have to ask what’s going on here and not brush aside what is visibly a genuine intimacy by simply criticising some specific user interface features based on the design of “traditional computers”. And this is meant as more than the hackneyed “could my mother use it” kind of point. Really, what’s going on here? Of course, there are probably plenty of reasons for the iPad’s appeal (and I don’t mean to overlook a lot of the really difficult and frustrating aspects of using them), but I think we’re witnessing a different set of expectations around computing and the relationships we form with machines. This seems to be something Norman and Tog don’t want to acknowledge (despite Norman’s efforts to understand <a id="tippy_tip7_6180_anchor"></a>).&nbsp;<br>
 As I see it, the iOS aims to reveal (and make discoverable) a different set of qualities that appeal in different sorts of ways and that fit within a logic of portable and touch enabled devices in the way the Mac OS doesn’t (and shouldn’t). In the original design of the Mac, choices also needed to made about what was immediately discoverable and what would be buried under the menu architecture and in obscure dialogues (remember the Chooser?), and this presented a particular kind of logic-of-use. With the iOS, I think (intentionally or not) a different kind of experience is surfaced by the decisions to reveal and hide interactional capabilities, and the logic-of-use here is fundamentally different; I feel like the iPad, etc. is much more about the feel for content (and to some extent, creation). So perhaps it’s this that makes the devices so appealing and that many of us, including my parents, get so attached to.<br>
 <img src="http://applemuseum.bott.org/sections/images/screenshots/system4/chooser.gif" alt="Mac OS Chooser"><br>
-[tippy title=“<small>Mac OS System 4, Chooser.</small>” showheader=“false”]Image from <a href="http://applemuseum.bott.org/" target="_blank" rel="noopener noreferrer">The Apple Museum</a>[/tippy]<br>
+<a id="tippy_tip8_3531_anchor"></a><br>
 Finally, I should say that I am a long time Mac user but I feel wedded to Macs (and the Apple ‘ecosystem’), for now at least, because that’s what I’ve bought into and am used to using. I’m really not sure whether Apple’s interaction design is especially better than anyone else’s and I think there are lots of things that confuse and frustrate me about their various operating systems. This post isn’t one defending Apple’s design, but more a response to what I see as Don Norman’s and Bruce Tognazzini’s views on design.</p>
+<div class="tippy" data-title="the power of menus" data-anchor="#tippy_tip5_1804_anchor">Image from <a href="http://applemuseum.bott.org/" target="_blank" rel="noopener noreferrer">The Apple Museum</a></div>
+<div class="tippy" data-title="<small>Mac OS System 3, Open dialogue.</small>" data-showheader="false" data-anchor="#tippy_tip6_4460_anchor">Image from <a href="http://applemuseum.bott.org/" target="_blank" rel="noopener noreferrer">The Apple Museum</a></div>
+<div class="tippy" data-title="emotional design" data-showheader="false" data-anchor="#tippy_tip7_6180_anchor">Norman D (2005) <em><a href="https://books.google.com/books/about/Emotional_Design.html?id=h_wAbnGlOC4C" target="_blank" rel="noopener noreferrer">Emotional Design: Why We Love (or Hate) Everyday Things</a></em>. Basic Books.</div>
+<div class="tippy" data-title="<small>Mac OS System 4, Chooser.</small>" data-showheader="false" data-anchor="#tippy_tip8_3531_anchor">Image from <a href="http://applemuseum.bott.org/" target="_blank" rel="noopener noreferrer">The Apple Museum</a></div>
+<p>The post <a rel="nofollow" href="/a-bad-name/">On “How Apple is Giving Design a Bad Name”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/a-bad-name/feed/</wfw:commentRss>
+					<wfw:commentRss>/a-bad-name/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</title>
-		<link>http://ast.io/counting-accounting-and-accountability/</link>
-					<comments>http://ast.io/counting-accounting-and-accountability/#respond</comments>
+		<link>/counting-accounting-and-accountability/</link>
+					<comments>/counting-accounting-and-accountability/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Fri, 16 Oct 2015 16:15:51 +0000</pubDate>
@@ -261,29 +296,35 @@ Finally, I should say that I am a long time Mac user but I feel wedded to Macs (
 		<category><![CDATA[Care]]></category>
 		<category><![CDATA[Helen Verran]]></category>
 		<category><![CDATA[STS]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=787</guid>
+		<guid isPermaLink="false">/?p=787</guid>
 
-					<description><![CDATA[Just read Martha Kenney’s “Counting, accounting, and accountability: Helen Verran’s relational empiricism”. The article is currently available through the Social Studies of Science OnlineFirst service. Intentionally or not, it sits nicely with other articles brought together to examine [tippy title=“care” showheader=“false”]See, for example, Martin, A., Myers, N., &#38; Viseu, A. (2015). The politics of care [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/counting-accounting-and-accountability/">Read More...<span class="screen-reader-text"> from Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</span></a></p>]]></description>
+					<description><![CDATA[<p>Just read Martha Kenney’s “Counting, accounting, and accountability: Helen Verran’s relational empiricism”. The article is currently available through the Social Studies of Science OnlineFirst service. Intentionally or not, it sits nicely with other articles brought together to examine . Kenney, M. (2015). Counting, accounting, and accountability: Helen Verran’s relational empiricism. Social Studies of Science, 1–23. [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/counting-accounting-and-accountability/">Read More...<span class="screen-reader-text"> from Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</span></a></p>
+<p>The post <a rel="nofollow" href="/counting-accounting-and-accountability/">Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Just read Martha Kenney’s “<a href="http://doi.org/10.1177/0306312715607413" target="_blank" rel="noopener noreferrer">Counting, accounting, and accountability: Helen Verran’s relational empiricism</a>”.<br>
-The article is currently available through the <a href="http://sss.sagepub.com/" target="_blank" rel="noopener noreferrer">Social Studies of Science</a> <a href="http://sss.sagepub.com/content/early/recent" target="_blank" rel="noopener noreferrer">OnlineFirst</a> service. Intentionally or not, it sits nicely with other articles brought together to examine [tippy title=“<em>care</em>” showheader=“false”]See, for example, Martin, A., Myers, N., &amp; Viseu, A. (2015). <a href="http://doi.org/10.1177/0306312715602073" target="_blank" rel="noopener noreferrer">The politics of care in technoscience</a>. Social Studies of Science, 1–17.[/tippy].</p>
+The article is currently available through the <a href="http://sss.sagepub.com/" target="_blank" rel="noopener noreferrer">Social Studies of Science</a> <a href="http://sss.sagepub.com/content/early/recent" target="_blank" rel="noopener noreferrer">OnlineFirst</a> service. Intentionally or not, it sits nicely with other articles brought together to examine <a id="tippy_tip9_278_anchor"></a>.</p>
 <blockquote><p><a style="font-size: 145%;" href="http://doi.org/10.1177/0306312715607413" target="_blank" rel="noopener noreferrer">Kenney, M. (2015). Counting, accounting, and accountability: Helen Verran’s relational empiricism. Social Studies of Science, 1–23.</a></p></blockquote>
 <p>Kenney’s article is very much a homage to <a href="https://en.wikipedia.org/wiki/Helen_Verran" target="_blank" rel="noopener noreferrer">Helen Verran</a> and her wonderful book <a href="http://press.uchicago.edu/ucp/books/book/chicago/S/bo3631540.html" target="_blank" rel="noopener noreferrer">Science and an African Logic</a>. She pays special attention to Verran’s efforts at <em>decomposition</em> and frames these through a lens of accountability. Care is given by Kenny to differentiate this kind of accounting from that of “contemporary neo-liberal bureaucracies” that run the risk of strengthening “the academic culture that privileges critique and revelation over other, more subtle and creative, approaches.” <span id="more-787"></span>(p. 8)<br>
 What I particularly like about Kenney’s reading of <em>Science and an African Logic</em> is the emphasis she places on Verran’s ‘generative critique’ and, in these same terms, the way we might come to understand the empirical/ethnographic account.</p>
 <blockquote><p>“Verran […] helps us see ethnographic writing conventions as generative, not of true representations (tracings of real relations) but of promising fictions, echoing Strathern’s definition of ethnography as an ‘effort to create a world parallel to the perceived world’” (p. 10).</p></blockquote>
 <p>For me, this is such a helpful way to think about the accounts we produce as field researchers. It gets us past questions about factual or realist representation. It reminds me of something I heard the singer PJ Harvey say on Radio 4 a while back. Talking about Harold Pinter’s poetry and ‘the poetry’ of Kubrick’s films, she evocatively describes what she sees in them:</p>
-<blockquote style="font-size: 205%; font-style: italic"><p>[tippy title=“&nbsp;‘There is so much space where the truth can enter.’&nbsp;”&nbsp;showheader=“false”]I dashed to make a written note of this, but have since found the interview online, <a href="https://www.youtube.com/watch?v=QsJ4X3TlTsM" target="_blank" rel="noopener noreferrer">here</a> — time = 9:21.[/tippy]</p></blockquote>
+<blockquote style="font-size: 205%; font-style: italic"><a id="tippy_tip10_7034_anchor"></a></blockquote>
 <p>As with Pinter and Kubrick, then, I appreciate Kenney reminding us that ethnographic accounts such as Verran’s must be written/read as “an alternative way of figuring and paying attention to differences that may enable different forms of response and participation.” (p. 11)</p>
+<div class="tippy" data-title="<em>care</em>" data-showheader="false" data-anchor="#tippy_tip9_278_anchor">See, for example, Martin, A., Myers, N., &amp; Viseu, A. (2015). <a href="http://doi.org/10.1177/0306312715602073" target="_blank" rel="noopener noreferrer">The politics of care in technoscience</a>. Social Studies of Science, 1–17.</div>
+<div class="tippy" data-title="'There is so much space where the truth can enter.'" data-showheader="false" data-anchor="#tippy_tip10_7034_anchor">I dashed to make a written note of this, but have since found the interview online, <a href="https://www.youtube.com/watch?v=QsJ4X3TlTsM" target="_blank" rel="noopener noreferrer">here</a> — time = 9:21.</div>
+<p>The post <a rel="nofollow" href="/counting-accounting-and-accountability/">Reading “Counting, accounting, and accountability: Helen Verran’s relational empiricism”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/counting-accounting-and-accountability/feed/</wfw:commentRss>
+					<wfw:commentRss>/counting-accounting-and-accountability/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading Material Participation</title>
-		<link>http://ast.io/material-participation/</link>
-					<comments>http://ast.io/material-participation/#respond</comments>
+		<link>/material-participation/</link>
+					<comments>/material-participation/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Fri, 29 May 2015 15:18:04 +0000</pubDate>
@@ -291,23 +332,29 @@ What I particularly like about Kenney’s reading of <em>Science and an African 
 		<category><![CDATA[data]]></category>
 		<category><![CDATA[Participation]]></category>
 		<category><![CDATA[STS]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=690</guid>
+		<guid isPermaLink="false">/?p=690</guid>
 
-					<description><![CDATA[I wanted to write a short note about Noortje Marres’ book [tippy title=“Material participation”&#160;showheader=“false”]Marres, N. (2012). Material participation: technology, the environment and everyday publics. Palgrave Macmillan.[/tippy]. The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/material-participation/">Read More...<span class="screen-reader-text"> from Reading Material Participation</span></a></p>]]></description>
-										<content:encoded><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book [tippy title=“Material participation”&nbsp;showheader=“false”]Marres, N. (2012). <em>Material participation: technology, the environment and everyday publics</em>. Palgrave Macmillan.[/tippy].<span id="more-690"></span><br>
+					<description><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book . The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/material-participation/">Read More...<span class="screen-reader-text"> from Reading Material Participation</span></a></p>
+<p>The post <a rel="nofollow" href="/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book <a id="tippy_tip11_2022_anchor"></a>.<span id="more-690"></span><br>
 <a href="http://www.palgrave.com/page/detail/material-participation-technology-the-environment-and-everyday-publics-noortje-marres/?isb=9780230232112"><img loading="lazy" class="alignnone" src="http://research.gold.ac.uk/7577/1/9780230232112.jpg" alt width="253" height="395"></a><br>
-The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to see the Bullfrogs, physical charts and posters we’ve built as “participation technologies” (to use Noortje’s term) and reflect on how they have opened up a wider range of ways for people to engage in local and civic matters. Combined with Doreen Massey’s ideas on [tippy title=“throwntogetherness and the fluidity of place”&nbsp;showheader=“false”]Doreen Massey. (2005). <em>For space</em>. Sage.[/tippy], we’re beginning to see the entanglements of participation and technology as a means of enacting place, and expanding the ways place is, as it were, performed. Place then comes to be something that can be actively figured through a diverse set of participation technologies.</p>
+The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to see the Bullfrogs, physical charts and posters we’ve built as “participation technologies” (to use Noortje’s term) and reflect on how they have opened up a wider range of ways for people to engage in local and civic matters. Combined with Doreen Massey’s ideas on <a id="tippy_tip12_4965_anchor"></a>, we’re beginning to see the entanglements of participation and technology as a means of enacting place, and expanding the ways place is, as it were, performed. Place then comes to be something that can be actively figured through a diverse set of participation technologies.</p>
+<div class="tippy" data-title="Material participation" data-showheader="false" data-anchor="#tippy_tip11_2022_anchor">Marres, N. (2012). <em>Material participation: technology, the environment and everyday publics</em>. Palgrave Macmillan.</div>
+<div class="tippy" data-title="throwntogetherness and the fluidity of place" data-showheader="false" data-anchor="#tippy_tip12_4965_anchor">Doreen Massey. (2005). <em>For space</em>. Sage.</div>
+<p>The post <a rel="nofollow" href="/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/material-participation/feed/</wfw:commentRss>
+					<wfw:commentRss>/material-participation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading ‘Nothing comes without its world’: thinking with care</title>
-		<link>http://ast.io/without-its-world/</link>
-					<comments>http://ast.io/without-its-world/#respond</comments>
+		<link>/without-its-world/</link>
+					<comments>/without-its-world/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Wed, 18 Feb 2015 17:34:29 +0000</pubDate>
@@ -316,52 +363,73 @@ The book has been incredibly useful for a few of us in thinking through the Teni
 		<category><![CDATA[feminist technoscience]]></category>
 		<category><![CDATA[Ontology]]></category>
 		<category><![CDATA[STS]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=675</guid>
+		<guid isPermaLink="false">/?p=675</guid>
 
-					<description><![CDATA[Reading María Puig de la Bellacasa’s article on feminist&#160;notions of care. Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. The Sociological Review, 60(2), 197–216. Puig de la Bellacasa writes evocatively on Donna Haraway’s work&#160;and draws it&#160;into an idea of care. I especially like how she figures care as a [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/without-its-world/">Read More...<span class="screen-reader-text"> from Reading ‘Nothing comes without its world’: thinking with care</span></a></p>]]></description>
+					<description><![CDATA[<p>Reading María Puig de la Bellacasa’s article on feminist&#160;notions of care. Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. The Sociological Review, 60(2), 197–216. Puig de la Bellacasa writes evocatively on Donna Haraway’s work&#160;and draws it&#160;into an idea of care. I especially like how she figures care as a [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/without-its-world/">Read More...<span class="screen-reader-text"> from Reading ‘Nothing comes without its world’: thinking with care</span></a></p>
+<p>The post <a rel="nofollow" href="/without-its-world/">Reading ‘Nothing comes without its world’: thinking with care</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Reading María Puig de la Bellacasa’s article on feminist&nbsp;notions of care.<span id="more-675"></span><br>
-<img loading="lazy" class=" size-medium wp-image-685 aligncenter" src="http://ast.io/wp-content/uploads/2015/02/without-its-world-300x300.png" alt="without-its-world" width="300" height="300"></p>
+<img loading="lazy" class=" size-medium wp-image-685 aligncenter" src="/wp-content/uploads/2015/02/without-its-world-300x300.png" alt="without-its-world" width="300" height="300"></p>
 <blockquote><p>Puig de la Bellacasa, M. (2012). “Nothing comes without its world”: thinking with care. <em>The Sociological Review</em>, 60(2), 197–216.</p></blockquote>
 <p>Puig de la Bellacasa writes evocatively on Donna Haraway’s work&nbsp;and draws it&nbsp;into an idea of care. I especially like how she figures care as a way of bringing things into productive relations with one another, not narrowing in on oppositional differences, but seeking a generative relationality.</p>
-<blockquote><p>[tippy title=“Caring and relating thus share conceptual and ontological resonance. In worlds made of heterogeneous interdependent forms and processes of life and matter, to care about something, or for somebody, is inevitably to create relation. In this way care holds the peculiar significance of being a ‘non normative obligation’ (Puig de la Bellacasa, 2010): it is concomitant to life – not something forced upon living beings by a moral order; yet it obliges in that for life to be liveable it needs being fostered.” showheader=“false”]p. 198, Puig la Bellacasa (2012)[/tippy]</p></blockquote>
-<p>One thing that’s noteworthy is the absence of Annemarie Mol in this text, with her [tippy title=“central contribution on the topic of care”&nbsp;showheader=“false”]See Mol, A. 2008. <em>The Logic of Care: Health and the Problem of Patient Choice</em>. New York: Routledge.[/tippy] in science and technology scholarship. I wonder if this has to do with her only just&nbsp;veiled criticisms of some in feminist technoscience through&nbsp;her remarks on ‘new materialism’:</p>
-<blockquote><p>[tippy title=“As the new materialism forgets these relational engagements and affordances it has no ￼way of talking about what matter ‘itself’ does, other than naively echoing natural science textbooks and journal articles – minus the materials and methods sections. Decades of work in STS is being disdainfully discarded. In the process most of the questions that ‘relational materialism’ was trying to raise are being sidelined, too.” showheader=“false”]… pp. 380–381, Mol, A. Mind your plate! The ontonorms of Dutch dieting. <em>Social Studies of Science</em> 43, 3 (2013), 379–396.[/tippy]</p></blockquote>
-<p>Whatever the case, Puig de la Bellacasa “speculative reading” of Haraway and her thickening of <em>care</em> provides a helpful basis for thinking [tippy title=“diffractively” showheader=“false”]That is, productively or generatively.[/tippy] about what we know and how we know it.</p>
+<blockquote><a id="tippy_tip13_4422_anchor"></a></blockquote>
+<p>One thing that’s noteworthy is the absence of Annemarie Mol in this text, with her <a id="tippy_tip14_8231_anchor"></a> in science and technology scholarship. I wonder if this has to do with her only just&nbsp;veiled criticisms of some in feminist technoscience through&nbsp;her remarks on ‘new materialism’:</p>
+<blockquote><a id="tippy_tip15_3420_anchor"></a></blockquote>
+<p>Whatever the case, Puig de la Bellacasa “speculative reading” of Haraway and her thickening of <em>care</em> provides a helpful basis for thinking <a id="tippy_tip16_8373_anchor"></a> about what we know and how we know it.</p>
+<div class="tippy" data-title="Caring and relating thus share conceptual and ontological resonance. In worlds made of heterogeneous interdependent forms and processes of life and matter, to care about something, or for somebody, is inevitably to create relation. In this way care holds the peculiar significance of being a ‘non normative obligation’ (Puig de la Bellacasa, 2010): it is concomitant to life – not something forced upon living beings by a moral order; yet it obliges in that for life to be liveable it needs being fostered." data-showheader="false" data-anchor="#tippy_tip13_4422_anchor">p. 198, Puig la Bellacasa (2012)</div>
+<div class="tippy" data-title="central contribution on the topic of care" data-showheader="false" data-anchor="#tippy_tip14_8231_anchor">See Mol, A. 2008. <em>The Logic of Care: Health and the Problem of Patient Choice</em>. New York: Routledge.</div>
+<div class="tippy" data-title="As the new materialism forgets these relational engagements and affordances it has no ￼way of talking about what matter ‘itself’ does, other than naively echoing natural science textbooks and journal articles – minus the materials and methods sections. Decades of work in STS is being disdainfully discarded. In the process most of the questions that ‘relational materialism’ was trying to raise are being sidelined, too." data-showheader="false" data-anchor="#tippy_tip15_3420_anchor">… pp. 380–381, Mol, A. Mind your plate! The ontonorms of Dutch dieting. <em>Social Studies of Science</em> 43, 3 (2013), 379–396.</div>
+<div class="tippy" data-title="diffractively" data-showheader="false" data-anchor="#tippy_tip16_8373_anchor">That is, productively or generatively.</div>
+<p>The post <a rel="nofollow" href="/without-its-world/">Reading ‘Nothing comes without its world’: thinking with care</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/without-its-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/without-its-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reading “ANT, multiplicity and policy”</title>
-		<link>http://ast.io/ant-multiplicity-policy/</link>
-					<comments>http://ast.io/ant-multiplicity-policy/#respond</comments>
+		<link>/ant-multiplicity-policy/</link>
+					<comments>/ant-multiplicity-policy/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Tue, 10 Feb 2015 16:23:32 +0000</pubDate>
 				<category><![CDATA[Reading]]></category>
 		<category><![CDATA[ANT]]></category>
 		<category><![CDATA[STS]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=641</guid>
+		<guid isPermaLink="false">/?p=641</guid>
 
-					<description><![CDATA[Some notes on: Law, J., &#38; Singleton, V. (2014). ANT, multiplicity and policy. Critical Policy Studies, 1–18. &#160; I’m in two minds about this article by Law and Singleton (2014) that targets policy making through the example of the foot and mouth outbreak in the UK, circa 2001. It’s a useful and simply put precis [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/ant-multiplicity-policy/">Read More...<span class="screen-reader-text"> from Reading “ANT, multiplicity and policy”</span></a></p>]]></description>
+					<description><![CDATA[<p>Some notes on: Law, J., &#38; Singleton, V. (2014). ANT, multiplicity and policy. Critical Policy Studies, 1–18. &#160; I’m in two minds about this article by Law and Singleton (2014) that targets policy making through the example of the foot and mouth outbreak in the UK, circa 2001. It’s a useful and simply put precis [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/ant-multiplicity-policy/">Read More...<span class="screen-reader-text"> from Reading “ANT, multiplicity and policy”</span></a></p>
+<p>The post <a rel="nofollow" href="/ant-multiplicity-policy/">Reading “ANT, multiplicity and policy”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<p>Some notes on: </p>
 <blockquote><p>Law, J., &amp; Singleton, V. (2014). <a href="http://www.tandfonline.com/doi/abs/10.1080/19460171.2014.957056" target="_blank" rel="noopener noreferrer">ANT, multiplicity and policy</a>. <em>Critical Policy Studies</em>, 1–18.</p></blockquote>
 <p><span id="more-641"></span><br>
 &nbsp;<br>
-<a href="http://ast.io/wp-content/uploads/2014/06/ANT-multiplicity-and-policy.png"><img loading="lazy" class=" size-medium wp-image-642 alignnone" src="http://ast.io/wp-content/uploads/2014/06/ANT-multiplicity-and-policy-300x300.png" alt="ANT, multiplicity and policy" width="300" height="300"></a><br>
-I’m in two minds about <a href="http://www.tandfonline.com/doi/abs/10.1080/19460171.2014.957056" target="_blank" rel="noopener noreferrer">this article</a> by Law and Singleton (2014) that targets policy making through the example of the foot and mouth outbreak in the UK, circa 2001. It’s a useful and simply put precis of [tippy title=“ANT”]<a href="http://en.wikipedia.org/wiki/Actor–network_theory" target="_blank" rel="noopener noreferrer">Actor Network Theory</a>[/tippy] and its developments since the 1980s. It helpfully threads together the concepts of heterogeneity, relationality, multiplicity and [tippy title=“ontological politics”]See <a href="http://en.wikipedia.org/wiki/Annemarie_Mol" target="_blank" rel="noopener noreferrer">Annemarie Mol</a>[/tippy] — and attributes the concepts to the leading lights in [tippy title=“STS”]Science and Technology Studies or <a href="http://en.wikipedia.org/wiki/Science,_technology_and_society" target="_blank" rel="noopener noreferrer">Science, technology and society</a>[/tippy]. Aiming to speak to a (presumably uninitiated) policy audience, the authors are clearly trying to make three decades of STS scholarship approachable. I’m also sympathetic with the points made about the relevance of ANT to policy making and policy studies, neatly aligning as they do with leftist, liberal academic sensibilities (I’ll come back to this).<!--more--><br>
-Yet the article has two weaknesses that raise some anguish for me. One is quite simple; the article doesn’t quite do what’s written on the ‘tin’. In the abstract and throughout the text, there is a repeated reference to feminist material semiotics and the paper is presented as an effort to draw ideas from a metaphysics that stitches together this semiotic framing with ANT. The trouble is, there is really only a cursory reference to what I prefer to call a [tippy title=“feminist technoscience”]Avoiding the baggage that comes with ‘semiotics’. See Wikipedia on <a href="http://en.wikipedia.org/wiki/Feminist_technoscience" target="_blank" rel="noopener noreferrer">feminist technoscience</a>[/tippy]. <a href="http://en.wikipedia.org/wiki/Donna_Haraway" target="_blank" rel="noopener noreferrer">Donna Haraway</a> is used as a singular stand in for an immense and lively literature that makes up the feminist technoscience corpus. Of course, both of the article’s authors know this very well, so it disappoints me (a little) to see it not dealt with a bit more sensitively.<br>
+<a href="/wp-content/uploads/2014/06/ANT-multiplicity-and-policy.png"><img loading="lazy" class=" size-medium wp-image-642 alignnone" src="/wp-content/uploads/2014/06/ANT-multiplicity-and-policy-300x300.png" alt="ANT, multiplicity and policy" width="300" height="300"></a><br>
+I’m in two minds about <a href="http://www.tandfonline.com/doi/abs/10.1080/19460171.2014.957056" target="_blank" rel="noopener noreferrer">this article</a> by Law and Singleton (2014) that targets policy making through the example of the foot and mouth outbreak in the UK, circa 2001. It’s a useful and simply put precis of <a id="tippy_tip17_2594_anchor"></a> and its developments since the 1980s. It helpfully threads together the concepts of heterogeneity, relationality, multiplicity and <a id="tippy_tip18_2643_anchor"></a> — and attributes the concepts to the leading lights in <a id="tippy_tip19_1183_anchor"></a>. Aiming to speak to a (presumably uninitiated) policy audience, the authors are clearly trying to make three decades of STS scholarship approachable. I’m also sympathetic with the points made about the relevance of ANT to policy making and policy studies, neatly aligning as they do with leftist, liberal academic sensibilities (I’ll come back to this).<!--more--><br>
+Yet the article has two weaknesses that raise some anguish for me. One is quite simple; the article doesn’t quite do what’s written on the ‘tin’. In the abstract and throughout the text, there is a repeated reference to feminist material semiotics and the paper is presented as an effort to draw ideas from a metaphysics that stitches together this semiotic framing with ANT. The trouble is, there is really only a cursory reference to what I prefer to call a <a id="tippy_tip20_4692_anchor"></a>. <a href="http://en.wikipedia.org/wiki/Donna_Haraway" target="_blank" rel="noopener noreferrer">Donna Haraway</a> is used as a singular stand in for an immense and lively literature that makes up the feminist technoscience corpus. Of course, both of the article’s authors know this very well, so it disappoints me (a little) to see it not dealt with a bit more sensitively.<br>
 More troubling for me is the way ontology is worked through in the article. I worry that the work from scholars like Mol, Stengers, etc. has been boiled down to something akin to standpointism. What I think Law and Singleton succeed in demonstrating is that ways of knowing are enacted by ever-changing configurations or assemblages of actors/things (i.e., material practices). Yet, despite their undeniable efforts, they fail to produce a convincing argument (for me, at least) of the value of ontological multiplicity. I hear a fictional reader (to match their fictional ANT Prime Minister) asking: “Why does ontology matter here? Surely this is just still about different perspectives, and the stuff about ontology just complicates things?” As a matter of fact, the imagined back and forth between civil servant and Prime Minster leaves me siding with the anxious official: “So what’s your point Prime Minister?”<br>
-As I see it, what needs more care in the article is what multiplicity might allow for. I don’t think it’s enough to say Prime Ministers or policy makers should allow for multiple ‘realities’ to co-exist — a policy making that is “more tolerant”. This feels too much like a liberal politics conveniently wrapped up in metaphysical theorising. My sympathies lie with such a politics to be sure, but I have to ask whether the tolerance proposal is simply likely to reinforce the same old distinctions between the right and left. What I think multiplicity does, and that the authors try to convey, is allow a reimagining of the very basis for how things are. So it’s not just that there are different realities or worlds at play, but it’s that you can change the basis on which these worlds are produced and, crucially, then set the ground work for something radically different. It’s here where I think a more careful detailing of feminist technoscience might [tippy title=“help”]A favourite example for me comes from <a href="http://en.wikipedia.org/wiki/Karen_Barad" target="_blank" rel="noopener noreferrer">Karen Barad</a> ([tippy title=“2007”]Barad, K. (2007). Meeting the Universe Halfway. London: Duke University Press.[/tippy]) and is also encapsulated nicely in her retort to Trevor Pinch ([tippy title=“Barad, 2011”]Barad, K. M. (2011). Erasers and erasures: Pinch’s unfortunate ‘uncertainty principle’. Social Studies of Science, 41(3), 443–454.[/tippy]).<br>
-Let me offer, then, another very roughly sketched out example case to think through. Around about the same time as the [tippy title=“2001 foot and mouth crisis”]It’s probably later than this. I need to look into the exact timing.[/tippy], with the growth of online media sharing and, in particular, the use of peer-to-peer channels to distribute content like music, TV shows and films, broadcasting organisations faced serious threats to their integrity and control. In this light, the BBC saw the policies it had written into their <a href="http://www.bbc.co.uk/bbctrust/governance/regulatory_framework/charter_agreement.html" target="_blank" rel="noopener noreferrer">Charter</a> to be ones designed to protect content, copyright, etc. and thus limit access.<br>
+As I see it, what needs more care in the article is what multiplicity might allow for. I don’t think it’s enough to say Prime Ministers or policy makers should allow for multiple ‘realities’ to co-exist — a policy making that is “more tolerant”. This feels too much like a liberal politics conveniently wrapped up in metaphysical theorising. My sympathies lie with such a politics to be sure, but I have to ask whether the tolerance proposal is simply likely to reinforce the same old distinctions between the right and left. What I think multiplicity does, and that the authors try to convey, is allow a reimagining of the very basis for how things are. So it’s not just that there are different realities or worlds at play, but it’s that you can change the basis on which these worlds are produced and, crucially, then set the ground work for something radically different. It’s here where I think a more careful detailing of feminist technoscience might <a id="tippy_tip21_2602_anchor"></a>) and is also encapsulated nicely in her retort to Trevor Pinch (<a id="tippy_tip23_2996_anchor"></a>).<br>
+Let me offer, then, another very roughly sketched out example case to think through. Around about the same time as the <a id="tippy_tip24_6463_anchor"></a>, with the growth of online media sharing and, in particular, the use of peer-to-peer channels to distribute content like music, TV shows and films, broadcasting organisations faced serious threats to their integrity and control. In this light, the BBC saw the policies it had written into their <a href="http://www.bbc.co.uk/bbctrust/governance/regulatory_framework/charter_agreement.html" target="_blank" rel="noopener noreferrer">Charter</a> to be ones designed to protect content, copyright, etc. and thus limit access.<br>
 However, over time something quite remarkable happened. I’ve yet to find anything that documents it, but somewhere within the organisation it was realised that its Charter (its written policies) could be ‘performed’ differently. That rather then protecting content, the public organisation’s primary role could be one of freely (within certain contested limits) distributing it. I believe it’s this change that we now see having such a wide impact on content provision from the BBC. With innovations in online broadcasting and content distribution, the BBC appears to be pushing hard at what distribution (and production) is, it appears to be really transforming how content is both shared and consumed. Yes, many of these changes have been driven by broader market shifts, but as I understand it, the BBC would never have been able to pursue some of its initiatives if it hadn’t seen its Charter to be something fundamentally different. Through an assemblage of organisational actors, agents and processes, the Charter and indeed the BBC as a broadcasting service was imagined to be something different. In turn, this led to wide sweeping changes, organisational and industry wide.<br>
-This then, is a multiplicity in policy-making, and one with productive transformations. Although I’m not privy to the details, its clear that an organisation (made up of agents and practices) found a way of treating its charter as fundamentally multiple, and in doing so, it chose a version of it (a mode of being) that opened up some immensely productive possibilities. The point here is the same as Law and Singleton’s, but my hope is it demonstrates that multiplicity isn’t limited to professing a liberal tolerance for multiples; more than this it sets out an ontological [tippy title=“pluriverse”]See <a href="http://en.wikipedia.org/wiki/Arturo_Escobar_(anthropologist)">Arturo Escobar</a> and this <a href="http://www.palgrave-journals.com/development/journal/v54/n2/full/dev201128a.html" target="_blank" rel="noopener noreferrer">article</a>.[/tippy] where worlds are open to trouble and, as a consequence, difference can be reimagined. Where Law and Singleton are incontrovertibly right is that: “realities are practised into being… but this takes a lot of effort, many resources and a great deal of hard work.”</p>
+This then, is a multiplicity in policy-making, and one with productive transformations. Although I’m not privy to the details, its clear that an organisation (made up of agents and practices) found a way of treating its charter as fundamentally multiple, and in doing so, it chose a version of it (a mode of being) that opened up some immensely productive possibilities. The point here is the same as Law and Singleton’s, but my hope is it demonstrates that multiplicity isn’t limited to professing a liberal tolerance for multiples; more than this it sets out an ontological <a id="tippy_tip25_9653_anchor"></a> where worlds are open to trouble and, as a consequence, difference can be reimagined. Where Law and Singleton are incontrovertibly right is that: “realities are practised into being… but this takes a lot of effort, many resources and a great deal of hard work.”</p>
+<div class="tippy" data-title="ANT" data-anchor="#tippy_tip17_2594_anchor"><a href="http://en.wikipedia.org/wiki/Actor–network_theory" target="_blank" rel="noopener noreferrer">Actor Network Theory</a></div>
+<div class="tippy" data-title="ontological politics" data-anchor="#tippy_tip18_2643_anchor">See <a href="http://en.wikipedia.org/wiki/Annemarie_Mol" target="_blank" rel="noopener noreferrer">Annemarie Mol</a></div>
+<div class="tippy" data-title="STS" data-anchor="#tippy_tip19_1183_anchor">Science and Technology Studies or <a href="http://en.wikipedia.org/wiki/Science,_technology_and_society" target="_blank" rel="noopener noreferrer">Science, technology and society</a></div>
+<div class="tippy" data-title="feminist technoscience" data-anchor="#tippy_tip20_4692_anchor">Avoiding the baggage that comes with ‘semiotics’. See Wikipedia on <a href="http://en.wikipedia.org/wiki/Feminist_technoscience" target="_blank" rel="noopener noreferrer">feminist technoscience</a></div>
+<div class="tippy" data-title="2007" data-anchor="#tippy_tip21_3142_anchor"></div>
+<div class="tippy" data-title="help" data-anchor="#tippy_tip21_2602_anchor">A favourite example for me comes from <a href="http://en.wikipedia.org/wiki/Karen_Barad" target="_blank" rel="noopener noreferrer">Karen Barad</a> (<a id="tippy_tip21_3142_anchor"></a>Barad, K. (2007). Meeting the Universe Halfway. London: Duke University Press.</div>
+<div class="tippy" data-title="Barad, 2011" data-anchor="#tippy_tip23_2996_anchor">Barad, K. M. (2011). Erasers and erasures: Pinch’s unfortunate ‘uncertainty principle’. Social Studies of Science, 41(3), 443–454.</div>
+<div class="tippy" data-title="2001 foot and mouth crisis" data-anchor="#tippy_tip24_6463_anchor">It’s probably later than this. I need to look into the exact timing.</div>
+<div class="tippy" data-title="pluriverse" data-anchor="#tippy_tip25_9653_anchor">See <a href="http://en.wikipedia.org/wiki/Arturo_Escobar_(anthropologist)">Arturo Escobar</a> and this <a href="http://www.palgrave-journals.com/development/journal/v54/n2/full/dev201128a.html" target="_blank" rel="noopener noreferrer">article</a>.</div>
+<p>The post <a rel="nofollow" href="/ant-multiplicity-policy/">Reading “ANT, multiplicity and policy”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/ant-multiplicity-policy/feed/</wfw:commentRss>
+					<wfw:commentRss>/ant-multiplicity-policy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

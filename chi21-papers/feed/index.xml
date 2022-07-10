@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: CHI 2021 conference papers	</title>
-	<atom:link href="http://ast.io/chi21-papers/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/chi21-papers/</link>
+	<atom:link href="/chi21-papers/feed/" rel="self" type="application/rss+xml" />
+	<link>/chi21-papers/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 18 Jun 2021 08:12:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

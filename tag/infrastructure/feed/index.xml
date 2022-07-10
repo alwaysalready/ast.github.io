@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>infrastructure - Alex Taylor</title>
-	<atom:link href="http://ast.io/tag/infrastructure/feed/" rel="self" type="application/rss+xml" />
-	<link>http://ast.io/</link>
+	<title>infrastructure Archives | Alex Taylor</title>
+	<atom:link href="/tag/infrastructure/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 07 Jun 2018 10:07:24 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Newcastle APL Talk</title>
-		<link>http://ast.io/newcastle-apl-talk/</link>
-					<comments>http://ast.io/newcastle-apl-talk/#respond</comments>
+		<link>/newcastle-apl-talk/</link>
+					<comments>/newcastle-apl-talk/#respond</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Thu, 07 Jun 2018 10:07:24 +0000</pubDate>
@@ -32,30 +32,34 @@
 		<category><![CDATA[geography]]></category>
 		<category><![CDATA[infrastructure]]></category>
 		<category><![CDATA[slavery]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=4235</guid>
+		<guid isPermaLink="false">/?p=4235</guid>
 
-					<description><![CDATA[Talking to the good people at Newcastle’s School of Architecture, Planning &#38; Landscape (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations. Living Fruitfully in/with the conditions of (im-) possibilty ABSTRACT In this talk, I want to revisit a piece I wrote in 2016. [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/newcastle-apl-talk/">Read More...<span class="screen-reader-text"> from Newcastle APL Talk</span></a></p>]]></description>
+					<description><![CDATA[<p>Talking to the good people at Newcastle’s School of Architecture, Planning &#38; Landscape (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations. Living Fruitfully in/with the conditions of (im-) possibilty ABSTRACT In this talk, I want to revisit a piece I wrote in 2016. [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/newcastle-apl-talk/">Read More...<span class="screen-reader-text"> from Newcastle APL Talk</span></a></p>
+<p>The post <a rel="nofollow" href="/newcastle-apl-talk/">Newcastle APL Talk</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 1rem;">
 <div class="col-9 col-sm-9 col-md-5">Talking to the good people at Newcastle’s <a href="https://www.ncl.ac.uk/apl/" rel="noopener noreferrer" target="_blank">School of Architecture, Planning &amp; Landscape</a> (APL), I got the chance yesterday to develop and share my slowly evolving thoughts on bike journeys, bodies and fabulations.<br>
 <p class="highlight"><a href="https://www.ncl.ac.uk/apl/events/seminars/#d.en.740154" rel="noopener noreferrer" target="_blank">Living Fruitfully in/with the conditions of (im-) possibilty</a></p>
 </div>
 <div class="small col-9 col-sm-9 col-md-7">
 <strong><a href="https://www.ncl.ac.uk/apl/events/seminars/#d.en.740154" rel="noopener noreferrer" target="_blank">ABSTRACT</a></strong>
-<p>In this talk, I want to revisit a piece I wrote in <a href="http://ast.io/publications/alex-taylor-2016/">2016</a>. The piece, a chapter in Dawn Nafus’ book Quantified (2016), was intended as a story of promise, a fabulation about London’s bike rental scheme and how it might be used to re-imagine new figurings of human-machine relations. Thinking across, askew, or “athwart” (Hustak &amp; Myers 2013), my experimenting with the relational capacities of bicycles, a city, (bio)sensing and the proliferation of data-everywhere, aimed to resist the “agencies of homogenization” (Scott 1998) to explore the conditions of possibility for other worldings (Haraway 2016).</p>
+<p>In this talk, I want to revisit a piece I wrote in <a href="/publications/alex-taylor-2016/">2016</a>. The piece, a chapter in Dawn Nafus’ book Quantified (2016), was intended as a story of promise, a fabulation about London’s bike rental scheme and how it might be used to re-imagine new figurings of human-machine relations. Thinking across, askew, or “athwart” (Hustak &amp; Myers 2013), my experimenting with the relational capacities of bicycles, a city, (bio)sensing and the proliferation of data-everywhere, aimed to resist the “agencies of homogenization” (Scott 1998) to explore the conditions of possibility for other worldings (Haraway 2016).</p>
 <p>Reflecting on this work, I’ve felt a dissatisfaction with my efforts to throw together mixtures of data at all scales, with the attempts at thickening and enlivening the relations. It all felt too flat, too lacking in vitality. So, at the risk of appearing self indulgent, this talk will present some early ideas for a different story woven in and through the thicket of relations. Struggling to weave myself into London’s legacy with slavery and the violent erasures of bodies and agency (Hartman 2008), I’ll be trying to place myself at a much more fragile and tenuous juncture of space-time, but at the same time still seeking to work fruitfully in/with the conditions of (im-)possibility.</p>
 </div>
 </div>
+<p>The post <a rel="nofollow" href="/newcastle-apl-talk/">Newcastle APL Talk</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/newcastle-apl-talk/feed/</wfw:commentRss>
+					<wfw:commentRss>/newcastle-apl-talk/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>On Simone’s ‘people as infrastructure’</title>
-		<link>http://ast.io/reading-simones-people-infrastructure/</link>
-					<comments>http://ast.io/reading-simones-people-infrastructure/#comments</comments>
+		<link>/reading-simones-people-infrastructure/</link>
+					<comments>/reading-simones-people-infrastructure/#comments</comments>
 		
 		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
 		<pubDate>Fri, 22 Nov 2013 10:46:57 +0000</pubDate>
@@ -63,10 +67,13 @@
 		<category><![CDATA[Cities]]></category>
 		<category><![CDATA[data]]></category>
 		<category><![CDATA[infrastructure]]></category>
-		<guid isPermaLink="false">http://ast.io/?p=336</guid>
+		<guid isPermaLink="false">/?p=336</guid>
 
-					<description><![CDATA[&#160; A few of us working at the intersection of data, civicmedia and citizenship are taking a look at this article by AbdouMaliq Simone. Some rambling comments follow: First, just a short point about style: I’m delighted to see Simone’s unapologetic use of rich descriptions of Jo’berg’s streets. They are in striking contrast to what [...]<p><a class="btn btn-secondary understrap-read-more-link" href="http://ast.io/reading-simones-people-infrastructure/">Read More...<span class="screen-reader-text"> from On Simone’s ‘people as infrastructure’</span></a></p>]]></description>
-										<content:encoded><![CDATA[<p><a href="http://eprints.gold.ac.uk/1946/"><img loading="lazy" class="alignnone  wp-image-337" alt="People as Infrastructure" src="http://ast.io/wp-content/uploads/2013/11/Simone_2004.jpg" width="608" height="608"></a><br>
+					<description><![CDATA[<p>&#160; A few of us working at the intersection of data, civicmedia and citizenship are taking a look at this article by AbdouMaliq Simone. Some rambling comments follow: First, just a short point about style: I’m delighted to see Simone’s unapologetic use of rich descriptions of Jo’berg’s streets. They are in striking contrast to what [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/reading-simones-people-infrastructure/">Read More...<span class="screen-reader-text"> from On Simone’s ‘people as infrastructure’</span></a></p>
+<p>The post <a rel="nofollow" href="/reading-simones-people-infrastructure/">On Simone’s ‘people as infrastructure’</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://eprints.gold.ac.uk/1946/"><img loading="lazy" class="alignnone  wp-image-337" alt="People as Infrastructure" src="/wp-content/uploads/2013/11/Simone_2004.jpg" width="608" height="608"></a><br>
 &nbsp;<br>
 A few of us working at the intersection of data, civicmedia and citizenship are taking a look at <a href="http://eprints.gold.ac.uk/1946/" target="_blank" rel="noopener noreferrer">this article</a> by AbdouMaliq Simone. Some rambling comments follow:<br>
 First, just a short point about style: I’m delighted to see Simone’s unapologetic use of rich descriptions of Jo’berg’s streets. They are in striking contrast to what I see to be the standard ethnographic account in HCI papers. What I find tedious is the usual preamble in HCI works—explaining method—and then the use of participants’ quotes as a kind of ‘proof’ of particular points. Also, both point to a curious idea of what it means to demonstrate evidence or proof. Simone bothers with none of this. He gets straight to the stories, to the rich descriptions of inner city Jo’berg and its underbelly.<span id="more-336"></span><br>
@@ -81,9 +88,10 @@ So the codes of (infra)structures are a mechanism of control and visible, public
 “Urban politics then operates not as a locus of mediation and dialogue among differing experiences, claims, and perspectives but as a proliferation of technical standards by which every citizen’s capacities are to be compared and judged.” P. 420<br>
 <em>Vis-á-vis</em> data (and the research a few of us are doing at the intersection of data, citizenship, community, civic society, etc.), we see a similar case in which homogeneity is needed. In Simone’s argument about infrastructure, we find the justification for why common (technical) standards are built into infrastructures, they help compare and judge (in visibly accountable ways). Just like the contemporary built environment that is built on standards and, at the same time, resembles everywhere and nowhere (see Iain Sinclair, Ghost Milk), data enforces regimes of homogeneity to get the data to work at any/every degree of scale. The popular imaginaries surrounding (big) data are all about this idea of comparison and judgement.<br>
 This itself isn’t an especially sophisticated point, but what Simone does with it is show how Jo’berg’s inner-city life offers another possibility of “complex combinations of objects, spaces, persons, and practices” that are far more provisional, fragmented and, to be be blunt, useful for those on the streets. I take Simone’s argument then to be one of seeing infrastructure (in its richness and variety, rather than homogeneity) as an ingredient for, as he puts it, “expanding spaces of economic and cultural operation” P. 407. That is, we might see data (and its associated infrastructures) not as a singular rationalising force for reproducing social/civic norms and practices, but instead as a opportunity to feed into progressive movements that allow for “alternative regimes of property and contract to coexist experimentally within the same economy.” (Roberto Unger, 2009). Ultimately, data and its associated infrastructures might be refigured to extend beyond the flattening of social/civic life, and be given over to enabling a ‘fuller life’ for citizens—as Unger phrases it, “a larger life, a life of greater intensity, of greater scope, and of greater capability.”</p>
+<p>The post <a rel="nofollow" href="/reading-simones-people-infrastructure/">On Simone’s ‘people as infrastructure’</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://ast.io/reading-simones-people-infrastructure/feed/</wfw:commentRss>
+					<wfw:commentRss>/reading-simones-people-infrastructure/feed/</wfw:commentRss>
 			<slash:comments>13</slash:comments>
 		
 		
