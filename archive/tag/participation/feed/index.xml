@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Participation Archives | Alex Taylor</title>
+	<atom:link href="/tag/participation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 29 May 2015 15:18:04 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Reading Material Participation</title>
+		<link>/material-participation/</link>
+					<comments>/material-participation/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 29 May 2015 15:18:04 +0000</pubDate>
+				<category><![CDATA[Reading]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Participation]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">/?p=690</guid>
+
+					<description><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book . The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/material-participation/">Read More...<span class="screen-reader-text"> from Reading Material Participation</span></a></p>
+<p>The post <a rel="nofollow" href="/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I wanted to write a short note about Noortje Marres’ book <a id="tippy_tip0_6404_anchor"></a>.<span id="more-690"></span><br>
+<a href="http://www.palgrave.com/page/detail/material-participation-technology-the-environment-and-everyday-publics-noortje-marres/?isb=9780230232112"><img loading="lazy" class="alignnone" src="http://research.gold.ac.uk/7577/1/9780230232112.jpg" alt width="253" height="395"></a><br>
+The book has been incredibly useful for a few of us in thinking through the Tenison Road materials, especially the latter stages of the work where we deployed a range of devices for voting and visualising data. The book has helped us to see the Bullfrogs, physical charts and posters we’ve built as “participation technologies” (to use Noortje’s term) and reflect on how they have opened up a wider range of ways for people to engage in local and civic matters. Combined with Doreen Massey’s ideas on <a id="tippy_tip1_5041_anchor"></a>, we’re beginning to see the entanglements of participation and technology as a means of enacting place, and expanding the ways place is, as it were, performed. Place then comes to be something that can be actively figured through a diverse set of participation technologies.</p>
+<div class="tippy" data-title="Material participation" data-showheader="false" data-anchor="#tippy_tip0_6404_anchor">Marres, N. (2012). <em>Material participation: technology, the environment and everyday publics</em>. Palgrave Macmillan.</div>
+<div class="tippy" data-title="throwntogetherness and the fluidity of place" data-showheader="false" data-anchor="#tippy_tip1_5041_anchor">Doreen Massey. (2005). <em>For space</em>. Sage.</div>
+<p>The post <a rel="nofollow" href="/material-participation/">Reading Material Participation</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/material-participation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

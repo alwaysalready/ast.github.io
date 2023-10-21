@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Policy Archives | Alex Taylor</title>
+	<atom:link href="/tag/policy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 12 Sep 2014 13:20:13 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Reading “Not just neoliberalism…”</title>
+		<link>/not-just-neoliberalism/</link>
+					<comments>/not-just-neoliberalism/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 13:20:13 +0000</pubDate>
+				<category><![CDATA[Reading]]></category>
+		<category><![CDATA[Policy]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">/?p=535</guid>
+
+					<description><![CDATA[<p>Berman, E. P. (2014). Not Just Neoliberalism: Economization in US Science and Technology Policy. Science, Technology &#38; Human Values, 39(3), 397–431. The title of this paper says it all really. It’s good though to have a cogent argument about the relations between ideology, policy and the changes in how science is being done. I for [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/not-just-neoliberalism/">Read More...<span class="screen-reader-text"> from Reading “Not just neoliberalism…”</span></a></p>
+<p>The post <a rel="nofollow" href="/not-just-neoliberalism/">Reading “Not just neoliberalism…”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<blockquote><p>Berman, E. P. (2014). <a href="http://sth.sagepub.com/content/39/3/397.abstract" target="_blank" rel="noopener noreferrer">Not Just Neoliberalism</a>: Economization in US Science and Technology Policy. <em>Science, Technology &amp; Human Values</em>, 39(3), 397–431.</p></blockquote>
+<p><a href="http://sth.sagepub.com/content/39/3/397.abstract"><img loading="lazy" src="/wp-content/uploads/2014/09/not-just-neo-300x300.png" alt="not-just-neo" width="300" height="300" class="alignleft size-medium wp-image-543"></a><br>
+The title of this paper says it all really. It’s good though to have a cogent argument about the relations between ideology, policy and the changes in how science is being done. I for one very easily slip into an accusatory refrain when talking about and usually criticising what I’ve seen to be the neoliberal (non)interventionist and policy direction in education and science. <a href="http://epberman.com/" target="_blank" rel="noopener noreferrer">Elizabeth Berman</a> presents a much more measured position and convinces me that it’s better understood as an economization, as she calls it, where the broader shift is towards prioritising scientific research and innovation vis-a-vis the economy and specifically seeing them as economic inputs. This recognises the tensions and complications and the competing interests that have run through the changing status of the sciences (in the US, but similarly, I think, in the UK).<br>
+Something I think Berman leaves open is the relationship between science and innovation. She makes it clear that science and innovation become inexorably linked when science is seen in economic terms. I want, though, to better understand the nexus. Indeed, but conflating science and technology (“S&amp;T” as Berman refers to it), I think there are further complications here that need unraveling, ones pointing to the entanglements of science and technology, and where progress or innovation sits between (or around) them. Can we talk of technology without innovation? If S&amp;T are two-parts of a unit, how can we disentangle innovation?</p>
+<p>The post <a rel="nofollow" href="/not-just-neoliberalism/">Reading “Not just neoliberalism…”</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/not-just-neoliberalism/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>#datapolicy</title>
+		<link>/data-policy/</link>
+					<comments>/data-policy/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2014 12:10:09 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Policy]]></category>
+		<guid isPermaLink="false">/?p=384</guid>
+
+					<description><![CDATA[<p>After a tremendous about of work with Lara Houston, I’m delighted to have finally gone live with our data policy site: data-policy.info. It attempts to detail, in various formats and cuts, the discussions at the day of dialogues on data, policy and civic life, held at Microsoft Research Cambridge. More than this though, we want [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/data-policy/">Read More...<span class="screen-reader-text"> from #datapolicy</span></a></p>
+<p>The post <a rel="nofollow" href="/data-policy/">#datapolicy</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>After a tremendous about of work with <a href="http://www.lancaster.ac.uk/sociology/profiles/lara-houston" target="_blank" rel="noopener noreferrer">Lara Houston</a>, I’m delighted to have finally gone live with our data policy site: <a href="http://data-policy.info/category/topics/" target="_blank" rel="noopener noreferrer">data-policy.info</a>. It attempts to detail, in various formats and cuts, the discussions at the <a href="/dialogues-data-policy-civic-life/">day of dialogues</a> on data, policy and civic life, held at Microsoft Research Cambridge. More than this though, we want the site to promote further discussion and expand the ways we might think of the relations between data, social/civic life, and policy. For me, the inspiration here has been the work a few of us have been doing with <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> in cambridge and a community’s efforts to make sense of and use its data. I’d like to think something small and local could make a difference in these big discussions</p>
+<p>The post <a rel="nofollow" href="/data-policy/">#datapolicy</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/data-policy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dialogues on data, policy and civic life</title>
+		<link>/dialogues-data-policy-civic-life/</link>
+					<comments>/dialogues-data-policy-civic-life/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 06 Mar 2014 14:42:21 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[Policy]]></category>
+		<guid isPermaLink="false">/?p=363</guid>
+
+					<description><![CDATA[<p>Next Tuesday a few of us at Microsoft Research are hosting a day-long dialogue to discuss the interminglings of data and social/civic life. We’re bringing together a mix of social theorists, commentators and policy advisers with the hope of drawing out possibilities for doing policy making (as well as technology design) differently. Our preamble for [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/dialogues-data-policy-civic-life/">Read More...<span class="screen-reader-text"> from Dialogues on data, policy and civic life</span></a></p>
+<p>The post <a rel="nofollow" href="/dialogues-data-policy-civic-life/">Dialogues on data, policy and civic life</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/03/direction_BW.png"><img loading="lazy" class="alignnone  wp-image-366" alt="direction_BW" src="/wp-content/uploads/2014/03/direction_BW-1024x1024.png" width="655" height="655"></a><br>
+Next Tuesday a few of us at Microsoft Research are hosting a day-long dialogue to discuss the interminglings of data and social/civic life. We’re bringing together a mix of social theorists, commentators and policy advisers with the hope of drawing out possibilities for doing policy making (as well as technology design) differently. Our preamble for the event follows (a printable PDF can be downloaded <a href="/wp-content/uploads/2014/03/Data_policy_preamble.pdf">here</a>):<span id="more-363"></span></p>
+<h3>Dialogues on data, policy and civic life</h3>
+<p>The graphs below present two fairly typical examples of visualisations charting some kind of data over time. In this case, they are the data a few of us at Microsoft Research in Cambridge have begun to collect of vehicle and bicycle journeys outside our office building. They show the volume of journeys along Tenison Road, recorded over twenty-four hours. The first indicates the density of the traffic and the second presents the direction of that traffic.<br>
+<a href="/wp-content/uploads/2014/03/density_BW-short.png"><img loading="lazy" class="alignnone  wp-image-375" alt="density_BW short" src="/wp-content/uploads/2014/03/density_BW-short-1024x151.png" width="717" height="106"></a><br>
+<a style="line-height: 1.5em;" href="/wp-content/uploads/2014/03/direction_BW_short.png"><img loading="lazy" class="alignnone  wp-image-373" alt="direction_BW_short" src="/wp-content/uploads/2014/03/direction_BW_short.png" width="693" height="148"></a><br>
+But why are we collecting this data? How and where will it circulate? And to what end? We might ask, as well, what rights we have to capture, store and present the data? Who should have rights to the data? How will it be used? In short, in what ways do the flows of traffic on Tenison Road matter, and to whom?<br>
+It’s precisely this line of questioning that has motivated our traffic-monitoring exercise and more generally a yearlong project we are embarking on with the people living and working on Tenison Road. The project — handily called the Tenison Road project — stems from some troubles we’ve had with all the excitement about data being reported by the popular press and matched by at least some of the claims coming from our technologically-minded comrades. It is hard not to open a newspaper, journal issue or conference proceedings without seeing something about data. On the one hand we have some pretty exaggerated claims envisioning data (especially Big Data) as the final answer for understanding just about anything that’s hitherto been too complex to understand. On the other, we see an abundance of stories predicting that a surveillance society afforded by the proliferation of personal data is set to dismantle civic life as we know it. Running alongside this is a discussion on appropriate policy frameworks that might enable the potential of data, while minimizing the risks and protecting the rights of citizens — encapsulated by the European Union’s focus this past year on gaining approval for the draft Data Protection Regulation.<br>
+No matter how you cut it, however, it’s abundantly clear that where data extends into the everyday — and is mobilised with many heterogeneous motives — there are some profoundly challenging technical, social and ethical issues at stake. On Tenison Road at least, we’ve found such issues to be deeply intertwined, immediately raising questions around how particular actors are prioritised and privileged and whether there may be different and possibly better ways to distribute agency. We’ve found there to be a troubling (if not altogether unsurprising) degree of nuance and complexity, and some real uncertainty about how things might be better.<br>
+Perhaps too often, Big Data — and data in general — is discussed in the abstract, and the tendency is to overlook these nuances and complexities. The impact of forms of digital data on individuals and societies are not fully understood. There is a dearth of evidence on the role of data in everyday life: how people think about it and its effects on communities and collective decision-making. In theory, better evidence should lead to improved policy making, both in its effectiveness and implementation. Practically, how this might happen is far from clear.<br>
+It is with these, if you will, ‘troubles’ in mind that we’ve planned this day of dialogue, bringing together theorists, policy makers, and commentators. The dialogues will invite provocations and controversies as ways of getting at problematic issues at the intersection of policy making, technology design and civic life. These may describe situations where the boundaries between people, technologies and concepts are vague, contested or otherwise ‘messy’. Our hope is that they will also be generative and invite insights into designing more appropriate technologies, policy frameworks and civic engagements.<br>
+The structure of the dialogue day is deliberately open so that important matters of concern can be identified collaboratively, and unravelled at length during what we’re ambitiously thinking of as ‘un-sessions’. Reports from other policy forums hint at a range of rich topics that might be significant to those of us working at the intersections of data, policy and civic life.<sup>1</sup> Policy discussions that have focused on the interactions between different groups, such as individuals, organisations and governments, often draw on the metaphor of ‘ecosystems’. Thinking through the interplay within such systems, policy makers are challenged to mediate between the rights and responsibilities of various actors. Concepts of risk and harm are to be balanced against emerging opportunities for the production of various forms of value. Moreover, as data subjects or citizens, individuals are figured as having particular rights — most obviously to security and privacy. There are questions around how these should be balanced against the benefits to larger social groupings such as societies and nation-states.<br>
+Although a shared vocabulary is emerging in this area, many differences remain in how policy problems are understood and articulated; indeed we anticipate that participants in our dialogue day will bring along a wide range of perspectives. Rather than assuming consensus, we want to turn attention to the practice of problem-making itself. How do we currently formulate the challenges and promises of data in policy-making? How are the actors involved (such as individuals and organisations) bounded and framed? The many positions generated during the dialogue day provide an opportunity to deliberately complicate and thicken the issues. How can we learn from each other in order to pose better or different problems? How might provocations or controversies challenge us to articulate actors differently? How might engaging with the practice of problem-making in critical, inventive or speculative ways shift the concerns that emerge? How might these shifts result in better technologies, policies, and ethical systems that can help address the challenges posed?<br>
+Here at Microsoft Research, in the context of the Tenison Road project, doing problem-making differently has meant grappling with how individuals are tied together in complex ways, as part of networks, groups or communities. We have had to reflect on what citizenship might mean in the design and development of this research. Our experiences resonate with challenges in the development of data policy. We might ask what kinds of collectives are evoked by ideas of the ‘communal’ or ‘greater good’? Likewise, this research has involved assembling a diverse group of people from Tenison Road and beyond. We are constantly questioning (and being questioned about) what participation might mean, particularly as the project develops to address community concerns over time. Public participation in policy contexts is often understood as a ‘good,’ but how is participation allowed to unfold? How might we unpack phrases such as ‘citizen empowerment’? These are examples of the kinds of topics that might be raised for further discussion during the un-sessions, depending on the interests and alignments of attendees.<br>
+One of the most important outcomes of the dialogue day will be a list of questions that can set us on an appropriate course to address the objectives discussed above. We are also crafting a dynamic community of interest that can pursue the development of approaches that may potentially lead to solutions. The questions can be used to inform future meetings or events, but we hope they may generate insights that can ultimately and practically inform the development of data policy and form the bases for an active and growing community of interested parties.<br>
+The list of questions will be circulated to participants, along with a summary report that attempts to detail the discussions that took place on the day. We encourage any submissions, contributions or changes to this document. Finally, we will produce a commentary — in the form of a position paper of sorts — that fleshes out in greater depth the connections between these discussions and the questions that are emerging from the Tenison Road project. This will draw on sociological literatures, particularly those specific to the study of science and technology. We imagine that this might be one of a series of position papers and invite participants of the dialogue day to contribute. Our hope is that this will be the beginning of a continuing dialogue, hosted here at Microsoft Resarch or by others in the emerging network.<br>
+The vision of a data-rich and hyper-connected world presents some of the most challenging questions, particularly at the intersection of data, policy and civic life. We are pleased to be facilitating such a knowledgeable group of people from diverse backgrounds, to begin working through these ‘troubles’.<br>
+<sup>1</sup>Examples include:<br>
+(a) World Economic Forum reports, available <a href="http://www.weforum.org/issues/rethinking-personal-data">here</a>.<br>
+(b) strands of the 2013 Big Data European Conference, see <a href="http://www.eu-ems.com/summary.asp?event_id=176&amp;page_id=1457">here</a>.<br>
+© the International Institute of Communications workshop on “Creating a User-Centred Data Ecosystem: Context and Policy,” see <a href="http://www.iicom.org/annual-conference/annual-conference-2013/iic-2013-associated-events">here</a>.<br>
+More information about the Tenison Road project is available <a href="http://tenisonroad.com/">here</a>.<br>
+This document has been authored by Lara Houston, Alex Taylor and Carolyn Nguyen.</p>
+<p>The post <a rel="nofollow" href="/dialogues-data-policy-civic-life/">Dialogues on data, policy and civic life</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/dialogues-data-policy-civic-life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

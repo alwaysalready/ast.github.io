@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cscw Archives | Alex Taylor</title>
+	<atom:link href="/tag/cscw/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 17 Dec 2021 18:15:54 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</title>
+		<link>/workshop-cscw-global-labours/</link>
+					<comments>/workshop-cscw-global-labours/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 16 Aug 2021 12:57:27 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[cscw]]></category>
+		<guid isPermaLink="false">/?p=5878</guid>
+
+					<description><![CDATA[<p>Excited to announce #CSCW2021 workshop: “Global Labours of AI and Data Intensive Systems”.Will provide opportunities to discuss hidden labours behind AI + set the stage for critical modes of inquiry. Texts, pictorials, tik-tok vids, etc. due 15 Sep.See: https://t.co/EsVXAAGhPX pic.twitter.com/YJlrKHSF7A — Alex Taylor (@alxndrt) August 16, 2021 [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/workshop-cscw-global-labours/">Read More...<span class="screen-reader-text"> from Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</span></a></p>
+<p>The post <a rel="nofollow" href="/workshop-cscw-global-labours/">Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row">
+<div class="col-sm-1 col-md-3">
+</div>
+<div class="col-sm-9 mt-3">
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Excited to announce <a href="https://twitter.com/hashtag/CSCW2021?src=hash&amp;ref_src=twsrc%5Etfw">#CSCW2021</a> workshop: “Global Labours of AI and Data Intensive Systems”.<br>Will provide opportunities to discuss hidden labours behind AI + set the stage for critical modes of inquiry.</p>
+<p>Texts, pictorials, tik-tok vids, etc. due 15 Sep.<br>See: <a href="https://t.co/EsVXAAGhPX">https://t.co/EsVXAAGhPX</a> <a href="https://t.co/YJlrKHSF7A">pic.twitter.com/YJlrKHSF7A</a></p>
+<p>— Alex Taylor (@alxndrt) <a href="https://twitter.com/alxndrt/status/1427253293143691269?ref_src=twsrc%5Etfw">August 16, 2021</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p></div>
+</div>
+<p>The post <a rel="nofollow" href="/workshop-cscw-global-labours/">Workshop CSCW 2021: Global Labours of AI and Data Intensive Systems</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/workshop-cscw-global-labours/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CSCW 2021 conference paper</title>
+		<link>/cscw-2021-conference-paper/</link>
+					<comments>/cscw-2021-conference-paper/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 09:31:44 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Publications]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[cscw]]></category>
+		<guid isPermaLink="false">/?p=5841</guid>
+
+					<description><![CDATA[<p>A CSCW conference paper from this year. Abstract Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/cscw-2021-conference-paper/">Read More...<span class="screen-reader-text"> from CSCW 2021 conference paper</span></a></p>
+<p>The post <a rel="nofollow" href="/cscw-2021-conference-paper/">CSCW 2021 conference paper</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row">
+<div class="col-12 col-md-8 my-3">A CSCW conference paper from this year.</div>
+<div class="col-12 col-md-7 my-4 offset-md-1">
+<p class="wpmref"><span class="wpmauthors">Beatrice Vincenzi, Alex S Taylor, Simone Stumpf</span> <span class="wpmyear">(2021)</span> <span class="wpmtitle">Interdependence in Action: People with Visual Impairments and Their Guides Co-Constituting Common Spaces</span>, <span class="wpmoutlet">Proc. ACM Hum.-Comput. Interact.</span> <span class="wpmvolume">5</span><span class="wpmissue">(CSCW1)</span>, <span class="wpmpublisher">New York, NY, USA: Association for Computing Machinery</span>, <span class="wpmurl"><a target="_blank" href="/download/5821/3449143.pdf"><span class="wpmurlpdf">pdf</span></a></span>, <span class="wpmurl"><a target="_blank" href="https://doi.org/10.1145/3449143"><span class="wpmurldoi:10.1145/3449143">doi:10.1145/3449143</span></a></span><br clear="all"></p>
+
+<div class="small"><strong><em>Abstract</em></strong><br>
+Prior work on AI-enabled assistive technology (AT) for people with visual impairments (VI) has treated navigation largely as an independent activity. Consequently, much effort has focused on providing individual users with wayfinding details about the environment, including information on distances, proximity, obstacles, and landmarks. However, independence is also achieved by people with VI through interacting with others, such as in collaboration with sighted guides. Drawing on the concept of interdependence, this research presents a systematic analysis of sighted guiding partnerships. Using interaction analysis as our primary mode of data analysis, we conducted an empirical, qualitative study with 4 couples, each made up of person with a vision impairment and their sighted guide. Our results show how pairs used interactional resources such as turn-taking and body movements to both co-constitute a common space for navigation, and repair moments of rupture to this space. This work is used to present an exemplary case of interdependence and draws out implications for designing AI-enabled AT that shifts the emphasis away from independent navigation, and towards the carefully coordinated actions between people navigating together.</div>
+<div class="small"><strong><em><a class="download-link" title href="/download/5821/" rel="nofollow">
+	Interdependence in Action, CSCW 2021	(362 downloads)
+</a></em></strong></div>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/cscw-2021-conference-paper/">CSCW 2021 conference paper</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cscw-2021-conference-paper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Conference papers</title>
+		<link>/conference-papers-2020/</link>
+					<comments>/conference-papers-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 18 Jun 2020 08:48:54 +0000</pubDate>
+				<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Publications]]></category>
+		<category><![CDATA[CHI]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[cscw]]></category>
+		<guid isPermaLink="false">/?p=5761</guid>
+
+					<description><![CDATA[<p>I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors. Abstract Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/conference-papers-2020/">Read More...<span class="screen-reader-text"> from Conference papers</span></a></p>
+<p>The post <a rel="nofollow" href="/conference-papers-2020/">Conference papers</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<div class="row">
+<div class="col-12 col-md-8 my-3">I’ve been slow to share papers here, so posting about two recently published papers. With both publications it was a absolute joy and privilege to work with my co-authors.</div>
+<div class="col-12 col-md-7 my-4">
+<p class="wpmref"><span class="wpmauthors">Cynthia L Bennett, Daniela K Rosner, Alex S Taylor</span> <span class="wpmyear">(2020)</span> <span class="wpmtitle">The Care Work of Access</span>, <span class="wpmoutlet">CHI ’20</span>, <span class="wpmpages">p. 1–15</span>, <span class="wpmpublisher">New York, NY: ACM Press</span>, <span class="wpmurl"><a target="_blank" href="/download/5689/care_work_access_2020.pdf"><span class="wpmurlpdf">pdf</span></a></span>, <span class="wpmurl"><a target="_blank" href="https://doi.org/10.1145/3313831.3376568"><span class="wpmurldoi:10.1145/3313831.3376568">doi:10.1145/3313831.3376568</span></a></span><br clear="all"></p>
+
+<div class="small"><strong><em>Abstract</em></strong><br>
+Current approaches to AI and Assistive Technology (AT) often foreground task completion over other encounters such as expressions of care. Our paper challenges and complements such task-completion approaches by attending to the care work of access-the continual affective and emotional adjustments that people make by noticing and attending to one another. We explore how this work impacts encounters among people with and without vision impairments who complete tasks together. We find that bound up in attempts to get things done are concerns for one another and how well people are doing together. Reading this work through emerging disability studies and feminist STS scholarship, we account for two important forms of work that give rise to access: (1) mundane attunements and (2) non-innocent authorizations. Together these processes work as sensitizing concepts to help HCI scholars account for the ways that intelligent ATs both produce access while sometimes subverting people with disabilities.</div>
+<div class="small"><strong><em><a class="download-link" title="Version published" href="/download/5689/" rel="nofollow">
+	The care work of access, CHI 2020	(571 downloads)
+</a></em></strong></div>
+</div>
+<div class="col-12 col-md-7 my-4 offset-md-2">
+<p class="wpmref"><span class="wpmauthors">Jessica L Feuston, Alex S Taylor, Anne Marie Piper</span> <span class="wpmyear">(2020)</span> <span class="wpmtitle">Conformity of Eating Disorders through Content Moderation</span>, <span class="wpmoutlet">Proc. ACM Hum.-Comput. Interact.</span> <span class="wpmvolume">4</span><span class="wpmissue">(CSCW1)</span>, <span class="wpmpublisher">New York, NY, USA: Association for Computing Machinery</span>, <span class="wpmurl"><a target="_blank" href="/download/5716/feuston-taylor-piper-2020.pdf"><span class="wpmurlpdf">pdf</span></a></span>, <span class="wpmurl"><a target="_blank" href="https://doi.org/10.1145/3392845"><span class="wpmurldoi:10.1145/3392845">doi:10.1145/3392845</span></a></span><br clear="all"></p>
+
+<div class="small"><strong>Abstract</strong><br>
+For individuals with mental illness, social media platforms are considered spaces for sharing and connection. However, not all expressions of mental illness are treated equally on these platforms. Different aggregates of human and technical control are used to report and ban content, accounts, and communities. Through two years of digital ethnography, including online observation and interviews, with people with eating disorders, we examine the experience of content moderation. We use a constructivist grounded theory approach to analysis that shows how practices of moderation across different platforms have particular consequences for members of marginalized groups, who are pressured to conform and compelled to resist. Above all, we argue that platform moderation is enmeshed with wider processes of conformity to specific versions of mental illness. Practices of moderation reassert certain bodies and experiences as ‘normal’ and valued, while rejecting others. At the same time, navigating and resisting these normative pressures further inscribes the marginal status of certain individuals. We discuss changes to the ways that platforms handle content related to eating disorders by drawing on the concept of multiplicity to inform design.</div>
+<div class="small"><strong><em><a class="download-link" title="Version published" href="/download/5716/" rel="nofollow">
+	Conformity of eating disorders, CSCW 2020	(535 downloads)
+</a></em></strong></div>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/conference-papers-2020/">Conference papers</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/conference-papers-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Surfacing Small Worlds through Data-In-Place</title>
+		<link>/surfacing-small-worlds/</link>
+					<comments>/surfacing-small-worlds/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Thu, 09 Feb 2017 23:12:28 +0000</pubDate>
+				<category><![CDATA[Publications]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[cscw]]></category>
+		<category><![CDATA[data]]></category>
+		<guid isPermaLink="false">/?p=3075</guid>
+
+					<description><![CDATA[<p>Very happy to have another publication from the monumental Tenison Road project, this time in the Journal of Computer-Supported Cooperative Work (CSCW). Lindley, S.E., Thieme, A., Taylor, A.S. et al. (2017). Surfacing Small Worlds through Data-In-Place. Computer Supported Cooperative Work. &#160; Abstract We present findings from a five-week deployment of voting technologies in a city [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/surfacing-small-worlds/">Read More...<span class="screen-reader-text"> from Surfacing Small Worlds through Data-In-Place</span></a></p>
+<p>The post <a rel="nofollow" href="/surfacing-small-worlds/">Surfacing Small Worlds through Data-In-Place</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Very happy to have another publication from the monumental <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> project, this time in the Journal of Computer-Supported Cooperative Work (CSCW).</p>
+<blockquote><p>Lindley, S.E., Thieme, A., Taylor, A.S. et al. (2017). <a href="/download/3078/surfacing-small-worlds-2017" target="_blank" rel="noopener noreferrer">Surfacing Small Worlds through Data-In-Place</a>. <a href="http://dx.doi.org/10.1007/s10606-017-9263-3" target="_blank" rel="noopener noreferrer"><em>Computer Supported Cooperative Work</em></a>.</p></blockquote>
+<div class="clearfix"></div>
+<p>&nbsp;<br>
+<strong>Abstract</strong></p>
+<blockquote><p>We present findings from a five-week deployment of voting technologies in a city neighbourhood. Drawing on Marres’ (2012) work on material participation and Massey’s (2005) conceptualisation of space as dynamic, we designed the deployment such that the technologies (which were situated in residents’ homes, on the street, and available online) would work in concert, cutting across the neighbourhood to make visible, juxtapose and draw together the different ‘small worlds’ within it. We demonstrate how the material infrastructure of the voting devices set in motion particular processes and interpretations of participation, putting data in place in a way that had ramifications for the recognition of heterogeneity. We conclude that redistributing participation means not only opening up access, so that everyone can participate, or even providing a multitude of voting channels, so that people can participate in different ways. Rather, it means making visible multiplicity, challenging notions of similarity, and showing how difference may be productive.</p></blockquote>
+<p>See more on the CSCW site <a href="http://dx.doi.org/10.1007/s10606-017-9263-3" target="_blank" rel="noopener noreferrer">here</a>. See an early draft <a href="/download/3078/surfacing-small-worlds-2017" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>The post <a rel="nofollow" href="/surfacing-small-worlds/">Surfacing Small Worlds through Data-In-Place</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/surfacing-small-worlds/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Materialism Archives | Alex Taylor</title>
+	<atom:link href="/tag/materialism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 27 Sep 2013 09:11:51 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Announcing Tenison Road launch</title>
+		<link>/tenison-road/</link>
+					<comments>/tenison-road/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 27 Sep 2013 09:11:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Projects]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[data]]></category>
+		<category><![CDATA[HCI]]></category>
+		<category><![CDATA[hyper-localism]]></category>
+		<category><![CDATA[Materialism]]></category>
+		<category><![CDATA[STS]]></category>
+		<guid isPermaLink="false">/?p=270</guid>
+
+					<description><![CDATA[<p>Finally posted some flyers to announce the launch of the big data project we’ll run for a year. We hope to work with the residents and proprietors on Tenison Road in Cambridge to better understand how big data matters and what people on the street want it to be. This is a project that is [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/tenison-road/">Read More...<span class="screen-reader-text"> from Announcing Tenison Road launch</span></a></p>
+<p>The post <a rel="nofollow" href="/tenison-road/">Announcing Tenison Road launch</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="wp-image-275 alignnone" alt src="/wp-content/uploads/2013/09/ten_rd_proj_letter.jpg" width="585" height="585"></a><br>
+Finally posted some flyers to announce the launch of the <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">big data project</a> we’ll run for a year. We hope to work with the residents and proprietors on <a href="http://tenisonroad.com/" target="_blank" rel="noopener noreferrer">Tenison Road</a> in Cambridge to better understand how big data matters and what people on the street want it to be. This is a project that is aiming to get at the interminglings of data and locality, and to intervene in the entanglements in productive ways. That’s the hope! … Fingers crossed.</p>
+<p>The post <a rel="nofollow" href="/tenison-road/">Announcing Tenison Road launch</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/tenison-road/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Custom wordpress full width page template (Twenty Twelve theme)	</title>
+	<atom:link href="/wordpress-full-width-page-template/feed/" rel="self" type="application/rss+xml" />
+	<link>/wordpress-full-width-page-template/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Tue, 01 Nov 2016 17:09:38 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		By: Аlex		</title>
+		<link>/wordpress-full-width-page-template/#comment-16</link>
+
+		<dc:creator><![CDATA[Аlex]]></dc:creator>
+		<pubDate>Tue, 01 Nov 2016 17:09:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=388#comment-16</guid>
+
+					<description><![CDATA[Thank you! I am looking for this week.I had to make a wide page in the Twenty Twelve  theme.I wrote a new style
+.full-width  {
+width: 100%;
+ }
+It turned out great!]]></description>
+			<content:encoded><![CDATA[<p>Thank you! I am looking for this week.I had to make a wide page in the Twenty Twelve  theme.I wrote a new style<br>
+.full-width  {<br>
+width: 100%;<br>
+ }<br>
+It turned out great!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: James Bullis		</title>
+		<link>/wordpress-full-width-page-template/#comment-15</link>
+
+		<dc:creator><![CDATA[James Bullis]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2016 17:31:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=388#comment-15</guid>
+
+					<description><![CDATA[Thanks for posting this.  I still have a client using a 2012 Child theme and this is exactly what I was looking for.]]></description>
+			<content:encoded><![CDATA[<p>Thanks for posting this.  I still have a client using a 2012 Child theme and this is exactly what I was looking for.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

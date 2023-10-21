@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>security Archives | Alex Taylor</title>
+	<atom:link href="/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Fri, 11 Dec 2015 22:25:57 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Securing a bicycle saddle to a bike</title>
+		<link>/secure-bike-saddle/</link>
+					<comments>/secure-bike-saddle/#comments</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2015 22:25:57 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<category><![CDATA[bicycle]]></category>
+		<category><![CDATA[security]]></category>
+		<guid isPermaLink="false">/?p=864</guid>
+
+					<description><![CDATA[<p>Slightly off topic, but I thought it&#160;would be worth sharing my attempt at what might seam the trifling problem of securing a&#160;bike seat or saddle to a&#160;bike. As many cyclists will know, seats or saddles can be a real target for thieves — I’ve had at least two stolen. The trouble is good saddles can [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/secure-bike-saddle/">Read More...<span class="screen-reader-text"> from Securing a bicycle saddle to a bike</span></a></p>
+<p>The post <a rel="nofollow" href="/secure-bike-saddle/">Securing a bicycle saddle to a bike</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Slightly off topic, but I thought it&nbsp;would be worth sharing my attempt at what might seam the trifling problem of securing a&nbsp;bike seat or saddle to a&nbsp;bike.<span id="more-864"></span></p>
+<div class="row" style="float:left; padding:.1rem 1rem 1rem 0;text-align:left;">
+<div class="col-md-auto">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/bike-seat-300x300.jpg" alt="Brooks saddle" style="width:96%">
+		</div>
+</div>
+</div>
+<p>As many cyclists will know, seats or saddles can be a real target for thieves — I’ve had at least two stolen. The trouble is good saddles can get a reasonable price on the black market. If you’re in London, just pop down to <a href="http://www.visitbricklane.org/" target="_blank" rel="noopener noreferrer">Brick Lane</a> on a Sunday and you’ll find the coveted and pricey Brooks saddles being flogged for 10s of £s.<br>
+To save myself the cost — not to say the uncomfortable ride home, saddle-less — I’ve been looking into ways to better secure my saddle. The crude option is to use some way of locking the saddle to the frame, like a small lock or part of a bike chain (see <a href="http://www.londoncyclist.co.uk/prevent-bicycle-saddle-theft/">here</a> for ideas). At the more expensive end there are dedicated bolts/nuts you can buy with personalised ‘keys’, such as the <a href="http://atomic22.com/saddle.aspx" target="_blank" rel="noopener noreferrer">Saddle Lock</a> from <a href="http://atomic22.com/" target="_blank" rel="noopener noreferrer">Atomic22</a> (~£29) and options from <a href="https://www.pitlock.de/en/" target="_blank" rel="noopener noreferrer">PitLock</a> (although it’s not clear they have something to bolt the seat to the seat post). These look good, but they’re quite expensive and I’ve found if difficult to tell which options&nbsp;will fit my bike’s seat-post and saddle.<!--more--><br>
+A solution I’ve come up with&nbsp;is to use a combination of a generic security bolt and nut. I’ve found both on an&nbsp;online shop called <a href="http://www.securitysafetyproducts.co.uk/" target="_blank" rel="noopener noreferrer">Security Safety Products</a>.</p>
+<h3>Locking the seat to the seat post</h3>
+<p>First I chose a security bolt to replace the one that attaches my saddle to the seat post. To do that I measured the gauge (width) and length of the current bolt and then bought the corresponding security bolt and appropriate security&nbsp;screw.</p>
+<div class="row">
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3705-300x300.jpg" alt="bicycle-security bolt + screw" style="width:100%">
+		</div>
+</div>
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3686-300x300.jpg" alt="bicycle-security bolt gauge" style="width:100%">
+		</div>
+</div>
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3697-300x300.jpg" alt="bicycle-security bolt length" style="width:100%">
+		</div>
+</div>
+</div>
+<p><br><br>
+I went for the M8 (8mm thread width) by&nbsp;50mm long “<a href="http://www.securitysafetyproducts.co.uk/security/security-screws-fixings/pin-hex-button-head-machscrew-m8x50mm-10-pack.php" target="_blank" rel="noopener noreferrer">Pin Hex Button head Mach.Screw</a>”&nbsp;(M8x50mm), and the <a href="http://www.securitysafetyproducts.co.uk/security/security-screws-fixings/pin-hex-security-screw-driver-insert-h50.php" target="_blank" rel="noopener noreferrer">H50 security&nbsp;screw</a> (the website tells you which screw you need).</p>
+<div class="row">
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3709-300x300.jpg" alt="bolts" style="width:100%">
+		</div>
+</div>
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3682-300x300.jpg" alt="bicycle-security bolt and seat" style="width:100%">
+		</div>
+</div>
+</div>
+<p><br><br>
+What you get are 10 bolts (minimum order) and a small screw driver insert with a special fitting. The latter as the website explains “<a id="tippy_tip0_4731_anchor"></a>”<br>
+All I had to do is replace the original bolt that secures your saddle to the seat post, with the new security bolt.</p>
+<h3>Locking the seat and seat post to the bike frame</h3>
+<div class="row" style="margin-top:.1rem;">
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3728-300x300.jpg" alt="IMG_3728" style="width:100%">
+		</div>
+</div>
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3747-300x300.jpg" alt="IMG_3747" style="width:100%">
+		</div>
+</div>
+<div class="col-md-4">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3736-300x300.jpg" alt="IMG_3736" style="width:100%">
+		</div>
+</div>
+</div>
+<p><br></p>
+<div class="row" style="float:right; padding:.1rem 0 1rem 1rem;text-align:right;">
+<div class="col-md-auto">
+<div class="thumbnail">
+			<img src="/wp-content/uploads/2015/12/IMG_3732-300x300.jpg" alt="original seat post nut" style="width:96%;">
+		</div>
+</div>
+</div>
+<p>To secure the seat post to the bike I found a <a href="http://www.securitysafetyproducts.co.uk/security/security-screws-fixings/kinmar-removable-security-nut-geomet-steel-m8-10-pack.php" target="_blank" rel="noopener noreferrer">M8 security&nbsp;nut</a> that fit the existing seat-post bolt, again on the <a href="http://www.securitysafetyproducts.co.uk/security/security-screws-fixings/?screw-group=7" target="_blank" rel="noopener noreferrer">Security Safety Products</a> site. You can see from the picture on the left that the original nut was a standard well-used bolt.<br>
+Also, you need to buy the specific drive socket that fits the security nut&nbsp;— for me, this was a&nbsp;“<a href="http://www.securitysafetyproducts.co.uk/security/security-screws-fixings/kinmar-removable-security-nut-12-drive-socket-km8r.php" target="_blank" rel="noopener noreferrer">Removable Security Nut 1/2 drive socket KM8R</a>”. &nbsp;Not sure why, but this is pretty expensive at £17.99, so it may be worth looking for other options here.<br>
+The fitting is pretty straightforward. Use a standard <a href="https://en.wikipedia.org/wiki/Wrench" target="_blank" rel="noopener noreferrer">spanner</a> to unscrew the original nut and then the drive socket (attached to a <a href="https://en.wikipedia.org/wiki/Socket_wrench" target="_blank" rel="noopener noreferrer">socket ratchet or wrench</a>) to screw on the new bolt.</p>
+<h3>A few general comments</h3>
+<p>The downside with this solution&nbsp;is you&nbsp;can only buy a minimum of 10 bolts and 10 nuts, but at £14.22 and £7.90 per pack (respectively), it’s not too painful. Don’t forget to factor in&nbsp;the cost of the security screw and drive socket though which in my case was £3.58 and £17.99. Also, although <a href="http://www.securitysafetyproducts.co.uk/" target="_blank" rel="noopener noreferrer">Security Safety Products</a> provide a good service, their postal charges are quite steep.<br>
+Of course, nothing is failsafe, and this idea is vulnerable to thieves having the right fittings — I don’t think that’s likely, though, not until they read this post anyway.<br>
+Naturally, this idea won’t work with all seat and seat post fittings. It could work with different arrangements though, just make sure to get the right gauged nuts and bolts and that you’ve got enough room to tighten them with a screw diver or spanner.<br>
+If you’ve read this far and you think you need a M8 bolt or nut (and live close to East London) drop me a line. I’ll probably have spares of both.</p>
+<div class="tippy" data-title="fits into most conventional magnetic drivers." data-showheader="false" data-anchor="#tippy_tip0_4731_anchor"><img loading="lazy" class="alignleft size-medium wp-image-880" src="/wp-content/uploads/2015/12/IMG_3708-300x123.jpg" alt="IMG_3708" width="300" height="123">
+<p style="font-size: 80%;">Screw driver with replaceable fitting.<br>
+<a href="http://www.amazon.co.uk/Stanley-066358-Multi-Bit-Stubby-Screwdriver/dp/B003KQ5EFM/ref=pd_sim_60_4?ie=UTF8&amp;dpID=41G5TmJTtEL&amp;dpSrc=sims&amp;preST=_AC_UL160_SR160%2C160_&amp;refRID=0CWWQ5ZHSWKAHB09Z4Z2" target="_blank" rel="noopener noreferrer">This kind of thing.</a></p>
+<p></p></div>
+<p>The post <a rel="nofollow" href="/secure-bike-saddle/">Securing a bicycle saddle to a bike</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/secure-bike-saddle/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

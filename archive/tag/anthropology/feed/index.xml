@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anthropology Archives | Alex Taylor</title>
+	<atom:link href="/tag/anthropology/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>by Alex Taylor</description>
+	<lastBuildDate>Wed, 23 Oct 2013 20:22:46 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>IOT on Claude Lévi-Strauss</title>
+		<link>/levi-strauss/</link>
+					<comments>/levi-strauss/#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Taylor]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2013 20:22:46 +0000</pubDate>
+				<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Anthropology]]></category>
+		<category><![CDATA[Structuralism]]></category>
+		<guid isPermaLink="false">/?p=309</guid>
+
+					<description><![CDATA[<p>BBC’s In Our Time does it again with a wonderful eulogy to Claude Lévi-Strauss. There are some nice insights into&#160;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me. (Photo ‘borrowed’ from In Our Time) [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="/levi-strauss/">Read More...<span class="screen-reader-text"> from IOT on Claude Lévi-Strauss</span></a></p>
+<p>The post <a rel="nofollow" href="/levi-strauss/">IOT on Claude Lévi-Strauss</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span id="more-309"></span><br>
+<a href="http://www.bbc.co.uk/programmes/b01sjjxl"><img loading="lazy" class=" wp-image-310 alignright" src="/wp-content/uploads/2013/10/Untitled.jpg" alt="Levi-strauss" width="324" height="324"></a>BBC’s <a href="http://www.bbc.co.uk/programmes/b006qykl" target="_blank" rel="noopener noreferrer">In Our Time </a>does it again with a wonderful eulogy to <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">Claude Lévi-Strauss</a>. There are some nice insights into&nbsp;Lévi-Strauss’ structuralism and specifically his predispositions to universals and comparative analyses. I hadn’t known about his disagreements with Satre; I can’t say it disappoints me.<br>
+<span style="font-size: smaller;">(Photo ‘borrowed’ from <a href="http://www.bbc.co.uk/programmes/b01sjjxl" target="_blank" rel="noopener noreferrer">In Our Time</a>)</span></p>
+<p>The post <a rel="nofollow" href="/levi-strauss/">IOT on Claude Lévi-Strauss</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/levi-strauss/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
