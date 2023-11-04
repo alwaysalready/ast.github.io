@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Big Data Archives | Alex Taylor</title>
-	<atom:link href="/tag/big-data/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/big-data/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 27 Jun 2014 12:27:10 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>CHI Archives | Alex Taylor</title>
-	<atom:link href="/tag/chi/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/chi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 18 Jun 2021 08:12:10 +0000</lastBuildDate>

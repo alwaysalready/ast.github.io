@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Biology Archives | Alex Taylor</title>
-	<atom:link href="/tag/biology/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/biology/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 01 Aug 2018 08:53:07 +0000</lastBuildDate>

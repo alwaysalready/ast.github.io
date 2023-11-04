@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Projects Archives | Alex Taylor</title>
-	<atom:link href="/category/projects/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/category/projects/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 18:48:18 +0000</lastBuildDate>

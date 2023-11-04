@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Policy Archives | Alex Taylor</title>
-	<atom:link href="/tag/policy/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/policy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 12 Sep 2014 13:20:13 +0000</lastBuildDate>

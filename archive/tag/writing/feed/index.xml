@@ -9,7 +9,7 @@
 
 <channel>
 	<title>writing Archives | Alex Taylor</title>
-	<atom:link href="/tag/writing/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/writing/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 17 Jun 2021 09:28:33 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>community Archives | Alex Taylor</title>
-	<atom:link href="/tag/community/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/community/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Sun, 03 Jun 2018 22:51:25 +0000</lastBuildDate>

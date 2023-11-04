@@ -9,7 +9,7 @@
 
 <channel>
 	<title>HCI Archives | Alex Taylor</title>
-	<atom:link href="/tag/hci/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/hci/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 12 Jun 2020 06:43:54 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>birds Archives | Alex Taylor</title>
-	<atom:link href="/tag/birds/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/birds/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 04 Oct 2016 12:20:38 +0000</lastBuildDate>

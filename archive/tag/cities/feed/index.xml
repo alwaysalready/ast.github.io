@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Cities Archives | Alex Taylor</title>
-	<atom:link href="/tag/cities/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/cities/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 04 Sep 2015 13:58:03 +0000</lastBuildDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>data Archives | Alex Taylor</title>
-	<atom:link href="/tag/data/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/data/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 18:19:33 +0000</lastBuildDate>

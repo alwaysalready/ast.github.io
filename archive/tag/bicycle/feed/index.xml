@@ -9,7 +9,7 @@
 
 <channel>
 	<title>bicycle Archives | Alex Taylor</title>
-	<atom:link href="/tag/bicycle/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/bicycle/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 03 Aug 2018 12:09:28 +0000</lastBuildDate>

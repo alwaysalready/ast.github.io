@@ -9,7 +9,7 @@
 
 <channel>
 	<title>HCID Archives | Alex Taylor</title>
-	<atom:link href="/tag/hcid/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/hcid/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 16 Oct 2019 21:35:37 +0000</lastBuildDate>

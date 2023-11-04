@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Participation Archives | Alex Taylor</title>
-	<atom:link href="/tag/participation/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/participation/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 29 May 2015 15:18:04 +0000</lastBuildDate>

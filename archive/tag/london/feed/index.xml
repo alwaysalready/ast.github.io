@@ -9,7 +9,7 @@
 
 <channel>
 	<title>London Archives | Alex Taylor</title>
-	<atom:link href="/tag/london/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/london/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 27 Jun 2016 07:39:00 +0000</lastBuildDate>

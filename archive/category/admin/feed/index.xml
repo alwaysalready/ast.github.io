@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Admin Archives | Alex Taylor</title>
-	<atom:link href="/category/admin/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/category/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 19 Sep 2013 10:00:16 +0000</lastBuildDate>

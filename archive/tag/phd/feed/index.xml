@@ -9,7 +9,7 @@
 
 <channel>
 	<title>phd Archives | Alex Taylor</title>
-	<atom:link href="/tag/phd/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/tag/phd/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 30 Jul 2020 12:46:55 +0000</lastBuildDate>
