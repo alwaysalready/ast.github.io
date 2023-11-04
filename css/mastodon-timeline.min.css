@@ -68,7 +68,7 @@ html[data-theme="dark"] {
 	text-decoration: underline;
 }
 .mt-body {
-	padding: 0 1rem 1rem 3rem;
+	padding: 0;
 	white-space: pre-wrap;
 	word-wrap: break-word;
 	font-size: 0.9rem;
