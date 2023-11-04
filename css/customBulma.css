@@ -1,4 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
+html, body {
+  height: 100vh; }
+
 /* Bulma Utilities */
 .navbar-link:not(.is-arrowless)::after {
   border: 3px solid transparent;
