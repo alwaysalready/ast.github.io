@@ -9,6 +9,7 @@ temp/
 
 # ignore ALL files in ANY directory named temp
 .DS_Store/
+.DS_Store
 sass
 package.json
 package-lock.json

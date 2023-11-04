@@ -152,7 +152,7 @@
 ]]></description>
 										<content:encoded><![CDATA[<div class="col-12 col-md-8 my-3">Happy to have this piece in the <a href="https://interactions.acm.org/" rel="noopener noreferrer" target="_blank">ACM Interactions</a> magazine, and part of the special issue <em><a href="https://interactions.acm.org/archive/toc/july-august-2020" rel="noopener noreferrer" target="_blank">Design in the Pandemic</a></em>.</div>
 <div class="highlight strong">Life Less Normal</div>
-<p><a href="ast.io/download/5781/Taylor-life-less-normal-2020.pdf"><img loading="lazy" src="/wp-content/uploads/2020/07/life-less-normal.png" alt width="304" height="345" class="aligncenter size-full wp-image-5784" srcset="/wp-content/uploads/2020/07/life-less-normal.png 304w, /wp-content/uploads/2020/07/life-less-normal-264x300.png 264w" sizes="(max-width: 304px) 100vw, 304px"></a></p>
+<p><a href="ast.io/download/5781/Taylor-life-less-normal-2020.pdf"><img loading="lazy" src="wp-content/uploads/2020/07/life-less-normal.png" alt width="304" height="345" class="aligncenter size-full wp-image-5784" srcset="wp-content/uploads/2020/07/life-less-normal.png 304w, /wp-content/uploads/2020/07/life-less-normal-264x300.png 264w" sizes="(max-width: 304px) 100vw, 304px"></a></p>
 <div class="col-12 col-md-7 my-4">
 <p class="wpmref"><span class="wpmauthors">Alex Taylor</span> <span class="wpmyear">(2020)</span> <span class="wpmtitle">Life Less Normal</span>, <span class="wpmoutlet">Interactions</span> <span class="wpmvolume">27</span><span class="wpmissue">(4)</span>, <span class="wpmpages">p. 79–82</span>, <span class="wpmpublisher">New York, NY, USA: Association for Computing Machinery</span>, <span class="wpmurl"><a target="_blank" href="/download/5781/Taylor-life-less-normal-2020.pdf"><span class="wpmurlpdf">pdf</span></a></span>, <span class="wpmurl"><a target="_blank" href="https://doi.org/10.1145/3406296"><span class="wpmurldoi:10.1145/3406296">doi:10.1145/3406296</span></a></span><br clear="all"></p>
 
@@ -211,7 +211,7 @@
 <p>The post <a rel="nofollow" href="/bauhaus-futures/">Bauhaus Futures Book Chapter</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="row">
-<div class="col-sm-11 col-md-10 mt-3"><a href="/wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg"><img loading="lazy" class="alignnone wp-image-5566 size-medium" src="/wp-content/uploads/2019/10/Bauhaus-Futures-Cover-225x300.jpeg" alt="Bauhaus Futures Book Cover" width="225" height="300" srcset="/wp-content/uploads/2019/10/Bauhaus-Futures-Cover-225x300.jpeg 225w, /wp-content/uploads/2019/10/Bauhaus-Futures-Cover-768x1024.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px"></a>&nbsp;<a href="/wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg"><img loading="lazy" class="alignnone wp-image-5567 size-medium" src="/wp-content/uploads/2019/10/Photo-of-Anni-Albers-225x300.jpeg" alt="Photo of Anni Albers from chapter" width="225" height="300" srcset="/wp-content/uploads/2019/10/Photo-of-Anni-Albers-225x300.jpeg 225w, /wp-content/uploads/2019/10/Photo-of-Anni-Albers-768x1024.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px"></a></div>
+<div class="col-sm-11 col-md-10 mt-3"><a href="wp-content/uploads/2019/10/Bauhaus-Futures-Cover.jpeg"><img loading="lazy" class="alignnone wp-image-5566 size-medium" src="wp-content/uploads/2019/10/Bauhaus-Futures-Cover-225x300.jpeg" alt="Bauhaus Futures Book Cover" width="225" height="300" srcset="wp-content/uploads/2019/10/Bauhaus-Futures-Cover-225x300.jpeg 225w, /wp-content/uploads/2019/10/Bauhaus-Futures-Cover-768x1024.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px"></a>&nbsp;<a href="wp-content/uploads/2019/10/Photo-of-Anni-Albers.jpeg"><img loading="lazy" class="alignnone wp-image-5567 size-medium" src="wp-content/uploads/2019/10/Photo-of-Anni-Albers-225x300.jpeg" alt="Photo of Anni Albers from chapter" width="225" height="300" srcset="wp-content/uploads/2019/10/Photo-of-Anni-Albers-225x300.jpeg 225w, /wp-content/uploads/2019/10/Photo-of-Anni-Albers-768x1024.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px"></a></div>
 </div>
 <div class="row">
 <div class="col-sm-11 col-md-6 mt-3">
@@ -308,7 +308,7 @@ I’ve found myself entangled in this world of REF recently and wanting to be ab
 Using this publicly available <a href="https://results.ref.ac.uk/(S(mo1uvhe3m0brbdoom52x00nr))/DownloadResults" target="_blank" rel="noopener noreferrer">data</a>, I’ve built a little tool to see how an institution’s unit of assessment did in the last assessment (circa 2014) and view this against other UoA results.
 </div>
 </div>
-<p><a href="/ref-2014-uoa23/"><img loading="lazy" class="aligncenter wp-image-4762 size-large" src="/wp-content/uploads/2019/04/soc-ref-1024x539.gif" alt="screen grab of REF comparison tool" width="640" height="337"></a></p>
+<p><a href="/ref-2014-uoa23/"><img loading="lazy" class="aligncenter wp-image-4762 size-large" src="wp-content/uploads/2019/04/soc-ref-1024x539.gif" alt="screen grab of REF comparison tool" width="640" height="337"></a></p>
 <div class="row">
 <div class="col-md-9">
 For now, I’m just visualising data from two units of assessment, <a href="/ref-2014-uoa23/">Sociology</a> and <a href="/ref-2014-uoa11/">Computer Sciences and Informatics</a>.<br>
