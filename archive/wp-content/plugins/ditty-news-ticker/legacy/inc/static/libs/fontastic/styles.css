@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "ditty-news-ticker";
-  src:url("wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.eot");
-  src:url("wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.eot#iefix") format("embedded-opentype"),
-    url("wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.woff") format("woff"),
-    url("wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.ttf") format("truetype"),
-    url("wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.svg#ditty-news-ticker") format("svg");
+  src:url("/archive/wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.eot");
+  src:url("/archive/wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.eot#iefix") format("embedded-opentype"),
+    url("/archive/wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.woff") format("woff"),
+    url("/archive/wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.ttf") format("truetype"),
+    url("/archive/wp-content/plugins/ditty-news-ticker/legacy/inc/static/libs/fontastic/fonts/ditty-news-ticker.svg#ditty-news-ticker") format("svg");
   font-weight: normal;
   font-style: normal;
 

@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Alex Taylor	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/archive/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 23 Mar 2022 19:00:40 +0000</lastBuildDate>
