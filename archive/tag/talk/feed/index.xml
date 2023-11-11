@@ -9,7 +9,7 @@
 
 <channel>
 	<title>talk Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/talk/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/talk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 01 Mar 2022 09:50:55 +0000</lastBuildDate>

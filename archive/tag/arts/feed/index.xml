@@ -9,7 +9,7 @@
 
 <channel>
 	<title>arts Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/arts/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/arts/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 25 Jul 2017 21:52:22 +0000</lastBuildDate>

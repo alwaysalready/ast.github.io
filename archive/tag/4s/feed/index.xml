@@ -9,7 +9,7 @@
 
 <channel>
 	<title>4S Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/4s/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/4s/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Mon, 24 Apr 2017 08:45:29 +0000</lastBuildDate>

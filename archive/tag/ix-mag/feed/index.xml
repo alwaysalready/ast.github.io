@@ -9,7 +9,7 @@
 
 <channel>
 	<title>ix mag Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/ix-mag/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/ix-mag/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 18:27:01 +0000</lastBuildDate>

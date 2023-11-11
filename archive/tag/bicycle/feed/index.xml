@@ -9,7 +9,7 @@
 
 <channel>
 	<title>bicycle Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/bicycle/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/bicycle/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 03 Aug 2018 12:09:28 +0000</lastBuildDate>
@@ -37,16 +37,16 @@
 <p>The post <a rel="nofollow" href="/cycling-on-up/">Cycling on up</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="row" style="margin-bottom: 2rem;">
-<div class="col-9 col-sm-9 col-md-5">I’ve been continuing with my experimentations and thoughts on cycling, and in particular extending my reflections on my first ‘Boris Bike’ journey recorded in 2014 (see this <a href="/archive/download/1702/?version=proof" target="_blank" rel="noopener noreferrer">chapter</a>). There’ll hopefully be more to come in the coming months that tie together the space-times I traversed&nbsp;with other records and different accounts.</div>
+<div class="col-9 col-sm-9 col-md-5">I’ve been continuing with my experimentations and thoughts on cycling, and in particular extending my reflections on my first ‘Boris Bike’ journey recorded in 2014 (see this <a href="https://ast.io/archive/download/1702/?version=proof" target="_blank" rel="noopener noreferrer">chapter</a>). There’ll hopefully be more to come in the coming months that tie together the space-times I traversed&nbsp;with other records and different accounts.</div>
 <div class="small col-9 col-sm-9 col-md-7">
 <div style="width: 640px;" class="/archive/wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
-<video class="/archive/wp-video-shortcode" id="video-4297-1" width="640" height="853" poster="/archive/wp-content/uploads/2018/08/b00000421_21i4k3_20141003_165932e.jpg" preload="metadata" controls="controls"><source type="video/mp4" src="/archive/wp-content/uploads/2018/08/Autograph-video.mp4?_=1"><a href="/archive/wp-content/uploads/2018/08/Autograph-video.mp4">/wp-content/uploads/2018/08/Autograph-video.mp4</a></video></div>
+<video class="/archive/wp-video-shortcode" id="video-4297-1" width="640" height="853" poster="/archive/wp-content/uploads/2018/08/b00000421_21i4k3_20141003_165932e.jpg" preload="metadata" controls="controls"><source type="video/mp4" src="/archive/wp-content/uploads/2018/08/Autograph-video.mp4?_=1"><a href="https://ast.io/archive/wp-content/uploads/2018/08/Autograph-video.mp4">/wp-content/uploads/2018/08/Autograph-video.mp4</a></video></div>
 <p style="margin-top:1rem">A video captured using the now defunct <a href="https://en.wikipedia.org/wiki/Autographer" target="_blank" rel="noopener noreferrer">Autographer</a>. It captures me purposely cycling beyond the <a href="https://vartree.blogspot.com/2014/03/london-maps-and-bike-rental-communities.html" target="_blank" rel="noopener noreferrer">usual routes mapped</a> by the rental bikes. from the <a href="https://goo.gl/maps/DYfqjF5yv1m" target="_blank" rel="noopener noreferrer">Aberfeldy Street docking station</a> out through Newham to <a href="https://goo.gl/maps/T1x7Cw4tq8u" target="_blank" rel="noopener noreferrer">Green Street</a>, along <a href="https://goo.gl/maps/bM6x7JMbLtA2" target="_blank" rel="noopener noreferrer">The Greenway/Northern Outfall Sewer</a>, and then back to <a href="https://goo.gl/maps/dN8rK1Q7s172" target="_blank" rel="noopener noreferrer">Bow</a>.</p>
 </div>
 </div>
 <p><span id="more-4297"></span></p>
 <div class="row" style="margin-bottom: 2rem;">
-<div class="small col-9 col-sm-9 col-md-5"><a href="/archive/wp-content/uploads/2018/08/My-entry-on-airtable.png"><img loading="lazy" class="aligncenter wp-image-4305 size-large" src="/archive/wp-content/uploads/2018/08/My-entry-on-airtable-1024x715.png" alt width="640" height="447"></a>Table of bike journeys on 3 Oct 2014. My journey from <a href="https://goo.gl/maps/DYfqjF5yv1m" target="_blank" rel="noopener noreferrer">Aberfeldy Street</a> to <a href="https://goo.gl/maps/dN8rK1Q7s172" target="_blank" rel="noopener noreferrer">Bow</a> is highlighted.</div>
+<div class="small col-9 col-sm-9 col-md-5"><a href="https://ast.io/archive/wp-content/uploads/2018/08/My-entry-on-airtable.png"><img loading="lazy" class="aligncenter wp-image-4305 size-large" src="/archive/wp-content/uploads/2018/08/My-entry-on-airtable-1024x715.png" alt width="640" height="447"></a>Table of bike journeys on 3 Oct 2014. My journey from <a href="https://goo.gl/maps/DYfqjF5yv1m" target="_blank" rel="noopener noreferrer">Aberfeldy Street</a> to <a href="https://goo.gl/maps/dN8rK1Q7s172" target="_blank" rel="noopener noreferrer">Bow</a> is highlighted.</div>
 <div class="small col-9 col-sm-9 col-md-7"></div>
 </div>
 <div class="row" style="margin-bottom: 2rem;">
@@ -128,7 +128,7 @@ My <a href="https://en.wikipedia.org/wiki/Heart_rate_variability" target="_blank
 </div>
 <div class="small col-9 col-sm-9 col-md-7">
 <strong><a href="https://www.ncl.ac.uk/apl/events/seminars/#d.en.740154" rel="noopener noreferrer" target="_blank">ABSTRACT</a></strong>
-<p>In this talk, I want to revisit a piece I wrote in <a href="/archive/publications/alex-taylor-2016/">2016</a>. The piece, a chapter in Dawn Nafus’ book Quantified (2016), was intended as a story of promise, a fabulation about London’s bike rental scheme and how it might be used to re-imagine new figurings of human-machine relations. Thinking across, askew, or “athwart” (Hustak &amp; Myers 2013), my experimenting with the relational capacities of bicycles, a city, (bio)sensing and the proliferation of data-everywhere, aimed to resist the “agencies of homogenization” (Scott 1998) to explore the conditions of possibility for other worldings (Haraway 2016).</p>
+<p>In this talk, I want to revisit a piece I wrote in <a href="https://ast.io/archive/publications/alex-taylor-2016/">2016</a>. The piece, a chapter in Dawn Nafus’ book Quantified (2016), was intended as a story of promise, a fabulation about London’s bike rental scheme and how it might be used to re-imagine new figurings of human-machine relations. Thinking across, askew, or “athwart” (Hustak &amp; Myers 2013), my experimenting with the relational capacities of bicycles, a city, (bio)sensing and the proliferation of data-everywhere, aimed to resist the “agencies of homogenization” (Scott 1998) to explore the conditions of possibility for other worldings (Haraway 2016).</p>
 <p>Reflecting on this work, I’ve felt a dissatisfaction with my efforts to throw together mixtures of data at all scales, with the attempts at thickening and enlivening the relations. It all felt too flat, too lacking in vitality. So, at the risk of appearing self indulgent, this talk will present some early ideas for a different story woven in and through the thicket of relations. Struggling to weave myself into London’s legacy with slavery and the violent erasures of bodies and agency (Hartman 2008), I’ll be trying to place myself at a much more fragile and tenuous juncture of space-time, but at the same time still seeking to work fruitfully in/with the conditions of (im-)possibility.</p>
 </div>
 </div>

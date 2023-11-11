@@ -9,7 +9,7 @@
 
 <channel>
 	<title>buddypress Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/buddypress/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/buddypress/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 21 Jan 2021 09:58:37 +0000</lastBuildDate>

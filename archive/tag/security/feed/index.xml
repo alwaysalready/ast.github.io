@@ -9,7 +9,7 @@
 
 <channel>
 	<title>security Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/security/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 11 Dec 2015 22:25:57 +0000</lastBuildDate>

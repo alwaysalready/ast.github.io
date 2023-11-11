@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Ontology Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/ontology/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/ontology/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 17 Mar 2016 21:28:59 +0000</lastBuildDate>

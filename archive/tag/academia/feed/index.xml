@@ -9,7 +9,7 @@
 
 <channel>
 	<title>academia Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/academia/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/academia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 31 Jul 2019 09:02:04 +0000</lastBuildDate>

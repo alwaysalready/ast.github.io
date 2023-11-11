@@ -9,7 +9,7 @@
 
 <channel>
 	<title>fabulation Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/fabulation/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/fabulation/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 26 Jul 2018 21:30:15 +0000</lastBuildDate>

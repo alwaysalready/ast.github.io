@@ -9,7 +9,7 @@
 
 <channel>
 	<title>writing Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/writing/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/writing/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Thu, 17 Jun 2021 09:28:33 +0000</lastBuildDate>
@@ -38,7 +38,7 @@
 <div class="highlight strong">Life Less Normal</div>
 <p><a href="ast.io/download/5781/Taylor-life-less-normal-2020.pdf"><img loading="lazy" src="/archive/wp-content/uploads/2020/07/life-less-normal.png" alt width="304" height="345" class="aligncenter size-full wp-image-5784" srcset="/archive/wp-content/uploads/2020/07/life-less-normal.png 304w, /wp-content/uploads/2020/07/life-less-normal-264x300.png 264w" sizes="(max-width: 304px) 100vw, 304px"></a></p>
 <div class="col-12 col-md-7 my-4">
-<p class="wpmref"><span class="wpmauthors">Alex Taylor</span> <span class="wpmyear">(2020)</span> <span class="wpmtitle">Life Less Normal</span>, <span class="wpmoutlet">Interactions</span> <span class="wpmvolume">27</span><span class="wpmissue">(4)</span>, <span class="wpmpages">p. 79–82</span>, <span class="wpmpublisher">New York, NY, USA: Association for Computing Machinery</span>, <span class="wpmurl"><a target="_blank" href="/archive/download/5781/Taylor-life-less-normal-2020.pdf"><span class="wpmurlpdf">pdf</span></a></span>, <span class="wpmurl"><a target="_blank" href="https://doi.org/10.1145/3406296"><span class="wpmurldoi:10.1145/3406296">doi:10.1145/3406296</span></a></span><br clear="all"></p>
+<p class="wpmref"><span class="wpmauthors">Alex Taylor</span> <span class="wpmyear">(2020)</span> <span class="wpmtitle">Life Less Normal</span>, <span class="wpmoutlet">Interactions</span> <span class="wpmvolume">27</span><span class="wpmissue">(4)</span>, <span class="wpmpages">p. 79–82</span>, <span class="wpmpublisher">New York, NY, USA: Association for Computing Machinery</span>, <span class="wpmurl"><a target="_blank" href="https://ast.io/archive/download/5781/Taylor-life-less-normal-2020.pdf"><span class="wpmurlpdf">pdf</span></a></span>, <span class="wpmurl"><a target="_blank" href="https://doi.org/10.1145/3406296"><span class="wpmurldoi:10.1145/3406296">doi:10.1145/3406296</span></a></span><br clear="all"></p>
 
 </div>
 <p>The post <a rel="nofollow" href="/life-less-normal/">Covid article in Interactions</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>

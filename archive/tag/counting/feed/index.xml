@@ -9,7 +9,7 @@
 
 <channel>
 	<title>counting Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/counting/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/counting/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 05 Aug 2016 08:47:35 +0000</lastBuildDate>

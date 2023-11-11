@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Helen Verran Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/helen-verran/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/helen-verran/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 16 Oct 2015 16:15:51 +0000</lastBuildDate>

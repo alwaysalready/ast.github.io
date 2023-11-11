@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Projects Archives | Alex Taylor</title>
-	<atom:link href="/archive/category/projects/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/category/projects/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 18:48:18 +0000</lastBuildDate>
@@ -241,7 +241,7 @@ web:&nbsp;<a href="http://tenisonroad.com/">tenisonroad.com</a>&nbsp;| email:&nb
 <p><a class="btn btn-secondary understrap-read-more-link" href="/something-to-say/">Read More...<span class="screen-reader-text"> from Short note on Solove’s ‘Nothing to Hide’</span></a></p>
 <p>The post <a rel="nofollow" href="/something-to-say/">Short note on Solove’s ‘Nothing to Hide’</a> appeared first on <a rel="nofollow" href="/">Alex Taylor</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<p><a href="/archive/wp-content/uploads/2013/10/somethingtosay.gif"><img loading="lazy" class="alignleft size-full wp-image-290" alt="somethingtosay" src="/archive/wp-content/uploads/2013/10/somethingtosay.gif" width="283" height="283"></a><br>
+										<content:encoded><![CDATA[<p><a href="https://ast.io/archive/wp-content/uploads/2013/10/somethingtosay.gif"><img loading="lazy" class="alignleft size-full wp-image-290" alt="somethingtosay" src="/archive/wp-content/uploads/2013/10/somethingtosay.gif" width="283" height="283"></a><br>
 Some early thoughts on data and privacy, thinking with <a href="http://en.wikipedia.org/wiki/Daniel_J._Solove" target="_blank" rel="noopener noreferrer">Solove’s</a> <a href="http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300172331" target="_blank" rel="noopener noreferrer">Nothing to Hide</a>:<br>
 Early on in his 2011 book, <a href="http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300172331" target="_blank" rel="noopener noreferrer">Nothing to Hide</a>, <a href="http://en.wikipedia.org/wiki/Daniel_J._Solove" target="_blank" rel="noopener noreferrer">Daniel Solove</a> makes a provocative claim. He writes:<br>
 “Legal and policy solutions focus too much on the problems under the Orwellian metaphor—those of surveillance—and aren’t adequately addressing the Kafkaesque problems—those of information processing” p.26<br>

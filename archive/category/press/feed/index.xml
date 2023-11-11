@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Press Archives | Alex Taylor</title>
-	<atom:link href="/archive/category/press/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/category/press/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Tue, 04 Oct 2016 12:20:38 +0000</lastBuildDate>

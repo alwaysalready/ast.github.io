@@ -9,7 +9,7 @@
 
 <channel>
 	<title>agency Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/agency/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/agency/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Wed, 13 Apr 2016 08:44:48 +0000</lastBuildDate>

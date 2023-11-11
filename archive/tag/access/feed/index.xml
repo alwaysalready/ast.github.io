@@ -9,7 +9,7 @@
 
 <channel>
 	<title>access Archives | Alex Taylor</title>
-	<atom:link href="/archive/tag/access/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ast.io/archive/tag/access/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>by Alex Taylor</description>
 	<lastBuildDate>Fri, 17 Dec 2021 15:38:15 +0000</lastBuildDate>
