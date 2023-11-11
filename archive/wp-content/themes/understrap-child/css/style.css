@@ -604,8 +604,8 @@ span.page-link a {
 
 span.wpmurl a {
 	text-decoration: none;
-	opacity: .5;
-	color: #fece00;
+	opacity: .7;
+	color: #49796b;
 }
 
 span.wpmurl a:hover {
